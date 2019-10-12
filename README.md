@@ -12,6 +12,7 @@ Google Chrome の拡張機能である [uBlackList](https://chrome.google.com/we
 *://codeday.me/*
 *://code-examples.net/*
 *://kotaeta.com/*
+*://*.stackovernet.com/*
 ```
 
 ## 関連リンク
