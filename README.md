@@ -9,7 +9,7 @@ Google Chrome の拡張機能である [uBlacklist](https://chrome.google.com/we
 ## 使い方
 
 1. [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja) をインストールします。
-2. [uBlacklist の設定画面](chrome://extensions/?options=pncfbmialoiaghdehhbnbhkkgmjanfhe) を開いて「購読を追加する」をクリックします。
+2. uBlacklist の設定画面 (chrome://extensions/?options=pncfbmialoiaghdehhbnbhkkgmjanfhe) を開いて「購読を追加する」をクリックします。
 
 <img src="options.jpg" width="50%">
 
