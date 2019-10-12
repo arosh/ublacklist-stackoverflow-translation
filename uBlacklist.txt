@@ -1,0 +1,4 @@
+*://codeday.me/*
+*://code-examples.net/*
+*://kotaeta.com/*
+*://*.stackovernet.com/*
