@@ -4,16 +4,23 @@
 
 Stack Overflow を機械翻訳したに過ぎないサイトを Google 検索の結果から除外するためのフィルタです。
 
-Google Chrome の拡張機能である [uBlackList](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja) で利用可能な書式で記載しています。
+Google Chrome の拡張機能である [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja) で購読可能な書式で記載しています。
 
-## フィルタ
+## 使い方
 
-```
-*://codeday.me/*
-*://code-examples.net/*
-*://kotaeta.com/*
-*://*.stackovernet.com/*
-```
+1. [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja) をインストールします。
+2. [uBlacklist の設定画面](chrome://extensions/?options=pncfbmialoiaghdehhbnbhkkgmjanfhe) を開いて「購読を追加する」をクリックします。
+
+<img src="options.jpg" width="50%">
+
+3. 表示されたダイアログで以下のように入力して「追加」をクリックします。
+
+| 項目 | 内容 |
+| ---- | :------- |
+| 名前 | Stack Overflow の機械翻訳サイトの除外用フィルタ |
+| URL  | https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt |
+
+<img src="dialog.jpg" width="50%">
 
 ## 関連リンク
 
