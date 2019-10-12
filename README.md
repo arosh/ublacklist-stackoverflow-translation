@@ -2,7 +2,7 @@
 
 ## 概要
 
-Stack Overflow を機械翻訳したに過ぎないサイトを Google 検索の結果から除外するためのフィルタです。
+Stack Overflow の機械翻訳に過ぎないサイトを Google 検索の結果から除外するためのフィルタです。
 
 Google Chrome の拡張機能である [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja) で購読可能な書式で記載しています。
 
