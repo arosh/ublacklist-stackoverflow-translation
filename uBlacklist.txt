@@ -5,3 +5,4 @@
 *://code.i-harness.com/*
 *://stackoverrun.com/*
 *://www.code-adviser.com/*
+*://src-bin.com/*
