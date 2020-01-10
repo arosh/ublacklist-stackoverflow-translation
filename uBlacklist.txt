@@ -8,3 +8,4 @@
 *://src-bin.com/*
 *://living-sun.com/*
 *://*.programqa.com/*
+*://tutorialmore.com/*
