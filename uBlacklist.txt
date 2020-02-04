@@ -9,3 +9,4 @@
 *://living-sun.com/*
 *://*.programqa.com/*
 *://tutorialmore.com/*
+*://qastack.jp/*
