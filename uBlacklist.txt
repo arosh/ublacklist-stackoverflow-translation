@@ -10,3 +10,4 @@
 *://*.programqa.com/*
 *://tutorialmore.com/*
 *://qastack.jp/*
+*://*.coder.work/*
