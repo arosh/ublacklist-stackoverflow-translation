@@ -11,3 +11,4 @@
 *://tutorialmore.com/*
 *://qastack.jp/*
 *://*.coder.work/*
+*://www.366service.com/*
