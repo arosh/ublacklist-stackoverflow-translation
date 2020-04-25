@@ -12,3 +12,4 @@
 *://qastack.jp/*
 *://*.coder.work/*
 *://www.366service.com/*
+*://www.it-swarm.dev/*
