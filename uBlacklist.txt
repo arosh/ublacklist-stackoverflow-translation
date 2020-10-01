@@ -17,3 +17,4 @@
 *://*.ojit.com/*
 *://steakrecords.com/*
 *://qa.codeflow.site/*
+*://codeflow.site/*
