@@ -17,3 +17,5 @@
 *://*.ojit.com/*
 *://steakrecords.com/*
 *://qa.codeflow.site/*
+*://overcoder.net/*
+*://coderoad.ru/*
