@@ -19,3 +19,4 @@
 *://qa.codeflow.site/*
 *://overcoder.net/*
 *://coderoad.ru/*
+*://python5.com/*
