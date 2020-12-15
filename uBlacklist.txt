@@ -20,3 +20,4 @@
 *://overcoder.net/*
 *://coderoad.ru/*
 *://python5.com/*
+*://www.generacodice.blog/*
