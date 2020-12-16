@@ -21,3 +21,4 @@
 *://coderoad.ru/*
 *://python5.com/*
 *://www.generacodice.blog/*
+*://bugfix.plus/*
