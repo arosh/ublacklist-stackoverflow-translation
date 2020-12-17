@@ -22,3 +22,4 @@
 *://python5.com/*
 *://www.generacodice.blog/*
 *://bugfix.plus/*
+*://ask.xiaolee.net/*
