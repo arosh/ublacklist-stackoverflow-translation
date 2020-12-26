@@ -1,6 +1,6 @@
 # 掲載理由
 
-| ドメイン | 転載元ページ | 転載先ページ | 補足 |
+| ドメイン | 転載先ページ | 転載元ページ | 補足 |
 | ------- | ----------- | ----------- | ---- |
 | `codeday.me` | | | 現在接続不可
 | `code-examples.net` | https://code-examples.net/ja/q/246c591 | https://stackoverflow.com/questions/38192529/
