@@ -8,17 +8,17 @@
 | `*.stackovernet.com` | | | `stackovernet.xyz` へのリダイレクト
 | `*.stackovernet.xyz` | https://scicomp.stackovernet.xyz/ja/q/38 | https://scicomp.stackexchange.com/questions/83/
 | `code.i-harness.com` | https://code.i-harness.com/ja-jp/q/1cc697 | https://stackoverflow.com/questions/1885847/
-| `stackoverrun.com` |
-| `www.code-adviser.com` |
-| `src-bin.com` |
-| `living-sun.com` |
-| `*.programqa.com` |
+| `stackoverrun.com` | https://stackoverrun.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/
+| `www.code-adviser.com` | | | 現在接続不可
+| `src-bin.com` | | | 現在接続不可
+| `living-sun.com` | https://living-sun.com/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html | https://stackoverflow.com/questions/1599464/
+| `*.programqa.com` | | | ドメイン失効
 | `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/
-| `qastack.jp` |
-| `*.coder.work` |
+| `qastack.jp` | https://qastack.jp/programming/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array | https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array
+| `*.coder.work` | https://www.coder.work/article/3794436 | https://stackoverflow.com/questions/13375357/proper-use-cases-for-android-usermanager-isuseragoat | `www.coder.work` だけにしてもいいかも
 | `www.366service.com` | http://www.366service.com/jp/qa/a550dc2388b592d50f83bf3b3369f0c5 | https://stackoverflow.com/questions/58109626/ |
-| `www.it-swarm.dev` |
-| `www.it-swarm-ja.tech` |
+| `www.it-swarm.dev` | | | `www.it-swarm-ja.tech` へのリダイレクト
+| `www.it-swarm-ja.tech` | https://www.it-swarm-ja.tech/ja/linux/wsl%E4%B8%8A%E3%81%AEarch%EF%BC%9A%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AB%E3%82%82%E3%81%8B%E3%81%8B%E3%82%8F%E3%82%89%E3%81%9A%E3%80%81libqt5coreso5%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93/944475555/ | https://superuser.com/questions/1347723/arch-on-wsl-libqt5core-so-5-not-found-despite-being-installed
 | `*.ojit.com` | https://ja.ojit.com/so/linux/137072 | https://stackoverflow.com/questions/3129608/ | `python5.com` へのリダイレクト |
 | `steakrecords.com` | https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html | https://stackoverflow.com/questions/31248509/
 | `qa.codeflow.site` |
