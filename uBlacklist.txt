@@ -2,6 +2,7 @@
 *://code-examples.net/*
 *://kotaeta.com/*
 *://*.stackovernet.com/*
+*://*.stackovernet.xyz/*
 *://code.i-harness.com/*
 *://stackoverrun.com/*
 *://www.code-adviser.com/*
