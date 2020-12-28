@@ -2,10 +2,6 @@
 
 | ドメイン | 転載先ページ | 転載元ページ | 補足 |
 | ------- | ----------- | ----------- | ---- |
-| `codeday.me` | | | 現在接続不可
-| `www.code-adviser.com` | | | 現在接続不可
-| `src-bin.com` | | | 現在接続不可
-| `*.programqa.com` | | | ドメイン失効
 | `code-examples.net` | https://code-examples.net/ja/q/246c591 | https://stackoverflow.com/questions/38192529/
 | `kotaeta.com` | http://kotaeta.com/53238761 | https://arduino.stackexchange.com/questions/21605/
 | `*.stackovernet.com` | | | `stackovernet.xyz` へのリダイレクト
