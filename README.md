@@ -24,7 +24,7 @@ Google Chrome の拡張機能である [uBlacklist](https://chrome.google.com/we
 
 ## 謝辞
 
-素晴らしい拡張機能である uBlacklist の作者の [@iorate](https://github.com/iorate) 氏に感謝いたします。
+素晴らしい拡張機能である [uBlacklist](https://github.com/iorate/uBlacklist) の作者の [@iorate](https://github.com/iorate) 氏に感謝いたします。
 
 ## 関連リンク
 
