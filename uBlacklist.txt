@@ -25,3 +25,5 @@
 *://bugfix.plus/*
 *://ask.xiaolee.net/*
 *://www.aimz8.com/*
+*://www.javaer101.com/*
+*://www.generacodice.it/*

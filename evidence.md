@@ -29,3 +29,5 @@
 | `bugfix.plus` | https://bugfix.plus/info-83047.htm | https://stackoverflow.com/questions/61864520/
 | `ask.xiaolee.net` | https://ask.xiaolee.net/jp/questions/1020071 | https://stackoverflow.com/questions/719877/
 | `www.aimz8.com` | https://www.aimz8.com/jp/?p=32659 | https://stackoverflow.com/questions/16199734/
+| `www.javaer101.com` | https://www.javaer101.com/ja/article/2084594.html | https://stackoverflow.com/questions/35394937
+| `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/C%EF%BC%83Image.Clone-Out-of-Memory%E4%BE%8B%E5%A4%96 | https://stackoverflow.com/questions/199468/
