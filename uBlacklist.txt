@@ -12,11 +12,11 @@
 *://www.it-swarm.dev/*
 *://www.it-swarm-ja.tech/*
 *://*.ojit.com/*
+*://python5.com/*
 *://steakrecords.com/*
 *://qa.codeflow.site/*
 *://overcoder.net/*
 *://coderoad.ru/*
-*://python5.com/*
 *://www.generacodice.blog/*
 *://bugfix.plus/*
 *://ask.xiaolee.net/*
