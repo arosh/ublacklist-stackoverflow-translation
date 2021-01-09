@@ -24,3 +24,4 @@
 *://www.javaer101.com/*
 *://www.generacodice.it/*
 *://buginfo.tech/*
+*://www.generacodice.com/*
