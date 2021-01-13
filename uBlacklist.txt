@@ -25,3 +25,4 @@
 *://www.generacodice.it/*
 *://buginfo.tech/*
 *://www.generacodice.com/*
+*://ja.voidcc.com/*
