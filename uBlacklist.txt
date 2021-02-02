@@ -28,3 +28,4 @@
 *://*.voidcc.com/*
 *://alwaysemmyhope.com/*
 *://www.it-swarm.jp.net/*
+*://jpcloud.net/*
