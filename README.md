@@ -15,7 +15,7 @@ Google Chrome および Firefox の拡張機能である [uBlacklist](https://gi
   * [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
 2. uBlacklist の設定画面 (chrome://extensions/?options=pncfbmialoiaghdehhbnbhkkgmjanfhe) を開いて「購読を追加する」をクリックします。
 
-<img src="options.jpg" width="50%">
+<img src="img/options.jpg" width="50%">
 
 3. 表示されたダイアログで以下のように入力して「追加」をクリックします。
 
@@ -24,7 +24,7 @@ Google Chrome および Firefox の拡張機能である [uBlacklist](https://gi
 | 名前 | Stack Overflow の機械翻訳サイトの除外用フィルタ |
 | URL  | https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt |
 
-<img src="dialog.jpg" width="50%">
+<img src="img/dialog.jpg" width="50%">
 
 ## 謝辞
 
@@ -64,7 +64,7 @@ browsers.
    (`chrome://extensions/?options=pncfbmialoiaghdehhbnbhkkgmjanfhe`), and then
    click "Add a subscription"
 
-<img src="options.jpg" width="50%">
+<img src="img/options.jpg" width="50%">
 
 3. In the dialog that appears, copy and paste as follows, and then click "Add"
 
@@ -73,7 +73,7 @@ browsers.
 | Name | Filter that enables excluding the machine-translated sites of Stack Overflow                       |
 | URL  | https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt |
 
-<img src="dialog.jpg" width="50%">
+<img src="img/dialog.jpg" width="50%">
 
 ## Acknowledgements
 
