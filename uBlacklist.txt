@@ -30,5 +30,5 @@
 *://www.it-swarm.jp.net/*
 *://jpcloud.net/*
 *://konnichiwasekai.com/*
-*://ja.siwib.org/*
+*://*.siwib.org/*
 *://www.fixes.pub/*
