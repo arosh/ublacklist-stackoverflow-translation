@@ -36,3 +36,4 @@
 | `konnichiwasekai.com` | https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C | https://stackoverflow.com/questions/64258999/transition-in-changing-icon-of-fab-in-android |
 | `ja.siwib.org` | https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA | https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i/56878814 |
 | `www.fixes.pub` | https://www.fixes.pub/program/38000.html | https://stackoverflow.com/questions/49289575/image-to-text-pytesseract-error |
+| `knews.vip` | https://knews.vip/postcrawl/stack/view?site=so&key=76312086 | https://stackoverflow.com/questions/63314288/why-implementations-for-rust-debug-trait-uses-formatter-type-elision |
