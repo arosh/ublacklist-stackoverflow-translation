@@ -29,11 +29,11 @@
 | `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ | |
 | `buginfo.tech` | https://buginfo.tech/questions-2909265.htm | https://stackoverflow.com/questions/51891198/ | |
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 | |
-| `*.voidcc.com` | http://ja.voidcc.com/question/p-glmhmyzr-pk.html | https://stackoverflow.com/questions/48042872/
-| `alwaysemmyhope.com` | https://alwaysemmyhope.com/ja/linux/542609-glibc-elf-file-os-abi-invalid-linux-linux-kernel-glibc-abi.html | https://stackoverflow.com/q/7647818
-| `www.it-swarm.jp.net` | https://www.it-swarm.jp.net/ja/google-chrome/chrome%e3%81%af%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%a9%e3%81%93%e3%81%ab%e4%bf%9d%e5%ad%98%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%ef%bc%9f/1071750676/ | https://stackoverflow.com/questions/14543896/where-does-chrome-store-extensions |
-| `jpcloud.net` | https://jpcloud.net/q/zujieswz | https://stackoverflow.com/q/58033366 |
-| `konnichiwasekai.com` | https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C | https://stackoverflow.com/questions/64258999/transition-in-changing-icon-of-fab-in-android |
-| `ja.siwib.org` | https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA | https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i/56878814 |
-| `www.fixes.pub` | https://www.fixes.pub/program/38000.html | https://stackoverflow.com/questions/49289575/image-to-text-pytesseract-error |
-| `knews.vip` | https://knews.vip/postcrawl/stack/view?site=so&key=76312086 | https://stackoverflow.com/questions/63314288/why-implementations-for-rust-debug-trait-uses-formatter-type-elision |
+| `*.voidcc.com` | http://ja.voidcc.com/question/p-glmhmyzr-pk.html | https://stackoverflow.com/questions/48042872/ | |
+| `alwaysemmyhope.com` | https://alwaysemmyhope.com/ja/linux/542609-glibc-elf-file-os-abi-invalid-linux-linux-kernel-glibc-abi.html | https://stackoverflow.com/q/7647818 | |
+| `www.it-swarm.jp.net` | https://www.it-swarm.jp.net/ja/google-chrome/chrome%e3%81%af%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%a9%e3%81%93%e3%81%ab%e4%bf%9d%e5%ad%98%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%ef%bc%9f/1071750676/ | https://stackoverflow.com/questions/14543896/where-does-chrome-store-extensions | |
+| `jpcloud.net` | https://jpcloud.net/q/zujieswz | https://stackoverflow.com/q/58033366 | |
+| `konnichiwasekai.com` | https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C | https://stackoverflow.com/questions/64258999/transition-in-changing-icon-of-fab-in-android | |
+| `ja.siwib.org` | https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA | https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i/56878814 | |
+| `www.fixes.pub` | https://www.fixes.pub/program/38000.html | https://stackoverflow.com/questions/49289575/image-to-text-pytesseract-error | |
+| `knews.vip` | https://knews.vip/postcrawl/stack/view?site=so&key=76312086 | https://stackoverflow.com/questions/63314288/why-implementations-for-rust-debug-trait-uses-formatter-type-elision | |
