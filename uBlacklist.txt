@@ -33,5 +33,6 @@
 *://*.siwib.org/*
 *://www.fixes.pub/*
 *://knews.vip/*
+*://isolution.pro/*
 *://upost.info/*
 *://ichi.pro/*
