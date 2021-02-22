@@ -37,3 +37,4 @@
 | `ja.siwib.org` | https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA | https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i/56878814 | |
 | `www.fixes.pub` | https://www.fixes.pub/program/38000.html | https://stackoverflow.com/questions/49289575/image-to-text-pytesseract-error | |
 | `knews.vip` | https://knews.vip/postcrawl/stack/view?site=so&key=76312086 | https://stackoverflow.com/questions/63314288/why-implementations-for-rust-debug-trait-uses-formatter-type-elision | |
+| `isolution.pro` | https://isolution.pro/q/an13230537/play-sutoa-kara-apuri-no-gokansei-matorikkusu-o-nyushusuru | https://android.stackexchange.com/questions/232739/get-apps-compatibilty-matrix-from-play-store | |
