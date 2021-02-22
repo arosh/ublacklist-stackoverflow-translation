@@ -37,3 +37,5 @@
 | `ja.siwib.org` | https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA | https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i/56878814 | |
 | `www.fixes.pub` | https://www.fixes.pub/program/38000.html | https://stackoverflow.com/questions/49289575/image-to-text-pytesseract-error | |
 | `knews.vip` | https://knews.vip/postcrawl/stack/view?site=so&key=76312086 | https://stackoverflow.com/questions/63314288/why-implementations-for-rust-debug-trait-uses-formatter-type-elision | |
+| `upost.info` | https://upost.info/kochiku-ni-1000-jikan-kakatta-kyodai-moderu-toshite-saigensareta-hara-kami-inpakuto-shithi-31383436323137373836 | https://kotaku.com/genshin-impact-city-recreated-as-an-enormous-model-that-1846217786 | No evidence of translating stack* sites, but interlinkage with `isolution.pro` |
+| `ichi.pro` | https://ichi.pro/ja/31373336323334313431 | https://io9.gizmodo.com/on-gotham-alfred-is-just-straight-up-hitting-children-1736234141 | No evidence of translating stack* sites, but interlinkage with `isolution.pro` |
