@@ -34,3 +34,4 @@
 *://www.fixes.pub/*
 *://knews.vip/*
 *://isolution.pro/*
+*://*.uwenku.com/*
