@@ -38,3 +38,4 @@
 *://cloud6.net/*
 *://lycaeum.dev/*
 *://codehero.jp/*
+*://*.athabasca-foto.com/*
