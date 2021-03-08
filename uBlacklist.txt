@@ -39,3 +39,4 @@
 *://lycaeum.dev/*
 *://codehero.jp/*
 *://*.athabasca-foto.com/*
+*://*.voidjp.com/*
