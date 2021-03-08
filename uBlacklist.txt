@@ -43,3 +43,4 @@
 *://brocante.dev/*
 *://*.zsharp.org/*
 *://*.projectbackpack.org/*
+*://classmethod.dev/*
