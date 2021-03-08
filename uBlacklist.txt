@@ -41,3 +41,4 @@
 *://*.athabasca-foto.com/*
 *://*.voidjp.com/*
 *://brocante.dev/*
+*://*.zsharp.org/*

@@ -45,3 +45,4 @@
 | `*.athabasca-foto.com` | https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS | https://stackoverflow.com/questions/604424 | |
 | `*.voidjp.com` | https://www.voidjp.com/29482/ | https://stackoverflow.com/questions/29482 | |
 | `brocante.dev` | https://brocante.dev/ja/questions/5223 | https://stackoverflow.com/questions/5223 | |
+| `*.zsharp.org` | https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT | https://stackoverflow.com/questions/3143698 | |
