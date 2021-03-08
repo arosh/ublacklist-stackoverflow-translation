@@ -35,3 +35,4 @@
 *://knews.vip/*
 *://isolution.pro/*
 *://*.uwenku.com/*
+*://cloud6.net/*
