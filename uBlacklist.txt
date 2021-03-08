@@ -36,3 +36,11 @@
 *://isolution.pro/*
 *://*.uwenku.com/*
 *://cloud6.net/*
+*://lycaeum.dev/*
+*://codehero.jp/*
+*://*.athabasca-foto.com/*
+*://*.voidjp.com/*
+*://brocante.dev/*
+*://*.zsharp.org/*
+*://*.projectbackpack.org/*
+*://classmethod.dev/*
