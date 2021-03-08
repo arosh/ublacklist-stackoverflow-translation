@@ -40,3 +40,4 @@
 *://codehero.jp/*
 *://*.athabasca-foto.com/*
 *://*.voidjp.com/*
+*://brocante.dev/*
