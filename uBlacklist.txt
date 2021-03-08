@@ -36,3 +36,4 @@
 *://isolution.pro/*
 *://*.uwenku.com/*
 *://cloud6.net/*
+*://lycaeum.dev/*

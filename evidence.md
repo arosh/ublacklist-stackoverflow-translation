@@ -40,3 +40,4 @@
 | `isolution.pro` | https://isolution.pro/q/an13230537/play-sutoa-kara-apuri-no-gokansei-matorikkusu-o-nyushusuru | https://android.stackexchange.com/questions/232739/get-apps-compatibilty-matrix-from-play-store | |
 | `*.uwenku.com` | http://ja.uwenku.com/question/p-oafoukjq-gq.html | https://stackoverflow.com/questions/48045748 | |
 | `cloud6.net` | https://cloud6.net/so/c%23/3081320 | https://stackoverflow.com/questions/32458588 | |
+| `lycaeum.dev` | https://lycaeum.dev/ja/questions/29482 | https://stackoverflow.com/questions/29482 | |
