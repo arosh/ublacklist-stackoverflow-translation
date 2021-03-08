@@ -42,3 +42,4 @@
 *://*.voidjp.com/*
 *://brocante.dev/*
 *://*.zsharp.org/*
+*://*.projectbackpack.org/*
