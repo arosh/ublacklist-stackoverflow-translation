@@ -41,3 +41,4 @@
 | `*.uwenku.com` | http://ja.uwenku.com/question/p-oafoukjq-gq.html | https://stackoverflow.com/questions/48045748 | |
 | `cloud6.net` | https://cloud6.net/so/c%23/3081320 | https://stackoverflow.com/questions/32458588 | |
 | `lycaeum.dev` | https://lycaeum.dev/ja/questions/29482 | https://stackoverflow.com/questions/29482 | |
+| `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 | |

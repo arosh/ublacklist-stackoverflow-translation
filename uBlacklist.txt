@@ -37,3 +37,4 @@
 *://*.uwenku.com/*
 *://cloud6.net/*
 *://lycaeum.dev/*
+*://codehero.jp/*
