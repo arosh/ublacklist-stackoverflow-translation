@@ -44,3 +44,11 @@
 *://*.zsharp.org/*
 *://*.projectbackpack.org/*
 *://classmethod.dev/*
+*://*.waymanamechurch.org/*
+*://*.sunflowercreations.org/*
+*://*.cfadnc.org/*
+*://*.fitforlearning.org/*
+*://*.panaindustrial.com/*
+*://*.sierrasummit2005.org/*
+*://*.theshuggahpies.com/*
+*://*.pcbconline.org/*

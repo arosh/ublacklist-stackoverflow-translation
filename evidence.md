@@ -48,3 +48,11 @@
 | `*.zsharp.org` | https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT | https://stackoverflow.com/questions/3143698 | |
 | `*.projectbackpack.org` | https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ | https://stackoverflow.com/questions/1414365 | |
 | `classmethod.dev` | https://classmethod.dev/ja/questions/1414365 | https://stackoverflow.com/questions/1414365 | |
+| `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 | |
+| `*.sunflowercreations.org` | https://ja.sunflowercreations.org/697902-how-do-i-open-a-VUPZKF | https://stackoverflow.com/questions/3204380 | |
+| `*.cfadnc.org` | https://ja.cfadnc.org/985524-what-is-the-purpose-of-DXQQMX | https://stackoverflow.com/questions/36688321 | |
+| `*.fitforlearning.org` | https://ja.fitforlearning.org/635934-includes-not-working-in-internet-ZFTDNI | https://stackoverflow.com/questions/36574351 | |
+| `*.panaindustrial.com` | https://ja.panaindustrial.com/401278-how-to-change-the-default-RQJPUK | https://stackoverflow.com/questions/11756442 | |
+| `*.sierrasummit2005.org` | https://ja.sierrasummit2005.org/919860-how-to-change-the-default-ICOCTB | https://stackoverflow.com/questions/11756442 | |
+| `*.theshuggahpies.com` | https://ja.theshuggahpies.com/451434-what-is-the-not-not-EISSHJ | https://stackoverflow.com/questions/784929 | |
+| `*.pcbconline.org` | https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT | https://stackoverflow.com/questions/17341670 | |
