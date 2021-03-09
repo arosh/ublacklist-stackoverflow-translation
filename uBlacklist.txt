@@ -52,3 +52,4 @@
 *://*.sierrasummit2005.org/*
 *://*.theshuggahpies.com/*
 *://*.pcbconline.org/*
+*://*.nuomiphp.com/*

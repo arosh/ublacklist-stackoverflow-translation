@@ -56,3 +56,4 @@
 | `*.sierrasummit2005.org` | https://ja.sierrasummit2005.org/919860-how-to-change-the-default-ICOCTB | https://stackoverflow.com/questions/11756442 | |
 | `*.theshuggahpies.com` | https://ja.theshuggahpies.com/451434-what-is-the-not-not-EISSHJ | https://stackoverflow.com/questions/784929 | |
 | `*.pcbconline.org` | https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT | https://stackoverflow.com/questions/17341670 | |
+| `*.nuomiphp.com` | https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html | https://stackoverflow.com/questions/60451458 | |
