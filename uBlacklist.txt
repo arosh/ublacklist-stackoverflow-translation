@@ -48,3 +48,4 @@
 *://*.sunflowercreations.org/*
 *://*.cfadnc.org/*
 *://*.fitforlearning.org/*
+*://*.panaindustrial.com/*
