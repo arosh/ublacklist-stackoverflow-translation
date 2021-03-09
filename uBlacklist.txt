@@ -46,3 +46,4 @@
 *://classmethod.dev/*
 *://*.waymanamechurch.org/*
 *://*.sunflowercreations.org/*
+*://*.cfadnc.org/*
