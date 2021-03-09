@@ -51,3 +51,4 @@
 | `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 | |
 | `*.sunflowercreations.org` | https://ja.sunflowercreations.org/697902-how-do-i-open-a-VUPZKF | https://stackoverflow.com/questions/3204380 | |
 | `*.cfadnc.org` | https://ja.cfadnc.org/985524-what-is-the-purpose-of-DXQQMX | https://stackoverflow.com/questions/36688321 | |
+| `*.fitforlearning.org` | https://ja.fitforlearning.org/635934-includes-not-working-in-internet-ZFTDNI | https://stackoverflow.com/questions/36574351 | |

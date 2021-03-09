@@ -47,3 +47,4 @@
 *://*.waymanamechurch.org/*
 *://*.sunflowercreations.org/*
 *://*.cfadnc.org/*
+*://*.fitforlearning.org/*
