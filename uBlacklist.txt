@@ -44,3 +44,4 @@
 *://*.zsharp.org/*
 *://*.projectbackpack.org/*
 *://classmethod.dev/*
+*://*.waymanamechurch.org/*
