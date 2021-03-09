@@ -45,3 +45,4 @@
 *://*.projectbackpack.org/*
 *://classmethod.dev/*
 *://*.waymanamechurch.org/*
+*://*.sunflowercreations.org/*
