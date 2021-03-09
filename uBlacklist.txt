@@ -50,3 +50,4 @@
 *://*.fitforlearning.org/*
 *://*.panaindustrial.com/*
 *://*.sierrasummit2005.org/*
+*://*.theshuggahpies.com/*

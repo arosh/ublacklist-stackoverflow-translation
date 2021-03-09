@@ -54,3 +54,4 @@
 | `*.fitforlearning.org` | https://ja.fitforlearning.org/635934-includes-not-working-in-internet-ZFTDNI | https://stackoverflow.com/questions/36574351 | |
 | `*.panaindustrial.com` | https://ja.panaindustrial.com/401278-how-to-change-the-default-RQJPUK | https://stackoverflow.com/questions/11756442 | |
 | `*.sierrasummit2005.org` | https://ja.sierrasummit2005.org/919860-how-to-change-the-default-ICOCTB | https://stackoverflow.com/questions/11756442 | |
+| `*.theshuggahpies.com` | https://ja.theshuggahpies.com/451434-what-is-the-not-not-EISSHJ | https://stackoverflow.com/questions/784929 | |
