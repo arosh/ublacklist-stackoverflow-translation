@@ -12,9 +12,9 @@
 *://www.it-swarm.dev/*
 *://www.it-swarm-ja.tech/*
 *://*.ojit.com/*
-*://python5.com/*
 *://steakrecords.com/*
 *://qa.codeflow.site/*
+*://codeguides.site/*
 *://overcoder.net/*
 *://coderoad.ru/*
 *://www.generacodice.blog/*
@@ -28,7 +28,6 @@
 *://*.voidcc.com/*
 *://alwaysemmyhope.com/*
 *://www.it-swarm.jp.net/*
-*://jpcloud.net/*
 *://konnichiwasekai.com/*
 *://*.siwib.org/*
 *://www.fixes.pub/*
