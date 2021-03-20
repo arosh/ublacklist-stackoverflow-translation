@@ -177,7 +177,7 @@
 - domain: 'classmethod.dev'
   evidence: https://classmethod.dev/ja/questions/1414365
   original: https://stackoverflow.com/questions/1414365
-  note:
+  note: This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.)
 - domain: '*.waymanamechurch.org'
   evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
   original: https://stackoverflow.com/questions/784929
