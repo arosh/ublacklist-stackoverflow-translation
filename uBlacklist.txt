@@ -7,7 +7,7 @@
 *://living-sun.com/*
 *://tutorialmore.com/*
 *://qastack.jp/*
-*://*.coder.work/*
+*://www.coder.work/*
 *://www.366service.com/*
 *://www.it-swarm.dev/*
 *://www.it-swarm-ja.tech/*
@@ -38,7 +38,7 @@
 *://lycaeum.dev/*
 *://codehero.jp/*
 *://*.athabasca-foto.com/*
-*://*.voidjp.com/*
+*://www.voidjp.com/*
 *://brocante.dev/*
 *://*.zsharp.org/*
 *://*.projectbackpack.org/*
@@ -51,4 +51,4 @@
 *://*.sierrasummit2005.org/*
 *://*.theshuggahpies.com/*
 *://*.pcbconline.org/*
-*://*.nuomiphp.com/*
+*://www.nuomiphp.com/*

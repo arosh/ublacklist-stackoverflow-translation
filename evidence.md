@@ -11,7 +11,7 @@
 | `living-sun.com` | https://living-sun.com/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html | https://stackoverflow.com/questions/1599464/ |  |
 | `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ |  |
 | `qastack.jp` | https://qastack.jp/programming/11227809/ | https://stackoverflow.com/questions/11227809/ |  |
-| `*.coder.work` | https://www.coder.work/article/3794436 | https://stackoverflow.com/questions/13375357/ | We may change to `www.coder.work` |
+| `www.coder.work` | https://www.coder.work/article/3794436 | https://stackoverflow.com/questions/13375357/ | We may change to `www.coder.work` |
 | `www.366service.com` | https://www.366service.com/jp/qa/a550dc2388b592d50f83bf3b3369f0c5 | https://stackoverflow.com/questions/58109626/ |  |
 | `www.it-swarm.dev` |  |  | The domain is used for redirection to `www.it-swarm-ja.tech` |
 | `www.it-swarm-ja.tech` | https://www.it-swarm-ja.tech/ja/linux/944475555/ | https://superuser.com/questions/1347723/ |  |
@@ -42,7 +42,7 @@
 | `lycaeum.dev` | https://lycaeum.dev/ja/questions/29482 | https://stackoverflow.com/questions/29482 |  |
 | `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 |  |
 | `*.athabasca-foto.com` | https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS | https://stackoverflow.com/questions/604424 |  |
-| `*.voidjp.com` | https://www.voidjp.com/29482/ | https://stackoverflow.com/questions/29482 |  |
+| `www.voidjp.com` | https://www.voidjp.com/29482/ | https://stackoverflow.com/questions/29482 |  |
 | `brocante.dev` | https://brocante.dev/ja/questions/5223 | https://stackoverflow.com/questions/5223 |  |
 | `*.zsharp.org` | https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT | https://stackoverflow.com/questions/3143698 |  |
 | `*.projectbackpack.org` | https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ | https://stackoverflow.com/questions/1414365 |  |
@@ -55,4 +55,4 @@
 | `*.sierrasummit2005.org` | https://ja.sierrasummit2005.org/919860-how-to-change-the-default-ICOCTB | https://stackoverflow.com/questions/11756442 |  |
 | `*.theshuggahpies.com` | https://ja.theshuggahpies.com/451434-what-is-the-not-not-EISSHJ | https://stackoverflow.com/questions/784929 |  |
 | `*.pcbconline.org` | https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT | https://stackoverflow.com/questions/17341670 |  |
-| `*.nuomiphp.com` | https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html | https://stackoverflow.com/questions/60451458 |  |
+| `www.nuomiphp.com` | https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html | https://stackoverflow.com/questions/60451458 |  |
