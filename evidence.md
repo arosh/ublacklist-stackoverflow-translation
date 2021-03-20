@@ -15,7 +15,7 @@
 | `www.366service.com` | https://www.366service.com/jp/qa/a550dc2388b592d50f83bf3b3369f0c5 | https://stackoverflow.com/questions/58109626/ |  |
 | `www.it-swarm.dev` |  |  | The domain is used for redirection to `www.it-swarm-ja.tech` |
 | `www.it-swarm-ja.tech` | https://www.it-swarm-ja.tech/ja/linux/944475555/ | https://superuser.com/questions/1347723/ |  |
-| `*.ojit.com` | https://ja.ojit.com/so/linux/137072 | https://stackoverflow.com/questions/3129608/ | The domain is used for redirection to `python5.com` |
+| `*.ojit.com` | https://ja.ojit.com/so/linux/137072 | https://stackoverflow.com/questions/3129608/ | The domain is used for redirection to `cloud6.net` |
 | `steakrecords.com` | https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html | https://stackoverflow.com/questions/31248509/ |  |
 | `qa.codeflow.site` |  |  | This domain is used for redirection to codeguides.site |
 | `codeguides.site` | https://codeguides.site/questions/ja/950037/same-ajax-called-twice-jquery | https://stackoverflow.com/q/950037 |  |
