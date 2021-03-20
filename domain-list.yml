@@ -34,7 +34,7 @@
   evidence: https://qastack.jp/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
   note:
-- domain: '*.coder.work'
+- domain: 'www.coder.work'
   evidence: https://www.coder.work/article/3794436
   original: https://stackoverflow.com/questions/13375357/
   note: We may change to `www.coder.work`
@@ -158,7 +158,7 @@
   evidence: https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS
   original: https://stackoverflow.com/questions/604424
   note:
-- domain: '*.voidjp.com'
+- domain: 'www.voidjp.com'
   evidence: https://www.voidjp.com/29482/
   original: https://stackoverflow.com/questions/29482
   note:
@@ -210,7 +210,7 @@
   evidence: https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT
   original: https://stackoverflow.com/questions/17341670
   note:
-- domain: '*.nuomiphp.com'
+- domain: 'www.nuomiphp.com'
   evidence: https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html
   original: https://stackoverflow.com/questions/60451458
   note:
