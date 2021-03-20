@@ -37,7 +37,7 @@
 - domain: 'www.coder.work'
   evidence: https://www.coder.work/article/3794436
   original: https://stackoverflow.com/questions/13375357/
-  note: We may change to `www.coder.work`
+  note:
 - domain: 'www.366service.com'
   evidence: https://www.366service.com/jp/qa/a550dc2388b592d50f83bf3b3369f0c5
   original: https://stackoverflow.com/questions/58109626/
