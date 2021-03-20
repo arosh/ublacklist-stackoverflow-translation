@@ -46,7 +46,7 @@
 | `brocante.dev` | https://brocante.dev/ja/questions/5223 | https://stackoverflow.com/questions/5223 |  |
 | `*.zsharp.org` | https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT | https://stackoverflow.com/questions/3143698 |  |
 | `*.projectbackpack.org` | https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ | https://stackoverflow.com/questions/1414365 |  |
-| `classmethod.dev` | https://classmethod.dev/ja/questions/1414365 | https://stackoverflow.com/questions/1414365 |  |
+| `classmethod.dev` | https://classmethod.dev/ja/questions/1414365 | https://stackoverflow.com/questions/1414365 | This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.) |
 | `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 |  |
 | `*.sunflowercreations.org` | https://ja.sunflowercreations.org/697902-how-do-i-open-a-VUPZKF | https://stackoverflow.com/questions/3204380 |  |
 | `*.cfadnc.org` | https://ja.cfadnc.org/985524-what-is-the-purpose-of-DXQQMX | https://stackoverflow.com/questions/36688321 |  |
