@@ -8,7 +8,7 @@
 | `*.stackovernet.xyz` | https://scicomp.stackovernet.xyz/ja/q/38 | https://scicomp.stackexchange.com/questions/83/ |  |
 | `code.i-harness.com` | https://code.i-harness.com/ja-jp/q/1cc697 | https://stackoverflow.com/questions/1885847/ |  |
 | `stackoverrun.com` | https://stackoverrun.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/ |  |
-| `living-sun.com` | https://living-sun.com/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html | https://stackoverflow.com/questions/1599464/ |  |
+| `living-sun.com` | https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html | https://stackoverflow.com/questions/1599464/ |  |
 | `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ |  |
 | `qastack.jp` | https://qastack.jp/programming/11227809/ | https://stackoverflow.com/questions/11227809/ |  |
 | `www.coder.work` | https://www.coder.work/article/3794436 | https://stackoverflow.com/questions/13375357/ |  |
