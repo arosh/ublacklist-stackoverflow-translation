@@ -77,6 +77,14 @@
 - domain: 'www.generacodice.blog'
   evidence: https://www.generacodice.blog/jp/articolo/52938/
   original: https://stackoverflow.com/questions/814167/
+  note: This site is used for redirection to www.generacodice.com
+- domain: 'www.generacodice.it'
+  evidence: https://www.generacodice.it/jp/articolo/126815/
+  original: https://stackoverflow.com/questions/199468/
+  note: This site is used for redirection to www.generacodice.com
+- domain: 'www.generacodice.com'
+  evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
+  original: https://stackoverflow.com/questions/1439719
   note:
 - domain: 'bugfix.plus'
   evidence: https://bugfix.plus/info-83047.htm
@@ -94,17 +102,9 @@
   evidence: https://www.javaer101.com/ja/article/2084594.html
   original: https://stackoverflow.com/questions/35394937/
   note:
-- domain: 'www.generacodice.it'
-  evidence: https://www.generacodice.it/jp/articolo/126815/
-  original: https://stackoverflow.com/questions/199468/
-  note:
 - domain: 'buginfo.tech'
   evidence: https://buginfo.tech/questions-2909265.htm
   original: https://stackoverflow.com/questions/51891198/
-  note:
-- domain: 'www.generacodice.com'
-  evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
-  original: https://stackoverflow.com/questions/1439719
   note:
 - domain: '*.voidcc.com'
   evidence: http://ja.voidcc.com/question/p-glmhmyzr-pk.html
