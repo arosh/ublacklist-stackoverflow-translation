@@ -18,13 +18,13 @@
 *://overcoder.net/*
 *://coderoad.ru/*
 *://www.generacodice.blog/*
+*://www.generacodice.it/*
+*://www.generacodice.com/*
 *://bugfix.plus/*
 *://ask.xiaolee.net/*
 *://www.aimz8.com/*
 *://www.javaer101.com/*
-*://www.generacodice.it/*
 *://buginfo.tech/*
-*://www.generacodice.com/*
 *://*.voidcc.com/*
 *://alwaysemmyhope.com/*
 *://www.it-swarm.jp.net/*
