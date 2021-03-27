@@ -53,3 +53,4 @@
 *://*.pcbconline.org/*
 *://www.nuomiphp.com/*
 *://jpcloud.net/*
+*://issues-world.com/*

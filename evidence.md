@@ -57,3 +57,4 @@
 | `*.pcbconline.org` | https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT | https://stackoverflow.com/questions/17341670 |  |
 | `www.nuomiphp.com` | https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html | https://stackoverflow.com/questions/60451458 |  |
 | `jpcloud.net` | https://jpcloud.net/q/zujieswz | https://stackoverflow.com/q/58033366 |  |
+| `issues-world.com` | https://issues-world.com/ftypesoverloadingargumentsimplic/ | https://stackoverflow.com/q/8828279 |  |
