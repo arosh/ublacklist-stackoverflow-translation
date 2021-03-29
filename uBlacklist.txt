@@ -54,3 +54,4 @@
 *://www.nuomiphp.com/*
 *://jpcloud.net/*
 *://issues-world.com/*
+*://www.it-mure.jp.net/*
