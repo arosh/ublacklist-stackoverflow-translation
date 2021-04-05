@@ -8,8 +8,6 @@
 *://tutorialmore.com/*
 *://qastack.jp/*
 *://www.coder.work/*
-*://www.366service.com/*
-*://www.it-swarm.dev/*
 *://www.it-swarm-ja.tech/*
 *://*.ojit.com/*
 *://steakrecords.com/*

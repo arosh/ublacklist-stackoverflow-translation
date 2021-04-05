@@ -12,8 +12,6 @@
 | `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ |  |
 | `qastack.jp` | https://qastack.jp/programming/11227809/ | https://stackoverflow.com/questions/11227809/ |  |
 | `www.coder.work` | https://www.coder.work/article/3794436 | https://stackoverflow.com/questions/13375357/ |  |
-| `www.366service.com` | https://www.366service.com/jp/qa/a550dc2388b592d50f83bf3b3369f0c5 | https://stackoverflow.com/questions/58109626/ |  |
-| `www.it-swarm.dev` |  |  | The domain is used for redirection to `www.it-swarm-ja.tech` |
 | `www.it-swarm-ja.tech` | https://www.it-swarm-ja.tech/ja/linux/944475555/ | https://superuser.com/questions/1347723/ |  |
 | `*.ojit.com` | https://ja.ojit.com/so/linux/137072 | https://stackoverflow.com/questions/3129608/ | The domain is used for redirection to `cloud6.net` |
 | `steakrecords.com` | https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html | https://stackoverflow.com/questions/31248509/ |  |
