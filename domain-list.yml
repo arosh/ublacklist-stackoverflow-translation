@@ -38,14 +38,6 @@
   evidence: https://www.coder.work/article/3794436
   original: https://stackoverflow.com/questions/13375357/
   note:
-- domain: 'www.366service.com'
-  evidence: https://www.366service.com/jp/qa/a550dc2388b592d50f83bf3b3369f0c5
-  original: https://stackoverflow.com/questions/58109626/
-  note:
-- domain: 'www.it-swarm.dev'
-  evidence:
-  original:
-  note: The domain is used for redirection to `www.it-swarm-ja.tech`
 - domain: 'www.it-swarm-ja.tech'
   evidence: https://www.it-swarm-ja.tech/ja/linux/944475555/
   original: https://superuser.com/questions/1347723/
