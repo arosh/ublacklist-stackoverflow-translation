@@ -53,3 +53,4 @@
 *://jpcloud.net/*
 *://issues-world.com/*
 *://www.it-mure.jp.net/*
+*://ubuntu.buildwebhost.com/*
