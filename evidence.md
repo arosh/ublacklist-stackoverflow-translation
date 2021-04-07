@@ -58,3 +58,4 @@
 | `issues-world.com` | https://issues-world.com/ftypesoverloadingargumentsimplic/ | https://stackoverflow.com/q/8828279 |  |
 | `www.it-mure.jp.net` | https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/ | https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c |  |
 | `ubuntu.buildwebhost.com` | https://ubuntu.buildwebhost.com/ja/q/214411 | https://askubuntu.com/questions/940701 |  |
+| `www.debugcn.com` | https://www.debugcn.com/ja/article/106110221.html | https://stackoverflow.com/questions/14452824 |  |
