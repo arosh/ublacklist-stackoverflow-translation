@@ -222,3 +222,7 @@
   evidence: https://ubuntu.buildwebhost.com/ja/q/214411
   original: https://askubuntu.com/questions/940701
   note:
+- domain: 'www.debugcn.com'
+  evidence: https://www.debugcn.com/ja/article/106110221.html
+  original: https://stackoverflow.com/questions/14452824
+  note:
