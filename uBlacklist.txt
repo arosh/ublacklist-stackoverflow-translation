@@ -1,15 +1,17 @@
 *://code-examples.net/*
 *://kotaeta.com/*
 *://*.stackovernet.com/*
+*://stackoverrun.com/*
 *://*.stackovernet.xyz/*
 *://code.i-harness.com/*
-*://stackoverrun.com/*
 *://living-sun.com/*
 *://tutorialmore.com/*
 *://qastack.jp/*
 *://www.coder.work/*
 *://www.it-swarm-ja.tech/*
+*://www.it-mure.jp.net/*
 *://*.ojit.com/*
+*://cloud6.net/*
 *://steakrecords.com/*
 *://qa.codeflow.site/*
 *://codeguides.site/*
@@ -32,7 +34,6 @@
 *://knews.vip/*
 *://isolution.pro/*
 *://*.uwenku.com/*
-*://cloud6.net/*
 *://lycaeum.dev/*
 *://codehero.jp/*
 *://*.athabasca-foto.com/*
@@ -52,6 +53,5 @@
 *://www.nuomiphp.com/*
 *://jpcloud.net/*
 *://issues-world.com/*
-*://www.it-mure.jp.net/*
 *://ubuntu.buildwebhost.com/*
 *://www.debugcn.com/*
