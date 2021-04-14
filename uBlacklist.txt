@@ -21,11 +21,9 @@
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
-*://bugfix.plus/*
 *://ask.xiaolee.net/*
 *://www.aimz8.com/*
 *://www.javaer101.com/*
-*://buginfo.tech/*
 *://*.voidcc.com/*
 *://alwaysemmyhope.com/*
 *://konnichiwasekai.com/*
@@ -51,7 +49,9 @@
 *://*.theshuggahpies.com/*
 *://*.pcbconline.org/*
 *://www.nuomiphp.com/*
-*://jpcloud.net/*
 *://issues-world.com/*
 *://ubuntu.buildwebhost.com/*
 *://www.debugcn.com/*
+*://jpcloud.net/*
+*://buginfo.tech/*
+*://bugfix.plus/*

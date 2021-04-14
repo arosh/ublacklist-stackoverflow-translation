@@ -25,11 +25,9 @@
 | `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ | This site is used for redirection to `www.generacodice.com` |
 | `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ | This site is used for redirection to `www.generacodice.com` |
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 |  |
-| `bugfix.plus` | https://bugfix.plus/info-83047.htm | https://stackoverflow.com/questions/61864520/ |  |
 | `ask.xiaolee.net` | https://ask.xiaolee.net/jp/questions/1020071 | https://stackoverflow.com/questions/719877/ |  |
 | `www.aimz8.com` | https://www.aimz8.com/jp/?p=32659 | https://stackoverflow.com/questions/16199734/ |  |
 | `www.javaer101.com` | https://www.javaer101.com/ja/article/2084594.html | https://stackoverflow.com/questions/35394937/ |  |
-| `buginfo.tech` | https://buginfo.tech/questions-2909265.htm | https://stackoverflow.com/questions/51891198/ |  |
 | `*.voidcc.com` | http://ja.voidcc.com/question/p-glmhmyzr-pk.html | https://stackoverflow.com/questions/48042872/ |  |
 | `alwaysemmyhope.com` | https://alwaysemmyhope.com/ja/linux/542609-glibc-elf-file-os-abi-invalid-linux-linux-kernel-glibc-abi.html | https://stackoverflow.com/q/7647818 |  |
 | `konnichiwasekai.com` | https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C | https://stackoverflow.com/q/64258999 |  |
@@ -55,7 +53,9 @@
 | `*.theshuggahpies.com` | https://ja.theshuggahpies.com/451434-what-is-the-not-not-EISSHJ | https://stackoverflow.com/questions/784929 |  |
 | `*.pcbconline.org` | https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT | https://stackoverflow.com/questions/17341670 |  |
 | `www.nuomiphp.com` | https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html | https://stackoverflow.com/questions/60451458 |  |
-| `jpcloud.net` | https://jpcloud.net/q/zujieswz | https://stackoverflow.com/q/58033366 |  |
 | `issues-world.com` | https://issues-world.com/ftypesoverloadingargumentsimplic/ | https://stackoverflow.com/q/8828279 |  |
 | `ubuntu.buildwebhost.com` | https://ubuntu.buildwebhost.com/ja/q/214411 | https://askubuntu.com/questions/940701 |  |
 | `www.debugcn.com` | https://www.debugcn.com/ja/article/106110221.html | https://stackoverflow.com/questions/14452824 |  |
+| `jpcloud.net` | https://jpcloud.net/q/zujieswz | https://stackoverflow.com/q/58033366 | It appears to have been closed, but it still shows up in Google searches. |
+| `buginfo.tech` | https://buginfo.tech/questions-2909265.htm | https://stackoverflow.com/questions/51891198/ | It appears to have been closed, but it still shows up in Google searches. |
+| `bugfix.plus` | https://bugfix.plus/info-83047.htm | https://stackoverflow.com/questions/61864520/ | It appears to have been closed, but it still shows up in Google searches. |
