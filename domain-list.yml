@@ -90,10 +90,6 @@
   evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
   original: https://stackoverflow.com/questions/1439719
   note:
-- domain: 'bugfix.plus'
-  evidence: https://bugfix.plus/info-83047.htm
-  original: https://stackoverflow.com/questions/61864520/
-  note:
 - domain: 'ask.xiaolee.net'
   evidence: https://ask.xiaolee.net/jp/questions/1020071
   original: https://stackoverflow.com/questions/719877/
@@ -105,10 +101,6 @@
 - domain: 'www.javaer101.com'
   evidence: https://www.javaer101.com/ja/article/2084594.html
   original: https://stackoverflow.com/questions/35394937/
-  note:
-- domain: 'buginfo.tech'
-  evidence: https://buginfo.tech/questions-2909265.htm
-  original: https://stackoverflow.com/questions/51891198/
   note:
 - domain: '*.voidcc.com'
   evidence: http://ja.voidcc.com/question/p-glmhmyzr-pk.html
@@ -210,10 +202,6 @@
   evidence: https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html
   original: https://stackoverflow.com/questions/60451458
   note:
-- domain: 'jpcloud.net'
-  evidence: https://jpcloud.net/q/zujieswz
-  original: https://stackoverflow.com/q/58033366
-  note:
 - domain: 'issues-world.com'
   evidence: https://issues-world.com/ftypesoverloadingargumentsimplic/
   original: https://stackoverflow.com/q/8828279
@@ -226,3 +214,15 @@
   evidence: https://www.debugcn.com/ja/article/106110221.html
   original: https://stackoverflow.com/questions/14452824
   note:
+- domain: 'jpcloud.net'
+  evidence: https://jpcloud.net/q/zujieswz
+  original: https://stackoverflow.com/q/58033366
+  note: It appears to have been closed, but it still shows up in Google searches.
+- domain: 'buginfo.tech'
+  evidence: https://buginfo.tech/questions-2909265.htm
+  original: https://stackoverflow.com/questions/51891198/
+  note: It appears to have been closed, but it still shows up in Google searches.
+- domain: 'bugfix.plus'
+  evidence: https://bugfix.plus/info-83047.htm
+  original: https://stackoverflow.com/questions/61864520/
+  note: It appears to have been closed, but it still shows up in Google searches.
