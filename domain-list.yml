@@ -10,6 +10,10 @@
   evidence:
   original:
   note: The domain is used for redirection to `stackovernet.xyz`
+- domain: 'stackoverrun.com'
+  evidence: https://stackoverrun.com/ja/q/11992161
+  original: https://stackoverflow.com/questions/43624696/
+  note: redirects to `stackovernet.xyz`
 - domain: '*.stackovernet.xyz'
   evidence: https://scicomp.stackovernet.xyz/ja/q/38
   original: https://scicomp.stackexchange.com/questions/83/
@@ -17,10 +21,6 @@
 - domain: 'code.i-harness.com'
   evidence: https://code.i-harness.com/ja-jp/q/1cc697
   original: https://stackoverflow.com/questions/1885847/
-  note:
-- domain: 'stackoverrun.com'
-  evidence: https://stackoverrun.com/ja/q/11992161
-  original: https://stackoverflow.com/questions/43624696/
   note:
 - domain: 'living-sun.com'
   evidence: https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html
@@ -41,11 +41,19 @@
 - domain: 'www.it-swarm-ja.tech'
   evidence: https://www.it-swarm-ja.tech/ja/linux/944475555/
   original: https://superuser.com/questions/1347723/
+  note: redirects to `www.it-mure.jp.net`
+- domain: 'www.it-mure.jp.net'
+  evidence: https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/
+  original: https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c
   note:
 - domain: '*.ojit.com'
   evidence: https://ja.ojit.com/so/linux/137072
   original: https://stackoverflow.com/questions/3129608/
   note: The domain is used for redirection to `cloud6.net`
+- domain: 'cloud6.net'
+  evidence: https://cloud6.net/so/c%23/3081320
+  original: https://stackoverflow.com/questions/32458588
+  note:
 - domain: 'steakrecords.com'
   evidence: https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html
   original: https://stackoverflow.com/questions/31248509/
@@ -53,7 +61,7 @@
 - domain: 'qa.codeflow.site'
   evidence:
   original:
-  note: This domain is used for redirection to codeguides.site
+  note: This domain is used for redirection to `codeguides.site`
 - domain: 'codeguides.site'
   evidence: https://codeguides.site/questions/ja/950037/same-ajax-called-twice-jquery
   original: https://stackoverflow.com/q/950037
@@ -69,11 +77,11 @@
 - domain: 'www.generacodice.blog'
   evidence: https://www.generacodice.blog/jp/articolo/52938/
   original: https://stackoverflow.com/questions/814167/
-  note: This site is used for redirection to www.generacodice.com
+  note: This site is used for redirection to `www.generacodice.com`
 - domain: 'www.generacodice.it'
   evidence: https://www.generacodice.it/jp/articolo/126815/
   original: https://stackoverflow.com/questions/199468/
-  note: This site is used for redirection to www.generacodice.com
+  note: This site is used for redirection to `www.generacodice.com`
 - domain: 'www.generacodice.com'
   evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
   original: https://stackoverflow.com/questions/1439719
@@ -133,10 +141,6 @@
 - domain: '*.uwenku.com'
   evidence: http://ja.uwenku.com/question/p-oafoukjq-gq.html
   original: https://stackoverflow.com/questions/48045748
-  note:
-- domain: 'cloud6.net'
-  evidence: https://cloud6.net/so/c%23/3081320
-  original: https://stackoverflow.com/questions/32458588
   note:
 - domain: 'lycaeum.dev'
   evidence: https://lycaeum.dev/ja/questions/29482
@@ -213,10 +217,6 @@
 - domain: 'issues-world.com'
   evidence: https://issues-world.com/ftypesoverloadingargumentsimplic/
   original: https://stackoverflow.com/q/8828279
-  note:
-- domain: 'www.it-mure.jp.net'
-  evidence: https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/
-  original: https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c
   note:
 - domain: 'ubuntu.buildwebhost.com'
   evidence: https://ubuntu.buildwebhost.com/ja/q/214411
