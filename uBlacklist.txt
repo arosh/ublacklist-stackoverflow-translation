@@ -9,6 +9,7 @@
 *://qastack.jp/*
 *://www.coder.work/*
 *://www.it-swarm-ja.tech/*
+*://www.it-swarm.jp.net/*
 *://www.it-mure.jp.net/*
 *://*.ojit.com/*
 *://cloud6.net/*
@@ -27,7 +28,6 @@
 *://buginfo.tech/*
 *://*.voidcc.com/*
 *://alwaysemmyhope.com/*
-*://www.it-swarm.jp.net/*
 *://konnichiwasekai.com/*
 *://*.siwib.org/*
 *://www.fixes.pub/*
