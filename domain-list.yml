@@ -214,6 +214,14 @@
   evidence: https://www.debugcn.com/ja/article/106110221.html
   original: https://stackoverflow.com/questions/14452824
   note:
+- domain: '*.sch22.org'
+  evidence: https://ja.sch22.org/248250-how-can-i-save-an-QIVEKL
+  original: https://stackoverflow.com/questions/14452824/how-can-i-save-an-image-with-pil
+  note:
+- domain: '*.gupgallery.com'
+  evidence: https://ja.gupgallery.com/146367-how-can-i-save-an-OSXEJL
+  original: https://stackoverflow.com/questions/14452824/how-can-i-save-an-image-with-pil
+  note:
 - domain: 'jpcloud.net'
   evidence: https://jpcloud.net/q/zujieswz
   original: https://stackoverflow.com/q/58033366
