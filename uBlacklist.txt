@@ -52,6 +52,8 @@
 *://issues-world.com/*
 *://ubuntu.buildwebhost.com/*
 *://www.debugcn.com/*
+*://*.sch22.org/*
+*://*.gupgallery.com/*
 *://jpcloud.net/*
 *://buginfo.tech/*
 *://bugfix.plus/*

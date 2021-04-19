@@ -56,6 +56,8 @@
 | `issues-world.com` | https://issues-world.com/ftypesoverloadingargumentsimplic/ | https://stackoverflow.com/q/8828279 |  |
 | `ubuntu.buildwebhost.com` | https://ubuntu.buildwebhost.com/ja/q/214411 | https://askubuntu.com/questions/940701 |  |
 | `www.debugcn.com` | https://www.debugcn.com/ja/article/106110221.html | https://stackoverflow.com/questions/14452824 |  |
+| `*.sch22.org` | https://ja.sch22.org/248250-how-can-i-save-an-QIVEKL | https://stackoverflow.com/questions/14452824/how-can-i-save-an-image-with-pil |  |
+| `*.gupgallery.com` | https://ja.gupgallery.com/146367-how-can-i-save-an-OSXEJL | https://stackoverflow.com/questions/14452824/how-can-i-save-an-image-with-pil |  |
 | `jpcloud.net` | https://jpcloud.net/q/zujieswz | https://stackoverflow.com/q/58033366 | It appears to have been closed, but it still shows up in Google searches. |
 | `buginfo.tech` | https://buginfo.tech/questions-2909265.htm | https://stackoverflow.com/questions/51891198/ | It appears to have been closed, but it still shows up in Google searches. |
 | `bugfix.plus` | https://bugfix.plus/info-83047.htm | https://stackoverflow.com/questions/61864520/ | It appears to have been closed, but it still shows up in Google searches. |
