@@ -54,6 +54,7 @@
 *://www.debugcn.com/*
 *://*.sch22.org/*
 *://*.gupgallery.com/*
+*://*.amuddycup.com/*
 *://jpcloud.net/*
 *://buginfo.tech/*
 *://bugfix.plus/*
