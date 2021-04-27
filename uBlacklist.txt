@@ -58,3 +58,4 @@
 *://jpcloud.net/*
 *://buginfo.tech/*
 *://bugfix.plus/*
+*://qastack.ru/*
