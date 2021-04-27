@@ -238,3 +238,7 @@
   evidence: https://bugfix.plus/info-83047.htm
   original: https://stackoverflow.com/questions/61864520/
   note: It appears to have been closed, but it still shows up in Google searches.
+- domain: 'qastack.ru'
+  evidence: https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static
+  original: https://stackoverflow.com/q/13150343
+  note:
