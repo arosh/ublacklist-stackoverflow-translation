@@ -242,3 +242,7 @@
   evidence: https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static
   original: https://stackoverflow.com/q/13150343
   note:
+- domain: '*.ecnf2016.org'
+  evidence: https://ja.ecnf2016.org/541514-install-scratchbox2-package-in-ubuntu-BODUKA-article
+  original: https://askubuntu.com/questions/940701
+  note:
