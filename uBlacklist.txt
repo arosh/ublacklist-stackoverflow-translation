@@ -59,3 +59,4 @@
 *://buginfo.tech/*
 *://bugfix.plus/*
 *://qastack.ru/*
+*://*.ecnf2016.org/*

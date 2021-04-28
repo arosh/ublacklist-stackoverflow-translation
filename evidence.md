@@ -63,3 +63,4 @@
 | `buginfo.tech` | https://buginfo.tech/questions-2909265.htm | https://stackoverflow.com/questions/51891198/ | It appears to have been closed, but it still shows up in Google searches. |
 | `bugfix.plus` | https://bugfix.plus/info-83047.htm | https://stackoverflow.com/questions/61864520/ | It appears to have been closed, but it still shows up in Google searches. |
 | `qastack.ru` | https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static | https://stackoverflow.com/q/13150343 |  |
+| `*.ecnf2016.org` | https://ja.ecnf2016.org/541514-install-scratchbox2-package-in-ubuntu-BODUKA-article | https://askubuntu.com/questions/940701 |  |
