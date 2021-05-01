@@ -4,7 +4,7 @@
 | ------ | ---- | -------- | ---- |
 | `code-examples.net` | https://code-examples.net/ja/q/246c591 | https://stackoverflow.com/questions/38192529/ |  |
 | `kotaeta.com` | https://kotaeta.com/53238761 | https://arduino.stackexchange.com/questions/21605/ |  |
-| `*.stackovernet.com` |  |  | The domain is used for redirection to `stackovernet.xyz` |
+| `*.stackovernet.com` | https://stackovernet.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/ | The domain is used for redirection to `stackovernet.xyz` |
 | `stackoverrun.com` | https://stackoverrun.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/ | redirects to `stackovernet.xyz` |
 | `*.stackovernet.xyz` | https://scicomp.stackovernet.xyz/ja/q/38 | https://scicomp.stackexchange.com/questions/83/ |  |
 | `code.i-harness.com` | https://code.i-harness.com/ja-jp/q/1cc697 | https://stackoverflow.com/questions/1885847/ |  |
