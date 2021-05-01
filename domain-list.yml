@@ -7,8 +7,8 @@
   original: https://arduino.stackexchange.com/questions/21605/
   note:
 - domain: '*.stackovernet.com'
-  evidence:
-  original:
+  evidence: https://stackovernet.com/ja/q/11992161
+  original: https://stackoverflow.com/questions/43624696/
   note: The domain is used for redirection to `stackovernet.xyz`
 - domain: 'stackoverrun.com'
   evidence: https://stackoverrun.com/ja/q/11992161
