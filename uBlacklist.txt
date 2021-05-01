@@ -11,6 +11,8 @@
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.jp.net/*
 *://www.it-mure.jp.net/*
+*://www.it-swarm-ja.com/*
+*://www.it-swarm.com.ru/*
 *://*.ojit.com/*
 *://cloud6.net/*
 *://steakrecords.com/*

@@ -15,6 +15,8 @@
 | `www.it-swarm-ja.tech` | https://www.it-swarm-ja.tech/ja/linux/944475555/ | https://superuser.com/questions/1347723/ | redirects to `www.it-mure.jp.net` |
 | `www.it-swarm.jp.net` | https://www.it-swarm.jp.net/ja/google-chrome/chrome%e3%81%af%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%a9%e3%81%93%e3%81%ab%e4%bf%9d%e5%ad%98%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%ef%bc%9f/1071750676/ | https://stackoverflow.com/q/14543896 | redirects to `www.it-mure.jp.net` |
 | `www.it-mure.jp.net` | https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/ | https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c |  |
+| `www.it-swarm-ja.com` | https://www.it-swarm-ja.com/ja/javascript/vue%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%AA%E3%81%84keyup%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/835790755/ | https://stackoverflow.com/q/46955147 |  |
+| `www.it-swarm.com.ru` | https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 |  |
 | `*.ojit.com` | https://ja.ojit.com/so/linux/137072 | https://stackoverflow.com/questions/3129608/ | The domain is used for redirection to `cloud6.net` |
 | `cloud6.net` | https://cloud6.net/so/c%23/3081320 | https://stackoverflow.com/questions/32458588 |  |
 | `steakrecords.com` | https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html | https://stackoverflow.com/questions/31248509/ |  |
