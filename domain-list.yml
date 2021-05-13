@@ -61,11 +61,11 @@
 - domain: '*.ojit.com'
   evidence: https://ja.ojit.com/so/linux/137072
   original: https://stackoverflow.com/questions/3129608/
-  note: The domain is used for redirection to `cloud6.net`
+  note: The domain is used for redirection to `base64.work`
 - domain: 'base64.work'
   evidence: https://base64.work/so/linux/137072
   original: https://stackoverflow.com/questions/3129608/
-  note: The domain is used for redirection to `base64.work`
+  note:
 - domain: 'steakrecords.com'
   evidence: https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html
   original: https://stackoverflow.com/questions/31248509/
