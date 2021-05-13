@@ -18,7 +18,7 @@
 | `www.it-swarm-ja.com` | https://www.it-swarm-ja.com/ja/javascript/vue%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%AA%E3%81%84keyup%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/835790755/ | https://stackoverflow.com/q/46955147 |  |
 | `www.it-swarm.com.ru` | https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 |  |
 | `*.ojit.com` | https://ja.ojit.com/so/linux/137072 | https://stackoverflow.com/questions/3129608/ | The domain is used for redirection to `cloud6.net` |
-| `cloud6.net` | https://cloud6.net/so/c%23/3081320 | https://stackoverflow.com/questions/32458588 |  |
+| `base64.work` | https://base64.work/so/linux/137072 | https://stackoverflow.com/questions/3129608/ | The domain is used for redirection to `base64.work` |
 | `steakrecords.com` | https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html | https://stackoverflow.com/questions/31248509/ |  |
 | `qa.codeflow.site` |  |  | This domain is used for redirection to `codeguides.site` |
 | `codeguides.site` | https://codeguides.site/questions/ja/950037/same-ajax-called-twice-jquery | https://stackoverflow.com/q/950037 |  |
@@ -28,7 +28,6 @@
 | `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ | This site is used for redirection to `www.generacodice.com` |
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 |  |
 | `ask.xiaolee.net` | https://ask.xiaolee.net/jp/questions/1020071 | https://stackoverflow.com/questions/719877/ |  |
-| `www.aimz8.com` | https://www.aimz8.com/jp/?p=32659 | https://stackoverflow.com/questions/16199734/ |  |
 | `www.javaer101.com` | https://www.javaer101.com/ja/article/2084594.html | https://stackoverflow.com/questions/35394937/ |  |
 | `*.voidcc.com` | http://ja.voidcc.com/question/p-glmhmyzr-pk.html | https://stackoverflow.com/questions/48042872/ |  |
 | `alwaysemmyhope.com` | https://alwaysemmyhope.com/ja/linux/542609-glibc-elf-file-os-abi-invalid-linux-linux-kernel-glibc-abi.html | https://stackoverflow.com/q/7647818 |  |
@@ -66,3 +65,5 @@
 | `bugfix.plus` | https://bugfix.plus/info-83047.htm | https://stackoverflow.com/questions/61864520/ | It appears to have been closed, but it still shows up in Google searches. |
 | `qastack.ru` | https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static | https://stackoverflow.com/q/13150343 |  |
 | `*.ecnf2016.org` | https://ja.ecnf2016.org/541514-install-scratchbox2-package-in-ubuntu-BODUKA-article | https://askubuntu.com/questions/940701 |  |
+| `cloud6.net` | https://cloud6.net/so/c%23/3081320 | https://stackoverflow.com/questions/32458588 | closed? |
+| `www.aimz8.com` | https://www.aimz8.com/jp/?p=32659 | https://stackoverflow.com/questions/16199734/ | closed? |

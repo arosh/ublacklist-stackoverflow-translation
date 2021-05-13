@@ -14,7 +14,7 @@
 *://www.it-swarm-ja.com/*
 *://www.it-swarm.com.ru/*
 *://*.ojit.com/*
-*://cloud6.net/*
+*://base64.work/*
 *://steakrecords.com/*
 *://qa.codeflow.site/*
 *://codeguides.site/*
@@ -24,7 +24,6 @@
 *://www.generacodice.it/*
 *://www.generacodice.com/*
 *://ask.xiaolee.net/*
-*://www.aimz8.com/*
 *://www.javaer101.com/*
 *://*.voidcc.com/*
 *://alwaysemmyhope.com/*
@@ -62,3 +61,5 @@
 *://bugfix.plus/*
 *://qastack.ru/*
 *://*.ecnf2016.org/*
+*://cloud6.net/*
+*://www.aimz8.com/*
