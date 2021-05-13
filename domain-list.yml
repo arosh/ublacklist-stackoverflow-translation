@@ -62,10 +62,10 @@
   evidence: https://ja.ojit.com/so/linux/137072
   original: https://stackoverflow.com/questions/3129608/
   note: The domain is used for redirection to `cloud6.net`
-- domain: 'cloud6.net'
-  evidence: https://cloud6.net/so/c%23/3081320
-  original: https://stackoverflow.com/questions/32458588
-  note:
+- domain: 'base64.work'
+  evidence: https://base64.work/so/linux/137072
+  original: https://stackoverflow.com/questions/3129608/
+  note: The domain is used for redirection to `base64.work`
 - domain: 'steakrecords.com'
   evidence: https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html
   original: https://stackoverflow.com/questions/31248509/
@@ -101,10 +101,6 @@
 - domain: 'ask.xiaolee.net'
   evidence: https://ask.xiaolee.net/jp/questions/1020071
   original: https://stackoverflow.com/questions/719877/
-  note:
-- domain: 'www.aimz8.com'
-  evidence: https://www.aimz8.com/jp/?p=32659
-  original: https://stackoverflow.com/questions/16199734/
   note:
 - domain: 'www.javaer101.com'
   evidence: https://www.javaer101.com/ja/article/2084594.html
@@ -254,3 +250,11 @@
   evidence: https://ja.ecnf2016.org/541514-install-scratchbox2-package-in-ubuntu-BODUKA-article
   original: https://askubuntu.com/questions/940701
   note:
+- domain: 'cloud6.net'
+  evidence: https://cloud6.net/so/c%23/3081320
+  original: https://stackoverflow.com/questions/32458588
+  note: closed?
+- domain: 'www.aimz8.com'
+  evidence: https://www.aimz8.com/jp/?p=32659
+  original: https://stackoverflow.com/questions/16199734/
+  note: closed?
