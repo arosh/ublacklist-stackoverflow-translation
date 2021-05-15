@@ -65,3 +65,4 @@
 *://www.aimz8.com/*
 *://*.softwareuser.asklobster.com/*
 *://*.domainelespailles.net/*
+*://*.ec-europe.org/*

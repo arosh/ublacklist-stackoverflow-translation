@@ -266,3 +266,7 @@
   evidence: https://ja.domainelespailles.net/654932-7zip-command-line-exclude-folders-JCTSXV-article
   original: https://superuser.com/questions/97342/7zip-command-line-exclude-folders-by-wildcard-pattern
   note:
+- domain: '*.ec-europe.org'
+  evidence: https://ja.ec-europe.org/423404-how-to-find-dev-name-MQPQQD
+  original: https://stackoverflow.com/questions/48291366
+  note:

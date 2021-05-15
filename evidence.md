@@ -69,3 +69,4 @@
 | `www.aimz8.com` | https://www.aimz8.com/jp/?p=32659 | https://stackoverflow.com/questions/16199734/ | closed? |
 | `*.softwareuser.asklobster.com` | https://ja.softwareuser.asklobster.com/posts/97342/7zip-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%BC%E3%83%89%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%82%92%E9%99%A4%E5%A4%96%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/ | https://superuser.com/questions/97342/7zip-command-line-exclude-folders-by-wildcard-pattern |  |
 | `*.domainelespailles.net` | https://ja.domainelespailles.net/654932-7zip-command-line-exclude-folders-JCTSXV-article | https://superuser.com/questions/97342/7zip-command-line-exclude-folders-by-wildcard-pattern |  |
+| `*.ec-europe.org` | https://ja.ec-europe.org/423404-how-to-find-dev-name-MQPQQD | https://stackoverflow.com/questions/48291366 |  |
