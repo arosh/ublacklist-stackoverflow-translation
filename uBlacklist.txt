@@ -66,3 +66,4 @@
 *://*.softwareuser.asklobster.com/*
 *://*.domainelespailles.net/*
 *://*.ec-europe.org/*
+*://*.pakostnici.com/*
