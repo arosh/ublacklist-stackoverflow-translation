@@ -58,8 +58,8 @@
 | `issues-world.com` | https://issues-world.com/ftypesoverloadingargumentsimplic/ | https://stackoverflow.com/q/8828279 |  |
 | `ubuntu.buildwebhost.com` | https://ubuntu.buildwebhost.com/ja/q/214411 | https://askubuntu.com/questions/940701 |  |
 | `www.debugcn.com` | https://www.debugcn.com/ja/article/106110221.html | https://stackoverflow.com/questions/14452824 |  |
-| `*.sch22.org` | https://ja.sch22.org/248250-how-can-i-save-an-QIVEKL | https://stackoverflow.com/questions/14452824/how-can-i-save-an-image-with-pil |  |
-| `*.gupgallery.com` | https://ja.gupgallery.com/146367-how-can-i-save-an-OSXEJL | https://stackoverflow.com/questions/14452824/how-can-i-save-an-image-with-pil |  |
+| `*.sch22.org` | https://ja.sch22.org/248250-how-can-i-save-an-QIVEKL | https://stackoverflow.com/questions/14452824/ |  |
+| `*.gupgallery.com` | https://ja.gupgallery.com/146367-how-can-i-save-an-OSXEJL | https://stackoverflow.com/questions/14452824/ |  |
 | `*.amuddycup.com` | https://ja.amuddycup.com/162943-command-executed-via-ssh-does-JKQSGP-article | https://superuser.com/q/652729 |  |
 | `jpcloud.net` | https://jpcloud.net/q/zujieswz | https://stackoverflow.com/q/58033366 | It appears to have been closed, but it still shows up in Google searches. |
 | `buginfo.tech` | https://buginfo.tech/questions-2909265.htm | https://stackoverflow.com/questions/51891198/ | It appears to have been closed, but it still shows up in Google searches. |
@@ -68,7 +68,8 @@
 | `*.ecnf2016.org` | https://ja.ecnf2016.org/541514-install-scratchbox2-package-in-ubuntu-BODUKA-article | https://askubuntu.com/questions/940701 |  |
 | `cloud6.net` | https://cloud6.net/so/c%23/3081320 | https://stackoverflow.com/questions/32458588 | closed? |
 | `www.aimz8.com` | https://www.aimz8.com/jp/?p=32659 | https://stackoverflow.com/questions/16199734/ | closed? |
-| `*.softwareuser.asklobster.com` | https://ja.softwareuser.asklobster.com/posts/97342/7zip-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%BC%E3%83%89%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%82%92%E9%99%A4%E5%A4%96%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/ | https://superuser.com/questions/97342/7zip-command-line-exclude-folders-by-wildcard-pattern |  |
-| `*.domainelespailles.net` | https://ja.domainelespailles.net/654932-7zip-command-line-exclude-folders-JCTSXV-article | https://superuser.com/questions/97342/7zip-command-line-exclude-folders-by-wildcard-pattern |  |
+| `*.softwareuser.asklobster.com` | https://ja.softwareuser.asklobster.com/posts/97342/7zip-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%BC%E3%83%89%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%82%92%E9%99%A4%E5%A4%96%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/ | https://superuser.com/questions/97342/ |  |
+| `*.domainelespailles.net` | https://ja.domainelespailles.net/654932-7zip-command-line-exclude-folders-JCTSXV-article | https://superuser.com/questions/97342/ |  |
 | `*.ec-europe.org` | https://ja.ec-europe.org/423404-how-to-find-dev-name-MQPQQD | https://stackoverflow.com/questions/48291366 |  |
 | `*.pakostnici.com` | https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS | https://stackoverflow.com/questions/48291366 |  |
+| `try2explore.com` | https://try2explore.com/questions/jp/10003161 | https://stackoverflow.com/questions/806000/ |  |

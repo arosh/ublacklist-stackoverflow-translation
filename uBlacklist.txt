@@ -68,3 +68,4 @@
 *://*.domainelespailles.net/*
 *://*.ec-europe.org/*
 *://*.pakostnici.com/*
+*://try2explore.com/*
