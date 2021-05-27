@@ -122,6 +122,10 @@
   evidence: https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA
   original: https://stackoverflow.com/q/50951955
   note:
+- domain: '*.fluffyfables.com'
+  evidence: https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is
+  original: https://stackoverflow.com/q/50951955
+  note:
 - domain: 'www.fixes.pub'
   evidence: https://www.fixes.pub/program/38000.html
   original: https://stackoverflow.com/q/49289575
