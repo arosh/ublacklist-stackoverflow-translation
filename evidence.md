@@ -33,6 +33,7 @@
 | `alwaysemmyhope.com` | https://alwaysemmyhope.com/ja/linux/542609-glibc-elf-file-os-abi-invalid-linux-linux-kernel-glibc-abi.html | https://stackoverflow.com/q/7647818 |  |
 | `konnichiwasekai.com` | https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C | https://stackoverflow.com/q/64258999 |  |
 | `*.siwib.org` | https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA | https://stackoverflow.com/q/50951955 |  |
+| `*.fluffyfables.com` | https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is | https://stackoverflow.com/q/50951955 |  |
 | `www.fixes.pub` | https://www.fixes.pub/program/38000.html | https://stackoverflow.com/q/49289575 |  |
 | `knews.vip` | https://knews.vip/postcrawl/stack/view?site=so&key=76312086 | https://stackoverflow.com/q/63314288 |  |
 | `isolution.pro` | https://isolution.pro/q/an13230537/play-sutoa-kara-apuri-no-gokansei-matorikkusu-o-nyushusuru | https://android.stackexchange.com/q/232739 |  |
