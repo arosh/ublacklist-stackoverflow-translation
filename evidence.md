@@ -27,7 +27,7 @@
 | `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ | This site is used for redirection to `www.generacodice.com` |
 | `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ | This site is used for redirection to `www.generacodice.com` |
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 |  |
-| `ask.xiaolee.net` | https://ask.xiaolee.net/jp/questions/1020071 | https://stackoverflow.com/questions/719877/ |  |
+| `ask.xiaolee.net` | https://ask.xiaolee.net/jp/questions/1020071 | https://stackoverflow.com/questions/719877/ | redirects to `try2explore.com` |
 | `www.javaer101.com` | https://www.javaer101.com/ja/article/2084594.html | https://stackoverflow.com/questions/35394937/ |  |
 | `*.voidcc.com` | http://ja.voidcc.com/question/p-glmhmyzr-pk.html | https://stackoverflow.com/questions/48042872/ |  |
 | `alwaysemmyhope.com` | https://alwaysemmyhope.com/ja/linux/542609-glibc-elf-file-os-abi-invalid-linux-linux-kernel-glibc-abi.html | https://stackoverflow.com/q/7647818 |  |
