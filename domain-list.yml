@@ -101,7 +101,7 @@
 - domain: 'ask.xiaolee.net'
   evidence: https://ask.xiaolee.net/jp/questions/1020071
   original: https://stackoverflow.com/questions/719877/
-  note:
+  note: redirects to `try2explore.com`
 - domain: 'www.javaer101.com'
   evidence: https://www.javaer101.com/ja/article/2084594.html
   original: https://stackoverflow.com/questions/35394937/
