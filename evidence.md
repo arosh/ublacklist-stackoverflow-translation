@@ -73,3 +73,4 @@
 | `*.ec-europe.org` | https://ja.ec-europe.org/423404-how-to-find-dev-name-MQPQQD | https://stackoverflow.com/questions/48291366 |  |
 | `*.pakostnici.com` | https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS | https://stackoverflow.com/questions/48291366 |  |
 | `try2explore.com` | https://try2explore.com/questions/jp/10003161 | https://stackoverflow.com/questions/806000/ |  |
+| `laravelquestions.com` | https://laravelquestions.com/2021/03/29/csrf-token-mismatch-in-iframe-the-good-fix/ | https://stackoverflow.com/questions/66850521/ |  |

@@ -69,3 +69,4 @@
 *://*.ec-europe.org/*
 *://*.pakostnici.com/*
 *://try2explore.com/*
+*://laravelquestions.com/*
