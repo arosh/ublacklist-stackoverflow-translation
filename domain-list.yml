@@ -286,3 +286,7 @@
   evidence: https://laravelquestions.com/2021/03/29/csrf-token-mismatch-in-iframe-the-good-fix/
   original: https://stackoverflow.com/questions/66850521/
   node:
+- domain: 'itectec.com'
+  evidence: https://itectec.com/superuser/user-id-mapping-with-nfs-on-synology-nas/
+  original: https://superuser.com/questions/860553/user-id-mapping-with-nfs-on-synology-nas
+  note:
