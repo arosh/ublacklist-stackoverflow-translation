@@ -298,3 +298,7 @@
   evidence: https://stormcrow.dev/ja/questions/1030169
   original: https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
   note:
+- domain: '*.faithcov.org'
+  evidence: https://ja.faithcov.org/809259-difference-stringstream-and-ostringstream-GVMZFY
+  original: https://stackoverflow.com/questions/18251346/difference-stringstream-and-ostringstream
+  note:
