@@ -290,3 +290,7 @@
   evidence: https://itectec.com/superuser/user-id-mapping-with-nfs-on-synology-nas/
   original: https://superuser.com/questions/860553/user-id-mapping-with-nfs-on-synology-nas
   note:
+- domain: 'stackovergo.com'
+  evidence: https://stackovergo.com/ja/q/1063649/does-netbeans-recognize-javascript-prototypal-inheritance
+  original: https://stackoverflow.com/questions/4531523/does-netbeans-recognize-javascript-prototypal-inheritance
+  note:
