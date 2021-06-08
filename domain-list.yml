@@ -294,3 +294,7 @@
   evidence: https://stackovergo.com/ja/q/1063649/does-netbeans-recognize-javascript-prototypal-inheritance
   original: https://stackoverflow.com/questions/4531523/does-netbeans-recognize-javascript-prototypal-inheritance
   note:
+- domain: 'stormcrow.dev'
+  evidence: https://stormcrow.dev/ja/questions/1030169
+  original: https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
+  note:
