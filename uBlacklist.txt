@@ -73,3 +73,4 @@
 *://itectec.com/*
 *://stackovergo.com/*
 *://stormcrow.dev/*
+*://*.faithcov.org/*
