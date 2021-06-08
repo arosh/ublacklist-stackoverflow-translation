@@ -290,3 +290,7 @@
   evidence: https://itectec.com/superuser/user-id-mapping-with-nfs-on-synology-nas/
   original: https://superuser.com/questions/860553/user-id-mapping-with-nfs-on-synology-nas
   note:
+- domain: 'stormcrow.dev'
+  evidence: https://stormcrow.dev/ja/questions/1030169
+  original: https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
+  note:
