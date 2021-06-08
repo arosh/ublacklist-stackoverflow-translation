@@ -72,3 +72,4 @@
 *://laravelquestions.com/*
 *://itectec.com/*
 *://stackovergo.com/*
+*://stormcrow.dev/*
