@@ -74,4 +74,4 @@
 *://stackovergo.com/*
 *://stormcrow.dev/*
 *://*.faithcov.org/*
-*://*.noblenaz.org//*
+*://*.noblenaz.org/*
