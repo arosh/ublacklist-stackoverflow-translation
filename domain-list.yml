@@ -302,7 +302,7 @@
   evidence: https://ja.faithcov.org/809259-difference-stringstream-and-ostringstream-GVMZFY
   original: https://stackoverflow.com/questions/18251346/difference-stringstream-and-ostringstream
   note:
-- domain: '*.noblenaz.org/'
+- domain: '*.noblenaz.org'
   evidence: https://ja.noblenaz.org/236385-notify-osd-replaced-with-dunst-TEWTPA-article
   original: https://askubuntu.com/questions/634797/notify-osd-replaced-with-dunst-after-switching-back-to-unity-from-i3wm
   note:
