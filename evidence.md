@@ -78,3 +78,4 @@
 | `stackovergo.com` | https://stackovergo.com/ja/q/1063649/does-netbeans-recognize-javascript-prototypal-inheritance | https://stackoverflow.com/questions/4531523/does-netbeans-recognize-javascript-prototypal-inheritance |  |
 | `stormcrow.dev` | https://stormcrow.dev/ja/questions/1030169 | https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules |  |
 | `*.faithcov.org` | https://ja.faithcov.org/809259-difference-stringstream-and-ostringstream-GVMZFY | https://stackoverflow.com/questions/18251346/difference-stringstream-and-ostringstream |  |
+| `*.noblenaz.org/` | https://ja.noblenaz.org/236385-notify-osd-replaced-with-dunst-TEWTPA-article | https://askubuntu.com/questions/634797/notify-osd-replaced-with-dunst-after-switching-back-to-unity-from-i3wm |  |
