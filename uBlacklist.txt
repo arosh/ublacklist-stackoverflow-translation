@@ -75,3 +75,4 @@
 *://stormcrow.dev/*
 *://*.faithcov.org/*
 *://*.noblenaz.org/*
+*://www.py4u.net/*
