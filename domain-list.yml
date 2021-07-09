@@ -306,7 +306,7 @@
   evidence: https://ja.noblenaz.org/236385-notify-osd-replaced-with-dunst-TEWTPA-article
   original: https://askubuntu.com/questions/634797/notify-osd-replaced-with-dunst-after-switching-back-to-unity-from-i3wm
   note:
-- domain: '*.py4u.net'
+- domain: 'www.py4u.net'
   evidence: https://www.py4u.net/discuss/777925
   original: https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta
   note:
