@@ -62,8 +62,6 @@
 *://bugfix.plus/*
 *://qastack.ru/*
 *://*.ecnf2016.org/*
-*://cloud6.net/*
-*://www.aimz8.com/*
 *://*.softwareuser.asklobster.com/*
 *://*.domainelespailles.net/*
 *://*.ec-europe.org/*
