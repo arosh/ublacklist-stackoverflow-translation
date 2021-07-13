@@ -30,6 +30,10 @@ Google Chrome および Firefox の拡張機能である [uBlacklist](https://gi
 
 素晴らしい拡張機能である [uBlacklist](https://github.com/iorate/uBlacklist) の作者の [@iorate](https://github.com/iorate) 氏に感謝いたします。
 
+## 関連プロジェクト
+
+* [arosh/ublacklist-github-translation](https://github.com/arosh/ublacklist-github-translation)
+
 ## 関連リンク
 
 * [iorate/uBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/uBlacklist)
@@ -79,6 +83,10 @@ browsers.
 
 [@iorate](https://github.com/iorate) - for creating an exceptional extension
 [uBlacklist](https://github.com/iorate/uBlacklist)
+
+## Related projects
+
+* [arosh/ublacklist-github-translation](https://github.com/arosh/ublacklist-github-translation)
 
 ## Related links
 
