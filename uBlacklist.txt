@@ -16,7 +16,7 @@
 *://*.ojit.com/*
 *://base64.work/*
 *://steakrecords.com/*
-*://qa.codeflow.site/*
+*://*.codeflow.site/*
 *://codeguides.site/*
 *://overcoder.net/*
 *://coderoad.ru/*
