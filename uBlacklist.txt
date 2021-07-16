@@ -74,3 +74,5 @@
 *://*.faithcov.org/*
 *://*.noblenaz.org/*
 *://www.py4u.net/*
+*://*.culinarydegree.info/*
+*://*.safehavenpetrescue.org/*

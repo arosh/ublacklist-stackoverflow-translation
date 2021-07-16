@@ -78,3 +78,5 @@
 | `*.faithcov.org` | https://ja.faithcov.org/809259-difference-stringstream-and-ostringstream-GVMZFY | https://stackoverflow.com/questions/18251346/difference-stringstream-and-ostringstream |  |
 | `*.noblenaz.org` | https://ja.noblenaz.org/236385-notify-osd-replaced-with-dunst-TEWTPA-article | https://askubuntu.com/questions/634797/notify-osd-replaced-with-dunst-after-switching-back-to-unity-from-i3wm |  |
 | `www.py4u.net` | https://www.py4u.net/discuss/777925 | https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta |  |
+| `*.culinarydegree.info` | https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR | https://stackoverflow.com/q/13054371 |  |
+| `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 |  |
