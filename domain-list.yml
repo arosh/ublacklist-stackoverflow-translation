@@ -302,3 +302,11 @@
   evidence: https://www.py4u.net/discuss/777925
   original: https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta
   note:
+- domain: '*.culinarydegree.info'
+  evidence: https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR
+  original: https://stackoverflow.com/q/13054371
+  note:
+- domain: '*.safehavenpetrescue.org'
+  evidence: https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP
+  original: https://stackoverflow.com/q/63978924
+  note:
