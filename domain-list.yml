@@ -6,18 +6,18 @@
   evidence: https://kotaeta.com/53238761
   original: https://arduino.stackexchange.com/questions/21605/
   note:
-- domain: '*.stackovernet.com'
+- domain: 'stackovernet.com'
   evidence: https://stackovernet.com/ja/q/11992161
   original: https://stackoverflow.com/questions/43624696/
-  note: The domain is used for redirection to `stackovernet.xyz`
+  note: closed?
 - domain: 'stackoverrun.com'
   evidence: https://stackoverrun.com/ja/q/11992161
   original: https://stackoverflow.com/questions/43624696/
-  note: redirects to `stackovernet.xyz`
+  note: closed?
 - domain: '*.stackovernet.xyz'
   evidence: https://scicomp.stackovernet.xyz/ja/q/38
   original: https://scicomp.stackexchange.com/questions/83/
-  note:
+  note: closed?
 - domain: 'code.i-harness.com'
   evidence: https://code.i-harness.com/ja-jp/q/1cc697
   original: https://stackoverflow.com/questions/1885847/
@@ -69,7 +69,7 @@
 - domain: 'steakrecords.com'
   evidence: https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html
   original: https://stackoverflow.com/questions/31248509/
-  note:
+  note: closed?
 - domain: '*.codeflow.site'
   evidence: https://qa.codeflow.site/
   original:
@@ -101,7 +101,7 @@
 - domain: 'ask.xiaolee.net'
   evidence: https://ask.xiaolee.net/jp/questions/1020071
   original: https://stackoverflow.com/questions/719877/
-  note: redirects to `try2explore.com`
+  note: closed?
 - domain: 'www.javaer101.com'
   evidence: https://www.javaer101.com/ja/article/2084594.html
   original: https://stackoverflow.com/questions/35394937/
@@ -117,7 +117,7 @@
 - domain: 'konnichiwasekai.com'
   evidence: https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C
   original: https://stackoverflow.com/q/64258999
-  note:
+  note: closed?
 - domain: '*.siwib.org'
   evidence: https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA
   original: https://stackoverflow.com/q/50951955
@@ -146,6 +146,18 @@
   evidence: https://lycaeum.dev/ja/questions/29482
   original: https://stackoverflow.com/questions/29482
   note:
+- domain: 'brocante.dev'
+  evidence: https://brocante.dev/ja/questions/5223
+  original: https://stackoverflow.com/questions/5223
+  note:
+- domain: 'classmethod.dev'
+  evidence: https://classmethod.dev/ja/questions/1414365
+  original: https://stackoverflow.com/questions/1414365
+  note: This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.)
+- domain: 'stormcrow.dev'
+  evidence: https://stormcrow.dev/ja/questions/1030169
+  original: https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
+  note:
 - domain: 'codehero.jp'
   evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
   original: https://stackoverflow.com/questions/29482
@@ -157,11 +169,7 @@
 - domain: 'www.voidjp.com'
   evidence: https://www.voidjp.com/29482/
   original: https://stackoverflow.com/questions/29482
-  note:
-- domain: 'brocante.dev'
-  evidence: https://brocante.dev/ja/questions/5223
-  original: https://stackoverflow.com/questions/5223
-  note:
+  note: closed?
 - domain: '*.zsharp.org'
   evidence: https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT
   original: https://stackoverflow.com/questions/3143698
@@ -170,10 +178,6 @@
   evidence: https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ
   original: https://stackoverflow.com/questions/1414365
   note:
-- domain: 'classmethod.dev'
-  evidence: https://classmethod.dev/ja/questions/1414365
-  original: https://stackoverflow.com/questions/1414365
-  note: This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.)
 - domain: '*.waymanamechurch.org'
   evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
   original: https://stackoverflow.com/questions/784929
@@ -238,14 +242,6 @@
   evidence: https://jpcloud.net/q/zujieswz
   original: https://stackoverflow.com/q/58033366
   note: It appears to have been closed, but it still shows up in Google searches.
-- domain: 'buginfo.tech'
-  evidence: https://buginfo.tech/questions-2909265.htm
-  original: https://stackoverflow.com/questions/51891198/
-  note: It appears to have been closed, but it still shows up in Google searches.
-- domain: 'bugfix.plus'
-  evidence: https://bugfix.plus/info-83047.htm
-  original: https://stackoverflow.com/questions/61864520/
-  note: It appears to have been closed, but it still shows up in Google searches.
 - domain: 'qastack.ru'
   evidence: https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static
   original: https://stackoverflow.com/q/13150343
@@ -285,10 +281,6 @@
 - domain: 'stackovergo.com'
   evidence: https://stackovergo.com/ja/q/1063649/does-netbeans-recognize-javascript-prototypal-inheritance
   original: https://stackoverflow.com/questions/4531523/does-netbeans-recognize-javascript-prototypal-inheritance
-  note:
-- domain: 'stormcrow.dev'
-  evidence: https://stormcrow.dev/ja/questions/1030169
-  original: https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
   note:
 - domain: '*.faithcov.org'
   evidence: https://ja.faithcov.org/809259-difference-stringstream-and-ostringstream-GVMZFY
