@@ -1,6 +1,6 @@
 *://code-examples.net/*
 *://kotaeta.com/*
-*://*.stackovernet.com/*
+*://stackovernet.com/*
 *://stackoverrun.com/*
 *://*.stackovernet.xyz/*
 *://code.i-harness.com/*
@@ -35,13 +35,14 @@
 *://isolution.pro/*
 *://*.uwenku.com/*
 *://lycaeum.dev/*
+*://brocante.dev/*
+*://classmethod.dev/*
+*://stormcrow.dev/*
 *://codehero.jp/*
 *://*.athabasca-foto.com/*
 *://www.voidjp.com/*
-*://brocante.dev/*
 *://*.zsharp.org/*
 *://*.projectbackpack.org/*
-*://classmethod.dev/*
 *://*.waymanamechurch.org/*
 *://*.sunflowercreations.org/*
 *://*.cfadnc.org/*
@@ -58,8 +59,6 @@
 *://*.gupgallery.com/*
 *://*.amuddycup.com/*
 *://jpcloud.net/*
-*://buginfo.tech/*
-*://bugfix.plus/*
 *://qastack.ru/*
 *://*.ecnf2016.org/*
 *://*.softwareuser.asklobster.com/*
@@ -70,7 +69,6 @@
 *://laravelquestions.com/*
 *://itectec.com/*
 *://stackovergo.com/*
-*://stormcrow.dev/*
 *://*.faithcov.org/*
 *://*.noblenaz.org/*
 *://www.py4u.net/*
