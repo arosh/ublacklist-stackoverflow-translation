@@ -74,3 +74,4 @@
 *://www.py4u.net/*
 *://*.culinarydegree.info/*
 *://*.safehavenpetrescue.org/*
+*://www.kejisen.com/*

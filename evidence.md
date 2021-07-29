@@ -78,3 +78,4 @@
 | `www.py4u.net` | https://www.py4u.net/discuss/777925 | https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta |  |
 | `*.culinarydegree.info` | https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR | https://stackoverflow.com/q/13054371 |  |
 | `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 |  |
+| `www.kejisen.com` | https://www.kejisen.com/ja/article/191198197.html | https://stackoverflow.com/questions/64633223 |  |
