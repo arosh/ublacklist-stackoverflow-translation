@@ -1,8 +1,5 @@
 *://code-examples.net/*
 *://kotaeta.com/*
-*://stackovernet.com/*
-*://stackoverrun.com/*
-*://*.stackovernet.xyz/*
 *://code.i-harness.com/*
 *://living-sun.com/*
 *://tutorialmore.com/*
@@ -13,9 +10,6 @@
 *://www.it-mure.jp.net/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm.com.ru/*
-*://*.ojit.com/*
-*://base64.work/*
-*://steakrecords.com/*
 *://*.codeflow.site/*
 *://codeguides.site/*
 *://overcoder.net/*
@@ -23,11 +17,9 @@
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
-*://ask.xiaolee.net/*
 *://www.javaer101.com/*
 *://*.voidcc.com/*
 *://alwaysemmyhope.com/*
-*://konnichiwasekai.com/*
 *://*.siwib.org/*
 *://*.fluffyfables.com/*
 *://www.fixes.pub/*
@@ -40,7 +32,6 @@
 *://stormcrow.dev/*
 *://codehero.jp/*
 *://*.athabasca-foto.com/*
-*://www.voidjp.com/*
 *://*.zsharp.org/*
 *://*.projectbackpack.org/*
 *://*.waymanamechurch.org/*
@@ -52,13 +43,11 @@
 *://*.theshuggahpies.com/*
 *://*.pcbconline.org/*
 *://www.nuomiphp.com/*
-*://issues-world.com/*
 *://ubuntu.buildwebhost.com/*
 *://www.debugcn.com/*
 *://*.sch22.org/*
 *://*.gupgallery.com/*
 *://*.amuddycup.com/*
-*://jpcloud.net/*
 *://qastack.ru/*
 *://*.ecnf2016.org/*
 *://*.softwareuser.asklobster.com/*
@@ -75,3 +64,14 @@
 *://*.culinarydegree.info/*
 *://*.safehavenpetrescue.org/*
 *://www.kejisen.com/*
+*://stackovernet.com/*
+*://stackoverrun.com/*
+*://*.stackovernet.xyz/*
+*://*.ojit.com/*
+*://base64.work/*
+*://steakrecords.com/*
+*://ask.xiaolee.net/*
+*://konnichiwasekai.com/*
+*://www.voidjp.com/*
+*://issues-world.com/*
+*://jpcloud.net/*
