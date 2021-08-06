@@ -61,11 +61,11 @@
 - domain: '*.ojit.com'
   evidence: https://ja.ojit.com/so/linux/137072
   original: https://stackoverflow.com/questions/3129608/
-  note: The domain is used for redirection to `base64.work`
+  note: closed?
 - domain: 'base64.work'
   evidence: https://base64.work/so/linux/137072
   original: https://stackoverflow.com/questions/3129608/
-  note:
+  note: closed?
 - domain: 'steakrecords.com'
   evidence: https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html
   original: https://stackoverflow.com/questions/31248509/
@@ -217,7 +217,7 @@
 - domain: 'issues-world.com'
   evidence: https://issues-world.com/ftypesoverloadingargumentsimplic/
   original: https://stackoverflow.com/q/8828279
-  note:
+  note: closed?
 - domain: 'ubuntu.buildwebhost.com'
   evidence: https://ubuntu.buildwebhost.com/ja/q/214411
   original: https://askubuntu.com/questions/940701
