@@ -6,18 +6,6 @@
   evidence: https://kotaeta.com/53238761
   original: https://arduino.stackexchange.com/questions/21605/
   note:
-- domain: 'stackovernet.com'
-  evidence: https://stackovernet.com/ja/q/11992161
-  original: https://stackoverflow.com/questions/43624696/
-  note: closed?
-- domain: 'stackoverrun.com'
-  evidence: https://stackoverrun.com/ja/q/11992161
-  original: https://stackoverflow.com/questions/43624696/
-  note: closed?
-- domain: '*.stackovernet.xyz'
-  evidence: https://scicomp.stackovernet.xyz/ja/q/38
-  original: https://scicomp.stackexchange.com/questions/83/
-  note: closed?
 - domain: 'code.i-harness.com'
   evidence: https://code.i-harness.com/ja-jp/q/1cc697
   original: https://stackoverflow.com/questions/1885847/
@@ -58,18 +46,6 @@
   evidence: https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
   original: https://stackoverflow.com/q/3367415
   note:
-- domain: '*.ojit.com'
-  evidence: https://ja.ojit.com/so/linux/137072
-  original: https://stackoverflow.com/questions/3129608/
-  note: closed?
-- domain: 'base64.work'
-  evidence: https://base64.work/so/linux/137072
-  original: https://stackoverflow.com/questions/3129608/
-  note: closed?
-- domain: 'steakrecords.com'
-  evidence: https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html
-  original: https://stackoverflow.com/questions/31248509/
-  note: closed?
 - domain: '*.codeflow.site'
   evidence: https://qa.codeflow.site/
   original:
@@ -98,10 +74,6 @@
   evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
   original: https://stackoverflow.com/questions/1439719
   note:
-- domain: 'ask.xiaolee.net'
-  evidence: https://ask.xiaolee.net/jp/questions/1020071
-  original: https://stackoverflow.com/questions/719877/
-  note: closed?
 - domain: 'www.javaer101.com'
   evidence: https://www.javaer101.com/ja/article/2084594.html
   original: https://stackoverflow.com/questions/35394937/
@@ -114,10 +86,6 @@
   evidence: https://alwaysemmyhope.com/ja/linux/542609-glibc-elf-file-os-abi-invalid-linux-linux-kernel-glibc-abi.html
   original: https://stackoverflow.com/q/7647818
   note:
-- domain: 'konnichiwasekai.com'
-  evidence: https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C
-  original: https://stackoverflow.com/q/64258999
-  note: closed?
 - domain: '*.siwib.org'
   evidence: https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA
   original: https://stackoverflow.com/q/50951955
@@ -166,10 +134,6 @@
   evidence: https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS
   original: https://stackoverflow.com/questions/604424
   note:
-- domain: 'www.voidjp.com'
-  evidence: https://www.voidjp.com/29482/
-  original: https://stackoverflow.com/questions/29482
-  note: closed?
 - domain: '*.zsharp.org'
   evidence: https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT
   original: https://stackoverflow.com/questions/3143698
@@ -214,10 +178,6 @@
   evidence: https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html
   original: https://stackoverflow.com/questions/60451458
   note:
-- domain: 'issues-world.com'
-  evidence: https://issues-world.com/ftypesoverloadingargumentsimplic/
-  original: https://stackoverflow.com/q/8828279
-  note: closed?
 - domain: 'ubuntu.buildwebhost.com'
   evidence: https://ubuntu.buildwebhost.com/ja/q/214411
   original: https://askubuntu.com/questions/940701
@@ -238,10 +198,6 @@
   evidence: https://ja.amuddycup.com/162943-command-executed-via-ssh-does-JKQSGP-article
   original: https://superuser.com/q/652729
   note:
-- domain: 'jpcloud.net'
-  evidence: https://jpcloud.net/q/zujieswz
-  original: https://stackoverflow.com/q/58033366
-  note: It appears to have been closed, but it still shows up in Google searches.
 - domain: 'qastack.ru'
   evidence: https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static
   original: https://stackoverflow.com/q/13150343
@@ -306,3 +262,47 @@
   evidence: https://www.kejisen.com/ja/article/191198197.html
   original: https://stackoverflow.com/questions/64633223
   note:
+- domain: 'stackovernet.com'
+  evidence: https://stackovernet.com/ja/q/11992161
+  original: https://stackoverflow.com/questions/43624696/
+  note: closed?
+- domain: 'stackoverrun.com'
+  evidence: https://stackoverrun.com/ja/q/11992161
+  original: https://stackoverflow.com/questions/43624696/
+  note: closed?
+- domain: '*.stackovernet.xyz'
+  evidence: https://scicomp.stackovernet.xyz/ja/q/38
+  original: https://scicomp.stackexchange.com/questions/83/
+  note: closed?
+- domain: '*.ojit.com'
+  evidence: https://ja.ojit.com/so/linux/137072
+  original: https://stackoverflow.com/questions/3129608/
+  note: closed?
+- domain: 'base64.work'
+  evidence: https://base64.work/so/linux/137072
+  original: https://stackoverflow.com/questions/3129608/
+  note: closed?
+- domain: 'steakrecords.com'
+  evidence: https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html
+  original: https://stackoverflow.com/questions/31248509/
+  note: closed?
+- domain: 'ask.xiaolee.net'
+  evidence: https://ask.xiaolee.net/jp/questions/1020071
+  original: https://stackoverflow.com/questions/719877/
+  note: closed?
+- domain: 'konnichiwasekai.com'
+  evidence: https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C
+  original: https://stackoverflow.com/q/64258999
+  note: closed?
+- domain: 'www.voidjp.com'
+  evidence: https://www.voidjp.com/29482/
+  original: https://stackoverflow.com/questions/29482
+  note: closed?
+- domain: 'issues-world.com'
+  evidence: https://issues-world.com/ftypesoverloadingargumentsimplic/
+  original: https://stackoverflow.com/q/8828279
+  note: closed?
+- domain: 'jpcloud.net'
+  evidence: https://jpcloud.net/q/zujieswz
+  original: https://stackoverflow.com/q/58033366
+  note: It appears to have been closed, but it still shows up in Google searches.
