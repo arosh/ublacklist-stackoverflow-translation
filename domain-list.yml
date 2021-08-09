@@ -262,6 +262,10 @@
   evidence: https://www.kejisen.com/ja/article/191198197.html
   original: https://stackoverflow.com/questions/64633223
   note:
+- domain: 'qapicks.com'
+  evidence: https://qapicks.com/question/1668131-87a39319fa31
+  original: https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu
+  note:
 - domain: 'stackovernet.com'
   evidence: https://stackovernet.com/ja/q/11992161
   original: https://stackoverflow.com/questions/43624696/
