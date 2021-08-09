@@ -65,6 +65,7 @@
 *://*.safehavenpetrescue.org/*
 *://www.kejisen.com/*
 *://qapicks.com/*
+*://issues-world.com/*
 *://stackovernet.com/*
 *://stackoverrun.com/*
 *://*.stackovernet.xyz/*
@@ -74,5 +75,4 @@
 *://ask.xiaolee.net/*
 *://konnichiwasekai.com/*
 *://www.voidjp.com/*
-*://issues-world.com/*
 *://jpcloud.net/*
