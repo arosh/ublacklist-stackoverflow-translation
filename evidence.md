@@ -68,6 +68,7 @@
 | `*.culinarydegree.info` | https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR | https://stackoverflow.com/q/13054371 |  |
 | `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 |  |
 | `www.kejisen.com` | https://www.kejisen.com/ja/article/191198197.html | https://stackoverflow.com/questions/64633223 |  |
+| `qapicks.com` | https://qapicks.com/question/1668131-87a39319fa31 | https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu |  |
 | `stackovernet.com` | https://stackovernet.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/ | closed? |
 | `stackoverrun.com` | https://stackoverrun.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/ | closed? |
 | `*.stackovernet.xyz` | https://scicomp.stackovernet.xyz/ja/q/38 | https://scicomp.stackexchange.com/questions/83/ | closed? |

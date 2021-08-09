@@ -64,6 +64,7 @@
 *://*.culinarydegree.info/*
 *://*.safehavenpetrescue.org/*
 *://www.kejisen.com/*
+*://qapicks.com/*
 *://stackovernet.com/*
 *://stackoverrun.com/*
 *://*.stackovernet.xyz/*
