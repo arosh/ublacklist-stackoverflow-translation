@@ -4,6 +4,7 @@
 *://living-sun.com/*
 *://tutorialmore.com/*
 *://qastack.jp/*
+*://qastack.ru/*
 *://qastack.it/*
 *://www.coder.work/*
 *://www.it-swarm-ja.tech/*
@@ -49,7 +50,6 @@
 *://*.sch22.org/*
 *://*.gupgallery.com/*
 *://*.amuddycup.com/*
-*://qastack.ru/*
 *://*.ecnf2016.org/*
 *://*.softwareuser.asklobster.com/*
 *://*.domainelespailles.net/*

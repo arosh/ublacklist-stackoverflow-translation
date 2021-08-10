@@ -8,6 +8,7 @@
 | `living-sun.com` | https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html | https://stackoverflow.com/questions/1599464/ |  |
 | `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ |  |
 | `qastack.jp` | https://qastack.jp/programming/11227809/ | https://stackoverflow.com/questions/11227809/ |  |
+| `qastack.ru` | https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static | https://stackoverflow.com/q/13150343 |  |
 | `qastack.it` | https://qastack.it/programming/11227809/ | https://stackoverflow.com/questions/11227809/ |  |
 | `www.coder.work` | https://www.coder.work/article/3794436 | https://stackoverflow.com/questions/13375357/ |  |
 | `www.it-swarm-ja.tech` | https://www.it-swarm-ja.tech/ja/linux/944475555/ | https://superuser.com/questions/1347723/ | redirects to `www.it-mure.jp.net` |
@@ -53,7 +54,6 @@
 | `*.sch22.org` | https://ja.sch22.org/248250-how-can-i-save-an-QIVEKL | https://stackoverflow.com/questions/14452824/ |  |
 | `*.gupgallery.com` | https://ja.gupgallery.com/146367-how-can-i-save-an-OSXEJL | https://stackoverflow.com/questions/14452824/ |  |
 | `*.amuddycup.com` | https://ja.amuddycup.com/162943-command-executed-via-ssh-does-JKQSGP-article | https://superuser.com/q/652729 |  |
-| `qastack.ru` | https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static | https://stackoverflow.com/q/13150343 |  |
 | `*.ecnf2016.org` | https://ja.ecnf2016.org/541514-install-scratchbox2-package-in-ubuntu-BODUKA-article | https://askubuntu.com/questions/940701 |  |
 | `*.softwareuser.asklobster.com` | https://ja.softwareuser.asklobster.com/posts/97342/7zip-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%BC%E3%83%89%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%82%92%E9%99%A4%E5%A4%96%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/ | https://superuser.com/questions/97342/ |  |
 | `*.domainelespailles.net` | https://ja.domainelespailles.net/654932-7zip-command-line-exclude-folders-JCTSXV-article | https://superuser.com/questions/97342/ |  |
