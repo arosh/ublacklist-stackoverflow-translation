@@ -4,6 +4,7 @@
 *://living-sun.com/*
 *://tutorialmore.com/*
 *://qastack.jp/*
+*://qastack.it/*
 *://www.coder.work/*
 *://www.it-swarm-ja.tech/*
 *://www.it-swarm.jp.net/*

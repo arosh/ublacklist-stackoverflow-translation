@@ -8,6 +8,7 @@
 | `living-sun.com` | https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html | https://stackoverflow.com/questions/1599464/ |  |
 | `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ |  |
 | `qastack.jp` | https://qastack.jp/programming/11227809/ | https://stackoverflow.com/questions/11227809/ |  |
+| `qastack.it` | https://qastack.it/programming/11227809/ | https://stackoverflow.com/questions/11227809/ |  |
 | `www.coder.work` | https://www.coder.work/article/3794436 | https://stackoverflow.com/questions/13375357/ |  |
 | `www.it-swarm-ja.tech` | https://www.it-swarm-ja.tech/ja/linux/944475555/ | https://superuser.com/questions/1347723/ | redirects to `www.it-mure.jp.net` |
 | `www.it-swarm.jp.net` | https://www.it-swarm.jp.net/ja/google-chrome/chrome%e3%81%af%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%a9%e3%81%93%e3%81%ab%e4%bf%9d%e5%ad%98%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%ef%bc%9f/1071750676/ | https://stackoverflow.com/q/14543896 | redirects to `www.it-mure.jp.net` |
