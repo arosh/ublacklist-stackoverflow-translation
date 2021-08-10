@@ -22,6 +22,10 @@
   evidence: https://qastack.jp/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
   note:
+- domain: 'qastack.ru'
+  evidence: https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static
+  original: https://stackoverflow.com/q/13150343
+  note:
 - domain: 'qastack.it'
   evidence: https://qastack.it/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
@@ -201,10 +205,6 @@
 - domain: '*.amuddycup.com'
   evidence: https://ja.amuddycup.com/162943-command-executed-via-ssh-does-JKQSGP-article
   original: https://superuser.com/q/652729
-  note:
-- domain: 'qastack.ru'
-  evidence: https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static
-  original: https://stackoverflow.com/q/13150343
   note:
 - domain: '*.ecnf2016.org'
   evidence: https://ja.ecnf2016.org/541514-install-scratchbox2-package-in-ubuntu-BODUKA-article
