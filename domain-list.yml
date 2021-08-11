@@ -86,18 +86,6 @@
   evidence: https://qastack.id/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
   note:
-- domain: 'qastack.pk'
-  evidence: https://qastack.pk/programming/11227809/
-  original: https://stackoverflow.com/questions/11227809/
-  note: Misconfigured certificate and server
-- domain: 'qastack.es'
-  evidence: https://qastack.es/programming/11227809/
-  original: https://stackoverflow.com/questions/11227809/
-  note: Misconfigured certificate and server
-- domain: 'qastack.us'
-  evidence: https://qastack.us/programming/11227809/
-  original: https://stackoverflow.com/questions/11227809/
-  note: Misconfigured server, redirects to ww6.qastack.us
 - domain: 'www.coder.work'
   evidence: https://www.coder.work/article/3794436
   original: https://stackoverflow.com/questions/13375357/
