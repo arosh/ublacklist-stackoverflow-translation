@@ -81,6 +81,7 @@
 *://www.kejisen.com/*
 *://qapicks.com/*
 *://issues-world.com/*
+*://*.narkive.jp/*
 *://stackovernet.com/*
 *://stackoverrun.com/*
 *://*.stackovernet.xyz/*
