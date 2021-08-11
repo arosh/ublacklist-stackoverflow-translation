@@ -330,6 +330,10 @@
   evidence: https://issues-world.com/ftypesoverloadingargumentsimplic/
   original: https://stackoverflow.com/q/8828279
   note:
+- domain: '*.narkive.jp'
+  evidence: https://security.narkive.jp/oBrsVjXh
+  original: https://security.stackexchange.com/questions/373/open-source-penetration-test-automation
+  note:
 - domain: 'stackovernet.com'
   evidence: https://stackovernet.com/ja/q/11992161
   original: https://stackoverflow.com/questions/43624696/
