@@ -334,6 +334,10 @@
   evidence: https://security.narkive.jp/oBrsVjXh
   original: https://security.stackexchange.com/questions/373/open-source-penetration-test-automation
   note:
+- domain: '*.ourladylakes.org'
+  evidence: https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP
+  original: https://stackoverflow.com/questions/2193412/xslt-not-contains-check
+  note:
 - domain: 'stackovernet.com'
   evidence: https://stackovernet.com/ja/q/11992161
   original: https://stackoverflow.com/questions/43624696/
