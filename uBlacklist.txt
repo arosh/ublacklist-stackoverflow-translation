@@ -83,6 +83,7 @@
 *://issues-world.com/*
 *://*.narkive.jp/*
 *://*.ourladylakes.org/*
+*://intellipaat.com/*
 *://stackovernet.com/*
 *://stackoverrun.com/*
 *://*.stackovernet.xyz/*

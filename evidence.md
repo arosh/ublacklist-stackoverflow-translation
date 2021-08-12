@@ -87,6 +87,7 @@
 | `issues-world.com` | https://issues-world.com/ftypesoverloadingargumentsimplic/ | https://stackoverflow.com/q/8828279 |  |
 | `*.narkive.jp` | https://security.narkive.jp/oBrsVjXh | https://security.stackexchange.com/questions/373/open-source-penetration-test-automation |  |
 | `*.ourladylakes.org` | https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP | https://stackoverflow.com/questions/2193412/xslt-not-contains-check |  |
+| `intellipaat.com` | https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random | https://stackoverflow.com/questions/30030659/ |  |
 | `stackovernet.com` | https://stackovernet.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/ | closed? |
 | `stackoverrun.com` | https://stackoverrun.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/ | closed? |
 | `*.stackovernet.xyz` | https://scicomp.stackovernet.xyz/ja/q/38 | https://scicomp.stackexchange.com/questions/83/ | closed? |
