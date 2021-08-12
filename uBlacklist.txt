@@ -82,6 +82,7 @@
 *://qapicks.com/*
 *://issues-world.com/*
 *://*.narkive.jp/*
+*://*.ourladylakes.org/*
 *://stackovernet.com/*
 *://stackoverrun.com/*
 *://*.stackovernet.xyz/*

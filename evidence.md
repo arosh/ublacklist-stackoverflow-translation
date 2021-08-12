@@ -86,6 +86,7 @@
 | `qapicks.com` | https://qapicks.com/question/1668131-87a39319fa31 | https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu |  |
 | `issues-world.com` | https://issues-world.com/ftypesoverloadingargumentsimplic/ | https://stackoverflow.com/q/8828279 |  |
 | `*.narkive.jp` | https://security.narkive.jp/oBrsVjXh | https://security.stackexchange.com/questions/373/open-source-penetration-test-automation |  |
+| `*.ourladylakes.org` | https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP | https://stackoverflow.com/questions/2193412/xslt-not-contains-check |  |
 | `stackovernet.com` | https://stackovernet.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/ | closed? |
 | `stackoverrun.com` | https://stackoverrun.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/ | closed? |
 | `*.stackovernet.xyz` | https://scicomp.stackovernet.xyz/ja/q/38 | https://scicomp.stackexchange.com/questions/83/ | closed? |
