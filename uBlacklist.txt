@@ -84,6 +84,7 @@
 *://*.narkive.jp/*
 *://*.ourladylakes.org/*
 *://intellipaat.com/*
+*://article.docway.net/*
 *://stackovernet.com/*
 *://stackoverrun.com/*
 *://*.stackovernet.xyz/*
