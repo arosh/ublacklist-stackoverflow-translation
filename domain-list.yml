@@ -190,10 +190,6 @@
   evidence: https://stormcrow.dev/ja/questions/1030169
   original: https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
   note:
-- domain: 'codehero.jp'
-  evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
-  original: https://stackoverflow.com/questions/29482
-  note:
 - domain: '*.athabasca-foto.com'
   evidence: https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS
   original: https://stackoverflow.com/questions/604424
@@ -346,43 +342,19 @@
   evidence: http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7
   original: https://stackoverflow.com/q/7106679
   note:
-- domain: 'stackovernet.com'
-  evidence: https://stackovernet.com/ja/q/11992161
-  original: https://stackoverflow.com/questions/43624696/
-  note: closed?
-- domain: 'stackoverrun.com'
-  evidence: https://stackoverrun.com/ja/q/11992161
-  original: https://stackoverflow.com/questions/43624696/
-  note: closed?
 - domain: '*.stackovernet.xyz'
   evidence: https://scicomp.stackovernet.xyz/ja/q/38
   original: https://scicomp.stackexchange.com/questions/83/
-  note: closed?
-- domain: '*.ojit.com'
-  evidence: https://ja.ojit.com/so/linux/137072
-  original: https://stackoverflow.com/questions/3129608/
-  note: closed?
-- domain: 'base64.work'
-  evidence: https://base64.work/so/linux/137072
-  original: https://stackoverflow.com/questions/3129608/
-  note: closed?
-- domain: 'steakrecords.com'
-  evidence: https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html
-  original: https://stackoverflow.com/questions/31248509/
-  note: closed?
-- domain: 'ask.xiaolee.net'
-  evidence: https://ask.xiaolee.net/jp/questions/1020071
-  original: https://stackoverflow.com/questions/719877/
-  note: closed?
+  note: It appears to have been closed, but it still shows up in Google searches.
 - domain: 'konnichiwasekai.com'
   evidence: https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C
   original: https://stackoverflow.com/q/64258999
-  note: closed?
+  note: It appears to have been closed, but it still shows up in Google searches.
 - domain: 'www.voidjp.com'
   evidence: https://www.voidjp.com/29482/
   original: https://stackoverflow.com/questions/29482
-  note: closed?
-- domain: 'jpcloud.net'
-  evidence: https://jpcloud.net/q/zujieswz
-  original: https://stackoverflow.com/q/58033366
   note: It appears to have been closed, but it still shows up in Google searches.
+- domain: 'codehero.jp'
+  evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
+  original: https://stackoverflow.com/questions/29482
+  note: closed?
