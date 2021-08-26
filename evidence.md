@@ -50,7 +50,6 @@
 | `brocante.dev` | https://brocante.dev/ja/questions/5223 | https://stackoverflow.com/questions/5223 |  |
 | `classmethod.dev` | https://classmethod.dev/ja/questions/1414365 | https://stackoverflow.com/questions/1414365 | This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.) |
 | `stormcrow.dev` | https://stormcrow.dev/ja/questions/1030169 | https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules |  |
-| `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 |  |
 | `*.athabasca-foto.com` | https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS | https://stackoverflow.com/questions/604424 |  |
 | `*.zsharp.org` | https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT | https://stackoverflow.com/questions/3143698 |  |
 | `*.projectbackpack.org` | https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ | https://stackoverflow.com/questions/1414365 |  |
@@ -89,13 +88,7 @@
 | `*.ourladylakes.org` | https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP | https://stackoverflow.com/questions/2193412/xslt-not-contains-check |  |
 | `intellipaat.com` | https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random | https://stackoverflow.com/questions/30030659/ |  |
 | `article.docway.net` | http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 |  |
-| `stackovernet.com` | https://stackovernet.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/ | closed? |
-| `stackoverrun.com` | https://stackoverrun.com/ja/q/11992161 | https://stackoverflow.com/questions/43624696/ | closed? |
-| `*.stackovernet.xyz` | https://scicomp.stackovernet.xyz/ja/q/38 | https://scicomp.stackexchange.com/questions/83/ | closed? |
-| `*.ojit.com` | https://ja.ojit.com/so/linux/137072 | https://stackoverflow.com/questions/3129608/ | closed? |
-| `base64.work` | https://base64.work/so/linux/137072 | https://stackoverflow.com/questions/3129608/ | closed? |
-| `steakrecords.com` | https://steakrecords.com/ja/856480-easyui-and-foundation-conflict-zurb-foundation-jquery-easyui.html | https://stackoverflow.com/questions/31248509/ | closed? |
-| `ask.xiaolee.net` | https://ask.xiaolee.net/jp/questions/1020071 | https://stackoverflow.com/questions/719877/ | closed? |
-| `konnichiwasekai.com` | https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C | https://stackoverflow.com/q/64258999 | closed? |
-| `www.voidjp.com` | https://www.voidjp.com/29482/ | https://stackoverflow.com/questions/29482 | closed? |
-| `jpcloud.net` | https://jpcloud.net/q/zujieswz | https://stackoverflow.com/q/58033366 | It appears to have been closed, but it still shows up in Google searches. |
+| `*.stackovernet.xyz` | https://scicomp.stackovernet.xyz/ja/q/38 | https://scicomp.stackexchange.com/questions/83/ | It appears to have been closed, but it still shows up in Google searches. |
+| `konnichiwasekai.com` | https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C | https://stackoverflow.com/q/64258999 | It appears to have been closed, but it still shows up in Google searches. |
+| `www.voidjp.com` | https://www.voidjp.com/29482/ | https://stackoverflow.com/questions/29482 | It appears to have been closed, but it still shows up in Google searches. |
+| `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 | closed? |

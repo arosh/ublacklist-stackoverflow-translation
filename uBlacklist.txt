@@ -46,7 +46,6 @@
 *://brocante.dev/*
 *://classmethod.dev/*
 *://stormcrow.dev/*
-*://codehero.jp/*
 *://*.athabasca-foto.com/*
 *://*.zsharp.org/*
 *://*.projectbackpack.org/*
@@ -85,13 +84,7 @@
 *://*.ourladylakes.org/*
 *://intellipaat.com/*
 *://article.docway.net/*
-*://stackovernet.com/*
-*://stackoverrun.com/*
 *://*.stackovernet.xyz/*
-*://*.ojit.com/*
-*://base64.work/*
-*://steakrecords.com/*
-*://ask.xiaolee.net/*
 *://konnichiwasekai.com/*
 *://www.voidjp.com/*
-*://jpcloud.net/*
+*://codehero.jp/*
