@@ -92,3 +92,4 @@
 | `konnichiwasekai.com` | https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C | https://stackoverflow.com/q/64258999 | It appears to have been closed, but it still shows up in Google searches. |
 | `www.voidjp.com` | https://www.voidjp.com/29482/ | https://stackoverflow.com/questions/29482 | It appears to have been closed, but it still shows up in Google searches. |
 | `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 | closed? |
+| `www.fixes.pub` | https://www.fixes.pub/program/559797.html | https://stackoverflow.com/questions/60850870/ |  |
