@@ -342,6 +342,13 @@
   evidence: http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7
   original: https://stackoverflow.com/q/7106679
   note:
+- domain: 'codehero.jp'
+  evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
+  original: https://stackoverflow.com/questions/29482
+  note:
+- domain: 'quabr.com'
+  evidence: https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working
+  original: https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working
 - domain: '*.stackovernet.xyz'
   evidence: https://scicomp.stackovernet.xyz/ja/q/38
   original: https://scicomp.stackexchange.com/questions/83/
@@ -354,10 +361,3 @@
   evidence: https://www.voidjp.com/29482/
   original: https://stackoverflow.com/questions/29482
   note: It appears to have been closed, but it still shows up in Google searches.
-- domain: 'codehero.jp'
-  evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
-  original: https://stackoverflow.com/questions/29482
-  note: closed?
-- domain: 'quabr.com'
-  evidence: https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working
-  original: https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working
