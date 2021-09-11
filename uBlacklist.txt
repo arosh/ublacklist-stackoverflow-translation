@@ -84,8 +84,8 @@
 *://*.ourladylakes.org/*
 *://intellipaat.com/*
 *://article.docway.net/*
+*://codehero.jp/*
+*://quabr.com/*
 *://*.stackovernet.xyz/*
 *://konnichiwasekai.com/*
 *://www.voidjp.com/*
-*://codehero.jp/*
-*://quabr.com/*
