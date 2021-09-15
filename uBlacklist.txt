@@ -86,6 +86,7 @@
 *://article.docway.net/*
 *://codehero.jp/*
 *://quabr.com/*
+*://www.webdevqa.jp.net/*
 *://*.stackovernet.xyz/*
 *://konnichiwasekai.com/*
 *://www.voidjp.com/*
