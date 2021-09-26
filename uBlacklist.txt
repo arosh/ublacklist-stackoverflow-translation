@@ -87,6 +87,7 @@
 *://codehero.jp/*
 *://quabr.com/*
 *://www.webdevqa.jp.net/*
+*://qapicks.com/*
 *://*.stackovernet.xyz/*
 *://konnichiwasekai.com/*
 *://www.voidjp.com/*
