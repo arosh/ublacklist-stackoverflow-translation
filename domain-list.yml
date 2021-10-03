@@ -354,15 +354,3 @@
 - domain: 'qapicks.com'
   evidence: https://qapicks.com/question/472662-71fa6656fedd
   original: https://superuser.com/q/472662
-- domain: '*.stackovernet.xyz'
-  evidence: https://scicomp.stackovernet.xyz/ja/q/38
-  original: https://scicomp.stackexchange.com/questions/83/
-  note: It appears to have been closed, but it still shows up in Google searches.
-- domain: 'konnichiwasekai.com'
-  evidence: https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C
-  original: https://stackoverflow.com/q/64258999
-  note: It appears to have been closed, but it still shows up in Google searches.
-- domain: 'www.voidjp.com'
-  evidence: https://www.voidjp.com/29482/
-  original: https://stackoverflow.com/questions/29482
-  note: It appears to have been closed, but it still shows up in Google searches.
