@@ -92,6 +92,3 @@
 | `quabr.com` | https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working | https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working |  |
 | `www.webdevqa.jp.net` | https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/ | https://unix.stackexchange.com/q/419198 |  |
 | `qapicks.com` | https://qapicks.com/question/472662-71fa6656fedd | https://superuser.com/q/472662 |  |
-| `*.stackovernet.xyz` | https://scicomp.stackovernet.xyz/ja/q/38 | https://scicomp.stackexchange.com/questions/83/ | It appears to have been closed, but it still shows up in Google searches. |
-| `konnichiwasekai.com` | https://konnichiwasekai.com/61198544/Android%E3%81%A7FAB%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E9%9A%9B%E3%81%AE%E7%A7%BB%E8%A1%8C | https://stackoverflow.com/q/64258999 | It appears to have been closed, but it still shows up in Google searches. |
-| `www.voidjp.com` | https://www.voidjp.com/29482/ | https://stackoverflow.com/questions/29482 | It appears to have been closed, but it still shows up in Google searches. |
