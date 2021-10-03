@@ -77,7 +77,6 @@
 *://www.py4u.net/*
 *://*.culinarydegree.info/*
 *://*.safehavenpetrescue.org/*
-*://www.kejisen.com/*
 *://qapicks.com/*
 *://issues-world.com/*
 *://*.narkive.jp/*

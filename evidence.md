@@ -81,7 +81,6 @@
 | `www.py4u.net` | https://www.py4u.net/discuss/777925 | https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta |  |
 | `*.culinarydegree.info` | https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR | https://stackoverflow.com/q/13054371 |  |
 | `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 |  |
-| `www.kejisen.com` | https://www.kejisen.com/ja/article/191198197.html | https://stackoverflow.com/questions/64633223 |  |
 | `qapicks.com` | https://qapicks.com/question/1668131-87a39319fa31 | https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu |  |
 | `issues-world.com` | https://issues-world.com/ftypesoverloadingargumentsimplic/ | https://stackoverflow.com/q/8828279 |  |
 | `*.narkive.jp` | https://security.narkive.jp/oBrsVjXh | https://security.stackexchange.com/questions/373/open-source-penetration-test-automation |  |
