@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - domain-list.yml
+      - .github/workflows/generate-files.yml
 
 jobs:
   generate-files:
@@ -15,6 +16,7 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.0.0'
+
       - name: Generate uBlacklist.txt
         run: |
           cat domain-list.yml | \
@@ -22,6 +24,7 @@ jobs:
             puts YAML.load(STDIN).map { "*://#{_1["domain"]}/*" }
           ' \
           > uBlacklist.txt
+
       - name: Generate evidence.md
         run: |
           cat domain-list.yml | \
@@ -33,6 +36,11 @@ jobs:
             puts YAML.load(STDIN).map { "| `#{_1["domain"]}` | #{_1["evidence"]} | #{_1["original"]} | #{_1["note"]&.strip} |" }
           ' \
           > evidence.md
+
+      - name: Run contrib/ublock
+        working-directory: contrib/ublock
+        run: ./generate.sh
+
       - name: Push generated files
         run: |
           git config user.name github-actions
