@@ -2,9 +2,7 @@
 
 uBlacklist が対応している5つの検索エンジン (Google, Bing, DuckDuckGo, Ecosia, Startpage) の検索結果から Stack Overflow の機械翻訳サイトを除外します。Firefox for Android にインストールした uBlock Origin で購読することを想定しています。
 
-このリポジトリは、[arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) のフォークです。
-
-[購読する](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Fhirorpt%2Fubo-stackoverflow-translation%2Fmaster%2Fandroid%2FuBlockOrigin.txt&title=uBlacklist%20Stack%20Overflow%20Translation) [中身を見る](https://raw.githubusercontent.com/hirorpt/ubo-stackoverflow-translation/master/android/uBlockOrigin.txt)
+[購読する](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Farosh%2Fublacklist-stackoverflow-translation%2Fmaster%2Fcontrib%2Fublock%2FuBlockOrigin.txt&title=uBlacklist%20Stack%20Overflow%20Translation) [中身を見る](https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/contrib/ublock/uBlockOrigin.txt)
 
 (このリポジトリは試験的な目的で公開しています。フィルタ名の変更やリポジトリの削除は予告なく行われるため、機能テストの範疇を超えて実運用する場合はフォークしてください。)
 
