@@ -350,3 +350,6 @@
 - domain: 'qapicks.com'
   evidence: https://qapicks.com/question/472662-71fa6656fedd
   original: https://superuser.com/q/472662
+- domain: '*.exceptionshub.com'
+  evidence: https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html
+  original: https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call
