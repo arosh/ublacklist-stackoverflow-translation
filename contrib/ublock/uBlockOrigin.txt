@@ -1085,3 +1085,15 @@ www.google.*##.isv-r[data-ru*="exceptionshub.com/"]
 www.google.*##.VFACy[href*="exceptionshub.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##a[title$="exceptionshub.com"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href*="exceptionshub.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://newbedev.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://newbedev.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://newbedev.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://newbedev.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://newbedev.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="newbedev.com"]
+www.ecosia.org##.result[data-url^="https://newbedev.com/"]
+startpage.com##.w-gl__result-title[href^="https://newbedev.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://newbedev.com/"]
+www.google.*##.VFACy[href^="https://newbedev.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://newbedev.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://newbedev.com/"]:upward(.tile--img)

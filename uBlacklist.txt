@@ -88,3 +88,4 @@
 *://www.webdevqa.jp.net/*
 *://qapicks.com/*
 *://*.exceptionshub.com/*
+*://newbedev.com/*
