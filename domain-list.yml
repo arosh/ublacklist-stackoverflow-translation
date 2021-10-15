@@ -353,3 +353,6 @@
 - domain: '*.exceptionshub.com'
   evidence: https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html
   original: https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call
+- domain: 'newbedev.com'
+  evidence: https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation
+  original: https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation
