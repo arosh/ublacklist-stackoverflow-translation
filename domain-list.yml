@@ -356,3 +356,6 @@
 - domain: 'newbedev.com'
   evidence: https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation
   original: https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation
+- domain: 'pretagteam.com'
+  evidence: https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python
+  original: https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047
