@@ -1097,3 +1097,15 @@ www.google.*##.isv-r[data-ru^="https://newbedev.com/"]
 www.google.*##.VFACy[href^="https://newbedev.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://newbedev.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://newbedev.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://pretagteam.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://pretagteam.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://pretagteam.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://pretagteam.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://pretagteam.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="pretagteam.com"]
+www.ecosia.org##.result[data-url^="https://pretagteam.com/"]
+startpage.com##.w-gl__result-title[href^="https://pretagteam.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://pretagteam.com/"]
+www.google.*##.VFACy[href^="https://pretagteam.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://pretagteam.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://pretagteam.com/"]:upward(.tile--img)

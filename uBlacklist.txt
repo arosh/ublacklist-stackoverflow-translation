@@ -89,3 +89,4 @@
 *://qapicks.com/*
 *://*.exceptionshub.com/*
 *://newbedev.com/*
+*://pretagteam.com/*

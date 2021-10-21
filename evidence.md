@@ -93,3 +93,4 @@
 | `qapicks.com` | https://qapicks.com/question/472662-71fa6656fedd | https://superuser.com/q/472662 |  |
 | `*.exceptionshub.com` | https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html | https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call |  |
 | `newbedev.com` | https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation | https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation |  |
+| `pretagteam.com` | https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python | https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047 |  |
