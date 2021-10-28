@@ -90,3 +90,5 @@
 *://*.exceptionshub.com/*
 *://newbedev.com/*
 *://pretagteam.com/*
+*://www.codegrepper.com/*
+*://issueexplorer.com/*
