@@ -359,3 +359,6 @@
 - domain: 'pretagteam.com'
   evidence: https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python
   original: https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047
+- domain: 'runebook.dev'
+  evidence: https://runebook.dev/ja/docs/rust/std/primitive.str
+  original: https://doc.rust-lang.org/std/primitive.str.html
