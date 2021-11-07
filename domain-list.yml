@@ -359,3 +359,6 @@
 - domain: 'pretagteam.com'
   evidence: https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python
   original: https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047
+- domain: 'www.codenong.com'
+  evidence: https://www.codenong.com/8188108/
+  original: https://stackoverflow.com/q/8188108
