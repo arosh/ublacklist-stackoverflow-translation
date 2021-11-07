@@ -1109,3 +1109,15 @@ www.google.*##.isv-r[data-ru^="https://pretagteam.com/"]
 www.google.*##.VFACy[href^="https://pretagteam.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://pretagteam.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://pretagteam.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.codenong.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.codenong.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.codenong.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.codenong.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.codenong.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="www.codenong.com"]
+www.ecosia.org##.result[data-url^="https://www.codenong.com/"]
+startpage.com##.w-gl__result-title[href^="https://www.codenong.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://www.codenong.com/"]
+www.google.*##.VFACy[href^="https://www.codenong.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.codenong.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://www.codenong.com/"]:upward(.tile--img)

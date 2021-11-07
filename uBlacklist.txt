@@ -90,3 +90,4 @@
 *://*.exceptionshub.com/*
 *://newbedev.com/*
 *://pretagteam.com/*
+*://www.codenong.com/*
