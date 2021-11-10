@@ -5,6 +5,10 @@
 - domain: 'kotaeta.com'
   evidence: https://kotaeta.com/53238761
   original: https://arduino.stackexchange.com/questions/21605/
+  note: redirects to `answer-id.com`
+- domain: 'answer-id.com'
+  evidence: https://answer-id.com/ja/53238761
+  original: https://arduino.stackexchange.com/questions/21605/
   note:
 - domain: 'code.i-harness.com'
   evidence: https://code.i-harness.com/ja-jp/q/1cc697
@@ -241,6 +245,10 @@
 - domain: 'ubuntu.buildwebhost.com'
   evidence: https://ubuntu.buildwebhost.com/ja/q/214411
   original: https://askubuntu.com/questions/940701
+  note: redirects to `ubuntuaa.com`
+- domain: 'ubuntuaa.com'
+  evidence: https://ubuntuaa.com/ja/q/214411
+  original: https://askubuntu.com/questions/940701
   note:
 - domain: 'www.debugcn.com'
   evidence: https://www.debugcn.com/ja/article/106110221.html
@@ -336,6 +344,10 @@
 - domain: article.docway.net
   evidence: http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7
   original: https://stackoverflow.com/q/7106679
+  note: redirects to `xiu2.net`
+- domain: xiu2.net
+  evidence: https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7
+  original: https://stackoverflow.com/q/7106679
   note:
 - domain: 'codehero.jp'
   evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
@@ -350,7 +362,7 @@
 - domain: 'qapicks.com'
   evidence: https://qapicks.com/question/472662-71fa6656fedd
   original: https://superuser.com/q/472662
-- domain: '*.exceptionshub.com'
+- domain: 'exceptionshub.com'
   evidence: https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html
   original: https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call
 - domain: 'newbedev.com'
