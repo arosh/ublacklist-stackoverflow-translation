@@ -70,7 +70,7 @@
 *://*.domainelespailles.net/*
 *://*.ec-europe.org/*
 *://*.pakostnici.com/*
-*://try2explore.com/*
+*://*.try2explore.com/*
 *://laravelquestions.com/*
 *://itectec.com/*
 *://stackovergo.com/*
