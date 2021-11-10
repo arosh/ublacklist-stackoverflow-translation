@@ -286,8 +286,8 @@
   evidence: https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS
   original: https://stackoverflow.com/questions/48291366
   note:
-- domain: 'try2explore.com'
-  evidence: https://try2explore.com/questions/jp/10003161
+- domain: '*.try2explore.com'
+  evidence: https://qa.try2explore.com/questions/jp/10003161
   original: https://stackoverflow.com/questions/806000/
   note:
 - domain: 'laravelquestions.com'
