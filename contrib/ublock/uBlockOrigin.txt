@@ -29,6 +29,18 @@ www.google.*##.isv-r[data-ru^="https://kotaeta.com/"]
 www.google.*##.VFACy[href^="https://kotaeta.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://kotaeta.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://kotaeta.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://answer-id.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://answer-id.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://answer-id.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://answer-id.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://answer-id.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="answer-id.com"]
+www.ecosia.org##.result[data-url^="https://answer-id.com/"]
+startpage.com##.w-gl__result-title[href^="https://answer-id.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://answer-id.com/"]
+www.google.*##.VFACy[href^="https://answer-id.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://answer-id.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://answer-id.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://code.i-harness.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://code.i-harness.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://code.i-harness.com/"]:upward(.xpdopen)
@@ -737,6 +749,18 @@ www.google.*##.isv-r[data-ru^="https://ubuntu.buildwebhost.com/"]
 www.google.*##.VFACy[href^="https://ubuntu.buildwebhost.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://ubuntu.buildwebhost.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://ubuntu.buildwebhost.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://ubuntuaa.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://ubuntuaa.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://ubuntuaa.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://ubuntuaa.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://ubuntuaa.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="ubuntuaa.com"]
+www.ecosia.org##.result[data-url^="https://ubuntuaa.com/"]
+startpage.com##.w-gl__result-title[href^="https://ubuntuaa.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://ubuntuaa.com/"]
+www.google.*##.VFACy[href^="https://ubuntuaa.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://ubuntuaa.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://ubuntuaa.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.debugcn.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.debugcn.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.debugcn.com/"]:upward(.xpdopen)
@@ -1025,6 +1049,18 @@ www.google.*##.isv-r[data-ru*="article.docway.net/"]
 www.google.*##.VFACy[href*="article.docway.net/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##a[title$="article.docway.net"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href*="article.docway.net/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://xiu2.net/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://xiu2.net/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://xiu2.net/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://xiu2.net/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://xiu2.net/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="xiu2.net"]
+www.ecosia.org##.result[data-url^="https://xiu2.net/"]
+startpage.com##.w-gl__result-title[href^="https://xiu2.net/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://xiu2.net/"]
+www.google.*##.VFACy[href^="https://xiu2.net/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://xiu2.net/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://xiu2.net/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://codehero.jp/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://codehero.jp/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://codehero.jp/"]:upward(.xpdopen)
@@ -1073,18 +1109,18 @@ www.google.*##.isv-r[data-ru^="https://qapicks.com/"]
 www.google.*##.VFACy[href^="https://qapicks.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://qapicks.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://qapicks.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href*="exceptionshub.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href*="exceptionshub.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href*="exceptionshub.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href*="exceptionshub.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href*="exceptionshub.com/"]:upward(.b_algo)
+www.google.*##.kCrYT > a[href^="/url?q=https://exceptionshub.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://exceptionshub.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://exceptionshub.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://exceptionshub.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://exceptionshub.com/"]:upward(.b_algo)
 duckduckgo.com##div[data-domain$="exceptionshub.com"]
-www.ecosia.org##.result[data-url*="exceptionshub.com/"]
-startpage.com##.w-gl__result-title[href*="exceptionshub.com/"]:upward(F.w-gl__result)
-www.google.*##.isv-r[data-ru*="exceptionshub.com/"]
-www.google.*##.VFACy[href*="exceptionshub.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##a[title$="exceptionshub.com"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href*="exceptionshub.com/"]:upward(.tile--img)
+www.ecosia.org##.result[data-url^="https://exceptionshub.com/"]
+startpage.com##.w-gl__result-title[href^="https://exceptionshub.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://exceptionshub.com/"]
+www.google.*##.VFACy[href^="https://exceptionshub.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://exceptionshub.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://exceptionshub.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://newbedev.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://newbedev.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://newbedev.com/"]:upward(.xpdopen)

@@ -1,5 +1,6 @@
 *://code-examples.net/*
 *://kotaeta.com/*
+*://answer-id.com/*
 *://code.i-harness.com/*
 *://living-sun.com/*
 *://tutorialmore.com/*
@@ -59,6 +60,7 @@
 *://*.pcbconline.org/*
 *://www.nuomiphp.com/*
 *://ubuntu.buildwebhost.com/*
+*://ubuntuaa.com/*
 *://www.debugcn.com/*
 *://*.sch22.org/*
 *://*.gupgallery.com/*
@@ -83,11 +85,12 @@
 *://*.ourladylakes.org/*
 *://intellipaat.com/*
 *://article.docway.net/*
+*://xiu2.net/*
 *://codehero.jp/*
 *://quabr.com/*
 *://www.webdevqa.jp.net/*
 *://qapicks.com/*
-*://*.exceptionshub.com/*
+*://exceptionshub.com/*
 *://newbedev.com/*
 *://pretagteam.com/*
 *://www.codenong.com/*

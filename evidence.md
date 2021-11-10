@@ -3,7 +3,8 @@
 | Domain | Page | Original | Note |
 | ------ | ---- | -------- | ---- |
 | `code-examples.net` | https://code-examples.net/ja/q/246c591 | https://stackoverflow.com/questions/38192529/ |  |
-| `kotaeta.com` | https://kotaeta.com/53238761 | https://arduino.stackexchange.com/questions/21605/ |  |
+| `kotaeta.com` | https://kotaeta.com/53238761 | https://arduino.stackexchange.com/questions/21605/ | redirects to `answer-id.com` |
+| `answer-id.com` | https://answer-id.com/ja/53238761 | https://arduino.stackexchange.com/questions/21605/ |  |
 | `code.i-harness.com` | https://code.i-harness.com/ja-jp/q/1cc697 | https://stackoverflow.com/questions/1885847/ |  |
 | `living-sun.com` | https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html | https://stackoverflow.com/questions/1599464/ |  |
 | `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ |  |
@@ -62,7 +63,8 @@
 | `*.theshuggahpies.com` | https://ja.theshuggahpies.com/451434-what-is-the-not-not-EISSHJ | https://stackoverflow.com/questions/784929 |  |
 | `*.pcbconline.org` | https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT | https://stackoverflow.com/questions/17341670 |  |
 | `www.nuomiphp.com` | https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html | https://stackoverflow.com/questions/60451458 |  |
-| `ubuntu.buildwebhost.com` | https://ubuntu.buildwebhost.com/ja/q/214411 | https://askubuntu.com/questions/940701 |  |
+| `ubuntu.buildwebhost.com` | https://ubuntu.buildwebhost.com/ja/q/214411 | https://askubuntu.com/questions/940701 | redirects to `ubuntuaa.com` |
+| `ubuntuaa.com` | https://ubuntuaa.com/ja/q/214411 | https://askubuntu.com/questions/940701 |  |
 | `www.debugcn.com` | https://www.debugcn.com/ja/article/106110221.html | https://stackoverflow.com/questions/14452824 |  |
 | `*.sch22.org` | https://ja.sch22.org/248250-how-can-i-save-an-QIVEKL | https://stackoverflow.com/questions/14452824/ |  |
 | `*.gupgallery.com` | https://ja.gupgallery.com/146367-how-can-i-save-an-OSXEJL | https://stackoverflow.com/questions/14452824/ |  |
@@ -86,12 +88,13 @@
 | `*.narkive.jp` | https://security.narkive.jp/oBrsVjXh | https://security.stackexchange.com/questions/373/open-source-penetration-test-automation |  |
 | `*.ourladylakes.org` | https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP | https://stackoverflow.com/questions/2193412/xslt-not-contains-check |  |
 | `intellipaat.com` | https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random | https://stackoverflow.com/questions/30030659/ |  |
-| `article.docway.net` | http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 |  |
+| `article.docway.net` | http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 | redirects to `xiu2.net` |
+| `xiu2.net` | https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 |  |
 | `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 |  |
 | `quabr.com` | https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working | https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working |  |
 | `www.webdevqa.jp.net` | https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/ | https://unix.stackexchange.com/q/419198 |  |
 | `qapicks.com` | https://qapicks.com/question/472662-71fa6656fedd | https://superuser.com/q/472662 |  |
-| `*.exceptionshub.com` | https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html | https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call |  |
+| `exceptionshub.com` | https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html | https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call |  |
 | `newbedev.com` | https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation | https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation |  |
 | `pretagteam.com` | https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python | https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047 |  |
 | `www.codenong.com` | https://www.codenong.com/8188108/ | https://stackoverflow.com/q/8188108 |  |
