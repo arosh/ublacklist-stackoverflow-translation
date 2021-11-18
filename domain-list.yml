@@ -374,3 +374,6 @@
 - domain: 'www.codenong.com'
   evidence: https://www.codenong.com/8188108/
   original: https://stackoverflow.com/q/8188108
+- domain: 'cainiaojiaocheng.com'
+  evidence: https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
+  original: https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
