@@ -374,6 +374,9 @@
 - domain: 'www.codenong.com'
   evidence: https://www.codenong.com/8188108/
   original: https://stackoverflow.com/q/8188108
+- domain: 'cainiaojiaocheng.com'
+  evidence: https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
+  original: https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
 - domain: 'routinepanic.com'
   evidence: https://routinepanic.com/questions/how-to-get-the-home-directory-in-python
   original: https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python

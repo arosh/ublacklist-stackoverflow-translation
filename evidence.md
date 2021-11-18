@@ -98,3 +98,4 @@
 | `newbedev.com` | https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation | https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation |  |
 | `pretagteam.com` | https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python | https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047 |  |
 | `www.codenong.com` | https://www.codenong.com/8188108/ | https://stackoverflow.com/q/8188108 |  |
+| `cainiaojiaocheng.com` | https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python |  |
