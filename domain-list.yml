@@ -374,3 +374,6 @@
 - domain: 'www.codenong.com'
   evidence: https://www.codenong.com/8188108/
   original: https://stackoverflow.com/q/8188108
+- domain: 'routinepanic.com'
+  evidence: https://routinepanic.com/questions/how-to-get-the-home-directory-in-python
+  original: https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python
