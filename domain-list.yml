@@ -377,3 +377,6 @@
 - domain: 'routinepanic.com'
   evidence: https://routinepanic.com/questions/how-to-get-the-home-directory-in-python
   original: https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python
+- domain: 'pythonwd.com'
+  evidence: https://pythonwd.com/290431426.html
+  original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
