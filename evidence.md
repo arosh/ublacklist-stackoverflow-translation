@@ -99,3 +99,5 @@
 | `pretagteam.com` | https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python | https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047 |  |
 | `www.codenong.com` | https://www.codenong.com/8188108/ | https://stackoverflow.com/q/8188108 |  |
 | `cainiaojiaocheng.com` | https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python |  |
+| `routinepanic.com` | https://routinepanic.com/questions/how-to-get-the-home-directory-in-python | https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python |  |
+| `pythonwd.com` | https://pythonwd.com/290431426.html | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
