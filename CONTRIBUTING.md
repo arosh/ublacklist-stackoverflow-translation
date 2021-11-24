@@ -71,4 +71,3 @@ Imagine that this project now contains domains that user B feels should not be e
 On the other hand, user A can develop an ideal exclusion list for themselves by preparing an additional exclusion list (blue circle) that lists additional domains that they feel should be excluded. Even in this case, if ublacklist-stackoverflow-translation continues to maintain the exclusion list based on a consistent acceptance policy, they can delegate the maintenance of the exclusion list for areas that ublacklist-stackoverflow-translation is interested in. If the additional exclusion list is agreeable to a wide range of users, you may be able to launch a new project to maintain it in the community.
 
 <img src="img/policy03.png" width="35%">
-diff --git a/img/policy02.png b/img/policy02.png
