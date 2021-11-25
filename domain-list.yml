@@ -18,10 +18,6 @@
   evidence: https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html
   original: https://stackoverflow.com/questions/1599464/
   note:
-- domain: 'tutorialmore.com'
-  evidence: https://tutorialmore.com/questions-838617.htm
-  original: https://superuser.com/questions/1183564/
-  note:
 - domain: 'qastack.jp'
   evidence: https://qastack.jp/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
@@ -149,10 +145,6 @@
 - domain: '*.voidcc.com'
   evidence: http://ja.voidcc.com/question/p-glmhmyzr-pk.html
   original: https://stackoverflow.com/questions/48042872/
-  note:
-- domain: 'alwaysemmyhope.com'
-  evidence: https://alwaysemmyhope.com/ja/linux/542609-glibc-elf-file-os-abi-invalid-linux-linux-kernel-glibc-abi.html
-  original: https://stackoverflow.com/q/7647818
   note:
 - domain: '*.siwib.org'
   evidence: https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA
@@ -368,9 +360,6 @@
 - domain: 'newbedev.com'
   evidence: https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation
   original: https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation
-- domain: 'pretagteam.com'
-  evidence: https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python
-  original: https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047
 - domain: 'www.codenong.com'
   evidence: https://www.codenong.com/8188108/
   original: https://stackoverflow.com/q/8188108
@@ -383,3 +372,15 @@
 - domain: 'pythonwd.com'
   evidence: https://pythonwd.com/290431426.html
   original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
+- domain: 'tutorialmore.com'
+  evidence: https://tutorialmore.com/questions-838617.htm
+  original: https://superuser.com/questions/1183564/
+  note: closed?
+- domain: 'alwaysemmyhope.com'
+  evidence: https://alwaysemmyhope.com/ja/linux/542609-glibc-elf-file-os-abi-invalid-linux-linux-kernel-glibc-abi.html
+  original: https://stackoverflow.com/q/7647818
+  note: closed?
+- domain: 'pretagteam.com'
+  evidence: https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python
+  original: https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047
+  note: closed?
