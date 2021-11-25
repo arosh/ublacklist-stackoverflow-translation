@@ -3,7 +3,6 @@
 *://answer-id.com/*
 *://code.i-harness.com/*
 *://living-sun.com/*
-*://tutorialmore.com/*
 *://qastack.jp/*
 *://qastack.ru/*
 *://qastack.it/*
@@ -36,7 +35,6 @@
 *://www.generacodice.com/*
 *://www.javaer101.com/*
 *://*.voidcc.com/*
-*://alwaysemmyhope.com/*
 *://*.siwib.org/*
 *://*.fluffyfables.com/*
 *://www.fixes.pub/*
@@ -92,8 +90,10 @@
 *://qapicks.com/*
 *://exceptionshub.com/*
 *://newbedev.com/*
-*://pretagteam.com/*
 *://www.codenong.com/*
 *://cainiaojiaocheng.com/*
 *://routinepanic.com/*
 *://pythonwd.com/*
+*://tutorialmore.com/*
+*://alwaysemmyhope.com/*
+*://pretagteam.com/*
