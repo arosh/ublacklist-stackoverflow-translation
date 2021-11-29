@@ -1193,3 +1193,15 @@ www.google.*##.isv-r[data-ru^="https://pretagteam.com/"]
 www.google.*##.VFACy[href^="https://pretagteam.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://pretagteam.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://pretagteam.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.titanwolf.org/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.titanwolf.org/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.titanwolf.org/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.titanwolf.org/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.titanwolf.org/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="www.titanwolf.org"]
+www.ecosia.org##.result[data-url^="https://www.titanwolf.org/"]
+startpage.com##.w-gl__result-title[href^="https://www.titanwolf.org/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://www.titanwolf.org/"]
+www.google.*##.VFACy[href^="https://www.titanwolf.org/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.titanwolf.org/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://www.titanwolf.org/"]:upward(.tile--img)
