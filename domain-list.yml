@@ -387,17 +387,11 @@
 - domain: 'www.titanwolf.org'
   evidence: https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y
   original: https://stackoverflow.com/questions/42244819
-- domain: 'newbedev.com'
-  evidence: https://newbedev.com/argparse-subparser-monolithic-help-output
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: 'coderedirect.com'
   evidence: https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: 'ostack.cn'
   evidence: http://ostack.cn/?qa=580340/
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'easysavecode.com'
-  evidence: https://easysavecode.com/Y60j5UmF
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: 'easysavecode.com'
   evidence: https://easysavecode.com/Y60j5UmF
