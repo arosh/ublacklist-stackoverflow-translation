@@ -411,3 +411,6 @@
 - domain: 'tipsfordev.com'
   evidence: https://tipsfordev.com/argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+- domain: 'www.qi-u.com'
+  evidence: https://www.qi-u.com/?qa=580340/python-argparse-subparser-monolithic-help-output
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
