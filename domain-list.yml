@@ -408,3 +408,6 @@
 - domain: 'www.semicolonworld.com'
   evidence: https://www.semicolonworld.com/question/57502/python-decompressing-gzip-chunk-by-chunk
   original: https://stackoverflow.com/questions/2423866/python-decompressing-gzip-chunk-by-chunk
+- domain: 'tipsfordev.com'
+  evidence: https://tipsfordev.com/argparse-subparser-monolithic-help-output
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
