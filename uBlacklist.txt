@@ -105,3 +105,4 @@
 *://www.ghcc.net/*
 *://*.developreference.com/*
 *://www.semicolonworld.com/*
+*://tipsfordev.com/*

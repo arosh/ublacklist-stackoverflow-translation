@@ -1289,3 +1289,15 @@ www.google.*##.isv-r[data-ru^="https://www.semicolonworld.com/"]
 www.google.*##.VFACy[href^="https://www.semicolonworld.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.semicolonworld.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://www.semicolonworld.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://tipsfordev.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://tipsfordev.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://tipsfordev.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://tipsfordev.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://tipsfordev.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="tipsfordev.com"]
+www.ecosia.org##.result[data-url^="https://tipsfordev.com/"]
+startpage.com##.w-gl__result-title[href^="https://tipsfordev.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://tipsfordev.com/"]
+www.google.*##.VFACy[href^="https://tipsfordev.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://tipsfordev.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://tipsfordev.com/"]:upward(.tile--img)
