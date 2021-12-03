@@ -106,3 +106,4 @@
 *://*.developreference.com/*
 *://www.semicolonworld.com/*
 *://tipsfordev.com/*
+*://www.qi-u.com/*
