@@ -98,3 +98,10 @@
 *://alwaysemmyhope.com/*
 *://pretagteam.com/*
 *://www.titanwolf.org/*
+*://coderedirect.com/*
+*://ostack.cn/*
+*://easysavecode.com/*
+*://webdevdesigner.com/*
+*://www.ghcc.net/*
+*://*.developreference.com/*
+*://www.semicolonworld.com/*
