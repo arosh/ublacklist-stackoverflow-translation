@@ -387,3 +387,24 @@
 - domain: 'www.titanwolf.org'
   evidence: https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y
   original: https://stackoverflow.com/questions/42244819
+- domain: 'coderedirect.com'
+  evidence: https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+- domain: 'ostack.cn'
+  evidence: http://ostack.cn/?qa=580340/
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+- domain: 'easysavecode.com'
+  evidence: https://easysavecode.com/Y60j5UmF
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+- domain: 'webdevdesigner.com'
+  evidence: https://webdevdesigner.com/q/argparse-subparser-monolithic-help-output-137439/
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+- domain: 'www.ghcc.net'
+  evidence: https://www.ghcc.net/en/node/2519947
+  original: https://stackoverflow.com/questions/32581439/subparser-show-help-for-both-parser-and-subparser
+- domain: '*.developreference.com'
+  evidence: https://python.developreference.com/article/13679273/python+argparse+mutually_exclusive_group+and+add_argument_group+in+a+parent+processor%3f
+  original: https://stackoverflow.com/questions/46066374/python-argparse-mutually-exclusive-group-and-add-argument-group-in-a-parent-proc
+- domain: 'www.semicolonworld.com'
+  evidence: https://www.semicolonworld.com/question/57502/python-decompressing-gzip-chunk-by-chunk
+  original: https://stackoverflow.com/questions/2423866/python-decompressing-gzip-chunk-by-chunk
