@@ -111,3 +111,6 @@
 | `www.semicolonworld.com` | https://www.semicolonworld.com/question/57502/python-decompressing-gzip-chunk-by-chunk | https://stackoverflow.com/questions/2423866/python-decompressing-gzip-chunk-by-chunk |  |
 | `tipsfordev.com` | https://tipsfordev.com/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `www.qi-u.com` | https://www.qi-u.com/?qa=580340/python-argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
+| `stackqna.com` | https://stackqna.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc | https://stackoverflow.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc |  |
+| `www.xsprogram.com` | https://www.xsprogram.com/content/problems-with-scanf.html | https://stackoverflow.com/questions/20139415/problems-with-scanf |  |
+| `stackoom.com` | https://stackoom.com/en/question/2NpRm | https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae |  |

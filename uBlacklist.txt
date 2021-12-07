@@ -107,3 +107,6 @@
 *://www.semicolonworld.com/*
 *://tipsfordev.com/*
 *://www.qi-u.com/*
+*://stackqna.com/*
+*://www.xsprogram.com/*
+*://stackoom.com/*
