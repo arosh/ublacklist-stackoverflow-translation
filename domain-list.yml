@@ -414,3 +414,12 @@
 - domain: 'www.qi-u.com'
   evidence: https://www.qi-u.com/?qa=580340/python-argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+- domain: 'stackqna.com'
+  evidence: https://stackqna.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc
+  original: https://stackoverflow.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc
+- domain: 'www.xsprogram.com'
+  evidence: https://www.xsprogram.com/content/problems-with-scanf.html
+  original: https://stackoverflow.com/questions/20139415/problems-with-scanf
+- domain: 'stackoom.com'
+  evidence: https://stackoom.com/en/question/2NpRm
+  original: https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae
