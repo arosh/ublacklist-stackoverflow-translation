@@ -423,3 +423,6 @@
 - domain: 'stackoom.com'
   evidence: https://stackoom.com/en/question/2NpRm
   original: https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae
+- domain: 'christfever.in'
+  evidence: https://christfever.in/index.php?threads/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-included.636732/
+  original: https://stackoverflow.com/questions/65011034/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-i
