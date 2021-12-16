@@ -114,3 +114,4 @@
 | `stackqna.com` | https://stackqna.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc | https://stackoverflow.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc |  |
 | `www.xsprogram.com` | https://www.xsprogram.com/content/problems-with-scanf.html | https://stackoverflow.com/questions/20139415/problems-with-scanf |  |
 | `stackoom.com` | https://stackoom.com/en/question/2NpRm | https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae |  |
+| `christfever.in` | https://christfever.in/index.php?threads/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-included.636732/ | https://stackoverflow.com/questions/65011034/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-i |  |

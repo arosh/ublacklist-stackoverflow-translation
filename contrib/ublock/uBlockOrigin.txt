@@ -1349,3 +1349,15 @@ www.google.*##.isv-r[data-ru^="https://stackoom.com/"]
 www.google.*##.VFACy[href^="https://stackoom.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://stackoom.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://stackoom.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://christfever.in/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://christfever.in/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://christfever.in/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://christfever.in/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://christfever.in/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="christfever.in"]
+www.ecosia.org##.result[data-url^="https://christfever.in/"]
+startpage.com##.w-gl__result-title[href^="https://christfever.in/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://christfever.in/"]
+www.google.*##.VFACy[href^="https://christfever.in/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://christfever.in/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://christfever.in/"]:upward(.tile--img)
