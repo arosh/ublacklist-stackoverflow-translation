@@ -26,6 +26,7 @@
 *://www.it-mure.jp.net/*
 *://www.it-swarm-ja.com/*
 *://www.it-swarm.com.ru/*
+*://www.it-swarm-fr.com/*
 *://*.codeflow.site/*
 *://codeguides.site/*
 *://overcoder.net/*
