@@ -110,6 +110,9 @@
   evidence: https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
   original: https://stackoverflow.com/q/3367415
   note:
+- domain: 'www.it-swarm-fr.com'
+  evidence: https://www.it-swarm-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
+  original: https://stackoverflow.com/q/50435455
 - domain: '*.codeflow.site'
   evidence: https://qa.codeflow.site/
   original:
