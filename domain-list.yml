@@ -429,3 +429,6 @@
 - domain: 'christfever.in'
   evidence: https://christfever.in/index.php?threads/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-included.636732/
   original: https://stackoverflow.com/questions/65011034/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-i
+- domain: 'coderedirect.com'
+  evidence: https://coderedirect.com/questions/175898/wpf-showing-dialog-before-main-window
+  original: https://stackoverflow.com/questions/1539958/wpf-showing-dialog-before-main-window
