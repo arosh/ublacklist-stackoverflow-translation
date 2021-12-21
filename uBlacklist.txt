@@ -112,4 +112,4 @@
 *://www.xsprogram.com/*
 *://stackoom.com/*
 *://christfever.in/*
-*://*.cndgn.com/*
+*://cndgn.com/*
