@@ -31,9 +31,6 @@
 *://codeguides.site/*
 *://overcoder.net/*
 *://coderoad.ru/*
-*://www.generacodice.blog/*
-*://www.generacodice.it/*
-*://www.generacodice.com/*
 *://www.javaer101.com/*
 *://*.voidcc.com/*
 *://*.siwib.org/*
@@ -96,7 +93,6 @@
 *://routinepanic.com/*
 *://pythonwd.com/*
 *://tutorialmore.com/*
-*://alwaysemmyhope.com/*
 *://pretagteam.com/*
 *://www.titanwolf.org/*
 *://coderedirect.com/*
@@ -113,3 +109,6 @@
 *://stackoom.com/*
 *://christfever.in/*
 *://cndgn.com/*
+*://www.generacodice.blog/*
+*://www.generacodice.it/*
+*://www.generacodice.com/*

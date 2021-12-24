@@ -35,9 +35,6 @@
 | `codeguides.site` | https://codeguides.site/questions/ja/950037/same-ajax-called-twice-jquery | https://stackoverflow.com/q/950037 |  |
 | `overcoder.net` | https://overcoder.net/q/4014591/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C-%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0-%D0%B2-%D0%B4%D0%B2%D1%83%D1%85-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%D1%85-%D0%BF%D1%80%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8-%D1%81-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE | https://stackoverflow.com/questions/11500794/ |  |
 | `coderoad.ru` | https://coderoad.ru/927358/%D0%9A%D0%B0%D0%BA-%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C-%D1%81%D0%B0%D0%BC%D1%8B%D0%B5-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B-%D0%B2-Git | https://stackoverflow.com/questions/927358/ |  |
-| `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ | This site is used for redirection to `www.generacodice.com` |
-| `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ | This site is used for redirection to `www.generacodice.com` |
-| `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 |  |
 | `www.javaer101.com` | https://www.javaer101.com/ja/article/2084594.html | https://stackoverflow.com/questions/35394937/ |  |
 | `*.voidcc.com` | http://ja.voidcc.com/question/p-glmhmyzr-pk.html | https://stackoverflow.com/questions/48042872/ |  |
 | `*.siwib.org` | https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA | https://stackoverflow.com/q/50951955 |  |
@@ -83,7 +80,7 @@
 | `*.culinarydegree.info` | https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR | https://stackoverflow.com/q/13054371 |  |
 | `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 |  |
 | `qapicks.com` | https://qapicks.com/question/1668131-87a39319fa31 | https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu |  |
-| `issues-world.com` | https://issues-world.com/ftypesoverloadingargumentsimplic/ | https://stackoverflow.com/q/8828279 |  |
+| `issues-world.com` | https://issues-world.com/rails-3-56/ | https://stackoverflow.com/q/8552763 |  |
 | `*.narkive.jp` | https://security.narkive.jp/oBrsVjXh | https://security.stackexchange.com/questions/373/open-source-penetration-test-automation |  |
 | `*.ourladylakes.org` | https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP | https://stackoverflow.com/questions/2193412/xslt-not-contains-check |  |
 | `intellipaat.com` | https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random | https://stackoverflow.com/questions/30030659/ |  |
@@ -99,9 +96,8 @@
 | `cainiaojiaocheng.com` | https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python |  |
 | `routinepanic.com` | https://routinepanic.com/questions/how-to-get-the-home-directory-in-python | https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python |  |
 | `pythonwd.com` | https://pythonwd.com/290431426.html | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
-| `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ | closed? |
-| `alwaysemmyhope.com` | https://alwaysemmyhope.com/ja/linux/542609-glibc-elf-file-os-abi-invalid-linux-linux-kernel-glibc-abi.html | https://stackoverflow.com/q/7647818 | closed? |
-| `pretagteam.com` | https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python | https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047 | closed? |
+| `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ |  |
+| `pretagteam.com` | https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python | https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047 |  |
 | `www.titanwolf.org` | https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y | https://stackoverflow.com/questions/42244819 |  |
 | `coderedirect.com` | https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `ostack.cn` | http://ostack.cn/?qa=580340/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
@@ -117,3 +113,6 @@
 | `stackoom.com` | https://stackoom.com/en/question/2NpRm | https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae |  |
 | `christfever.in` | https://christfever.in/index.php?threads/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-included.636732/ | https://stackoverflow.com/questions/65011034/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-i |  |
 | `cndgn.com` | https://cndgn.com/question/superuser/599515/what-is-armtech-daemon | https://superuser.com/questions/599515/what-is-armtech-daemon |  |
+| `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ | closed? |
+| `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ | closed? |
+| `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 | closed? |
