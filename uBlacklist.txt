@@ -109,6 +109,7 @@
 *://stackoom.com/*
 *://christfever.in/*
 *://cndgn.com/*
+*://codersatellite.com/*
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
