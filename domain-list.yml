@@ -431,3 +431,7 @@
   evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
   original: https://stackoverflow.com/questions/1439719
   note: closed?
+- domain: 'www.codegrepper.com'
+  evidence: https://www.codegrepper.com/code-examples/javascript/get+thumbnail+from+video+url+javascript
+  original: https://stackoverflow.com/a/63474748
+  note: closed?
