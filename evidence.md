@@ -114,6 +114,7 @@
 | `christfever.in` | https://christfever.in/index.php?threads/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-included.636732/ | https://stackoverflow.com/questions/65011034/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-i |  |
 | `cndgn.com` | https://cndgn.com/question/superuser/599515/what-is-armtech-daemon | https://superuser.com/questions/599515/what-is-armtech-daemon |  |
 | `codersatellite.com` | https://codersatellite.com/question-with-identifier-53306819 | https://stackoverflow.com/q/53306819 |  |
+| `*.coredump.biz` | https://fr.coredump.biz/questions/29256945/how-to-optimize-blob-access-with-an-user-defined-function | https://stackoverflow.com/q/29256945 |  |
 | `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ | closed? |
 | `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ | closed? |
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 | closed? |

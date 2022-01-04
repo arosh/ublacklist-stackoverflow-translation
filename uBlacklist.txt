@@ -110,6 +110,7 @@
 *://christfever.in/*
 *://cndgn.com/*
 *://codersatellite.com/*
+*://*.coredump.biz/*
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
