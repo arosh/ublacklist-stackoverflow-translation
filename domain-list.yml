@@ -419,6 +419,9 @@
 - domain: 'codersatellite.com'
   evidence: https://codersatellite.com/question-with-identifier-53306819
   original: https://stackoverflow.com/q/53306819
+- domain: '*.coredump.biz'
+  evidence: https://fr.coredump.biz/questions/29256945/how-to-optimize-blob-access-with-an-user-defined-function
+  original: https://stackoverflow.com/q/29256945
 - domain: 'www.generacodice.blog'
   evidence: https://www.generacodice.blog/jp/articolo/52938/
   original: https://stackoverflow.com/questions/814167/
