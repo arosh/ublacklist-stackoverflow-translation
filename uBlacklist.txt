@@ -111,6 +111,8 @@
 *://cndgn.com/*
 *://codersatellite.com/*
 *://*.coredump.biz/*
+*://farath.com/*
+*://devbugfix.com/*
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*

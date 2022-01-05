@@ -1361,6 +1361,30 @@ www.google.*##.isv-r[data-ru*="coredump.biz/"]
 www.google.*##.VFACy[href*="coredump.biz/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##a[title$="coredump.biz"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href*="coredump.biz/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://farath.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://farath.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://farath.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://farath.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://farath.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="farath.com"]
+www.ecosia.org##.result[data-url^="https://farath.com/"]
+startpage.com##.w-gl__result-title[href^="https://farath.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://farath.com/"]
+www.google.*##.VFACy[href^="https://farath.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://farath.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://farath.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://devbugfix.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://devbugfix.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://devbugfix.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://devbugfix.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://devbugfix.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="devbugfix.com"]
+www.ecosia.org##.result[data-url^="https://devbugfix.com/"]
+startpage.com##.w-gl__result-title[href^="https://devbugfix.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://devbugfix.com/"]
+www.google.*##.VFACy[href^="https://devbugfix.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://devbugfix.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://devbugfix.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.generacodice.blog/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.generacodice.blog/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.generacodice.blog/"]:upward(.xpdopen)
