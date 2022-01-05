@@ -422,6 +422,12 @@
 - domain: '*.coredump.biz'
   evidence: https://fr.coredump.biz/questions/29256945/how-to-optimize-blob-access-with-an-user-defined-function
   original: https://stackoverflow.com/q/29256945
+- domain: 'farath.com'
+  evidence: https://farath.com/should-i-keep-my-github-forked-repositories-around-forever/
+  original: https://softwareengineering.stackexchange.com/q/61577
+- domain: 'devbugfix.com'
+  evidence: https://devbugfix.com/p/1389529
+  original: https://gis.stackexchange.com/q/184482
 - domain: 'www.generacodice.blog'
   evidence: https://www.generacodice.blog/jp/articolo/52938/
   original: https://stackoverflow.com/questions/814167/
