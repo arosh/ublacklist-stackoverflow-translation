@@ -116,3 +116,4 @@
 *://www.generacodice.blog/*
 *://www.generacodice.it/*
 *://www.generacodice.com/*
+*://stackify.dev/*
