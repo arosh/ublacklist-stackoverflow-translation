@@ -37,6 +37,18 @@ TL;DR このプロジェクトでは偽陽性が少ない除外リストを作�
 
 <img src="img/policy03.png" width="35%">
 
+# How to contribute
+
+If you want to add a domain, add 3 lines to ```domain-list.yml``` in the following format:
+
+```yaml
+- domain: 'bad-domain.com'
+  evidence: https://www.bad-domain.com/12345/url-to-cheap-copy-of-stackoverflow-question
+  original: https://stackoverflow.com/questions/12345
+```
+
+The corresponding change in ```uBlacklist.txt``` will be made automatically by GithubActions.
+
 # Policy on accepting contributions
 
 Thank you for your interest in improving ublacklist-stackoverflow-translation. In this document, we clarify the criteria to determine if particular domains should be added to ublacklist-stackoverflow-translation.
