@@ -120,3 +120,4 @@
 | `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ | closed? |
 | `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ | closed? |
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 | closed? |
+| `stackify.dev` | https://stackify.dev/532500-how-to-truncate-a-table-using-doctrine-2 | https://stackoverflow.com/questions/9686888/how-to-truncate-a-table-using-doctrine-2 |  |

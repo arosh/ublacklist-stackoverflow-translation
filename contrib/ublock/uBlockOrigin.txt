@@ -1421,3 +1421,15 @@ www.google.*##.isv-r[data-ru^="https://www.generacodice.com/"]
 www.google.*##.VFACy[href^="https://www.generacodice.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.generacodice.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://www.generacodice.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://stackify.dev/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://stackify.dev/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://stackify.dev/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://stackify.dev/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stackify.dev/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="stackify.dev"]
+www.ecosia.org##.result[data-url^="https://stackify.dev/"]
+startpage.com##.w-gl__result-title[href^="https://stackify.dev/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://stackify.dev/"]
+www.google.*##.VFACy[href^="https://stackify.dev/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://stackify.dev/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://stackify.dev/"]:upward(.tile--img)
