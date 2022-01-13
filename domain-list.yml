@@ -443,3 +443,6 @@
 - domain: 'stackify.dev'
   evidence: https://stackify.dev/532500-how-to-truncate-a-table-using-doctrine-2
   original: https://stackoverflow.com/questions/9686888/how-to-truncate-a-table-using-doctrine-2
+- domain: 'stackfinder.jp.net'
+  evidence: https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct
+  original: https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct
