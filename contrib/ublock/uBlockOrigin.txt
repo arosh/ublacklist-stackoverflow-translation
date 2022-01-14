@@ -1433,3 +1433,15 @@ www.google.*##.isv-r[data-ru^="https://stackify.dev/"]
 www.google.*##.VFACy[href^="https://stackify.dev/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://stackify.dev/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://stackify.dev/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://stackfinder.jp.net/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://stackfinder.jp.net/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://stackfinder.jp.net/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://stackfinder.jp.net/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stackfinder.jp.net/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="stackfinder.jp.net"]
+www.ecosia.org##.result[data-url^="https://stackfinder.jp.net/"]
+startpage.com##.w-gl__result-title[href^="https://stackfinder.jp.net/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://stackfinder.jp.net/"]
+www.google.*##.VFACy[href^="https://stackfinder.jp.net/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://stackfinder.jp.net/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://stackfinder.jp.net/"]:upward(.tile--img)
