@@ -446,3 +446,6 @@
 - domain: 'coder-solution-jp.com'
   evidence: https://coder-solution-jp.com/solution-jp-blog/575642
   original: https://askubuntu.com/questions/776699
+- domain: 'coder-solution-jp.com'
+  evidence: https://jpndev.com/post/1128926
+  original: https://stackoverflow.com/questions/21654830
