@@ -2,12 +2,9 @@
 
 ## Synopsis
 
-Filter that enables excluding the machine-translated sites of Stack Overflow.
+Exclude domains from Google search that serve machine-translated sites of Stack Exchange.
 
-The domain list is in a format compatible with
-[uBlacklist](https://github.com/iorate/uBlacklist), an extension that is
-available for Google Chrome, Firefox, and browsers compatible with those
-browsers.
+Provided filter can be subscribed by [uBlacklist](https://github.com/iorate/uBlacklist), which is a browser extension available for Google Chrome, Firefox, and others.
 
 ## Usage
 
