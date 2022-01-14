@@ -117,3 +117,4 @@
 *://www.generacodice.it/*
 *://www.generacodice.com/*
 *://stackify.dev/*
+*://stackfinder.jp.net/*
