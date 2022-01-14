@@ -118,3 +118,5 @@
 *://www.generacodice.com/*
 *://stackify.dev/*
 *://stackfinder.jp.net/*
+*://coder-solution-jp.com/*
+*://jpndev.com/*

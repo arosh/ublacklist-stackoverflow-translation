@@ -1445,3 +1445,27 @@ www.google.*##.isv-r[data-ru^="https://stackfinder.jp.net/"]
 www.google.*##.VFACy[href^="https://stackfinder.jp.net/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://stackfinder.jp.net/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://stackfinder.jp.net/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://coder-solution-jp.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://coder-solution-jp.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://coder-solution-jp.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://coder-solution-jp.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://coder-solution-jp.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="coder-solution-jp.com"]
+www.ecosia.org##.result[data-url^="https://coder-solution-jp.com/"]
+startpage.com##.w-gl__result-title[href^="https://coder-solution-jp.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://coder-solution-jp.com/"]
+www.google.*##.VFACy[href^="https://coder-solution-jp.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://coder-solution-jp.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://coder-solution-jp.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://jpndev.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://jpndev.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://jpndev.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://jpndev.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jpndev.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="jpndev.com"]
+www.ecosia.org##.result[data-url^="https://jpndev.com/"]
+startpage.com##.w-gl__result-title[href^="https://jpndev.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://jpndev.com/"]
+www.google.*##.VFACy[href^="https://jpndev.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://jpndev.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://jpndev.com/"]:upward(.tile--img)

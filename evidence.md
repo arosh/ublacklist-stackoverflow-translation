@@ -122,3 +122,5 @@
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 | closed? |
 | `stackify.dev` | https://stackify.dev/532500-how-to-truncate-a-table-using-doctrine-2 | https://stackoverflow.com/questions/9686888/how-to-truncate-a-table-using-doctrine-2 |  |
 | `stackfinder.jp.net` | https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct |  |
+| `coder-solution-jp.com` | https://coder-solution-jp.com/solution-jp-blog/575642 | https://askubuntu.com/questions/776699 |  |
+| `jpndev.com` | https://jpndev.com/post/1128926 | https://stackoverflow.com/questions/21654830 |  |
