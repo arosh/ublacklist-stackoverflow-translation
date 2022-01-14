@@ -114,8 +114,8 @@
   evidence: https://www.it-swarm-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
   original: https://stackoverflow.com/q/50435455
 - domain: '*.codeflow.site'
-  evidence: https://qa.codeflow.site/
-  original:
+  evidence: https://qa.codeflow.site/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
+  original: https://stackoverflow.com/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
   note: This domain is used for redirection to `codeguides.site`
 - domain: 'codeguides.site'
   evidence: https://codeguides.site/questions/ja/950037/same-ajax-called-twice-jquery
