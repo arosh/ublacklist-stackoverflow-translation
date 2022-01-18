@@ -1469,3 +1469,15 @@ www.google.*##.isv-r[data-ru^="https://jpndev.com/"]
 www.google.*##.VFACy[href^="https://jpndev.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://jpndev.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://jpndev.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.uebu-kaihatsu.jp.net/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="www.uebu-kaihatsu.jp.net"]
+www.ecosia.org##.result[data-url^="https://www.uebu-kaihatsu.jp.net/"]
+startpage.com##.w-gl__result-title[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://www.uebu-kaihatsu.jp.net/"]
+www.google.*##.VFACy[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.tile--img)

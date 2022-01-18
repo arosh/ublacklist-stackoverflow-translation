@@ -124,3 +124,4 @@
 | `stackfinder.jp.net` | https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct |  |
 | `coder-solution-jp.com` | https://coder-solution-jp.com/solution-jp-blog/575642 | https://askubuntu.com/questions/776699 |  |
 | `jpndev.com` | https://jpndev.com/post/1128926 | https://stackoverflow.com/questions/21654830 |  |
+| `www.uebu-kaihatsu.jp.net` | https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/ | https://serverfault.com/q/809632 |  |
