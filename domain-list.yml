@@ -461,3 +461,6 @@
 - domain: 'stackguides.com'
   evidence: https://stackguides.com/questions/55582335
   original: https://stackoverflow.com/questions/55582335
+- domain: 'younggeeks.in'
+  evidence: https://younggeeks.in/questions/11586390
+  original: https://stackoverflow.com/questions/70524850
