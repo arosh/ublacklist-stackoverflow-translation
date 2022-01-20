@@ -1493,3 +1493,15 @@ www.google.*##.isv-r[data-ru^="https://sqlite.in/"]
 www.google.*##.VFACy[href^="https://sqlite.in/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://sqlite.in/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://sqlite.in/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://stackguides.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://stackguides.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://stackguides.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://stackguides.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://stackguides.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="stackguides.com"]
+www.ecosia.org##.result[data-url^="https://stackguides.com/"]
+startpage.com##.w-gl__result-title[href^="https://stackguides.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://stackguides.com/"]
+www.google.*##.VFACy[href^="https://stackguides.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://stackguides.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://stackguides.com/"]:upward(.tile--img)

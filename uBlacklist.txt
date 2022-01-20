@@ -122,3 +122,4 @@
 *://jpndev.com/*
 *://www.uebu-kaihatsu.jp.net/*
 *://sqlite.in/*
+*://stackguides.com/*
