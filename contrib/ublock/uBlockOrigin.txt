@@ -1481,3 +1481,15 @@ www.google.*##.isv-r[data-ru^="https://www.uebu-kaihatsu.jp.net/"]
 www.google.*##.VFACy[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://www.uebu-kaihatsu.jp.net/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://sqlite.in/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://sqlite.in/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://sqlite.in/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://sqlite.in/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://sqlite.in/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="sqlite.in"]
+www.ecosia.org##.result[data-url^="https://sqlite.in/"]
+startpage.com##.w-gl__result-title[href^="https://sqlite.in/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://sqlite.in/"]
+www.google.*##.VFACy[href^="https://sqlite.in/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://sqlite.in/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://sqlite.in/"]:upward(.tile--img)

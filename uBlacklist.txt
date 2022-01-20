@@ -121,3 +121,4 @@
 *://coder-solution-jp.com/*
 *://jpndev.com/*
 *://www.uebu-kaihatsu.jp.net/*
+*://sqlite.in/*
