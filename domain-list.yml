@@ -464,3 +464,6 @@
 - domain: 'younggeeks.in'
   evidence: https://younggeeks.in/questions/11586390
   original: https://stackoverflow.com/questions/70524850
+- domain: 'www.answerlib.com'
+  evidence: https://www.answerlib.com/ja/question/13427
+  original: https://stackoverflow.com/questions/59914611
