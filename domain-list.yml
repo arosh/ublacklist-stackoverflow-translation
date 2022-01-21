@@ -500,3 +500,6 @@
 - domain: 'codewdw.com'
   evidence: https://codewdw.com/125956318.html
   original: https://stackoverflow.com/questions/70608121
+- domain: 'jpcodeqa.com'
+  evidence: https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305
+  original: https://stackoverflow.com/questions/906455
