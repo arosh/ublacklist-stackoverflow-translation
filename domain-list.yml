@@ -491,3 +491,6 @@
 - domain: 'askdev.vn'
   evidence: https://askdev.vn/t/lam-cach-nao-de-buoc-net-core-3-1-giai-ma-hoa-tham-so-frombody-bang-newtonsoft-thay-vi-system-text-json/122832
   original: https://stackoverflow.com/questions/70608121
+- domain: 'quares.ru'
+  evidence: https://quares.ru/?id=117892
+  original: https://stackoverflow.com/questions/59914611
