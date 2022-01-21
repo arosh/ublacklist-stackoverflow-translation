@@ -470,3 +470,6 @@
 - domain: 'edupro.id'
   evidence: https://edupro.id/questions/5055780
   original: https://stackoverflow.com/questions/67219289
+- domain: 'python-stack.de'
+  evidence: https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c-
+  original: https://stackoverflow.com/questions/63315020
