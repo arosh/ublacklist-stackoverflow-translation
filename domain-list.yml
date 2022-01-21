@@ -473,3 +473,6 @@
 - domain: 'python-stack.de'
   evidence: https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c-
   original: https://stackoverflow.com/questions/63315020
+- domain: 'www.stackfinder.ru'
+  evidence: https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name
+  original: https://stackoverflow.com/questions/60256300
