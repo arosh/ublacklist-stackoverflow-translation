@@ -461,3 +461,6 @@
 - domain: 'stackguides.com'
   evidence: https://stackguides.com/questions/55582335
   original: https://stackoverflow.com/questions/55582335
+- domain: 'jpcodeqa.com'
+  evidence: https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305
+  original: https://stackoverflow.com/questions/906455
