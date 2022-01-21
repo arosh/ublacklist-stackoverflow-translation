@@ -479,4 +479,7 @@
 - domain: 'stackfault.net'
   evidence: https://stackfault.net/t/topic/106786
   original: https://stackoverflow.com/questions/70608121
+- domain: 'howtofix.io'
+  evidence: https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181
+  original: https://stackoverflow.com/questions/69486089
 
