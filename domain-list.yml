@@ -482,4 +482,7 @@
 - domain: 'howtofix.io'
   evidence: https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181
   original: https://stackoverflow.com/questions/69486089
+- domain: 'www.buzzphp.com'
+  evidence: https://www.buzzphp.com/posts/what-is-the-alternative-for-services-addmvc-and-superjsonoutputformatter-used
+  original: https://stackoverflow.com/questions/61358234
 
