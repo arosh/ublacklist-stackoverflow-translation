@@ -127,3 +127,16 @@
 | `www.uebu-kaihatsu.jp.net` | https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/ | https://serverfault.com/q/809632 |  |
 | `sqlite.in` | https://sqlite.in/?qa=159286/ | https://stackoverflow.com/questions/5164930 |  |
 | `stackguides.com` | https://stackguides.com/questions/55582335 | https://stackoverflow.com/questions/55582335 |  |
+| `younggeeks.in` | https://younggeeks.in/questions/11586390 | https://stackoverflow.com/questions/70524850 |  |
+| `www.answerlib.com` | https://www.answerlib.com/ja/question/13427 | https://stackoverflow.com/questions/59914611 |  |
+| `edupro.id` | https://edupro.id/questions/5055780 | https://stackoverflow.com/questions/67219289 |  |
+| `python-stack.de` | https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c- | https://stackoverflow.com/questions/63315020 |  |
+| `www.stackfinder.ru` | https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name | https://stackoverflow.com/questions/60256300 |  |
+| `stackfault.net` | https://stackfault.net/t/topic/106786 | https://stackoverflow.com/questions/70608121 |  |
+| `howtofix.io` | https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181 | https://stackoverflow.com/questions/69486089 |  |
+| `www.buzzphp.com` | https://www.buzzphp.com/posts/what-is-the-alternative-for-services-addmvc-and-superjsonoutputformatter-used | https://stackoverflow.com/questions/61358234 |  |
+| `www.desenv-web-rp.com` | https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
+| `askdev.vn` | https://askdev.vn/t/lam-cach-nao-de-buoc-net-core-3-1-giai-ma-hoa-tham-so-frombody-bang-newtonsoft-thay-vi-system-text-json/122832 | https://stackoverflow.com/questions/70608121 |  |
+| `quares.ru` | https://quares.ru/?id=117892 | https://stackoverflow.com/questions/59914611 |  |
+| `www.examplefiles.net` | https://www.examplefiles.net/cs/552928 | https://stackoverflow.com/questions/60123613 |  |
+| `codewdw.com` | https://codewdw.com/125956318.html | https://stackoverflow.com/questions/70608121 |  |

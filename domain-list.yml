@@ -461,6 +461,45 @@
 - domain: 'stackguides.com'
   evidence: https://stackguides.com/questions/55582335
   original: https://stackoverflow.com/questions/55582335
+- domain: 'younggeeks.in'
+  evidence: https://younggeeks.in/questions/11586390
+  original: https://stackoverflow.com/questions/70524850
+- domain: 'www.answerlib.com'
+  evidence: https://www.answerlib.com/ja/question/13427
+  original: https://stackoverflow.com/questions/59914611
+- domain: 'edupro.id'
+  evidence: https://edupro.id/questions/5055780
+  original: https://stackoverflow.com/questions/67219289
+- domain: 'python-stack.de'
+  evidence: https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c-
+  original: https://stackoverflow.com/questions/63315020
+- domain: 'www.stackfinder.ru'
+  evidence: https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name
+  original: https://stackoverflow.com/questions/60256300
+- domain: 'stackfault.net'
+  evidence: https://stackfault.net/t/topic/106786
+  original: https://stackoverflow.com/questions/70608121
+- domain: 'howtofix.io'
+  evidence: https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181
+  original: https://stackoverflow.com/questions/69486089
+- domain: 'www.buzzphp.com'
+  evidence: https://www.buzzphp.com/posts/what-is-the-alternative-for-services-addmvc-and-superjsonoutputformatter-used
+  original: https://stackoverflow.com/questions/61358234
+- domain: 'www.desenv-web-rp.com'
+  evidence: https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
+  original: https://stackoverflow.com/questions/38728200
+- domain: 'askdev.vn'
+  evidence: https://askdev.vn/t/lam-cach-nao-de-buoc-net-core-3-1-giai-ma-hoa-tham-so-frombody-bang-newtonsoft-thay-vi-system-text-json/122832
+  original: https://stackoverflow.com/questions/70608121
+- domain: 'quares.ru'
+  evidence: https://quares.ru/?id=117892
+  original: https://stackoverflow.com/questions/59914611
+- domain: 'www.examplefiles.net'
+  evidence: https://www.examplefiles.net/cs/552928
+  original: https://stackoverflow.com/questions/60123613
+- domain: 'codewdw.com'
+  evidence: https://codewdw.com/125956318.html
+  original: https://stackoverflow.com/questions/70608121
 - domain: 'jpcodeqa.com'
   evidence: https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305
   original: https://stackoverflow.com/questions/906455
