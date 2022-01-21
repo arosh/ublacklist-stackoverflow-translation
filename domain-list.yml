@@ -467,3 +467,6 @@
 - domain: 'www.answerlib.com'
   evidence: https://www.answerlib.com/ja/question/13427
   original: https://stackoverflow.com/questions/59914611
+- domain: 'edupro.id'
+  evidence: https://edupro.id/questions/5055780
+  original: https://stackoverflow.com/questions/67219289
