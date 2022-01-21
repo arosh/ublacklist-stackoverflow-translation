@@ -136,3 +136,4 @@
 *://quares.ru/*
 *://www.examplefiles.net/*
 *://codewdw.com/*
+*://jpcodeqa.com/*

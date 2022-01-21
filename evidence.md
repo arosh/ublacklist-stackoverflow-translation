@@ -140,3 +140,4 @@
 | `quares.ru` | https://quares.ru/?id=117892 | https://stackoverflow.com/questions/59914611 |  |
 | `www.examplefiles.net` | https://www.examplefiles.net/cs/552928 | https://stackoverflow.com/questions/60123613 |  |
 | `codewdw.com` | https://codewdw.com/125956318.html | https://stackoverflow.com/questions/70608121 |  |
+| `jpcodeqa.com` | https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305 | https://stackoverflow.com/questions/906455 |  |
