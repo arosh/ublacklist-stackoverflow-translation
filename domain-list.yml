@@ -476,3 +476,7 @@
 - domain: 'www.stackfinder.ru'
   evidence: https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name
   original: https://stackoverflow.com/questions/60256300
+- domain: 'stackfault.net'
+  evidence: https://stackfault.net/t/topic/106786
+  original: https://stackoverflow.com/questions/70608121
+
