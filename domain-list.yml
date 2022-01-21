@@ -494,3 +494,6 @@
 - domain: 'quares.ru'
   evidence: https://quares.ru/?id=117892
   original: https://stackoverflow.com/questions/59914611
+- domain: 'www.examplefiles.net'
+  evidence: https://www.examplefiles.net/cs/552928
+  original: https://stackoverflow.com/questions/60123613
