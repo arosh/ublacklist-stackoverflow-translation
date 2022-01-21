@@ -488,4 +488,6 @@
 - domain: 'www.desenv-web-rp.com'
   evidence: https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
   original: https://stackoverflow.com/questions/38728200
-
+- domain: 'askdev.vn'
+  evidence: https://askdev.vn/t/lam-cach-nao-de-buoc-net-core-3-1-giai-ma-hoa-tham-so-frombody-bang-newtonsoft-thay-vi-system-text-json/122832
+  original: https://stackoverflow.com/questions/70608121
