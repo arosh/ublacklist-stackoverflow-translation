@@ -485,4 +485,7 @@
 - domain: 'www.buzzphp.com'
   evidence: https://www.buzzphp.com/posts/what-is-the-alternative-for-services-addmvc-and-superjsonoutputformatter-used
   original: https://stackoverflow.com/questions/61358234
+- domain: 'www.desenv-web-rp.com'
+  evidence: https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
+  original: https://stackoverflow.com/questions/38728200
 
