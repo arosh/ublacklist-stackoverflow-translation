@@ -117,9 +117,9 @@
 | `*.coredump.biz` | https://fr.coredump.biz/questions/29256945/how-to-optimize-blob-access-with-an-user-defined-function | https://stackoverflow.com/q/29256945 |  |
 | `farath.com` | https://farath.com/should-i-keep-my-github-forked-repositories-around-forever/ | https://softwareengineering.stackexchange.com/q/61577 |  |
 | `devbugfix.com` | https://devbugfix.com/p/1389529 | https://gis.stackexchange.com/q/184482 |  |
-| `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ | closed? |
-| `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ | closed? |
-| `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 | closed? |
+| `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ |  |
+| `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ |  |
+| `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 |  |
 | `stackify.dev` | https://stackify.dev/532500-how-to-truncate-a-table-using-doctrine-2 | https://stackoverflow.com/questions/9686888/how-to-truncate-a-table-using-doctrine-2 |  |
 | `stackfinder.jp.net` | https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct |  |
 | `coder-solution-jp.com` | https://coder-solution-jp.com/solution-jp-blog/575642 | https://askubuntu.com/questions/776699 |  |
