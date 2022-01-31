@@ -528,3 +528,10 @@
   evidence: https://codefaq.ru/kak_ispravit_proverku_tipov_pri_ispolzovanii_etogo_magazin_findrecod
   original: https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod
   note: mirrors for other languages are specified in the head tag
+- domain: '*.mediatagtw.com'
+  evidence: https://programming.mediatagtw.com/article/Textarea+select+all
+  original: https://stackoverflow.com/questions/7313786/highlight-all-text-in-textarea
+  note: other subdomains seem to be clones or machine-generated.
+- domain: 'alltodev.com'
+  evidence: https://alltodev.com/filenotfounderror-errno-2-no-such-file-or-directory
+  original: https://stackoverflow.com/questions/22282760/filenotfounderror-errno-2-no-such-file-or-directory
