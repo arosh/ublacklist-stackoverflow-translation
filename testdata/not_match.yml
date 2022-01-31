@@ -1,0 +1,4 @@
+- domain: www.example.com
+  evidence: https://www.example.net/
+  original: www.example.org
+  note:
