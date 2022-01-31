@@ -502,3 +502,29 @@
 - domain: 'jpcodeqa.com'
   evidence: https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305
   original: https://stackoverflow.com/questions/906455
+- domain: 'www.jscodetips.com'
+  evidence: https://www.jscodetips.com/examples/how-to-change-the-interface-key-value-string-to-key-string-string
+  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
+- domain: 'www.5axxw.com'
+  evidence: https://www.5axxw.com/questions/content/8pxpsb
+  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
+- domain: 'question-it.com'
+  evidence: https://question-it.com/questions/12118832/kak-izmenit-kljuch-interfejsa-znachenie-stroka-na-kljuch-stroka-stroka
+  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
+  note: mirrors for other languages are specified in the head tag
+- domain: 'webmonkez.com'
+  evidence: https://webmonkez.com/questions/12118832/como-cambiar-la-clave-de-interfaz-valor-cadena-a-clave-cadena-cadena
+  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
+  note: mirrors for other languages are specified in the head tag
+- domain: 'ibootweb.com'
+  evidence: https://ibootweb.com/questions/12118832/comment-changer-la-cle-dinterface-valeur-chaine-en-cle-chaine-chaine
+  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
+  note: mirrors for other languages are specified in the head tag
+- domain: '*.codefaq.info'
+  evidence: https://es.codefaq.info/como_arreglar_el_tipo_de_comprobacion_cuando_el_uso_de_este_de_la_tienda_findrecod
+  original: https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod
+  note: mirrors for other languages are specified in the head tag
+- domain: 'codefaq.ru'
+  evidence: https://codefaq.ru/kak_ispravit_proverku_tipov_pri_ispolzovanii_etogo_magazin_findrecod
+  original: https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod
+  note: mirrors for other languages are specified in the head tag
