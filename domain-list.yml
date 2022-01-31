@@ -535,3 +535,9 @@
 - domain: 'alltodev.com'
   evidence: https://alltodev.com/filenotfounderror-errno-2-no-such-file-or-directory
   original: https://stackoverflow.com/questions/22282760/filenotfounderror-errno-2-no-such-file-or-directory
+- domain: 'progi.pro'
+  evidence: https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983
+  original: https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock
+- domain: 'jike.in'
+  evidence: https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock
+  original: https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than
