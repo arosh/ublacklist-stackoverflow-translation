@@ -138,3 +138,12 @@
 *://www.examplefiles.net/*
 *://codewdw.com/*
 *://jpcodeqa.com/*
+*://www.jscodetips.com/*
+*://www.5axxw.com/*
+*://question-it.com/*
+*://webmonkez.com/*
+*://ibootweb.com/*
+*://*.codefaq.info/*
+*://codefaq.ru/*
+*://*.mediatagtw.com/*
+*://alltodev.com/*
