@@ -1781,3 +1781,27 @@ www.google.*##.isv-r[data-ru^="https://alltodev.com/"]
 www.google.*##.VFACy[href^="https://alltodev.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://alltodev.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://alltodev.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://progi.pro/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://progi.pro/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://progi.pro/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://progi.pro/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://progi.pro/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="progi.pro"]
+www.ecosia.org##.result[data-url^="https://progi.pro/"]
+startpage.com##.w-gl__result-title[href^="https://progi.pro/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://progi.pro/"]
+www.google.*##.VFACy[href^="https://progi.pro/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://progi.pro/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://progi.pro/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://jike.in/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://jike.in/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://jike.in/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://jike.in/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jike.in/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="jike.in"]
+www.ecosia.org##.result[data-url^="https://jike.in/"]
+startpage.com##.w-gl__result-title[href^="https://jike.in/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://jike.in/"]
+www.google.*##.VFACy[href^="https://jike.in/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://jike.in/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://jike.in/"]:upward(.tile--img)

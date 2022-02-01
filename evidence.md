@@ -150,3 +150,5 @@
 | `codefaq.ru` | https://codefaq.ru/kak_ispravit_proverku_tipov_pri_ispolzovanii_etogo_magazin_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | mirrors for other languages are specified in the head tag |
 | `*.mediatagtw.com` | https://programming.mediatagtw.com/article/Textarea+select+all | https://stackoverflow.com/questions/7313786/highlight-all-text-in-textarea | other subdomains seem to be clones or machine-generated. |
 | `alltodev.com` | https://alltodev.com/filenotfounderror-errno-2-no-such-file-or-directory | https://stackoverflow.com/questions/22282760/filenotfounderror-errno-2-no-such-file-or-directory |  |
+| `progi.pro` | https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983 | https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock |  |
+| `jike.in` | https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock | https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than |  |
