@@ -88,7 +88,7 @@ func TestDomainList(t *testing.T) {
 				if matched, err := path.Match(tt.Domain, other.Domain); err != nil {
 					t.Errorf("cannot check match: %+v", err)
 				} else if matched {
-					t.Errorf("%d-th item ('%s') and %d-th item ('%s') are duplicated", i, tt.Domain, j, other.Domain)
+					t.Errorf("%d-th item ('%s') and %d-th item ('%s') are duplicated", i+1, tt.Domain, j+1, other.Domain)
 				}
 			}
 		})
