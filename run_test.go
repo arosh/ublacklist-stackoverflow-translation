@@ -29,6 +29,7 @@ func TestDomainList(t *testing.T) {
 		t.Fatal(err)
 	}
 	for i, tt := range tests {
+		i := i
 		tt := tt
 		name := fmt.Sprintf("%d-th item %s", i+1, tt.Domain)
 		t.Run(name, func(t *testing.T) {
@@ -56,7 +57,7 @@ func TestDomainList(t *testing.T) {
 				t.Errorf("'%s' does not match '%s'", tt.Domain, u.Hostname())
 			}
 
-			// // domain should not match Stack Exchange
+			// domain should not match Stack Exchange
 			if tt.Domain == "*.stackexchange.com" || tt.Domain == "stackexchange.com" {
 				t.Errorf("'%s' should not match Stack Exchange", tt.Domain)
 			}
@@ -76,6 +77,18 @@ func TestDomainList(t *testing.T) {
 					t.Errorf("cannot check match: %+v", err)
 				} else if matched {
 					t.Errorf("'%s' should not match Stack Exchange", tt.Domain)
+				}
+			}
+
+			// domain should not duplicate others
+			for j, other := range tests {
+				if i == j {
+					continue
+				}
+				if matched, err := path.Match(tt.Domain, other.Domain); err != nil {
+					t.Errorf("cannot check match: %+v", err)
+				} else if matched {
+					t.Errorf("%d-th item ('%s') and %d-th item ('%s') are duplicated", i, tt.Domain, j, other.Domain)
 				}
 			}
 		})
