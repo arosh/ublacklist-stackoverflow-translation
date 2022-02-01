@@ -90,7 +90,6 @@
 | `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 |  |
 | `quabr.com` | https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working | https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working |  |
 | `www.webdevqa.jp.net` | https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/ | https://unix.stackexchange.com/q/419198 |  |
-| `qapicks.com` | https://qapicks.com/question/472662-71fa6656fedd | https://superuser.com/q/472662 |  |
 | `exceptionshub.com` | https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html | https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call |  |
 | `newbedev.com` | https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation | https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation |  |
 | `www.codenong.com` | https://www.codenong.com/8188108/ | https://stackoverflow.com/q/8188108 |  |
