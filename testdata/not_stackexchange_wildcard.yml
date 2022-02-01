@@ -1,0 +1,4 @@
+- domain: '*.stackexchange.com'
+  evidence: https://hoge.stackexchange.com/
+  original: www.example.org
+  note:
