@@ -538,3 +538,6 @@
 - domain: 'jike.in'
   evidence: https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock
   original: https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than
+- domain: 'codegrepper.com'
+  evidence: https://www.codegrepper.com/code-examples/javascript/how+to+merge+two+arrays+in+javascript+without+duplicates
+  original: https://stackoverflow.com/questions/14930516/compare-two-javascript-arrays-and-remove-duplicates/14930567
