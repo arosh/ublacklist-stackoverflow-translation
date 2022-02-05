@@ -538,3 +538,6 @@
 - domain: 'jike.in'
   evidence: https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock
   original: https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than
+- domain: 'www.web-dev-qa.com'
+  evidence: https://www.web-dev-qa.com/ja/bash/962672142/
+  original: https://unix.stackexchange.com/questions/395742/
