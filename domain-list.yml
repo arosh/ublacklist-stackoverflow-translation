@@ -541,3 +541,6 @@
 - domain: 'www.web-dev-qa.com'
   evidence: https://www.web-dev-qa.com/ja/bash/962672142/
   original: https://unix.stackexchange.com/questions/395742/
+- domain: '*.elfishgene.com'
+  evidence: https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW
+  original: https://stackoverflow.com/questions/58304957/
