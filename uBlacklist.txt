@@ -149,3 +149,4 @@
 *://progi.pro/*
 *://jike.in/*
 *://www.web-dev-qa.com/*
+*://*.elfishgene.com/*
