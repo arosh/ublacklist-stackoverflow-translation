@@ -1829,3 +1829,15 @@ www.google.*##.isv-r[data-ru*="elfishgene.com/"]
 www.google.*##.VFACy[href*="elfishgene.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##a[title$="elfishgene.com"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href*="elfishgene.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://answerlib.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://answerlib.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://answerlib.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://answerlib.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://answerlib.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="answerlib.com"]
+www.ecosia.org##.result[data-url^="https://answerlib.com/"]
+startpage.com##.w-gl__result-title[href^="https://answerlib.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://answerlib.com/"]
+www.google.*##.VFACy[href^="https://answerlib.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://answerlib.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://answerlib.com/"]:upward(.tile--img)
