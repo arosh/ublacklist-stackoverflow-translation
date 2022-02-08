@@ -544,3 +544,6 @@
 - domain: '*.elfishgene.com'
   evidence: https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW
   original: https://stackoverflow.com/questions/58304957/
+- domain: 'answerlib.com'
+  evidence: https://answerlib.com/ja/question/24800/kubernetes--jq---retrieving-containers-list-per-pod-yields-cartesian-product.html
+  original: https://stackoverflow.com/questions/68193777/kubernetes-jq-retrieving-containers-list-per-pod-yields-cartesian-product
