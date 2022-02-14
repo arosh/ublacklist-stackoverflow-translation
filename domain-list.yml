@@ -1,3 +1,6 @@
+- domain: 'sysadminde.com'
+  evidence: https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs
+  original: https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs
 - domain: 'code-examples.net'
   evidence: https://code-examples.net/ja/q/246c591
   original: https://stackoverflow.com/questions/38192529/
