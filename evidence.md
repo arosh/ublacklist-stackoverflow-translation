@@ -155,3 +155,4 @@
 | `www.web-dev-qa.com` | https://www.web-dev-qa.com/ja/bash/962672142/ | https://unix.stackexchange.com/questions/395742/ |  |
 | `*.elfishgene.com` | https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW | https://stackoverflow.com/questions/58304957/ |  |
 | `answerlib.com` | https://answerlib.com/ja/question/24800/kubernetes--jq---retrieving-containers-list-per-pod-yields-cartesian-product.html | https://stackoverflow.com/questions/68193777/kubernetes-jq-retrieving-containers-list-per-pod-yields-cartesian-product |  |
+| `sysadminde.com` | https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs | https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs |  |
