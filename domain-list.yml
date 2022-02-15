@@ -547,3 +547,6 @@
 - domain: 'answerlib.com'
   evidence: https://answerlib.com/ja/question/24800/kubernetes--jq---retrieving-containers-list-per-pod-yields-cartesian-product.html
   original: https://stackoverflow.com/questions/68193777/kubernetes-jq-retrieving-containers-list-per-pod-yields-cartesian-product
+- domain: 'sysadminde.com'
+  evidence: https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs
+  original: https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs
