@@ -156,3 +156,6 @@
 | `*.elfishgene.com` | https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW | https://stackoverflow.com/questions/58304957/ |  |
 | `answerlib.com` | https://answerlib.com/ja/question/24800/kubernetes--jq---retrieving-containers-list-per-pod-yields-cartesian-product.html | https://stackoverflow.com/questions/68193777/kubernetes-jq-retrieving-containers-list-per-pod-yields-cartesian-product |  |
 | `sysadminde.com` | https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs | https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs |  |
+| `answacode.com` | https://answacode.com/questions/9620198/kak-poluchit-razmery-tablic-bazy-dannyh-mysql | https://stackoverflow.com/q/9620198 |  |
+| `fooobar.com` | https://fooobar.com/questions/15843711/mysql-delete-records-from-a-table-based-on-query-of-another-table | https://stackoverflow.com/questions/50815670/mysql-delete-records-from-a-table-based-on-query-of-another-table |  |
+| `ask-dev.ru` | https://ask-dev.ru/info/12969289/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library | https://stackoverflow.com/questions/41223963/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library |  |
