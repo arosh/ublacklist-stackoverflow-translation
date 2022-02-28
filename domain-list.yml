@@ -559,3 +559,6 @@
 - domain: 'ask-dev.ru'
   evidence: https://ask-dev.ru/info/12969289/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
   original: https://stackoverflow.com/questions/41223963/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
+- domain: '*.arip-photo.org'
+  evidence: https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD
+  original: https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574
