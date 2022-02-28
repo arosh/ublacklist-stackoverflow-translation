@@ -155,3 +155,4 @@
 *://answacode.com/*
 *://fooobar.com/*
 *://ask-dev.ru/*
+*://*.arip-photo.org/*

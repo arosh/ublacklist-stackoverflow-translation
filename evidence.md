@@ -159,3 +159,4 @@
 | `answacode.com` | https://answacode.com/questions/9620198/kak-poluchit-razmery-tablic-bazy-dannyh-mysql | https://stackoverflow.com/q/9620198 |  |
 | `fooobar.com` | https://fooobar.com/questions/15843711/mysql-delete-records-from-a-table-based-on-query-of-another-table | https://stackoverflow.com/questions/50815670/mysql-delete-records-from-a-table-based-on-query-of-another-table |  |
 | `ask-dev.ru` | https://ask-dev.ru/info/12969289/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library | https://stackoverflow.com/questions/41223963/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library |  |
+| `*.arip-photo.org` | https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD | https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574 |  |
