@@ -562,3 +562,6 @@
 - domain: '*.arip-photo.org'
   evidence: https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD
   original: https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574
+- domain: 'jpdebug.com'
+  evidence: https://jpdebug.com/p/2194247
+  original: https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python
