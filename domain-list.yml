@@ -565,4 +565,6 @@
 - domain: 'jablogs.com'
   evidence: https://jablogs.com/detail/60085
   original: https://stackoverflow.com/questions/912596/how-to-turn-a-string-into-a-javascript-function-call/912642#912642
- 
+- domain: 'jpdebug.com'
+  evidence: https://jpdebug.com/p/2194247
+  original: https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python
