@@ -156,3 +156,4 @@
 *://fooobar.com/*
 *://ask-dev.ru/*
 *://*.arip-photo.org/*
+*://jablogs.com/*
