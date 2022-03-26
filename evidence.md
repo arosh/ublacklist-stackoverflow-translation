@@ -161,3 +161,4 @@
 | `ask-dev.ru` | https://ask-dev.ru/info/12969289/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library | https://stackoverflow.com/questions/41223963/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library |  |
 | `*.arip-photo.org` | https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD | https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574 |  |
 | `jablogs.com` | https://jablogs.com/detail/60085 | https://stackoverflow.com/questions/912596/how-to-turn-a-string-into-a-javascript-function-call/912642#912642 |  |
+| `jpdebug.com` | https://jpdebug.com/p/2194247 | https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python |  |

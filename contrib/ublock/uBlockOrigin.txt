@@ -1913,3 +1913,15 @@ www.google.*##.isv-r[data-ru^="https://jablogs.com/"]
 www.google.*##.VFACy[href^="https://jablogs.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://jablogs.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://jablogs.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://jpdebug.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://jpdebug.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://jpdebug.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://jpdebug.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jpdebug.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="jpdebug.com"]
+www.ecosia.org##.result[data-url^="https://jpdebug.com/"]
+startpage.com##.w-gl__result-title[href^="https://jpdebug.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://jpdebug.com/"]
+www.google.*##.VFACy[href^="https://jpdebug.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://jpdebug.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://jpdebug.com/"]:upward(.tile--img)

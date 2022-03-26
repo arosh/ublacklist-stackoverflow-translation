@@ -157,3 +157,4 @@
 *://ask-dev.ru/*
 *://*.arip-photo.org/*
 *://jablogs.com/*
+*://jpdebug.com/*
