@@ -568,3 +568,6 @@
 - domain: 'jpdebug.com'
   evidence: https://jpdebug.com/p/2194247
   original: https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python
+- domain: 'askcodez.com'
+  evidence: https://askcodez.com/junit-test-des-setters-et-des-getters-de-variables-dinstance.html
+  original: https://stackoverflow.com/questions/21354311/junit-test-of-setters-and-getters-of-instance-variables
