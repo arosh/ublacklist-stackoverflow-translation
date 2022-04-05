@@ -158,3 +158,4 @@
 *://*.arip-photo.org/*
 *://jablogs.com/*
 *://jpdebug.com/*
+*://askcodez.com/*

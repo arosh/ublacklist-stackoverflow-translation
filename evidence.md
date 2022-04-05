@@ -162,3 +162,4 @@
 | `*.arip-photo.org` | https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD | https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574 |  |
 | `jablogs.com` | https://jablogs.com/detail/60085 | https://stackoverflow.com/questions/912596/how-to-turn-a-string-into-a-javascript-function-call/912642#912642 |  |
 | `jpdebug.com` | https://jpdebug.com/p/2194247 | https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python |  |
+| `askcodez.com` | https://askcodez.com/junit-test-des-setters-et-des-getters-de-variables-dinstance.html | https://stackoverflow.com/questions/21354311/junit-test-of-setters-and-getters-of-instance-variables |  |
