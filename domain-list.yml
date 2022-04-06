@@ -571,3 +571,6 @@
 - domain: 'askcodez.com'
   evidence: https://askcodez.com/junit-test-des-setters-et-des-getters-de-variables-dinstance.html
   original: https://stackoverflow.com/questions/21354311/junit-test-of-setters-and-getters-of-instance-variables
++- domain: 'programmierfrage.com'
++  evidence: https://programmierfrage.com/items/phpmailer-custom-header-set-but-not-shown-on-delivery
++  original: https://stackoverflow.com/questions/65253795/phpmailer-custom-header-set-but-not-shown-on-delivery
