@@ -571,3 +571,6 @@
 - domain: 'askcodez.com'
   evidence: https://askcodez.com/junit-test-des-setters-et-des-getters-de-variables-dinstance.html
   original: https://stackoverflow.com/questions/21354311/junit-test-of-setters-and-getters-of-instance-variables
+- domain: '*.ntcdoon.org'
+  evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
+  original: https://stackoverflow.com/q/13195129
