@@ -571,6 +571,9 @@
 - domain: 'askcodez.com'
   evidence: https://askcodez.com/junit-test-des-setters-et-des-getters-de-variables-dinstance.html
   original: https://stackoverflow.com/questions/21354311/junit-test-of-setters-and-getters-of-instance-variables
+- domain: 'iquestion.pro'
+  evidence: https://iquestion.pro/q/as13032164/watashitachi-ni-mukerareteinai-parusa-o-kenshutsu-dekimasu-ka
+  original: https://astronomy.stackexchange.com/questions/34366/can-we-detect-pulsars-that-arent-pointed-towards-us
 - domain: '*.ntcdoon.org'
   evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
   original: https://stackoverflow.com/q/13195129
