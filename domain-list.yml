@@ -577,3 +577,6 @@
 - domain: '*.ntcdoon.org'
   evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
   original: https://stackoverflow.com/q/13195129
+- domain: 'programmierfrage.com'
+  evidence: https://programmierfrage.com/items/phpmailer-custom-header-set-but-not-shown-on-delivery
+  original: https://stackoverflow.com/questions/65253795/phpmailer-custom-header-set-but-not-shown-on-delivery
