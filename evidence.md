@@ -163,3 +163,5 @@
 | `jablogs.com` | https://jablogs.com/detail/60085 | https://stackoverflow.com/questions/912596/how-to-turn-a-string-into-a-javascript-function-call/912642#912642 |  |
 | `jpdebug.com` | https://jpdebug.com/p/2194247 | https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python |  |
 | `askcodez.com` | https://askcodez.com/junit-test-des-setters-et-des-getters-de-variables-dinstance.html | https://stackoverflow.com/questions/21354311/junit-test-of-setters-and-getters-of-instance-variables |  |
+| `iquestion.pro` | https://iquestion.pro/q/as13032164/watashitachi-ni-mukerareteinai-parusa-o-kenshutsu-dekimasu-ka | https://astronomy.stackexchange.com/questions/34366/can-we-detect-pulsars-that-arent-pointed-towards-us |  |
+| `*.ntcdoon.org` | https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI | https://stackoverflow.com/q/13195129 |  |
