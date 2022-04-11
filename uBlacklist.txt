@@ -160,3 +160,4 @@
 *://jpdebug.com/*
 *://askcodez.com/*
 *://iquestion.pro/*
+*://*.ntcdoon.org/*
