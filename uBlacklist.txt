@@ -161,3 +161,4 @@
 *://askcodez.com/*
 *://iquestion.pro/*
 *://*.ntcdoon.org/*
+*://programmierfrage.com/*
