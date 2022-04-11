@@ -159,3 +159,4 @@
 *://jablogs.com/*
 *://jpdebug.com/*
 *://askcodez.com/*
+*://iquestion.pro/*
