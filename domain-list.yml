@@ -580,3 +580,6 @@
 - domain: 'programmierfrage.com'
   evidence: https://programmierfrage.com/items/phpmailer-custom-header-set-but-not-shown-on-delivery
   original: https://stackoverflow.com/questions/65253795/phpmailer-custom-header-set-but-not-shown-on-delivery
+- domain: 'microeducate.tech'
+  evidence: https://microeducate.tech/direct2d-off-screen-rendering-and-hardware-acceleration/
+  original: https://gamedev.stackexchange.com/questions/16446/direct2d-off-screen-rendering-and-hardware-acceleration
