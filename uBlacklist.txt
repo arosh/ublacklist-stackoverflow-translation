@@ -162,3 +162,4 @@
 *://iquestion.pro/*
 *://*.ntcdoon.org/*
 *://programmierfrage.com/*
+*://microeducate.tech/*

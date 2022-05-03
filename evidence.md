@@ -166,3 +166,4 @@
 | `iquestion.pro` | https://iquestion.pro/q/as13032164/watashitachi-ni-mukerareteinai-parusa-o-kenshutsu-dekimasu-ka | https://astronomy.stackexchange.com/questions/34366/can-we-detect-pulsars-that-arent-pointed-towards-us |  |
 | `*.ntcdoon.org` | https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI | https://stackoverflow.com/q/13195129 |  |
 | `programmierfrage.com` | https://programmierfrage.com/items/phpmailer-custom-header-set-but-not-shown-on-delivery | https://stackoverflow.com/questions/65253795/phpmailer-custom-header-set-but-not-shown-on-delivery |  |
+| `microeducate.tech` | https://microeducate.tech/direct2d-off-screen-rendering-and-hardware-acceleration/ | https://gamedev.stackexchange.com/questions/16446/direct2d-off-screen-rendering-and-hardware-acceleration |  |
