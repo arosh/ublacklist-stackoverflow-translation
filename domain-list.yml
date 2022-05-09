@@ -583,3 +583,6 @@
 - domain: 'microeducate.tech'
   evidence: https://microeducate.tech/direct2d-off-screen-rendering-and-hardware-acceleration/
   original: https://gamedev.stackexchange.com/questions/16446/direct2d-off-screen-rendering-and-hardware-acceleration
+- domain: 'www.debugko.com'
+  evidence: https://www.debugko.com/article/25OdKAAOyMaK7Be9.html
+  original: https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892
