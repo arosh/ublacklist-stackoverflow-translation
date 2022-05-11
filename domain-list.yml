@@ -362,6 +362,9 @@
 - domain: 'pythonwd.com'
   evidence: https://pythonwd.com/290431426.html
   original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
+- domain: 'tousu.in'
+  evidence: https://tousu.in/qa/?qa=506161/
+  original: https://stackoverflow.com/questions/31189754/get-field-names-list-from-case-class
 - domain: 'tutorialmore.com'
   evidence: https://tutorialmore.com/questions-838617.htm
   original: https://superuser.com/questions/1183564/
