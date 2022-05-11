@@ -167,3 +167,4 @@
 | `*.ntcdoon.org` | https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI | https://stackoverflow.com/q/13195129 |  |
 | `programmierfrage.com` | https://programmierfrage.com/items/phpmailer-custom-header-set-but-not-shown-on-delivery | https://stackoverflow.com/questions/65253795/phpmailer-custom-header-set-but-not-shown-on-delivery |  |
 | `microeducate.tech` | https://microeducate.tech/direct2d-off-screen-rendering-and-hardware-acceleration/ | https://gamedev.stackexchange.com/questions/16446/direct2d-off-screen-rendering-and-hardware-acceleration |  |
+| `www.debugko.com` | https://www.debugko.com/article/25OdKAAOyMaK7Be9.html | https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892 |  |

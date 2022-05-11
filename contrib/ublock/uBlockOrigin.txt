@@ -1985,3 +1985,15 @@ www.google.*##.isv-r[data-ru^="https://microeducate.tech/"]
 www.google.*##.VFACy[href^="https://microeducate.tech/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://microeducate.tech/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://microeducate.tech/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.debugko.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.debugko.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.debugko.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.debugko.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.debugko.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="www.debugko.com"]
+www.ecosia.org##.result[data-url^="https://www.debugko.com/"]
+startpage.com##.w-gl__result-title[href^="https://www.debugko.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://www.debugko.com/"]
+www.google.*##.VFACy[href^="https://www.debugko.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.debugko.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://www.debugko.com/"]:upward(.tile--img)

@@ -163,3 +163,4 @@
 *://*.ntcdoon.org/*
 *://programmierfrage.com/*
 *://microeducate.tech/*
+*://www.debugko.com/*
