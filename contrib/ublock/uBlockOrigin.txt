@@ -1133,6 +1133,18 @@ www.google.*##.isv-r[data-ru^="https://pythonwd.com/"]
 www.google.*##.VFACy[href^="https://pythonwd.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://pythonwd.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://pythonwd.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://tousu.in/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://tousu.in/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://tousu.in/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://tousu.in/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://tousu.in/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="tousu.in"]
+www.ecosia.org##.result[data-url^="https://tousu.in/"]
+startpage.com##.w-gl__result-title[href^="https://tousu.in/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://tousu.in/"]
+www.google.*##.VFACy[href^="https://tousu.in/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://tousu.in/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://tousu.in/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://tutorialmore.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://tutorialmore.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://tutorialmore.com/"]:upward(.xpdopen)
