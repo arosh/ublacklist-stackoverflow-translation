@@ -589,3 +589,6 @@
 - domain: 'www.debugko.com'
   evidence: https://www.debugko.com/article/25OdKAAOyMaK7Be9.html
   original: https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892
+- domain: 'devdreamz.com'
+  evidence: https://devdreamz.com/question/361174-maximum-query-length-to-avoid-epipe-error-in-node-js
+  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
