@@ -1,6 +1,7 @@
 *://code-examples.net/*
 *://kotaeta.com/*
 *://answer-id.com/*
+*://de-vraag.com/*
 *://code.i-harness.com/*
 *://living-sun.com/*
 *://qastack.jp/*

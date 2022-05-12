@@ -41,6 +41,18 @@ www.google.*##.isv-r[data-ru^="https://answer-id.com/"]
 www.google.*##.VFACy[href^="https://answer-id.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://answer-id.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://answer-id.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://de-vraag.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://de-vraag.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://de-vraag.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://de-vraag.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://de-vraag.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="de-vraag.com"]
+www.ecosia.org##.result[data-url^="https://de-vraag.com/"]
+startpage.com##.w-gl__result-title[href^="https://de-vraag.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://de-vraag.com/"]
+www.google.*##.VFACy[href^="https://de-vraag.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://de-vraag.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://de-vraag.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://code.i-harness.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://code.i-harness.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://code.i-harness.com/"]:upward(.xpdopen)

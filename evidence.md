@@ -3,8 +3,9 @@
 | Domain | Page | Original | Note |
 | ------ | ---- | -------- | ---- |
 | `code-examples.net` | https://code-examples.net/ja/q/246c591 | https://stackoverflow.com/questions/38192529/ |  |
-| `kotaeta.com` | https://kotaeta.com/53238761 | https://arduino.stackexchange.com/questions/21605/ | redirects to `answer-id.com` |
-| `answer-id.com` | https://answer-id.com/ja/53238761 | https://arduino.stackexchange.com/questions/21605/ |  |
+| `kotaeta.com` | https://kotaeta.com/53238761 | https://arduino.stackexchange.com/questions/21605/ | redirects to `de-vraag.com` |
+| `answer-id.com` | https://answer-id.com/ja/53238761 | https://arduino.stackexchange.com/questions/21605/ | redirects to `de-vraag.com` |
+| `de-vraag.com` | https://de-vraag.com/ja/53238761 | https://arduino.stackexchange.com/q/21605 |  |
 | `code.i-harness.com` | https://code.i-harness.com/ja-jp/q/1cc697 | https://stackoverflow.com/questions/1885847/ |  |
 | `living-sun.com` | https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html | https://stackoverflow.com/questions/1599464/ |  |
 | `qastack.jp` | https://qastack.jp/programming/11227809/ | https://stackoverflow.com/questions/11227809/ |  |
