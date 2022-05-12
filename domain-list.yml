@@ -592,3 +592,6 @@
 - domain: 'devdreamz.com'
   evidence: https://devdreamz.com/question/361174-maximum-query-length-to-avoid-epipe-error-in-node-js
   original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
+- domain: 'catwolf.org'
+  evidence: https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y
+  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
