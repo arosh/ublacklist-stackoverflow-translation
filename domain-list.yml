@@ -101,20 +101,16 @@
   evidence: https://www.it-swarm.jp.net/ja/google-chrome/chrome%e3%81%af%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%a9%e3%81%93%e3%81%ab%e4%bf%9d%e5%ad%98%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%ef%bc%9f/1071750676/
   original: https://stackoverflow.com/q/14543896
   note: redirects to `www.it-mure.jp.net`
-- domain: 'www.it-mure.jp.net'
-  evidence: https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/
-  original: https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c
-  note:
 - domain: 'www.it-swarm-ja.com'
   evidence: https://www.it-swarm-ja.com/ja/javascript/vue%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%AA%E3%81%84keyup%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/835790755/
   original: https://stackoverflow.com/q/46955147
   note:
-- domain: 'www.it-swarm.com.ru'
-  evidence: https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
-  original: https://stackoverflow.com/q/3367415
-- domain: 'www.it-roy-ru.com'
-  evidence: https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
-  original: https://stackoverflow.com/q/3367415
+- domain: 'www.webdevqa.jp.net'
+  evidence: https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/
+  original: https://unix.stackexchange.com/q/419198
+- domain: 'www.web-dev-qa.com'
+  evidence: https://www.web-dev-qa.com/ja/bash/962672142/
+  original: https://unix.stackexchange.com/questions/395742/
 - domain: 'www.it-swarm-fr.com'
   evidence: https://www.it-swarm-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
   original: https://stackoverflow.com/q/50435455
@@ -169,10 +165,6 @@
 - domain: 'lycaeum.dev'
   evidence: https://lycaeum.dev/ja/questions/29482
   original: https://stackoverflow.com/questions/29482
-  note:
-- domain: 'brocante.dev'
-  evidence: https://brocante.dev/ja/questions/5223
-  original: https://stackoverflow.com/questions/5223
   note:
 - domain: 'classmethod.dev'
   evidence: https://classmethod.dev/ja/questions/1414365
@@ -278,9 +270,6 @@
   evidence: https://qa.try2explore.com/questions/jp/10003161
   original: https://stackoverflow.com/questions/806000/
   note:
-- domain: 'laravelquestions.com'
-  evidence: https://laravelquestions.com/2021/03/29/csrf-token-mismatch-in-iframe-the-good-fix/
-  original: https://stackoverflow.com/questions/66850521/
 - domain: 'itectec.com'
   evidence: https://itectec.com/superuser/user-id-mapping-with-nfs-on-synology-nas/
   original: https://superuser.com/questions/860553/user-id-mapping-with-nfs-on-synology-nas
@@ -297,10 +286,6 @@
   evidence: https://ja.noblenaz.org/236385-notify-osd-replaced-with-dunst-TEWTPA-article
   original: https://askubuntu.com/questions/634797/notify-osd-replaced-with-dunst-after-switching-back-to-unity-from-i3wm
   note:
-- domain: 'www.py4u.net'
-  evidence: https://www.py4u.net/discuss/777925
-  original: https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta
-  note:
 - domain: '*.culinarydegree.info'
   evidence: https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR
   original: https://stackoverflow.com/q/13054371
@@ -312,10 +297,6 @@
 - domain: 'qapicks.com'
   evidence: https://qapicks.com/question/1668131-87a39319fa31
   original: https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu
-  note:
-- domain: 'issues-world.com'
-  evidence: https://issues-world.com/rails-3-56/
-  original: https://stackoverflow.com/q/8552763
   note:
 - domain: '*.narkive.jp'
   evidence: https://security.narkive.jp/oBrsVjXh
@@ -329,24 +310,10 @@
   evidence: https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random
   original: https://stackoverflow.com/questions/30030659/
   note:
-- domain: article.docway.net
-  evidence: http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7
-  original: https://stackoverflow.com/q/7106679
-  note: redirects to `xiu2.net`
 - domain: xiu2.net
   evidence: https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7
   original: https://stackoverflow.com/q/7106679
   note:
-- domain: 'codehero.jp'
-  evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
-  original: https://stackoverflow.com/questions/29482
-  note:
-- domain: 'quabr.com'
-  evidence: https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working
-  original: https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working
-- domain: 'www.webdevqa.jp.net'
-  evidence: https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/
-  original: https://unix.stackexchange.com/q/419198
 - domain: 'exceptionshub.com'
   evidence: https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html
   original: https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call
@@ -544,9 +511,6 @@
 - domain: 'jike.in'
   evidence: https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock
   original: https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than
-- domain: 'www.web-dev-qa.com'
-  evidence: https://www.web-dev-qa.com/ja/bash/962672142/
-  original: https://unix.stackexchange.com/questions/395742/
 - domain: '*.elfishgene.com'
   evidence: https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW
   original: https://stackoverflow.com/questions/58304957/
@@ -604,3 +568,43 @@
 - domain: 'string.quest'
   evidence: https://string.quest/read/3613655
   original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
+- domain: 'www.it-mure.jp.net'
+  evidence: https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/
+  original: https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c
+  note: closed?
+- domain: 'www.it-swarm.com.ru'
+  evidence: https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
+  original: https://stackoverflow.com/q/3367415
+  note: closed?
+- domain: 'www.it-roy-ru.com'
+  evidence: https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
+  original: https://stackoverflow.com/q/3367415
+  note: closed?
+- domain: 'brocante.dev'
+  evidence: https://brocante.dev/ja/questions/5223
+  original: https://stackoverflow.com/questions/5223
+  note: closed?
+- domain: 'laravelquestions.com'
+  evidence: https://laravelquestions.com/2021/03/29/csrf-token-mismatch-in-iframe-the-good-fix/
+  original: https://stackoverflow.com/questions/66850521/
+  note: closed?
+- domain: 'www.py4u.net'
+  evidence: https://www.py4u.net/discuss/777925
+  original: https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta
+  note: closed?
+- domain: 'issues-world.com'
+  evidence: https://issues-world.com/rails-3-56/
+  original: https://stackoverflow.com/q/8552763
+  note: closed?
+- domain: article.docway.net
+  evidence: http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7
+  original: https://stackoverflow.com/q/7106679
+  note: closed?
+- domain: 'codehero.jp'
+  evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
+  original: https://stackoverflow.com/questions/29482
+  note: closed?
+- domain: 'quabr.com'
+  evidence: https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working
+  original: https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working
+  note: closed?
