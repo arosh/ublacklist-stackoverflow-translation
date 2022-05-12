@@ -5,11 +5,14 @@
 - domain: 'kotaeta.com'
   evidence: https://kotaeta.com/53238761
   original: https://arduino.stackexchange.com/questions/21605/
-  note: redirects to `answer-id.com`
+  note: redirects to `de-vraag.com`
 - domain: 'answer-id.com'
   evidence: https://answer-id.com/ja/53238761
   original: https://arduino.stackexchange.com/questions/21605/
-  note:
+  note: redirects to `de-vraag.com`
+- domain: 'de-vraag.com'
+  evidence: https://de-vraag.com/ja/53238761
+  original: https://arduino.stackexchange.com/q/21605
 - domain: 'code.i-harness.com'
   evidence: https://code.i-harness.com/ja-jp/q/1cc697
   original: https://stackoverflow.com/questions/1885847/
