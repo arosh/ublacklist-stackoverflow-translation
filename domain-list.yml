@@ -598,3 +598,6 @@
 - domain: '*.1r1g.com'
   evidence: https://qa.1r1g.com/sf/ask/1154372761/
   original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
+- domain: 'string.quest'
+  evidence: https://string.quest/read/3613655
+  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
