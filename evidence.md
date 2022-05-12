@@ -28,10 +28,9 @@
 | `www.coder.work` | https://www.coder.work/article/3794436 | https://stackoverflow.com/questions/13375357/ |  |
 | `www.it-swarm-ja.tech` | https://www.it-swarm-ja.tech/ja/linux/944475555/ | https://superuser.com/questions/1347723/ | redirects to `www.it-mure.jp.net` |
 | `www.it-swarm.jp.net` | https://www.it-swarm.jp.net/ja/google-chrome/chrome%e3%81%af%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%a9%e3%81%93%e3%81%ab%e4%bf%9d%e5%ad%98%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%ef%bc%9f/1071750676/ | https://stackoverflow.com/q/14543896 | redirects to `www.it-mure.jp.net` |
-| `www.it-mure.jp.net` | https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/ | https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c |  |
 | `www.it-swarm-ja.com` | https://www.it-swarm-ja.com/ja/javascript/vue%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%AA%E3%81%84keyup%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/835790755/ | https://stackoverflow.com/q/46955147 |  |
-| `www.it-swarm.com.ru` | https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 |  |
-| `www.it-roy-ru.com` | https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 |  |
+| `www.webdevqa.jp.net` | https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/ | https://unix.stackexchange.com/q/419198 |  |
+| `www.web-dev-qa.com` | https://www.web-dev-qa.com/ja/bash/962672142/ | https://unix.stackexchange.com/questions/395742/ |  |
 | `www.it-swarm-fr.com` | https://www.it-swarm-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/ | https://stackoverflow.com/q/50435455 |  |
 | `*.codeflow.site` | https://qa.codeflow.site/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics | https://stackoverflow.com/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics | This domain is used for redirection to `codeguides.site` |
 | `codeguides.site` | https://codeguides.site/questions/ja/950037/same-ajax-called-twice-jquery | https://stackoverflow.com/q/950037 |  |
@@ -46,7 +45,6 @@
 | `isolution.pro` | https://isolution.pro/q/an13230537/play-sutoa-kara-apuri-no-gokansei-matorikkusu-o-nyushusuru | https://android.stackexchange.com/q/232739 |  |
 | `*.uwenku.com` | http://ja.uwenku.com/question/p-oafoukjq-gq.html | https://stackoverflow.com/questions/48045748 |  |
 | `lycaeum.dev` | https://lycaeum.dev/ja/questions/29482 | https://stackoverflow.com/questions/29482 |  |
-| `brocante.dev` | https://brocante.dev/ja/questions/5223 | https://stackoverflow.com/questions/5223 |  |
 | `classmethod.dev` | https://classmethod.dev/ja/questions/1414365 | https://stackoverflow.com/questions/1414365 | This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.) |
 | `stormcrow.dev` | https://stormcrow.dev/ja/questions/1030169 | https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules |  |
 | `*.athabasca-foto.com` | https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS | https://stackoverflow.com/questions/604424 |  |
@@ -73,24 +71,17 @@
 | `*.ec-europe.org` | https://ja.ec-europe.org/423404-how-to-find-dev-name-MQPQQD | https://stackoverflow.com/questions/48291366 |  |
 | `*.pakostnici.com` | https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS | https://stackoverflow.com/questions/48291366 |  |
 | `*.try2explore.com` | https://qa.try2explore.com/questions/jp/10003161 | https://stackoverflow.com/questions/806000/ |  |
-| `laravelquestions.com` | https://laravelquestions.com/2021/03/29/csrf-token-mismatch-in-iframe-the-good-fix/ | https://stackoverflow.com/questions/66850521/ |  |
 | `itectec.com` | https://itectec.com/superuser/user-id-mapping-with-nfs-on-synology-nas/ | https://superuser.com/questions/860553/user-id-mapping-with-nfs-on-synology-nas |  |
 | `stackovergo.com` | https://stackovergo.com/ja/q/1063649/does-netbeans-recognize-javascript-prototypal-inheritance | https://stackoverflow.com/questions/4531523/does-netbeans-recognize-javascript-prototypal-inheritance |  |
 | `*.faithcov.org` | https://ja.faithcov.org/809259-difference-stringstream-and-ostringstream-GVMZFY | https://stackoverflow.com/questions/18251346/difference-stringstream-and-ostringstream |  |
 | `*.noblenaz.org` | https://ja.noblenaz.org/236385-notify-osd-replaced-with-dunst-TEWTPA-article | https://askubuntu.com/questions/634797/notify-osd-replaced-with-dunst-after-switching-back-to-unity-from-i3wm |  |
-| `www.py4u.net` | https://www.py4u.net/discuss/777925 | https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta |  |
 | `*.culinarydegree.info` | https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR | https://stackoverflow.com/q/13054371 |  |
 | `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 |  |
 | `qapicks.com` | https://qapicks.com/question/1668131-87a39319fa31 | https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu |  |
-| `issues-world.com` | https://issues-world.com/rails-3-56/ | https://stackoverflow.com/q/8552763 |  |
 | `*.narkive.jp` | https://security.narkive.jp/oBrsVjXh | https://security.stackexchange.com/questions/373/open-source-penetration-test-automation |  |
 | `*.ourladylakes.org` | https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP | https://stackoverflow.com/questions/2193412/xslt-not-contains-check |  |
 | `intellipaat.com` | https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random | https://stackoverflow.com/questions/30030659/ |  |
-| `article.docway.net` | http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 | redirects to `xiu2.net` |
 | `xiu2.net` | https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 |  |
-| `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 |  |
-| `quabr.com` | https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working | https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working |  |
-| `www.webdevqa.jp.net` | https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/ | https://unix.stackexchange.com/q/419198 |  |
 | `exceptionshub.com` | https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html | https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call |  |
 | `newbedev.com` | https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation | https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation |  |
 | `www.codenong.com` | https://www.codenong.com/8188108/ | https://stackoverflow.com/q/8188108 |  |
@@ -154,7 +145,6 @@
 | `alltodev.com` | https://alltodev.com/filenotfounderror-errno-2-no-such-file-or-directory | https://stackoverflow.com/questions/22282760/filenotfounderror-errno-2-no-such-file-or-directory |  |
 | `progi.pro` | https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983 | https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock |  |
 | `jike.in` | https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock | https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than |  |
-| `www.web-dev-qa.com` | https://www.web-dev-qa.com/ja/bash/962672142/ | https://unix.stackexchange.com/questions/395742/ |  |
 | `*.elfishgene.com` | https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW | https://stackoverflow.com/questions/58304957/ |  |
 | `answerlib.com` | https://answerlib.com/ja/question/24800/kubernetes--jq---retrieving-containers-list-per-pod-yields-cartesian-product.html | https://stackoverflow.com/questions/68193777/kubernetes-jq-retrieving-containers-list-per-pod-yields-cartesian-product |  |
 | `sysadminde.com` | https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs | https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs |  |
@@ -174,3 +164,13 @@
 | `catwolf.org` | https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
 | `*.1r1g.com` | https://qa.1r1g.com/sf/ask/1154372761/ | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
 | `string.quest` | https://string.quest/read/3613655 | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
+| `www.it-mure.jp.net` | https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/ | https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c | closed? |
+| `www.it-swarm.com.ru` | https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 | closed? |
+| `www.it-roy-ru.com` | https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 | closed? |
+| `brocante.dev` | https://brocante.dev/ja/questions/5223 | https://stackoverflow.com/questions/5223 | closed? |
+| `laravelquestions.com` | https://laravelquestions.com/2021/03/29/csrf-token-mismatch-in-iframe-the-good-fix/ | https://stackoverflow.com/questions/66850521/ | closed? |
+| `www.py4u.net` | https://www.py4u.net/discuss/777925 | https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta | closed? |
+| `issues-world.com` | https://issues-world.com/rails-3-56/ | https://stackoverflow.com/q/8552763 | closed? |
+| `article.docway.net` | http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 | closed? |
+| `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 | closed? |
+| `quabr.com` | https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working | https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working | closed? |
