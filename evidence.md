@@ -169,3 +169,7 @@
 | `programmierfrage.com` | https://programmierfrage.com/items/phpmailer-custom-header-set-but-not-shown-on-delivery | https://stackoverflow.com/questions/65253795/phpmailer-custom-header-set-but-not-shown-on-delivery |  |
 | `microeducate.tech` | https://microeducate.tech/direct2d-off-screen-rendering-and-hardware-acceleration/ | https://gamedev.stackexchange.com/questions/16446/direct2d-off-screen-rendering-and-hardware-acceleration |  |
 | `www.debugko.com` | https://www.debugko.com/article/25OdKAAOyMaK7Be9.html | https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892 |  |
+| `devdreamz.com` | https://devdreamz.com/question/361174-maximum-query-length-to-avoid-epipe-error-in-node-js | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
+| `catwolf.org` | https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
+| `*.1r1g.com` | https://qa.1r1g.com/sf/ask/1154372761/ | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
+| `string.quest` | https://string.quest/read/3613655 | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |

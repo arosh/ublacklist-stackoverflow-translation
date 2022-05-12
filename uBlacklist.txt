@@ -165,3 +165,7 @@
 *://programmierfrage.com/*
 *://microeducate.tech/*
 *://www.debugko.com/*
+*://devdreamz.com/*
+*://catwolf.org/*
+*://*.1r1g.com/*
+*://string.quest/*
