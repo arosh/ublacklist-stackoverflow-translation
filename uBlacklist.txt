@@ -27,6 +27,7 @@
 *://www.it-swarm-ja.com/*
 *://www.webdevqa.jp.net/*
 *://www.web-dev-qa.com/*
+*://www.web-dev-qa-db-ja.com/*
 *://www.it-swarm-fr.com/*
 *://*.codeflow.site/*
 *://codeguides.site/*
