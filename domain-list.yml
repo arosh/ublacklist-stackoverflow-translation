@@ -111,6 +111,9 @@
 - domain: 'www.web-dev-qa.com'
   evidence: https://www.web-dev-qa.com/ja/bash/962672142/
   original: https://unix.stackexchange.com/questions/395742/
+- domain: 'www.web-dev-qa-db-ja.com'
+  evidence: https://www.web-dev-qa-db-ja.com/ja/go/816661554/
+  original: https://stackoverflow.com/q/61900346
 - domain: 'www.it-swarm-fr.com'
   evidence: https://www.it-swarm-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
   original: https://stackoverflow.com/q/50435455
