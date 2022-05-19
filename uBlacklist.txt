@@ -171,3 +171,4 @@
 *://article.docway.net/*
 *://codehero.jp/*
 *://quabr.com/*
+*://*.codegrepper.com/*
