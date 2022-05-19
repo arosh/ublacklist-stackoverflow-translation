@@ -41,9 +41,6 @@
 *://knews.vip/*
 *://isolution.pro/*
 *://*.uwenku.com/*
-*://lycaeum.dev/*
-*://classmethod.dev/*
-*://stormcrow.dev/*
 *://*.athabasca-foto.com/*
 *://*.zsharp.org/*
 *://*.projectbackpack.org/*
@@ -87,9 +84,9 @@
 *://pythonwd.com/*
 *://tousu.in/*
 *://tutorialmore.com/*
-*://pretagteam.com/*
 *://www.titanwolf.org/*
 *://coderedirect.com/*
+*://fullstackuser.com/*
 *://ostack.cn/*
 *://easysavecode.com/*
 *://webdevdesigner.com/*
@@ -171,3 +168,7 @@
 *://article.docway.net/*
 *://codehero.jp/*
 *://quabr.com/*
+*://pretagteam.com/*
+*://lycaeum.dev/*
+*://classmethod.dev/*
+*://stormcrow.dev/*

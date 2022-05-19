@@ -45,9 +45,6 @@
 | `knews.vip` | https://knews.vip/postcrawl/stack/view?site=so&key=76312086 | https://stackoverflow.com/q/63314288 |  |
 | `isolution.pro` | https://isolution.pro/q/an13230537/play-sutoa-kara-apuri-no-gokansei-matorikkusu-o-nyushusuru | https://android.stackexchange.com/q/232739 |  |
 | `*.uwenku.com` | http://ja.uwenku.com/question/p-oafoukjq-gq.html | https://stackoverflow.com/questions/48045748 |  |
-| `lycaeum.dev` | https://lycaeum.dev/ja/questions/29482 | https://stackoverflow.com/questions/29482 |  |
-| `classmethod.dev` | https://classmethod.dev/ja/questions/1414365 | https://stackoverflow.com/questions/1414365 | This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.) |
-| `stormcrow.dev` | https://stormcrow.dev/ja/questions/1030169 | https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules |  |
 | `*.athabasca-foto.com` | https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS | https://stackoverflow.com/questions/604424 |  |
 | `*.zsharp.org` | https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT | https://stackoverflow.com/questions/3143698 |  |
 | `*.projectbackpack.org` | https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ | https://stackoverflow.com/questions/1414365 |  |
@@ -91,9 +88,9 @@
 | `pythonwd.com` | https://pythonwd.com/290431426.html | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
 | `tousu.in` | https://tousu.in/qa/?qa=506161/ | https://stackoverflow.com/questions/31189754/get-field-names-list-from-case-class |  |
 | `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ |  |
-| `pretagteam.com` | https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python | https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047 |  |
 | `www.titanwolf.org` | https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y | https://stackoverflow.com/questions/42244819 |  |
-| `coderedirect.com` | https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
+| `coderedirect.com` | https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | redirects to `fullstackuser.com` |
+| `fullstackuser.com` | https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `ostack.cn` | http://ostack.cn/?qa=580340/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `easysavecode.com` | https://easysavecode.com/Y60j5UmF | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `webdevdesigner.com` | https://webdevdesigner.com/q/argparse-subparser-monolithic-help-output-137439/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
@@ -175,3 +172,7 @@
 | `article.docway.net` | http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 | closed? |
 | `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 | closed? |
 | `quabr.com` | https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working | https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working | closed? |
+| `pretagteam.com` | https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python | https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047 | closed? |
+| `lycaeum.dev` | https://lycaeum.dev/ja/questions/29482 | https://stackoverflow.com/questions/29482 | closed? |
+| `classmethod.dev` | https://classmethod.dev/ja/questions/1414365 | https://stackoverflow.com/questions/1414365 | closed? This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.) |
+| `stormcrow.dev` | https://stormcrow.dev/ja/questions/1030169 | https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules | closed? |
