@@ -5,11 +5,14 @@
 - domain: 'kotaeta.com'
   evidence: https://kotaeta.com/53238761
   original: https://arduino.stackexchange.com/questions/21605/
-  note: redirects to `answer-id.com`
+  note: redirects to `de-vraag.com`
 - domain: 'answer-id.com'
   evidence: https://answer-id.com/ja/53238761
   original: https://arduino.stackexchange.com/questions/21605/
-  note:
+  note: redirects to `de-vraag.com`
+- domain: 'de-vraag.com'
+  evidence: https://de-vraag.com/ja/53238761
+  original: https://arduino.stackexchange.com/q/21605
 - domain: 'code.i-harness.com'
   evidence: https://code.i-harness.com/ja-jp/q/1cc697
   original: https://stackoverflow.com/questions/1885847/
@@ -98,20 +101,19 @@
   evidence: https://www.it-swarm.jp.net/ja/google-chrome/chrome%e3%81%af%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%a9%e3%81%93%e3%81%ab%e4%bf%9d%e5%ad%98%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%ef%bc%9f/1071750676/
   original: https://stackoverflow.com/q/14543896
   note: redirects to `www.it-mure.jp.net`
-- domain: 'www.it-mure.jp.net'
-  evidence: https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/
-  original: https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c
-  note:
 - domain: 'www.it-swarm-ja.com'
   evidence: https://www.it-swarm-ja.com/ja/javascript/vue%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%AA%E3%81%84keyup%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/835790755/
   original: https://stackoverflow.com/q/46955147
   note:
-- domain: 'www.it-swarm.com.ru'
-  evidence: https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
-  original: https://stackoverflow.com/q/3367415
-- domain: 'www.it-roy-ru.com'
-  evidence: https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
-  original: https://stackoverflow.com/q/3367415
+- domain: 'www.webdevqa.jp.net'
+  evidence: https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/
+  original: https://unix.stackexchange.com/q/419198
+- domain: 'www.web-dev-qa.com'
+  evidence: https://www.web-dev-qa.com/ja/bash/962672142/
+  original: https://unix.stackexchange.com/questions/395742/
+- domain: 'www.web-dev-qa-db-ja.com'
+  evidence: https://www.web-dev-qa-db-ja.com/ja/go/816661554/
+  original: https://stackoverflow.com/q/61900346
 - domain: 'www.it-swarm-fr.com'
   evidence: https://www.it-swarm-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
   original: https://stackoverflow.com/q/50435455
@@ -162,22 +164,6 @@
 - domain: '*.uwenku.com'
   evidence: http://ja.uwenku.com/question/p-oafoukjq-gq.html
   original: https://stackoverflow.com/questions/48045748
-  note:
-- domain: 'lycaeum.dev'
-  evidence: https://lycaeum.dev/ja/questions/29482
-  original: https://stackoverflow.com/questions/29482
-  note:
-- domain: 'brocante.dev'
-  evidence: https://brocante.dev/ja/questions/5223
-  original: https://stackoverflow.com/questions/5223
-  note:
-- domain: 'classmethod.dev'
-  evidence: https://classmethod.dev/ja/questions/1414365
-  original: https://stackoverflow.com/questions/1414365
-  note: This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.)
-- domain: 'stormcrow.dev'
-  evidence: https://stormcrow.dev/ja/questions/1030169
-  original: https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
   note:
 - domain: '*.athabasca-foto.com'
   evidence: https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS
@@ -275,9 +261,6 @@
   evidence: https://qa.try2explore.com/questions/jp/10003161
   original: https://stackoverflow.com/questions/806000/
   note:
-- domain: 'laravelquestions.com'
-  evidence: https://laravelquestions.com/2021/03/29/csrf-token-mismatch-in-iframe-the-good-fix/
-  original: https://stackoverflow.com/questions/66850521/
 - domain: 'itectec.com'
   evidence: https://itectec.com/superuser/user-id-mapping-with-nfs-on-synology-nas/
   original: https://superuser.com/questions/860553/user-id-mapping-with-nfs-on-synology-nas
@@ -294,10 +277,6 @@
   evidence: https://ja.noblenaz.org/236385-notify-osd-replaced-with-dunst-TEWTPA-article
   original: https://askubuntu.com/questions/634797/notify-osd-replaced-with-dunst-after-switching-back-to-unity-from-i3wm
   note:
-- domain: 'www.py4u.net'
-  evidence: https://www.py4u.net/discuss/777925
-  original: https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta
-  note:
 - domain: '*.culinarydegree.info'
   evidence: https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR
   original: https://stackoverflow.com/q/13054371
@@ -309,10 +288,6 @@
 - domain: 'qapicks.com'
   evidence: https://qapicks.com/question/1668131-87a39319fa31
   original: https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu
-  note:
-- domain: 'issues-world.com'
-  evidence: https://issues-world.com/rails-3-56/
-  original: https://stackoverflow.com/q/8552763
   note:
 - domain: '*.narkive.jp'
   evidence: https://security.narkive.jp/oBrsVjXh
@@ -326,24 +301,10 @@
   evidence: https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random
   original: https://stackoverflow.com/questions/30030659/
   note:
-- domain: article.docway.net
-  evidence: http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7
-  original: https://stackoverflow.com/q/7106679
-  note: redirects to `xiu2.net`
 - domain: xiu2.net
   evidence: https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7
   original: https://stackoverflow.com/q/7106679
   note:
-- domain: 'codehero.jp'
-  evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
-  original: https://stackoverflow.com/questions/29482
-  note:
-- domain: 'quabr.com'
-  evidence: https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working
-  original: https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working
-- domain: 'www.webdevqa.jp.net'
-  evidence: https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/
-  original: https://unix.stackexchange.com/q/419198
 - domain: 'exceptionshub.com'
   evidence: https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html
   original: https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call
@@ -362,19 +323,22 @@
 - domain: 'pythonwd.com'
   evidence: https://pythonwd.com/290431426.html
   original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
+- domain: 'tousu.in'
+  evidence: https://tousu.in/qa/?qa=506161/
+  original: https://stackoverflow.com/questions/31189754/get-field-names-list-from-case-class
 - domain: 'tutorialmore.com'
   evidence: https://tutorialmore.com/questions-838617.htm
   original: https://superuser.com/questions/1183564/
-  note:
-- domain: 'pretagteam.com'
-  evidence: https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python
-  original: https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047
   note:
 - domain: 'www.titanwolf.org'
   evidence: https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y
   original: https://stackoverflow.com/questions/42244819
 - domain: 'coderedirect.com'
   evidence: https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+  note: redirects to `fullstackuser.com`
+- domain: 'fullstackuser.com'
+  evidence: https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: 'ostack.cn'
   evidence: http://ostack.cn/?qa=580340/
@@ -538,9 +502,6 @@
 - domain: 'jike.in'
   evidence: https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock
   original: https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than
-- domain: 'www.web-dev-qa.com'
-  evidence: https://www.web-dev-qa.com/ja/bash/962672142/
-  original: https://unix.stackexchange.com/questions/395742/
 - domain: '*.elfishgene.com'
   evidence: https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW
   original: https://stackoverflow.com/questions/58304957/
@@ -583,6 +544,78 @@
 - domain: 'microeducate.tech'
   evidence: https://microeducate.tech/direct2d-off-screen-rendering-and-hardware-acceleration/
   original: https://gamedev.stackexchange.com/questions/16446/direct2d-off-screen-rendering-and-hardware-acceleration
+- domain: 'www.debugko.com'
+  evidence: https://www.debugko.com/article/25OdKAAOyMaK7Be9.html
+  original: https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892
+- domain: 'devdreamz.com'
+  evidence: https://devdreamz.com/question/361174-maximum-query-length-to-avoid-epipe-error-in-node-js
+  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
+- domain: 'catwolf.org'
+  evidence: https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y
+  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
+- domain: '*.1r1g.com'
+  evidence: https://qa.1r1g.com/sf/ask/1154372761/
+  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
+- domain: 'string.quest'
+  evidence: https://string.quest/read/3613655
+  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
+- domain: 'www.it-mure.jp.net'
+  evidence: https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/
+  original: https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c
+  note: closed?
+- domain: 'www.it-swarm.com.ru'
+  evidence: https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
+  original: https://stackoverflow.com/q/3367415
+  note: closed?
+- domain: 'www.it-roy-ru.com'
+  evidence: https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
+  original: https://stackoverflow.com/q/3367415
+  note: closed?
+- domain: 'brocante.dev'
+  evidence: https://brocante.dev/ja/questions/5223
+  original: https://stackoverflow.com/questions/5223
+  note: closed?
+- domain: 'laravelquestions.com'
+  evidence: https://laravelquestions.com/2021/03/29/csrf-token-mismatch-in-iframe-the-good-fix/
+  original: https://stackoverflow.com/questions/66850521/
+  note: closed?
+- domain: 'www.py4u.net'
+  evidence: https://www.py4u.net/discuss/777925
+  original: https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta
+  note: closed?
+- domain: 'issues-world.com'
+  evidence: https://issues-world.com/rails-3-56/
+  original: https://stackoverflow.com/q/8552763
+  note: closed?
+- domain: article.docway.net
+  evidence: http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7
+  original: https://stackoverflow.com/q/7106679
+  note: closed?
+- domain: 'codehero.jp'
+  evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
+  original: https://stackoverflow.com/questions/29482
+  note: closed?
+- domain: 'quabr.com'
+  evidence: https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working
+  original: https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working
+  note: closed?
+- domain: 'pretagteam.com'
+  evidence: https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python
+  original: https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047
+  note: closed?
+- domain: 'lycaeum.dev'
+  evidence: https://lycaeum.dev/ja/questions/29482
+  original: https://stackoverflow.com/questions/29482
+  note: closed?
+- domain: 'classmethod.dev'
+  evidence: https://classmethod.dev/ja/questions/1414365
+  original: https://stackoverflow.com/questions/1414365
+  note: closed? This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.)
+- domain: 'stormcrow.dev'
+  evidence: https://stormcrow.dev/ja/questions/1030169
+  original: https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
+  note: closed?
 - domain: 'reddit.fun'
   evidence: https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails
   original: https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails
+
