@@ -176,4 +176,5 @@
 | `lycaeum.dev` | https://lycaeum.dev/ja/questions/29482 | https://stackoverflow.com/questions/29482 | closed? |
 | `classmethod.dev` | https://classmethod.dev/ja/questions/1414365 | https://stackoverflow.com/questions/1414365 | closed? This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.) |
 | `stormcrow.dev` | https://stormcrow.dev/ja/questions/1030169 | https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules | closed? |
+| `reddit.fun` | https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails | https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails |  |
 | `qa.icopy.site` | https://qa.icopy.site/questions/44931728/openfiledialog-spy | https://stackoverflow.com/questions/44931728/openfiledialog-spy |  |

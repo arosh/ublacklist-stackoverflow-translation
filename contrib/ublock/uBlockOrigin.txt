@@ -2093,6 +2093,18 @@ www.google.*##.isv-r[data-ru^="https://stormcrow.dev/"]
 www.google.*##.VFACy[href^="https://stormcrow.dev/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://stormcrow.dev/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://stormcrow.dev/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://reddit.fun/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://reddit.fun/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://reddit.fun/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://reddit.fun/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://reddit.fun/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="reddit.fun"]
+www.ecosia.org##.result[data-url^="https://reddit.fun/"]
+startpage.com##.w-gl__result-title[href^="https://reddit.fun/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://reddit.fun/"]
+www.google.*##.VFACy[href^="https://reddit.fun/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://reddit.fun/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://reddit.fun/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://qa.icopy.site/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://qa.icopy.site/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://qa.icopy.site/"]:upward(.xpdopen)

@@ -172,4 +172,5 @@
 *://lycaeum.dev/*
 *://classmethod.dev/*
 *://stormcrow.dev/*
+*://reddit.fun/*
 *://qa.icopy.site/*
