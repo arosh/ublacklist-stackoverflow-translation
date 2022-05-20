@@ -615,3 +615,6 @@
   evidence: https://stormcrow.dev/ja/questions/1030169
   original: https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
   note: closed?
+- domain: 'qa.icopy.site'
+  evidence: https://qa.icopy.site/questions/44931728/openfiledialog-spy
+  original: https://stackoverflow.com/questions/44931728/openfiledialog-spy
