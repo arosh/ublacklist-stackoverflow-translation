@@ -172,3 +172,4 @@
 *://lycaeum.dev/*
 *://classmethod.dev/*
 *://stormcrow.dev/*
+*://qa.icopy.site/*

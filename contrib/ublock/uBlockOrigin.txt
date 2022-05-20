@@ -2093,3 +2093,15 @@ www.google.*##.isv-r[data-ru^="https://stormcrow.dev/"]
 www.google.*##.VFACy[href^="https://stormcrow.dev/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://stormcrow.dev/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://stormcrow.dev/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://qa.icopy.site/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://qa.icopy.site/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://qa.icopy.site/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://qa.icopy.site/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://qa.icopy.site/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="qa.icopy.site"]
+www.ecosia.org##.result[data-url^="https://qa.icopy.site/"]
+startpage.com##.w-gl__result-title[href^="https://qa.icopy.site/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://qa.icopy.site/"]
+www.google.*##.VFACy[href^="https://qa.icopy.site/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://qa.icopy.site/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://qa.icopy.site/"]:upward(.tile--img)
