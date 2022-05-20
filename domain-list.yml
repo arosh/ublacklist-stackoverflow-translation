@@ -583,3 +583,6 @@
 - domain: 'microeducate.tech'
   evidence: https://microeducate.tech/direct2d-off-screen-rendering-and-hardware-acceleration/
   original: https://gamedev.stackexchange.com/questions/16446/direct2d-off-screen-rendering-and-hardware-acceleration
+- domain: 'reddit.fun'
+  evidence: https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails
+  original: https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails
