@@ -618,4 +618,6 @@
 - domain: 'reddit.fun'
   evidence: https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails
   original: https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails
-
+- domain: 'qa.icopy.site'
+  evidence: https://qa.icopy.site/questions/44931728/openfiledialog-spy
+  original: https://stackoverflow.com/questions/44931728/openfiledialog-spy
