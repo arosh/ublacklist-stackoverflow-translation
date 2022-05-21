@@ -132,6 +132,11 @@
 *://catwolf.org/*
 *://*.1r1g.com/*
 *://string.quest/*
+*://reddit.fun/*
+*://qa.icopy.site/*
+*://errorsfixing.com/*
+*://syntaxfix.com/*
+*://codegrepr.com/*
 *://www.it-mure.jp.net/*
 *://www.it-swarm.com.ru/*
 *://www.it-roy-ru.com/*
@@ -172,5 +177,3 @@
 *://python-stack.de/*
 *://xiu2.net/*
 *://pythonwd.com/*
-*://reddit.fun/*
-*://qa.icopy.site/*

@@ -136,6 +136,11 @@
 | `catwolf.org` | https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
 | `*.1r1g.com` | https://qa.1r1g.com/sf/ask/1154372761/ | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
 | `string.quest` | https://string.quest/read/3613655 | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
+| `reddit.fun` | https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails | https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails |  |
+| `qa.icopy.site` | https://qa.icopy.site/questions/44931728/openfiledialog-spy | https://stackoverflow.com/questions/44931728/openfiledialog-spy |  |
+| `errorsfixing.com` | https://errorsfixing.com/python-get-directory-two-levels-up/ | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
+| `syntaxfix.com` | https://syntaxfix.com/question/6689/python-get-directory-two-levels-up | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
+| `codegrepr.com` | https://codegrepr.com/question/python-get-directory-two-levels-up/ | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
 | `www.it-mure.jp.net` | https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/ | https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c | closed? |
 | `www.it-swarm.com.ru` | https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 | closed? |
 | `www.it-roy-ru.com` | https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 | closed? |
@@ -176,5 +181,3 @@
 | `python-stack.de` | https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c- | https://stackoverflow.com/questions/63315020 | closed? |
 | `xiu2.net` | https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 | closed? |
 | `pythonwd.com` | https://pythonwd.com/290431426.html | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up | closed? |
-| `reddit.fun` | https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails | https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails |  |
-| `qa.icopy.site` | https://qa.icopy.site/questions/44931728/openfiledialog-spy | https://stackoverflow.com/questions/44931728/openfiledialog-spy |  |
