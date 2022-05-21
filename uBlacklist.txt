@@ -26,7 +26,6 @@
 *://www.it-swarm.jp.net/*
 *://www.it-swarm-ja.com/*
 *://www.webdevqa.jp.net/*
-*://www.web-dev-qa.com/*
 *://www.web-dev-qa-db-ja.com/*
 *://www.it-swarm-fr.com/*
 *://www.web-dev-qa-db-fr.com/*
@@ -71,16 +70,13 @@
 *://*.faithcov.org/*
 *://*.noblenaz.org/*
 *://*.culinarydegree.info/*
-*://*.safehavenpetrescue.org/*
 *://qapicks.com/*
 *://*.narkive.jp/*
 *://*.ourladylakes.org/*
 *://intellipaat.com/*
 *://xiu2.net/*
-*://exceptionshub.com/*
 *://newbedev.com/*
 *://www.codenong.com/*
-*://cainiaojiaocheng.com/*
 *://routinepanic.com/*
 *://pythonwd.com/*
 *://tousu.in/*
@@ -89,7 +85,6 @@
 *://coderedirect.com/*
 *://fullstackuser.com/*
 *://ostack.cn/*
-*://easysavecode.com/*
 *://webdevdesigner.com/*
 *://www.ghcc.net/*
 *://*.developreference.com/*
@@ -109,7 +104,6 @@
 *://younggeeks.in/*
 *://www.answerlib.com/*
 *://edupro.id/*
-*://python-stack.de/*
 *://www.stackfinder.ru/*
 *://www.desenv-web-rp.com/*
 *://www.web-dev-qa-db-pt.com/*
@@ -118,7 +112,6 @@
 *://www.jscodetips.com/*
 *://www.5axxw.com/*
 *://question-it.com/*
-*://webmonkez.com/*
 *://*.codefaq.info/*
 *://codefaq.ru/*
 *://*.mediatagtw.com/*
@@ -173,5 +166,11 @@
 *://ibootweb.com/*
 *://howtofix.io/*
 *://www.examplefiles.net/*
+*://www.web-dev-qa.com/*
+*://*.safehavenpetrescue.org/*
+*://exceptionshub.com/*
+*://cainiaojiaocheng.com/*
+*://easysavecode.com/*
+*://python-stack.de/*
 *://reddit.fun/*
 *://qa.icopy.site/*

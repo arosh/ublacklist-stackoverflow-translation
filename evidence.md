@@ -30,7 +30,6 @@
 | `www.it-swarm.jp.net` | https://www.it-swarm.jp.net/ja/google-chrome/chrome%e3%81%af%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%a9%e3%81%93%e3%81%ab%e4%bf%9d%e5%ad%98%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%ef%bc%9f/1071750676/ | https://stackoverflow.com/q/14543896 | redirects to `www.it-mure.jp.net` |
 | `www.it-swarm-ja.com` | https://www.it-swarm-ja.com/ja/javascript/vue%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%AA%E3%81%84keyup%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/835790755/ | https://stackoverflow.com/q/46955147 |  |
 | `www.webdevqa.jp.net` | https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/ | https://unix.stackexchange.com/q/419198 |  |
-| `www.web-dev-qa.com` | https://www.web-dev-qa.com/ja/bash/962672142/ | https://unix.stackexchange.com/questions/395742/ |  |
 | `www.web-dev-qa-db-ja.com` | https://www.web-dev-qa-db-ja.com/ja/go/816661554/ | https://stackoverflow.com/q/61900346 |  |
 | `www.it-swarm-fr.com` | https://www.it-swarm-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/ | https://stackoverflow.com/q/50435455 |  |
 | `www.web-dev-qa-db-fr.com` | https://www.web-dev-qa-db-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/ | https://stackoverflow.com/q/50435455 |  |
@@ -75,16 +74,13 @@
 | `*.faithcov.org` | https://ja.faithcov.org/809259-difference-stringstream-and-ostringstream-GVMZFY | https://stackoverflow.com/questions/18251346/difference-stringstream-and-ostringstream |  |
 | `*.noblenaz.org` | https://ja.noblenaz.org/236385-notify-osd-replaced-with-dunst-TEWTPA-article | https://askubuntu.com/questions/634797/notify-osd-replaced-with-dunst-after-switching-back-to-unity-from-i3wm |  |
 | `*.culinarydegree.info` | https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR | https://stackoverflow.com/q/13054371 |  |
-| `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 |  |
 | `qapicks.com` | https://qapicks.com/question/1668131-87a39319fa31 | https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu |  |
 | `*.narkive.jp` | https://security.narkive.jp/oBrsVjXh | https://security.stackexchange.com/questions/373/open-source-penetration-test-automation |  |
 | `*.ourladylakes.org` | https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP | https://stackoverflow.com/questions/2193412/xslt-not-contains-check |  |
 | `intellipaat.com` | https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random | https://stackoverflow.com/questions/30030659/ |  |
 | `xiu2.net` | https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 |  |
-| `exceptionshub.com` | https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html | https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call |  |
 | `newbedev.com` | https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation | https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation |  |
 | `www.codenong.com` | https://www.codenong.com/8188108/ | https://stackoverflow.com/q/8188108 |  |
-| `cainiaojiaocheng.com` | https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python |  |
 | `routinepanic.com` | https://routinepanic.com/questions/how-to-get-the-home-directory-in-python | https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python |  |
 | `pythonwd.com` | https://pythonwd.com/290431426.html | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
 | `tousu.in` | https://tousu.in/qa/?qa=506161/ | https://stackoverflow.com/questions/31189754/get-field-names-list-from-case-class |  |
@@ -93,7 +89,6 @@
 | `coderedirect.com` | https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | redirects to `fullstackuser.com` |
 | `fullstackuser.com` | https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `ostack.cn` | http://ostack.cn/?qa=580340/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
-| `easysavecode.com` | https://easysavecode.com/Y60j5UmF | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `webdevdesigner.com` | https://webdevdesigner.com/q/argparse-subparser-monolithic-help-output-137439/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `www.ghcc.net` | https://www.ghcc.net/en/node/2519947 | https://stackoverflow.com/questions/32581439/subparser-show-help-for-both-parser-and-subparser |  |
 | `*.developreference.com` | https://python.developreference.com/article/13679273/python+argparse+mutually_exclusive_group+and+add_argument_group+in+a+parent+processor%3f | https://stackoverflow.com/questions/46066374/python-argparse-mutually-exclusive-group-and-add-argument-group-in-a-parent-proc |  |
@@ -113,7 +108,6 @@
 | `younggeeks.in` | https://younggeeks.in/questions/11586390 | https://stackoverflow.com/questions/70524850 |  |
 | `www.answerlib.com` | https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html | https://stackoverflow.com/q/37928277 |  |
 | `edupro.id` | https://edupro.id/questions/5055780 | https://stackoverflow.com/questions/67219289 |  |
-| `python-stack.de` | https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c- | https://stackoverflow.com/questions/63315020 |  |
 | `www.stackfinder.ru` | https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name | https://stackoverflow.com/questions/60256300 |  |
 | `www.desenv-web-rp.com` | https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
 | `www.web-dev-qa-db-pt.com` | https://www.web-dev-qa-db-pt.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
@@ -122,7 +116,6 @@
 | `www.jscodetips.com` | https://www.jscodetips.com/examples/how-to-change-the-interface-key-value-string-to-key-string-string | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string |  |
 | `www.5axxw.com` | https://www.5axxw.com/questions/content/8pxpsb | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string |  |
 | `question-it.com` | https://question-it.com/questions/12118832/kak-izmenit-kljuch-interfejsa-znachenie-stroka-na-kljuch-stroka-stroka | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | mirrors for other languages are specified in the head tag |
-| `webmonkez.com` | https://webmonkez.com/questions/12118832/como-cambiar-la-clave-de-interfaz-valor-cadena-a-clave-cadena-cadena | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | mirrors for other languages are specified in the head tag |
 | `*.codefaq.info` | https://es.codefaq.info/como_arreglar_el_tipo_de_comprobacion_cuando_el_uso_de_este_de_la_tienda_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | mirrors for other languages are specified in the head tag |
 | `codefaq.ru` | https://codefaq.ru/kak_ispravit_proverku_tipov_pri_ispolzovanii_etogo_magazin_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | mirrors for other languages are specified in the head tag |
 | `*.mediatagtw.com` | https://programming.mediatagtw.com/article/Textarea+select+all | https://stackoverflow.com/questions/7313786/highlight-all-text-in-textarea | other subdomains seem to be clones or machine-generated. |
@@ -177,5 +170,11 @@
 | `ibootweb.com` | https://ibootweb.com/questions/12118832/comment-changer-la-cle-dinterface-valeur-chaine-en-cle-chaine-chaine | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | closed? |
 | `howtofix.io` | https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181 | https://stackoverflow.com/questions/69486089 | closed? |
 | `www.examplefiles.net` | https://www.examplefiles.net/cs/552928 | https://stackoverflow.com/questions/60123613 | closed? |
+| `www.web-dev-qa.com` | https://www.web-dev-qa.com/ja/bash/962672142/ | https://unix.stackexchange.com/questions/395742/ | closed? |
+| `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 | closed? |
+| `exceptionshub.com` | https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html | https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call | closed? |
+| `cainiaojiaocheng.com` | https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | closed? |
+| `easysavecode.com` | https://easysavecode.com/Y60j5UmF | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | closed? |
+| `python-stack.de` | https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c- | https://stackoverflow.com/questions/63315020 | closed? |
 | `reddit.fun` | https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails | https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails |  |
 | `qa.icopy.site` | https://qa.icopy.site/questions/44931728/openfiledialog-spy | https://stackoverflow.com/questions/44931728/openfiledialog-spy |  |
