@@ -373,18 +373,12 @@
 - domain: 'stackoom.com'
   evidence: https://stackoom.com/en/question/2NpRm
   original: https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae
-- domain: 'christfever.in'
-  evidence: https://christfever.in/index.php?threads/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-included.636732/
-  original: https://stackoverflow.com/questions/65011034/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-i
 - domain: 'cndgn.com'
   evidence: https://cndgn.com/question/superuser/599515/what-is-armtech-daemon
   original: https://superuser.com/questions/599515/what-is-armtech-daemon
 - domain: 'codersatellite.com'
   evidence: https://codersatellite.com/question-with-identifier-53306819
   original: https://stackoverflow.com/q/53306819
-- domain: '*.coredump.biz'
-  evidence: https://fr.coredump.biz/questions/29256945/how-to-optimize-blob-access-with-an-user-defined-function
-  original: https://stackoverflow.com/q/29256945
 - domain: 'farath.com'
   evidence: https://farath.com/should-i-keep-my-github-forked-repositories-around-forever/
   original: https://softwareengineering.stackexchange.com/q/61577
@@ -400,9 +394,6 @@
 - domain: 'www.generacodice.com'
   evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
   original: https://stackoverflow.com/questions/1439719
-- domain: 'stackify.dev'
-  evidence: https://stackify.dev/532500-how-to-truncate-a-table-using-doctrine-2
-  original: https://stackoverflow.com/questions/9686888/how-to-truncate-a-table-using-doctrine-2
 - domain: 'stackfinder.jp.net'
   evidence: https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct
   original: https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct
@@ -448,9 +439,9 @@
 - domain: 'www.desenv-web-rp.com'
   evidence: https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
   original: https://stackoverflow.com/questions/38728200
-- domain: 'askdev.vn'
-  evidence: https://askdev.vn/t/lam-cach-nao-de-buoc-net-core-3-1-giai-ma-hoa-tham-so-frombody-bang-newtonsoft-thay-vi-system-text-json/122832
-  original: https://stackoverflow.com/questions/70608121
+- domain: www.web-dev-qa-db-pt.com
+  evidence: https://www.web-dev-qa-db-pt.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
+  original: https://stackoverflow.com/questions/38728200
 - domain: 'quares.ru'
   evidence: https://quares.ru/?id=117892
   original: https://stackoverflow.com/questions/59914611
@@ -505,18 +496,12 @@
 - domain: '*.elfishgene.com'
   evidence: https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW
   original: https://stackoverflow.com/questions/58304957/
-- domain: 'answerlib.com'
-  evidence: https://answerlib.com/ja/question/24800/kubernetes--jq---retrieving-containers-list-per-pod-yields-cartesian-product.html
-  original: https://stackoverflow.com/questions/68193777/kubernetes-jq-retrieving-containers-list-per-pod-yields-cartesian-product
 - domain: 'sysadminde.com'
   evidence: https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs
   original: https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs
 - domain: 'answacode.com'
   evidence: https://answacode.com/questions/9620198/kak-poluchit-razmery-tablic-bazy-dannyh-mysql
   original: https://stackoverflow.com/q/9620198
-- domain: 'fooobar.com'
-  evidence: https://fooobar.com/questions/15843711/mysql-delete-records-from-a-table-based-on-query-of-another-table
-  original: https://stackoverflow.com/questions/50815670/mysql-delete-records-from-a-table-based-on-query-of-another-table
 - domain: 'ask-dev.ru'
   evidence: https://ask-dev.ru/info/12969289/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
   original: https://stackoverflow.com/questions/41223963/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
@@ -614,6 +599,30 @@
 - domain: 'stormcrow.dev'
   evidence: https://stormcrow.dev/ja/questions/1030169
   original: https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules
+  note: closed?
+- domain: 'christfever.in'
+  evidence: https://christfever.in/index.php?threads/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-included.636732/
+  original: https://stackoverflow.com/questions/65011034/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-i
+  note: closed?
+- domain: '*.coredump.biz'
+  evidence: https://fr.coredump.biz/questions/29256945/how-to-optimize-blob-access-with-an-user-defined-function
+  original: https://stackoverflow.com/q/29256945
+  note: closed?
+- domain: 'stackify.dev'
+  evidence: https://stackify.dev/532500-how-to-truncate-a-table-using-doctrine-2
+  original: https://stackoverflow.com/questions/9686888/how-to-truncate-a-table-using-doctrine-2
+  note: closed?
+- domain: 'answerlib.com'
+  evidence: https://answerlib.com/ja/question/24800/kubernetes--jq---retrieving-containers-list-per-pod-yields-cartesian-product.html
+  original: https://stackoverflow.com/questions/68193777/kubernetes-jq-retrieving-containers-list-per-pod-yields-cartesian-product
+  note: closed?
+- domain: 'fooobar.com'
+  evidence: https://fooobar.com/questions/15843711/mysql-delete-records-from-a-table-based-on-query-of-another-table
+  original: https://stackoverflow.com/questions/50815670/mysql-delete-records-from-a-table-based-on-query-of-another-table
+  note: closed?
+- domain: 'askdev.vn'
+  evidence: https://askdev.vn/t/lam-cach-nao-de-buoc-net-core-3-1-giai-ma-hoa-tham-so-frombody-bang-newtonsoft-thay-vi-system-text-json/122832
+  original: https://stackoverflow.com/questions/70608121
   note: closed?
 - domain: 'reddit.fun'
   evidence: https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails
