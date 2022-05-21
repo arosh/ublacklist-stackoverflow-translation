@@ -297,10 +297,6 @@
   evidence: https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random
   original: https://stackoverflow.com/questions/30030659/
   note:
-- domain: xiu2.net
-  evidence: https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7
-  original: https://stackoverflow.com/q/7106679
-  note:
 - domain: 'newbedev.com'
   evidence: https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation
   original: https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation
@@ -310,9 +306,6 @@
 - domain: 'routinepanic.com'
   evidence: https://routinepanic.com/questions/how-to-get-the-home-directory-in-python
   original: https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python
-- domain: 'pythonwd.com'
-  evidence: https://pythonwd.com/290431426.html
-  original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
 - domain: 'tousu.in'
   evidence: https://tousu.in/qa/?qa=506161/
   original: https://stackoverflow.com/questions/31189754/get-field-names-list-from-case-class
@@ -635,6 +628,14 @@
 - domain: 'python-stack.de'
   evidence: https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c-
   original: https://stackoverflow.com/questions/63315020
+  note: closed?
+- domain: xiu2.net
+  evidence: https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7
+  original: https://stackoverflow.com/q/7106679
+  note: closed?
+- domain: 'pythonwd.com'
+  evidence: https://pythonwd.com/290431426.html
+  original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
   note: closed?
 - domain: 'reddit.fun'
   evidence: https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails
