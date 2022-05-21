@@ -133,6 +133,10 @@
 *://errorsfixing.com/*
 *://syntaxfix.com/*
 *://codegrepr.com/*
+*://quabr.com/*
+*://serveanswer.com/*
+*://*.safehavenpetrescue.org/*
+*://cainiaojiaocheng.com/*
 *://www.it-mure.jp.net/*
 *://www.it-swarm.com.ru/*
 *://www.it-roy-ru.com/*
@@ -142,7 +146,6 @@
 *://issues-world.com/*
 *://article.docway.net/*
 *://codehero.jp/*
-*://quabr.com/*
 *://pretagteam.com/*
 *://lycaeum.dev/*
 *://classmethod.dev/*
@@ -166,9 +169,7 @@
 *://howtofix.io/*
 *://www.examplefiles.net/*
 *://www.web-dev-qa.com/*
-*://*.safehavenpetrescue.org/*
 *://exceptionshub.com/*
-*://cainiaojiaocheng.com/*
 *://easysavecode.com/*
 *://python-stack.de/*
 *://xiu2.net/*

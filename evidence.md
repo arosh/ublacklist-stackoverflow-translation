@@ -137,6 +137,10 @@
 | `errorsfixing.com` | https://errorsfixing.com/python-get-directory-two-levels-up/ | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
 | `syntaxfix.com` | https://syntaxfix.com/question/6689/python-get-directory-two-levels-up | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
 | `codegrepr.com` | https://codegrepr.com/question/python-get-directory-two-levels-up/ | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
+| `quabr.com` | https://quabr.com/72111899/how-to-convert-timestamp-to-data-lake-s3-timestamp | https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp |  |
+| `serveanswer.com` | https://serveanswer.com/questions/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp | https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp |  |
+| `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 |  |
+| `cainiaojiaocheng.com` | https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python |  |
 | `www.it-mure.jp.net` | https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/ | https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c | closed? |
 | `www.it-swarm.com.ru` | https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 | closed? |
 | `www.it-roy-ru.com` | https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 | closed? |
@@ -146,7 +150,6 @@
 | `issues-world.com` | https://issues-world.com/rails-3-56/ | https://stackoverflow.com/q/8552763 | closed? |
 | `article.docway.net` | http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 | closed? |
 | `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 | closed? |
-| `quabr.com` | https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working | https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working | closed? |
 | `pretagteam.com` | https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python | https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047 | closed? |
 | `lycaeum.dev` | https://lycaeum.dev/ja/questions/29482 | https://stackoverflow.com/questions/29482 | closed? |
 | `classmethod.dev` | https://classmethod.dev/ja/questions/1414365 | https://stackoverflow.com/questions/1414365 | closed? This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.) |
@@ -170,9 +173,7 @@
 | `howtofix.io` | https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181 | https://stackoverflow.com/questions/69486089 | closed? |
 | `www.examplefiles.net` | https://www.examplefiles.net/cs/552928 | https://stackoverflow.com/questions/60123613 | closed? |
 | `www.web-dev-qa.com` | https://www.web-dev-qa.com/ja/bash/962672142/ | https://unix.stackexchange.com/questions/395742/ | closed? |
-| `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 | closed? |
 | `exceptionshub.com` | https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html | https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call | closed? |
-| `cainiaojiaocheng.com` | https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | closed? |
 | `easysavecode.com` | https://easysavecode.com/Y60j5UmF | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | closed? |
 | `python-stack.de` | https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c- | https://stackoverflow.com/questions/63315020 | closed? |
 | `xiu2.net` | https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 | closed? |
