@@ -105,7 +105,6 @@
 | `stackoom.com` | https://stackoom.com/en/question/2NpRm | https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae |  |
 | `cndgn.com` | https://cndgn.com/question/superuser/599515/what-is-armtech-daemon | https://superuser.com/questions/599515/what-is-armtech-daemon |  |
 | `codersatellite.com` | https://codersatellite.com/question-with-identifier-53306819 | https://stackoverflow.com/q/53306819 |  |
-| `farath.com` | https://farath.com/should-i-keep-my-github-forked-repositories-around-forever/ | https://softwareengineering.stackexchange.com/q/61577 |  |
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 |  |
 | `stackfinder.jp.net` | https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct |  |
 | `www.uebu-kaihatsu.jp.net` | https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/ | https://serverfault.com/q/809632 |  |
@@ -116,19 +115,14 @@
 | `edupro.id` | https://edupro.id/questions/5055780 | https://stackoverflow.com/questions/67219289 |  |
 | `python-stack.de` | https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c- | https://stackoverflow.com/questions/63315020 |  |
 | `www.stackfinder.ru` | https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name | https://stackoverflow.com/questions/60256300 |  |
-| `howtofix.io` | https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181 | https://stackoverflow.com/questions/69486089 |  |
-| `www.buzzphp.com` | https://www.buzzphp.com/posts/what-is-the-alternative-for-services-addmvc-and-superjsonoutputformatter-used | https://stackoverflow.com/questions/61358234 |  |
 | `www.desenv-web-rp.com` | https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
 | `www.web-dev-qa-db-pt.com` | https://www.web-dev-qa-db-pt.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
-| `quares.ru` | https://quares.ru/?id=117892 | https://stackoverflow.com/questions/59914611 |  |
-| `www.examplefiles.net` | https://www.examplefiles.net/cs/552928 | https://stackoverflow.com/questions/60123613 |  |
 | `codewdw.com` | https://codewdw.com/125956318.html | https://stackoverflow.com/questions/70608121 |  |
 | `jpcodeqa.com` | https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305 | https://stackoverflow.com/questions/906455 |  |
 | `www.jscodetips.com` | https://www.jscodetips.com/examples/how-to-change-the-interface-key-value-string-to-key-string-string | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string |  |
 | `www.5axxw.com` | https://www.5axxw.com/questions/content/8pxpsb | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string |  |
 | `question-it.com` | https://question-it.com/questions/12118832/kak-izmenit-kljuch-interfejsa-znachenie-stroka-na-kljuch-stroka-stroka | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | mirrors for other languages are specified in the head tag |
 | `webmonkez.com` | https://webmonkez.com/questions/12118832/como-cambiar-la-clave-de-interfaz-valor-cadena-a-clave-cadena-cadena | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | mirrors for other languages are specified in the head tag |
-| `ibootweb.com` | https://ibootweb.com/questions/12118832/comment-changer-la-cle-dinterface-valeur-chaine-en-cle-chaine-chaine | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | mirrors for other languages are specified in the head tag |
 | `*.codefaq.info` | https://es.codefaq.info/como_arreglar_el_tipo_de_comprobacion_cuando_el_uso_de_este_de_la_tienda_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | mirrors for other languages are specified in the head tag |
 | `codefaq.ru` | https://codefaq.ru/kak_ispravit_proverku_tipov_pri_ispolzovanii_etogo_magazin_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | mirrors for other languages are specified in the head tag |
 | `*.mediatagtw.com` | https://programming.mediatagtw.com/article/Textarea+select+all | https://stackoverflow.com/questions/7313786/highlight-all-text-in-textarea | other subdomains seem to be clones or machine-generated. |
@@ -178,5 +172,10 @@
 | `jpndev.com` | https://jpndev.com/post/1128926 | https://stackoverflow.com/questions/21654830 | closed? |
 | `stackfault.net` | https://stackfault.net/t/topic/106786 | https://stackoverflow.com/questions/70608121 | closed? |
 | `alltodev.com` | https://alltodev.com/filenotfounderror-errno-2-no-such-file-or-directory | https://stackoverflow.com/questions/22282760/filenotfounderror-errno-2-no-such-file-or-directory | closed? |
+| `www.buzzphp.com` | https://www.buzzphp.com/posts/what-is-the-alternative-for-services-addmvc-and-superjsonoutputformatter-used | https://stackoverflow.com/questions/61358234 | closed? |
+| `quares.ru` | https://quares.ru/?id=117892 | https://stackoverflow.com/questions/59914611 | closed? |
+| `ibootweb.com` | https://ibootweb.com/questions/12118832/comment-changer-la-cle-dinterface-valeur-chaine-en-cle-chaine-chaine | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | closed? |
+| `howtofix.io` | https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181 | https://stackoverflow.com/questions/69486089 | closed? |
+| `www.examplefiles.net` | https://www.examplefiles.net/cs/552928 | https://stackoverflow.com/questions/60123613 | closed? |
 | `reddit.fun` | https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails | https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails |  |
 | `qa.icopy.site` | https://qa.icopy.site/questions/44931728/openfiledialog-spy | https://stackoverflow.com/questions/44931728/openfiledialog-spy |  |
