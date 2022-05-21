@@ -108,9 +108,6 @@
 - domain: 'www.webdevqa.jp.net'
   evidence: https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/
   original: https://unix.stackexchange.com/q/419198
-- domain: 'www.web-dev-qa.com'
-  evidence: https://www.web-dev-qa.com/ja/bash/962672142/
-  original: https://unix.stackexchange.com/questions/395742/
 - domain: 'www.web-dev-qa-db-ja.com'
   evidence: https://www.web-dev-qa-db-ja.com/ja/go/816661554/
   original: https://stackoverflow.com/q/61900346
@@ -284,10 +281,6 @@
   evidence: https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR
   original: https://stackoverflow.com/q/13054371
   note:
-- domain: '*.safehavenpetrescue.org'
-  evidence: https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP
-  original: https://stackoverflow.com/q/63978924
-  note:
 - domain: 'qapicks.com'
   evidence: https://qapicks.com/question/1668131-87a39319fa31
   original: https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu
@@ -308,18 +301,12 @@
   evidence: https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7
   original: https://stackoverflow.com/q/7106679
   note:
-- domain: 'exceptionshub.com'
-  evidence: https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html
-  original: https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call
 - domain: 'newbedev.com'
   evidence: https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation
   original: https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation
 - domain: 'www.codenong.com'
   evidence: https://www.codenong.com/8188108/
   original: https://stackoverflow.com/q/8188108
-- domain: 'cainiaojiaocheng.com'
-  evidence: https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
-  original: https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
 - domain: 'routinepanic.com'
   evidence: https://routinepanic.com/questions/how-to-get-the-home-directory-in-python
   original: https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python
@@ -345,9 +332,6 @@
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: 'ostack.cn'
   evidence: http://ostack.cn/?qa=580340/
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'easysavecode.com'
-  evidence: https://easysavecode.com/Y60j5UmF
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: 'webdevdesigner.com'
   evidence: https://webdevdesigner.com/q/argparse-subparser-monolithic-help-output-137439/
@@ -406,9 +390,6 @@
 - domain: 'edupro.id'
   evidence: https://edupro.id/questions/5055780
   original: https://stackoverflow.com/questions/67219289
-- domain: 'python-stack.de'
-  evidence: https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c-
-  original: https://stackoverflow.com/questions/63315020
 - domain: 'www.stackfinder.ru'
   evidence: https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name
   original: https://stackoverflow.com/questions/60256300
@@ -432,10 +413,6 @@
   original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
 - domain: 'question-it.com'
   evidence: https://question-it.com/questions/12118832/kak-izmenit-kljuch-interfejsa-znachenie-stroka-na-kljuch-stroka-stroka
-  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
-  note: mirrors for other languages are specified in the head tag
-- domain: 'webmonkez.com'
-  evidence: https://webmonkez.com/questions/12118832/como-cambiar-la-clave-de-interfaz-valor-cadena-a-clave-cadena-cadena
   original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
   note: mirrors for other languages are specified in the head tag
 - domain: '*.codefaq.info'
@@ -634,6 +611,30 @@
 - domain: 'www.examplefiles.net'
   evidence: https://www.examplefiles.net/cs/552928
   original: https://stackoverflow.com/questions/60123613
+  note: closed?
+- domain: 'www.web-dev-qa.com'
+  evidence: https://www.web-dev-qa.com/ja/bash/962672142/
+  original: https://unix.stackexchange.com/questions/395742/
+  note: closed?
+- domain: '*.safehavenpetrescue.org'
+  evidence: https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP
+  original: https://stackoverflow.com/q/63978924
+  note: closed?
+- domain: 'exceptionshub.com'
+  evidence: https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html
+  original: https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call
+  note: closed?
+- domain: 'cainiaojiaocheng.com'
+  evidence: https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
+  original: https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
+  note: closed?
+- domain: 'easysavecode.com'
+  evidence: https://easysavecode.com/Y60j5UmF
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+  note: closed?
+- domain: 'python-stack.de'
+  evidence: https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c-
+  original: https://stackoverflow.com/questions/63315020
   note: closed?
 - domain: 'reddit.fun'
   evidence: https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails
