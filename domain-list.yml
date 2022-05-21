@@ -480,6 +480,18 @@
 - domain: codegrepr.com
   evidence: https://codegrepr.com/question/python-get-directory-two-levels-up/
   original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
+- domain: 'quabr.com'
+  evidence: https://quabr.com/72111899/how-to-convert-timestamp-to-data-lake-s3-timestamp
+  original: https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
+- domain: serveanswer.com
+  evidence: https://serveanswer.com/questions/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
+  original: https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
+- domain: '*.safehavenpetrescue.org'
+  evidence: https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP
+  original: https://stackoverflow.com/q/63978924
+- domain: 'cainiaojiaocheng.com'
+  evidence: https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
+  original: https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
 - domain: 'www.it-mure.jp.net'
   evidence: https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/
   original: https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c
@@ -515,10 +527,6 @@
 - domain: 'codehero.jp'
   evidence: https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum
   original: https://stackoverflow.com/questions/29482
-  note: closed?
-- domain: 'quabr.com'
-  evidence: https://quabr.com/69095635/why-wordpress-plugin-duplicate-page-not-working
-  original: https://stackoverflow.com/questions/69095635/why-wordpress-plugin-duplicate-page-not-working
   note: closed?
 - domain: 'pretagteam.com'
   evidence: https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python
@@ -612,17 +620,9 @@
   evidence: https://www.web-dev-qa.com/ja/bash/962672142/
   original: https://unix.stackexchange.com/questions/395742/
   note: closed?
-- domain: '*.safehavenpetrescue.org'
-  evidence: https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP
-  original: https://stackoverflow.com/q/63978924
-  note: closed?
 - domain: 'exceptionshub.com'
   evidence: https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html
   original: https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call
-  note: closed?
-- domain: 'cainiaojiaocheng.com'
-  evidence: https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
-  original: https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
   note: closed?
 - domain: 'easysavecode.com'
   evidence: https://easysavecode.com/Y60j5UmF
