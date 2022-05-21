@@ -78,11 +78,9 @@
 | `*.narkive.jp` | https://security.narkive.jp/oBrsVjXh | https://security.stackexchange.com/questions/373/open-source-penetration-test-automation |  |
 | `*.ourladylakes.org` | https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP | https://stackoverflow.com/questions/2193412/xslt-not-contains-check |  |
 | `intellipaat.com` | https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random | https://stackoverflow.com/questions/30030659/ |  |
-| `xiu2.net` | https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 |  |
 | `newbedev.com` | https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation | https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation |  |
 | `www.codenong.com` | https://www.codenong.com/8188108/ | https://stackoverflow.com/q/8188108 |  |
 | `routinepanic.com` | https://routinepanic.com/questions/how-to-get-the-home-directory-in-python | https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python |  |
-| `pythonwd.com` | https://pythonwd.com/290431426.html | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
 | `tousu.in` | https://tousu.in/qa/?qa=506161/ | https://stackoverflow.com/questions/31189754/get-field-names-list-from-case-class |  |
 | `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ |  |
 | `www.titanwolf.org` | https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y | https://stackoverflow.com/questions/42244819 |  |
@@ -176,5 +174,7 @@
 | `cainiaojiaocheng.com` | https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | closed? |
 | `easysavecode.com` | https://easysavecode.com/Y60j5UmF | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | closed? |
 | `python-stack.de` | https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c- | https://stackoverflow.com/questions/63315020 | closed? |
+| `xiu2.net` | https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 | closed? |
+| `pythonwd.com` | https://pythonwd.com/290431426.html | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up | closed? |
 | `reddit.fun` | https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails | https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails |  |
 | `qa.icopy.site` | https://qa.icopy.site/questions/44931728/openfiledialog-spy | https://stackoverflow.com/questions/44931728/openfiledialog-spy |  |

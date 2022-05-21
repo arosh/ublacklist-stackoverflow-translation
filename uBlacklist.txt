@@ -74,11 +74,9 @@
 *://*.narkive.jp/*
 *://*.ourladylakes.org/*
 *://intellipaat.com/*
-*://xiu2.net/*
 *://newbedev.com/*
 *://www.codenong.com/*
 *://routinepanic.com/*
-*://pythonwd.com/*
 *://tousu.in/*
 *://tutorialmore.com/*
 *://www.titanwolf.org/*
@@ -172,5 +170,7 @@
 *://cainiaojiaocheng.com/*
 *://easysavecode.com/*
 *://python-stack.de/*
+*://xiu2.net/*
+*://pythonwd.com/*
 *://reddit.fun/*
 *://qa.icopy.site/*

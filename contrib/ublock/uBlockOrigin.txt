@@ -917,18 +917,6 @@ www.google.*##.isv-r[data-ru^="https://intellipaat.com/"]
 www.google.*##.VFACy[href^="https://intellipaat.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://intellipaat.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://intellipaat.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://xiu2.net/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://xiu2.net/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://xiu2.net/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://xiu2.net/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://xiu2.net/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="xiu2.net"]
-www.ecosia.org##.result[data-url^="https://xiu2.net/"]
-startpage.com##.w-gl__result-title[href^="https://xiu2.net/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://xiu2.net/"]
-www.google.*##.VFACy[href^="https://xiu2.net/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://xiu2.net/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://xiu2.net/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://newbedev.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://newbedev.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://newbedev.com/"]:upward(.xpdopen)
@@ -965,18 +953,6 @@ www.google.*##.isv-r[data-ru^="https://routinepanic.com/"]
 www.google.*##.VFACy[href^="https://routinepanic.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://routinepanic.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://routinepanic.com/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://pythonwd.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://pythonwd.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://pythonwd.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://pythonwd.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://pythonwd.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="pythonwd.com"]
-www.ecosia.org##.result[data-url^="https://pythonwd.com/"]
-startpage.com##.w-gl__result-title[href^="https://pythonwd.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://pythonwd.com/"]
-www.google.*##.VFACy[href^="https://pythonwd.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://pythonwd.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://pythonwd.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://tousu.in/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://tousu.in/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://tousu.in/"]:upward(.xpdopen)
@@ -2093,6 +2069,30 @@ www.google.*##.isv-r[data-ru^="https://python-stack.de/"]
 www.google.*##.VFACy[href^="https://python-stack.de/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://python-stack.de/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://python-stack.de/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://xiu2.net/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://xiu2.net/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://xiu2.net/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://xiu2.net/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://xiu2.net/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="xiu2.net"]
+www.ecosia.org##.result[data-url^="https://xiu2.net/"]
+startpage.com##.w-gl__result-title[href^="https://xiu2.net/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://xiu2.net/"]
+www.google.*##.VFACy[href^="https://xiu2.net/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://xiu2.net/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://xiu2.net/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://pythonwd.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://pythonwd.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://pythonwd.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://pythonwd.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://pythonwd.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="pythonwd.com"]
+www.ecosia.org##.result[data-url^="https://pythonwd.com/"]
+startpage.com##.w-gl__result-title[href^="https://pythonwd.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://pythonwd.com/"]
+www.google.*##.VFACy[href^="https://pythonwd.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://pythonwd.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://pythonwd.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://reddit.fun/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://reddit.fun/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://reddit.fun/"]:upward(.xpdopen)
