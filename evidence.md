@@ -102,16 +102,13 @@
 | `stackqna.com` | https://stackqna.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc | https://stackoverflow.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc |  |
 | `www.xsprogram.com` | https://www.xsprogram.com/content/problems-with-scanf.html | https://stackoverflow.com/questions/20139415/problems-with-scanf |  |
 | `stackoom.com` | https://stackoom.com/en/question/2NpRm | https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae |  |
-| `christfever.in` | https://christfever.in/index.php?threads/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-included.636732/ | https://stackoverflow.com/questions/65011034/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-i |  |
 | `cndgn.com` | https://cndgn.com/question/superuser/599515/what-is-armtech-daemon | https://superuser.com/questions/599515/what-is-armtech-daemon |  |
 | `codersatellite.com` | https://codersatellite.com/question-with-identifier-53306819 | https://stackoverflow.com/q/53306819 |  |
-| `*.coredump.biz` | https://fr.coredump.biz/questions/29256945/how-to-optimize-blob-access-with-an-user-defined-function | https://stackoverflow.com/q/29256945 |  |
 | `farath.com` | https://farath.com/should-i-keep-my-github-forked-repositories-around-forever/ | https://softwareengineering.stackexchange.com/q/61577 |  |
 | `devbugfix.com` | https://devbugfix.com/p/1389529 | https://gis.stackexchange.com/q/184482 |  |
 | `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ |  |
 | `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ |  |
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 |  |
-| `stackify.dev` | https://stackify.dev/532500-how-to-truncate-a-table-using-doctrine-2 | https://stackoverflow.com/questions/9686888/how-to-truncate-a-table-using-doctrine-2 |  |
 | `stackfinder.jp.net` | https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct |  |
 | `coder-solution-jp.com` | https://coder-solution-jp.com/solution-jp-blog/575642 | https://askubuntu.com/questions/776699 |  |
 | `jpndev.com` | https://jpndev.com/post/1128926 | https://stackoverflow.com/questions/21654830 |  |
@@ -127,7 +124,7 @@
 | `howtofix.io` | https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181 | https://stackoverflow.com/questions/69486089 |  |
 | `www.buzzphp.com` | https://www.buzzphp.com/posts/what-is-the-alternative-for-services-addmvc-and-superjsonoutputformatter-used | https://stackoverflow.com/questions/61358234 |  |
 | `www.desenv-web-rp.com` | https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
-| `askdev.vn` | https://askdev.vn/t/lam-cach-nao-de-buoc-net-core-3-1-giai-ma-hoa-tham-so-frombody-bang-newtonsoft-thay-vi-system-text-json/122832 | https://stackoverflow.com/questions/70608121 |  |
+| `www.web-dev-qa-db-pt.com` | https://www.web-dev-qa-db-pt.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
 | `quares.ru` | https://quares.ru/?id=117892 | https://stackoverflow.com/questions/59914611 |  |
 | `www.examplefiles.net` | https://www.examplefiles.net/cs/552928 | https://stackoverflow.com/questions/60123613 |  |
 | `codewdw.com` | https://codewdw.com/125956318.html | https://stackoverflow.com/questions/70608121 |  |
@@ -144,10 +141,8 @@
 | `progi.pro` | https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983 | https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock |  |
 | `jike.in` | https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock | https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than |  |
 | `*.elfishgene.com` | https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW | https://stackoverflow.com/questions/58304957/ |  |
-| `answerlib.com` | https://answerlib.com/ja/question/24800/kubernetes--jq---retrieving-containers-list-per-pod-yields-cartesian-product.html | https://stackoverflow.com/questions/68193777/kubernetes-jq-retrieving-containers-list-per-pod-yields-cartesian-product |  |
 | `sysadminde.com` | https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs | https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs |  |
 | `answacode.com` | https://answacode.com/questions/9620198/kak-poluchit-razmery-tablic-bazy-dannyh-mysql | https://stackoverflow.com/q/9620198 |  |
-| `fooobar.com` | https://fooobar.com/questions/15843711/mysql-delete-records-from-a-table-based-on-query-of-another-table | https://stackoverflow.com/questions/50815670/mysql-delete-records-from-a-table-based-on-query-of-another-table |  |
 | `ask-dev.ru` | https://ask-dev.ru/info/12969289/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library | https://stackoverflow.com/questions/41223963/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library |  |
 | `*.arip-photo.org` | https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD | https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574 |  |
 | `jablogs.com` | https://jablogs.com/detail/60085 | https://stackoverflow.com/questions/912596/how-to-turn-a-string-into-a-javascript-function-call/912642#912642 |  |
@@ -176,5 +171,11 @@
 | `lycaeum.dev` | https://lycaeum.dev/ja/questions/29482 | https://stackoverflow.com/questions/29482 | closed? |
 | `classmethod.dev` | https://classmethod.dev/ja/questions/1414365 | https://stackoverflow.com/questions/1414365 | closed? This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.) |
 | `stormcrow.dev` | https://stormcrow.dev/ja/questions/1030169 | https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules | closed? |
+| `christfever.in` | https://christfever.in/index.php?threads/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-included.636732/ | https://stackoverflow.com/questions/65011034/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-i | closed? |
+| `*.coredump.biz` | https://fr.coredump.biz/questions/29256945/how-to-optimize-blob-access-with-an-user-defined-function | https://stackoverflow.com/q/29256945 | closed? |
+| `stackify.dev` | https://stackify.dev/532500-how-to-truncate-a-table-using-doctrine-2 | https://stackoverflow.com/questions/9686888/how-to-truncate-a-table-using-doctrine-2 | closed? |
+| `answerlib.com` | https://answerlib.com/ja/question/24800/kubernetes--jq---retrieving-containers-list-per-pod-yields-cartesian-product.html | https://stackoverflow.com/questions/68193777/kubernetes-jq-retrieving-containers-list-per-pod-yields-cartesian-product | closed? |
+| `fooobar.com` | https://fooobar.com/questions/15843711/mysql-delete-records-from-a-table-based-on-query-of-another-table | https://stackoverflow.com/questions/50815670/mysql-delete-records-from-a-table-based-on-query-of-another-table | closed? |
+| `askdev.vn` | https://askdev.vn/t/lam-cach-nao-de-buoc-net-core-3-1-giai-ma-hoa-tham-so-frombody-bang-newtonsoft-thay-vi-system-text-json/122832 | https://stackoverflow.com/questions/70608121 | closed? |
 | `reddit.fun` | https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails | https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails |  |
 | `qa.icopy.site` | https://qa.icopy.site/questions/44931728/openfiledialog-spy | https://stackoverflow.com/questions/44931728/openfiledialog-spy |  |
