@@ -382,9 +382,6 @@
 - domain: 'codersatellite.com'
   evidence: https://codersatellite.com/question-with-identifier-53306819
   original: https://stackoverflow.com/q/53306819
-- domain: 'farath.com'
-  evidence: https://farath.com/should-i-keep-my-github-forked-repositories-around-forever/
-  original: https://softwareengineering.stackexchange.com/q/61577
 - domain: 'www.generacodice.com'
   evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
   original: https://stackoverflow.com/questions/1439719
@@ -415,24 +412,12 @@
 - domain: 'www.stackfinder.ru'
   evidence: https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name
   original: https://stackoverflow.com/questions/60256300
-- domain: 'howtofix.io'
-  evidence: https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181
-  original: https://stackoverflow.com/questions/69486089
-- domain: 'www.buzzphp.com'
-  evidence: https://www.buzzphp.com/posts/what-is-the-alternative-for-services-addmvc-and-superjsonoutputformatter-used
-  original: https://stackoverflow.com/questions/61358234
 - domain: 'www.desenv-web-rp.com'
   evidence: https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
   original: https://stackoverflow.com/questions/38728200
 - domain: www.web-dev-qa-db-pt.com
   evidence: https://www.web-dev-qa-db-pt.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
   original: https://stackoverflow.com/questions/38728200
-- domain: 'quares.ru'
-  evidence: https://quares.ru/?id=117892
-  original: https://stackoverflow.com/questions/59914611
-- domain: 'www.examplefiles.net'
-  evidence: https://www.examplefiles.net/cs/552928
-  original: https://stackoverflow.com/questions/60123613
 - domain: 'codewdw.com'
   evidence: https://codewdw.com/125956318.html
   original: https://stackoverflow.com/questions/70608121
@@ -451,10 +436,6 @@
   note: mirrors for other languages are specified in the head tag
 - domain: 'webmonkez.com'
   evidence: https://webmonkez.com/questions/12118832/como-cambiar-la-clave-de-interfaz-valor-cadena-a-clave-cadena-cadena
-  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
-  note: mirrors for other languages are specified in the head tag
-- domain: 'ibootweb.com'
-  evidence: https://ibootweb.com/questions/12118832/comment-changer-la-cle-dinterface-valeur-chaine-en-cle-chaine-chaine
   original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
   note: mirrors for other languages are specified in the head tag
 - domain: '*.codefaq.info'
@@ -633,6 +614,26 @@
 - domain: 'alltodev.com'
   evidence: https://alltodev.com/filenotfounderror-errno-2-no-such-file-or-directory
   original: https://stackoverflow.com/questions/22282760/filenotfounderror-errno-2-no-such-file-or-directory
+  note: closed?
+- domain: 'www.buzzphp.com'
+  evidence: https://www.buzzphp.com/posts/what-is-the-alternative-for-services-addmvc-and-superjsonoutputformatter-used
+  original: https://stackoverflow.com/questions/61358234
+  note: closed?
+- domain: 'quares.ru'
+  evidence: https://quares.ru/?id=117892
+  original: https://stackoverflow.com/questions/59914611
+  note: closed?
+- domain: 'ibootweb.com'
+  evidence: https://ibootweb.com/questions/12118832/comment-changer-la-cle-dinterface-valeur-chaine-en-cle-chaine-chaine
+  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
+  note: closed?
+- domain: 'howtofix.io'
+  evidence: https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181
+  original: https://stackoverflow.com/questions/69486089
+  note: closed?
+- domain: 'www.examplefiles.net'
+  evidence: https://www.examplefiles.net/cs/552928
+  original: https://stackoverflow.com/questions/60123613
   note: closed?
 - domain: 'reddit.fun'
   evidence: https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails
