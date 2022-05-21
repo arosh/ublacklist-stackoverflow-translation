@@ -93,11 +93,9 @@
 | `www.semicolonworld.com` | https://www.semicolonworld.com/question/57502/python-decompressing-gzip-chunk-by-chunk | https://stackoverflow.com/questions/2423866/python-decompressing-gzip-chunk-by-chunk |  |
 | `tipsfordev.com` | https://tipsfordev.com/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `www.qi-u.com` | https://www.qi-u.com/?qa=580340/python-argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
-| `stackqna.com` | https://stackqna.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc | https://stackoverflow.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc |  |
 | `www.xsprogram.com` | https://www.xsprogram.com/content/problems-with-scanf.html | https://stackoverflow.com/questions/20139415/problems-with-scanf |  |
 | `stackoom.com` | https://stackoom.com/en/question/2NpRm | https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae |  |
 | `cndgn.com` | https://cndgn.com/question/superuser/599515/what-is-armtech-daemon | https://superuser.com/questions/599515/what-is-armtech-daemon |  |
-| `codersatellite.com` | https://codersatellite.com/question-with-identifier-53306819 | https://stackoverflow.com/q/53306819 |  |
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 |  |
 | `stackfinder.jp.net` | https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct |  |
 | `www.uebu-kaihatsu.jp.net` | https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/ | https://serverfault.com/q/809632 |  |
@@ -109,8 +107,6 @@
 | `www.stackfinder.ru` | https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name | https://stackoverflow.com/questions/60256300 |  |
 | `www.desenv-web-rp.com` | https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
 | `www.web-dev-qa-db-pt.com` | https://www.web-dev-qa-db-pt.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
-| `codewdw.com` | https://codewdw.com/125956318.html | https://stackoverflow.com/questions/70608121 |  |
-| `jpcodeqa.com` | https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305 | https://stackoverflow.com/questions/906455 |  |
 | `www.jscodetips.com` | https://www.jscodetips.com/examples/how-to-change-the-interface-key-value-string-to-key-string-string | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string |  |
 | `www.5axxw.com` | https://www.5axxw.com/questions/content/8pxpsb | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string |  |
 | `question-it.com` | https://question-it.com/questions/12118832/kak-izmenit-kljuch-interfejsa-znachenie-stroka-na-kljuch-stroka-stroka | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | mirrors for other languages are specified in the head tag |
@@ -181,3 +177,7 @@
 | `python-stack.de` | https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c- | https://stackoverflow.com/questions/63315020 | closed? |
 | `xiu2.net` | https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 | closed? |
 | `pythonwd.com` | https://pythonwd.com/290431426.html | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up | closed? |
+| `stackqna.com` | https://stackqna.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc | https://stackoverflow.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc | closed? |
+| `codersatellite.com` | https://codersatellite.com/question-with-identifier-53306819 | https://stackoverflow.com/q/53306819 | closed? |
+| `codewdw.com` | https://codewdw.com/125956318.html | https://stackoverflow.com/questions/70608121 | closed? |
+| `jpcodeqa.com` | https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305 | https://stackoverflow.com/questions/906455 | closed? |

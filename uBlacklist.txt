@@ -89,11 +89,9 @@
 *://www.semicolonworld.com/*
 *://tipsfordev.com/*
 *://www.qi-u.com/*
-*://stackqna.com/*
 *://www.xsprogram.com/*
 *://stackoom.com/*
 *://cndgn.com/*
-*://codersatellite.com/*
 *://www.generacodice.com/*
 *://stackfinder.jp.net/*
 *://www.uebu-kaihatsu.jp.net/*
@@ -105,8 +103,6 @@
 *://www.stackfinder.ru/*
 *://www.desenv-web-rp.com/*
 *://www.web-dev-qa-db-pt.com/*
-*://codewdw.com/*
-*://jpcodeqa.com/*
 *://www.jscodetips.com/*
 *://www.5axxw.com/*
 *://question-it.com/*
@@ -177,3 +173,7 @@
 *://python-stack.de/*
 *://xiu2.net/*
 *://pythonwd.com/*
+*://stackqna.com/*
+*://codersatellite.com/*
+*://codewdw.com/*
+*://jpcodeqa.com/*
