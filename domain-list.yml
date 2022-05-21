@@ -117,6 +117,9 @@
 - domain: 'www.it-swarm-fr.com'
   evidence: https://www.it-swarm-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
   original: https://stackoverflow.com/q/50435455
+- domain: www.web-dev-qa-db-fr.com
+  evidence: https://www.web-dev-qa-db-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
+  original: https://stackoverflow.com/q/50435455
 - domain: '*.codeflow.site'
   evidence: https://qa.codeflow.site/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
   original: https://stackoverflow.com/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
@@ -382,27 +385,12 @@
 - domain: 'farath.com'
   evidence: https://farath.com/should-i-keep-my-github-forked-repositories-around-forever/
   original: https://softwareengineering.stackexchange.com/q/61577
-- domain: 'devbugfix.com'
-  evidence: https://devbugfix.com/p/1389529
-  original: https://gis.stackexchange.com/q/184482
-- domain: 'www.generacodice.blog'
-  evidence: https://www.generacodice.blog/jp/articolo/52938/
-  original: https://stackoverflow.com/questions/814167/
-- domain: 'www.generacodice.it'
-  evidence: https://www.generacodice.it/jp/articolo/126815/
-  original: https://stackoverflow.com/questions/199468/
 - domain: 'www.generacodice.com'
   evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
   original: https://stackoverflow.com/questions/1439719
 - domain: 'stackfinder.jp.net'
   evidence: https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct
   original: https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct
-- domain: 'coder-solution-jp.com'
-  evidence: https://coder-solution-jp.com/solution-jp-blog/575642
-  original: https://askubuntu.com/questions/776699
-- domain: 'jpndev.com'
-  evidence: https://jpndev.com/post/1128926
-  original: https://stackoverflow.com/questions/21654830
 - domain: 'www.uebu-kaihatsu.jp.net'
   evidence: https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/
   original: https://serverfault.com/q/809632
@@ -416,8 +404,8 @@
   evidence: https://younggeeks.in/questions/11586390
   original: https://stackoverflow.com/questions/70524850
 - domain: 'www.answerlib.com'
-  evidence: https://www.answerlib.com/ja/question/13427
-  original: https://stackoverflow.com/questions/59914611
+  evidence: https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html
+  original: https://stackoverflow.com/q/37928277
 - domain: 'edupro.id'
   evidence: https://edupro.id/questions/5055780
   original: https://stackoverflow.com/questions/67219289
@@ -427,9 +415,6 @@
 - domain: 'www.stackfinder.ru'
   evidence: https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name
   original: https://stackoverflow.com/questions/60256300
-- domain: 'stackfault.net'
-  evidence: https://stackfault.net/t/topic/106786
-  original: https://stackoverflow.com/questions/70608121
 - domain: 'howtofix.io'
   evidence: https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181
   original: https://stackoverflow.com/questions/69486089
@@ -484,9 +469,6 @@
   evidence: https://programming.mediatagtw.com/article/Textarea+select+all
   original: https://stackoverflow.com/questions/7313786/highlight-all-text-in-textarea
   note: other subdomains seem to be clones or machine-generated.
-- domain: 'alltodev.com'
-  evidence: https://alltodev.com/filenotfounderror-errno-2-no-such-file-or-directory
-  original: https://stackoverflow.com/questions/22282760/filenotfounderror-errno-2-no-such-file-or-directory
 - domain: 'progi.pro'
   evidence: https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983
   original: https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock
@@ -623,6 +605,34 @@
 - domain: 'askdev.vn'
   evidence: https://askdev.vn/t/lam-cach-nao-de-buoc-net-core-3-1-giai-ma-hoa-tham-so-frombody-bang-newtonsoft-thay-vi-system-text-json/122832
   original: https://stackoverflow.com/questions/70608121
+  note: closed?
+- domain: 'devbugfix.com'
+  evidence: https://devbugfix.com/p/1389529
+  original: https://gis.stackexchange.com/q/184482
+  note: closed?
+- domain: 'www.generacodice.blog'
+  evidence: https://www.generacodice.blog/jp/articolo/52938/
+  original: https://stackoverflow.com/questions/814167/
+  note: closed?
+- domain: 'www.generacodice.it'
+  evidence: https://www.generacodice.it/jp/articolo/126815/
+  original: https://stackoverflow.com/questions/199468/
+  note: closed?
+- domain: 'coder-solution-jp.com'
+  evidence: https://coder-solution-jp.com/solution-jp-blog/575642
+  original: https://askubuntu.com/questions/776699
+  note: closed?
+- domain: 'jpndev.com'
+  evidence: https://jpndev.com/post/1128926
+  original: https://stackoverflow.com/questions/21654830
+  note: closed?
+- domain: 'stackfault.net'
+  evidence: https://stackfault.net/t/topic/106786
+  original: https://stackoverflow.com/questions/70608121
+  note: closed?
+- domain: 'alltodev.com'
+  evidence: https://alltodev.com/filenotfounderror-errno-2-no-such-file-or-directory
+  original: https://stackoverflow.com/questions/22282760/filenotfounderror-errno-2-no-such-file-or-directory
   note: closed?
 - domain: 'reddit.fun'
   evidence: https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails
