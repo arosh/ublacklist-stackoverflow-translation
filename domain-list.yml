@@ -344,9 +344,6 @@
 - domain: 'www.qi-u.com'
   evidence: https://www.qi-u.com/?qa=580340/python-argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'stackqna.com'
-  evidence: https://stackqna.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc
-  original: https://stackoverflow.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc
 - domain: 'www.xsprogram.com'
   evidence: https://www.xsprogram.com/content/problems-with-scanf.html
   original: https://stackoverflow.com/questions/20139415/problems-with-scanf
@@ -356,9 +353,6 @@
 - domain: 'cndgn.com'
   evidence: https://cndgn.com/question/superuser/599515/what-is-armtech-daemon
   original: https://superuser.com/questions/599515/what-is-armtech-daemon
-- domain: 'codersatellite.com'
-  evidence: https://codersatellite.com/question-with-identifier-53306819
-  original: https://stackoverflow.com/q/53306819
 - domain: 'www.generacodice.com'
   evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
   original: https://stackoverflow.com/questions/1439719
@@ -392,12 +386,6 @@
 - domain: www.web-dev-qa-db-pt.com
   evidence: https://www.web-dev-qa-db-pt.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
   original: https://stackoverflow.com/questions/38728200
-- domain: 'codewdw.com'
-  evidence: https://codewdw.com/125956318.html
-  original: https://stackoverflow.com/questions/70608121
-- domain: 'jpcodeqa.com'
-  evidence: https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305
-  original: https://stackoverflow.com/questions/906455
 - domain: 'www.jscodetips.com'
   evidence: https://www.jscodetips.com/examples/how-to-change-the-interface-key-value-string-to-key-string-string
   original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
@@ -651,4 +639,20 @@
 - domain: 'pythonwd.com'
   evidence: https://pythonwd.com/290431426.html
   original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
+  note: closed?
+- domain: 'stackqna.com'
+  evidence: https://stackqna.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc
+  original: https://stackoverflow.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc
+  note: closed?
+- domain: 'codersatellite.com'
+  evidence: https://codersatellite.com/question-with-identifier-53306819
+  original: https://stackoverflow.com/q/53306819
+  note: closed?
+- domain: 'codewdw.com'
+  evidence: https://codewdw.com/125956318.html
+  original: https://stackoverflow.com/questions/70608121
+  note: closed?
+- domain: 'jpcodeqa.com'
+  evidence: https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305
+  original: https://stackoverflow.com/questions/906455
   note: closed?
