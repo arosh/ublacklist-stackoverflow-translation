@@ -33,6 +33,7 @@
 | `www.web-dev-qa.com` | https://www.web-dev-qa.com/ja/bash/962672142/ | https://unix.stackexchange.com/questions/395742/ |  |
 | `www.web-dev-qa-db-ja.com` | https://www.web-dev-qa-db-ja.com/ja/go/816661554/ | https://stackoverflow.com/q/61900346 |  |
 | `www.it-swarm-fr.com` | https://www.it-swarm-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/ | https://stackoverflow.com/q/50435455 |  |
+| `www.web-dev-qa-db-fr.com` | https://www.web-dev-qa-db-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/ | https://stackoverflow.com/q/50435455 |  |
 | `*.codeflow.site` | https://qa.codeflow.site/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics | https://stackoverflow.com/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics | This domain is used for redirection to `codeguides.site` |
 | `codeguides.site` | https://codeguides.site/questions/ja/950037/same-ajax-called-twice-jquery | https://stackoverflow.com/q/950037 |  |
 | `overcoder.net` | https://overcoder.net/q/4014591/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C-%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0-%D0%B2-%D0%B4%D0%B2%D1%83%D1%85-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%D1%85-%D0%BF%D1%80%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8-%D1%81-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE | https://stackoverflow.com/questions/11500794/ |  |
@@ -105,22 +106,16 @@
 | `cndgn.com` | https://cndgn.com/question/superuser/599515/what-is-armtech-daemon | https://superuser.com/questions/599515/what-is-armtech-daemon |  |
 | `codersatellite.com` | https://codersatellite.com/question-with-identifier-53306819 | https://stackoverflow.com/q/53306819 |  |
 | `farath.com` | https://farath.com/should-i-keep-my-github-forked-repositories-around-forever/ | https://softwareengineering.stackexchange.com/q/61577 |  |
-| `devbugfix.com` | https://devbugfix.com/p/1389529 | https://gis.stackexchange.com/q/184482 |  |
-| `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ |  |
-| `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ |  |
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 |  |
 | `stackfinder.jp.net` | https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct |  |
-| `coder-solution-jp.com` | https://coder-solution-jp.com/solution-jp-blog/575642 | https://askubuntu.com/questions/776699 |  |
-| `jpndev.com` | https://jpndev.com/post/1128926 | https://stackoverflow.com/questions/21654830 |  |
 | `www.uebu-kaihatsu.jp.net` | https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/ | https://serverfault.com/q/809632 |  |
 | `sqlite.in` | https://sqlite.in/?qa=159286/ | https://stackoverflow.com/questions/5164930 |  |
 | `stackguides.com` | https://stackguides.com/questions/55582335 | https://stackoverflow.com/questions/55582335 |  |
 | `younggeeks.in` | https://younggeeks.in/questions/11586390 | https://stackoverflow.com/questions/70524850 |  |
-| `www.answerlib.com` | https://www.answerlib.com/ja/question/13427 | https://stackoverflow.com/questions/59914611 |  |
+| `www.answerlib.com` | https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html | https://stackoverflow.com/q/37928277 |  |
 | `edupro.id` | https://edupro.id/questions/5055780 | https://stackoverflow.com/questions/67219289 |  |
 | `python-stack.de` | https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c- | https://stackoverflow.com/questions/63315020 |  |
 | `www.stackfinder.ru` | https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name | https://stackoverflow.com/questions/60256300 |  |
-| `stackfault.net` | https://stackfault.net/t/topic/106786 | https://stackoverflow.com/questions/70608121 |  |
 | `howtofix.io` | https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181 | https://stackoverflow.com/questions/69486089 |  |
 | `www.buzzphp.com` | https://www.buzzphp.com/posts/what-is-the-alternative-for-services-addmvc-and-superjsonoutputformatter-used | https://stackoverflow.com/questions/61358234 |  |
 | `www.desenv-web-rp.com` | https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
@@ -137,7 +132,6 @@
 | `*.codefaq.info` | https://es.codefaq.info/como_arreglar_el_tipo_de_comprobacion_cuando_el_uso_de_este_de_la_tienda_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | mirrors for other languages are specified in the head tag |
 | `codefaq.ru` | https://codefaq.ru/kak_ispravit_proverku_tipov_pri_ispolzovanii_etogo_magazin_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | mirrors for other languages are specified in the head tag |
 | `*.mediatagtw.com` | https://programming.mediatagtw.com/article/Textarea+select+all | https://stackoverflow.com/questions/7313786/highlight-all-text-in-textarea | other subdomains seem to be clones or machine-generated. |
-| `alltodev.com` | https://alltodev.com/filenotfounderror-errno-2-no-such-file-or-directory | https://stackoverflow.com/questions/22282760/filenotfounderror-errno-2-no-such-file-or-directory |  |
 | `progi.pro` | https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983 | https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock |  |
 | `jike.in` | https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock | https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than |  |
 | `*.elfishgene.com` | https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW | https://stackoverflow.com/questions/58304957/ |  |
@@ -177,5 +171,12 @@
 | `answerlib.com` | https://answerlib.com/ja/question/24800/kubernetes--jq---retrieving-containers-list-per-pod-yields-cartesian-product.html | https://stackoverflow.com/questions/68193777/kubernetes-jq-retrieving-containers-list-per-pod-yields-cartesian-product | closed? |
 | `fooobar.com` | https://fooobar.com/questions/15843711/mysql-delete-records-from-a-table-based-on-query-of-another-table | https://stackoverflow.com/questions/50815670/mysql-delete-records-from-a-table-based-on-query-of-another-table | closed? |
 | `askdev.vn` | https://askdev.vn/t/lam-cach-nao-de-buoc-net-core-3-1-giai-ma-hoa-tham-so-frombody-bang-newtonsoft-thay-vi-system-text-json/122832 | https://stackoverflow.com/questions/70608121 | closed? |
+| `devbugfix.com` | https://devbugfix.com/p/1389529 | https://gis.stackexchange.com/q/184482 | closed? |
+| `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ | closed? |
+| `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ | closed? |
+| `coder-solution-jp.com` | https://coder-solution-jp.com/solution-jp-blog/575642 | https://askubuntu.com/questions/776699 | closed? |
+| `jpndev.com` | https://jpndev.com/post/1128926 | https://stackoverflow.com/questions/21654830 | closed? |
+| `stackfault.net` | https://stackfault.net/t/topic/106786 | https://stackoverflow.com/questions/70608121 | closed? |
+| `alltodev.com` | https://alltodev.com/filenotfounderror-errno-2-no-such-file-or-directory | https://stackoverflow.com/questions/22282760/filenotfounderror-errno-2-no-such-file-or-directory | closed? |
 | `reddit.fun` | https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails | https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails |  |
 | `qa.icopy.site` | https://qa.icopy.site/questions/44931728/openfiledialog-spy | https://stackoverflow.com/questions/44931728/openfiledialog-spy |  |

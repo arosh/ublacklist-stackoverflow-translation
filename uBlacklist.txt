@@ -29,6 +29,7 @@
 *://www.web-dev-qa.com/*
 *://www.web-dev-qa-db-ja.com/*
 *://www.it-swarm-fr.com/*
+*://www.web-dev-qa-db-fr.com/*
 *://*.codeflow.site/*
 *://codeguides.site/*
 *://overcoder.net/*
@@ -101,13 +102,8 @@
 *://cndgn.com/*
 *://codersatellite.com/*
 *://farath.com/*
-*://devbugfix.com/*
-*://www.generacodice.blog/*
-*://www.generacodice.it/*
 *://www.generacodice.com/*
 *://stackfinder.jp.net/*
-*://coder-solution-jp.com/*
-*://jpndev.com/*
 *://www.uebu-kaihatsu.jp.net/*
 *://sqlite.in/*
 *://stackguides.com/*
@@ -116,7 +112,6 @@
 *://edupro.id/*
 *://python-stack.de/*
 *://www.stackfinder.ru/*
-*://stackfault.net/*
 *://howtofix.io/*
 *://www.buzzphp.com/*
 *://www.desenv-web-rp.com/*
@@ -133,7 +128,6 @@
 *://*.codefaq.info/*
 *://codefaq.ru/*
 *://*.mediatagtw.com/*
-*://alltodev.com/*
 *://progi.pro/*
 *://jike.in/*
 *://*.elfishgene.com/*
@@ -173,5 +167,12 @@
 *://answerlib.com/*
 *://fooobar.com/*
 *://askdev.vn/*
+*://devbugfix.com/*
+*://www.generacodice.blog/*
+*://www.generacodice.it/*
+*://coder-solution-jp.com/*
+*://jpndev.com/*
+*://stackfault.net/*
+*://alltodev.com/*
 *://reddit.fun/*
 *://qa.icopy.site/*
