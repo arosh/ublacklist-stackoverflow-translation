@@ -1037,6 +1037,18 @@ www.google.*##.isv-r[data-ru^="https://qa.ostack.cn/"]
 www.google.*##.VFACy[href^="https://qa.ostack.cn/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://qa.ostack.cn/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://qa.ostack.cn/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://wujigu.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://wujigu.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://wujigu.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://wujigu.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://wujigu.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="wujigu.com"]
+www.ecosia.org##.result[data-url^="https://wujigu.com/"]
+startpage.com##.w-gl__result-title[href^="https://wujigu.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://wujigu.com/"]
+www.google.*##.VFACy[href^="https://wujigu.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://wujigu.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://wujigu.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://webdevdesigner.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://webdevdesigner.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://webdevdesigner.com/"]:upward(.xpdopen)

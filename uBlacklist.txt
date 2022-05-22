@@ -84,6 +84,7 @@
 *://fullstackuser.com/*
 *://ostack.cn/*
 *://qa.ostack.cn/*
+*://wujigu.com/*
 *://webdevdesigner.com/*
 *://www.ghcc.net/*
 *://*.developreference.com/*
