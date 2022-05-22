@@ -86,7 +86,8 @@
 | `www.titanwolf.org` | https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y | https://stackoverflow.com/questions/42244819 |  |
 | `coderedirect.com` | https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | redirects to `fullstackuser.com` |
 | `fullstackuser.com` | https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
-| `ostack.cn` | http://ostack.cn/?qa=580340/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
+| `ostack.cn` | https://ostack.cn/?qa=580340/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
+| `qa.ostack.cn` | https://qa.ostack.cn/qa/?qa=580340/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `webdevdesigner.com` | https://webdevdesigner.com/q/argparse-subparser-monolithic-help-output-137439/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `www.ghcc.net` | https://www.ghcc.net/en/node/2519947 | https://stackoverflow.com/questions/32581439/subparser-show-help-for-both-parser-and-subparser |  |
 | `*.developreference.com` | https://python.developreference.com/article/13679273/python+argparse+mutually_exclusive_group+and+add_argument_group+in+a+parent+processor%3f | https://stackoverflow.com/questions/46066374/python-argparse-mutually-exclusive-group-and-add-argument-group-in-a-parent-proc |  |

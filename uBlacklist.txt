@@ -83,6 +83,7 @@
 *://coderedirect.com/*
 *://fullstackuser.com/*
 *://ostack.cn/*
+*://qa.ostack.cn/*
 *://webdevdesigner.com/*
 *://www.ghcc.net/*
 *://*.developreference.com/*
