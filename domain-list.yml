@@ -324,7 +324,10 @@
   evidence: https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: 'ostack.cn'
-  evidence: http://ostack.cn/?qa=580340/
+  evidence: https://ostack.cn/?qa=580340/
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+- domain: 'qa.ostack.cn'
+  evidence: https://qa.ostack.cn/qa/?qa=580340/
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: 'webdevdesigner.com'
   evidence: https://webdevdesigner.com/q/argparse-subparser-monolithic-help-output-137439/
