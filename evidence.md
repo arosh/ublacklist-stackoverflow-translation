@@ -143,6 +143,7 @@
 | `serveanswer.com` | https://serveanswer.com/questions/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp | https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp |  |
 | `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 |  |
 | `cainiaojiaocheng.com` | https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python |  |
+| `www.linuxfixes.com` | https://www.linuxfixes.com/2022/02/solved-vs-code-remote-development.html | https://stackoverflow.com/questions/64369073/vs-code-remote-development-problem-with-ssh-connection-windows-to-linux |  |
 | `www.it-mure.jp.net` | https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/ | https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c | closed? |
 | `www.it-swarm.com.ru` | https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 | closed? |
 | `www.it-roy-ru.com` | https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 | closed? |

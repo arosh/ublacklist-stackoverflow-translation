@@ -139,6 +139,7 @@
 *://serveanswer.com/*
 *://*.safehavenpetrescue.org/*
 *://cainiaojiaocheng.com/*
+*://www.linuxfixes.com/*
 *://www.it-mure.jp.net/*
 *://www.it-swarm.com.ru/*
 *://www.it-roy-ru.com/*
