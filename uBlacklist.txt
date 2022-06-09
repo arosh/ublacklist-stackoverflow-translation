@@ -140,7 +140,6 @@
 *://*.safehavenpetrescue.org/*
 *://cainiaojiaocheng.com/*
 *://www.linuxfixes.com/*
-*://www.web-dev-qa-db-ja.com/*
 *://www.it-mure.jp.net/*
 *://www.it-swarm.com.ru/*
 *://www.it-roy-ru.com/*
