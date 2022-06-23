@@ -181,3 +181,4 @@
 *://codersatellite.com/*
 *://codewdw.com/*
 *://jpcodeqa.com/*
+*://flutterhq.com/*

@@ -185,3 +185,4 @@
 | `codersatellite.com` | https://codersatellite.com/question-with-identifier-53306819 | https://stackoverflow.com/q/53306819 | closed? |
 | `codewdw.com` | https://codewdw.com/125956318.html | https://stackoverflow.com/questions/70608121 | closed? |
 | `jpcodeqa.com` | https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305 | https://stackoverflow.com/questions/906455 | closed? |
+| `flutterhq.com` | https://flutterhq.com/questions-and-answers/2215/how-to-use-dropdownbutton-with-same-value | https://stackoverflow.com/questions/72213309 |  |

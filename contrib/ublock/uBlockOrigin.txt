@@ -2201,3 +2201,15 @@ www.google.*##.isv-r[data-ru^="https://jpcodeqa.com/"]
 www.google.*##.VFACy[href^="https://jpcodeqa.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://jpcodeqa.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://jpcodeqa.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://flutterhq.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://flutterhq.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://flutterhq.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://flutterhq.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://flutterhq.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="flutterhq.com"]
+www.ecosia.org##.result[data-url^="https://flutterhq.com/"]
+startpage.com##.w-gl__result-title[href^="https://flutterhq.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://flutterhq.com/"]
+www.google.*##.VFACy[href^="https://flutterhq.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://flutterhq.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://flutterhq.com/"]:upward(.tile--img)
