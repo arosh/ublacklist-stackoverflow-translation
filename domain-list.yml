@@ -668,3 +668,7 @@
 - domain: 'flutterhq.com'
   evidence: https://flutterhq.com/questions-and-answers/2215/how-to-use-dropdownbutton-with-same-value
   original: https://stackoverflow.com/questions/72213309
+- domain: '711web.com'
+  evidence: https://711web.com/html-css-scroll-view-on-nested-elements/
+  original: https://stackoverflow.com/questions/69451521/css-scroll-perspective-on-nested-elements
+
