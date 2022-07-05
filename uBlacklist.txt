@@ -182,3 +182,4 @@
 *://codewdw.com/*
 *://jpcodeqa.com/*
 *://flutterhq.com/*
+*://dailydevsblog.com/*
