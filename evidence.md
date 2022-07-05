@@ -186,3 +186,5 @@
 | `codewdw.com` | https://codewdw.com/125956318.html | https://stackoverflow.com/questions/70608121 | closed? |
 | `jpcodeqa.com` | https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305 | https://stackoverflow.com/questions/906455 | closed? |
 | `flutterhq.com` | https://flutterhq.com/questions-and-answers/2215/how-to-use-dropdownbutton-with-same-value | https://stackoverflow.com/questions/72213309 |  |
+| `dailydevsblog.com` | https://dailydevsblog.com/troubleshoot/resolved-conditional-aggregation-of-rows-in-polars-81513/ | https://stackoverflow.com/questions/71852514/conditional-aggregation-of-rows-in-polars |  |
+| `711web.com` | https://711web.com/html-css-scroll-view-on-nested-elements/ | https://stackoverflow.com/questions/69451521/css-scroll-perspective-on-nested-elements |  |
