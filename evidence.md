@@ -144,47 +144,8 @@
 | `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 |  |
 | `cainiaojiaocheng.com` | https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python |  |
 | `www.linuxfixes.com` | https://www.linuxfixes.com/2022/02/solved-vs-code-remote-development.html | https://stackoverflow.com/questions/64369073/vs-code-remote-development-problem-with-ssh-connection-windows-to-linux |  |
-| `www.it-mure.jp.net` | https://www.it-mure.jp.net/ja/c++/c-%E3%81%A7%E3%82%B3%E3%83%AB%E3%83%BC%E3%83%81%E3%83%B3%E3%82%92%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/958393809/ | https://stackoverflow.com/questions/121757/how-do-you-implement-coroutines-in-c | closed? |
-| `www.it-swarm.com.ru` | https://www.it-swarm.com.ru/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 | closed? |
-| `www.it-roy-ru.com` | https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 | closed? |
-| `brocante.dev` | https://brocante.dev/ja/questions/5223 | https://stackoverflow.com/questions/5223 | closed? |
-| `laravelquestions.com` | https://laravelquestions.com/2021/03/29/csrf-token-mismatch-in-iframe-the-good-fix/ | https://stackoverflow.com/questions/66850521/ | closed? |
-| `www.py4u.net` | https://www.py4u.net/discuss/777925 | https://stackoverflow.com/questions/1251491/multithreading-webbrowser-control-c-sharp-sta | closed? |
-| `issues-world.com` | https://issues-world.com/rails-3-56/ | https://stackoverflow.com/q/8552763 | closed? |
-| `article.docway.net` | http://article.docway.net/details?id=60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 | closed? |
-| `codehero.jp` | https://codehero.jp/c%23/29482/how-can-i-cast-int-to-enum | https://stackoverflow.com/questions/29482 | closed? |
-| `pretagteam.com` | https://pretagteam.com/question/download-entire-webpage-html-image-js-by-selenium-python | https://stackoverflow.com/questions/45796411/download-entire-webpage-html-image-js-by-selenium-python/45824047 | closed? |
-| `lycaeum.dev` | https://lycaeum.dev/ja/questions/29482 | https://stackoverflow.com/questions/29482 | closed? |
-| `classmethod.dev` | https://classmethod.dev/ja/questions/1414365 | https://stackoverflow.com/questions/1414365 | closed? This is not dev.classmethod.jp (DevelopersIO, produced by Classmethod, Inc.) |
-| `stormcrow.dev` | https://stormcrow.dev/ja/questions/1030169 | https://stackoverflow.com/questions/1030169/easy-way-to-pull-latest-of-all-git-submodules | closed? |
-| `christfever.in` | https://christfever.in/index.php?threads/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-included.636732/ | https://stackoverflow.com/questions/65011034/how-does-isalnum-and-isalpha-works-in-python-returning-true-when-chinese-is-i | closed? |
-| `*.coredump.biz` | https://fr.coredump.biz/questions/29256945/how-to-optimize-blob-access-with-an-user-defined-function | https://stackoverflow.com/q/29256945 | closed? |
-| `stackify.dev` | https://stackify.dev/532500-how-to-truncate-a-table-using-doctrine-2 | https://stackoverflow.com/questions/9686888/how-to-truncate-a-table-using-doctrine-2 | closed? |
-| `answerlib.com` | https://answerlib.com/ja/question/24800/kubernetes--jq---retrieving-containers-list-per-pod-yields-cartesian-product.html | https://stackoverflow.com/questions/68193777/kubernetes-jq-retrieving-containers-list-per-pod-yields-cartesian-product | closed? |
-| `fooobar.com` | https://fooobar.com/questions/15843711/mysql-delete-records-from-a-table-based-on-query-of-another-table | https://stackoverflow.com/questions/50815670/mysql-delete-records-from-a-table-based-on-query-of-another-table | closed? |
-| `askdev.vn` | https://askdev.vn/t/lam-cach-nao-de-buoc-net-core-3-1-giai-ma-hoa-tham-so-frombody-bang-newtonsoft-thay-vi-system-text-json/122832 | https://stackoverflow.com/questions/70608121 | closed? |
-| `devbugfix.com` | https://devbugfix.com/p/1389529 | https://gis.stackexchange.com/q/184482 | closed? |
-| `www.generacodice.blog` | https://www.generacodice.blog/jp/articolo/52938/ | https://stackoverflow.com/questions/814167/ | closed? |
-| `www.generacodice.it` | https://www.generacodice.it/jp/articolo/126815/ | https://stackoverflow.com/questions/199468/ | closed? |
-| `coder-solution-jp.com` | https://coder-solution-jp.com/solution-jp-blog/575642 | https://askubuntu.com/questions/776699 | closed? |
-| `jpndev.com` | https://jpndev.com/post/1128926 | https://stackoverflow.com/questions/21654830 | closed? |
-| `stackfault.net` | https://stackfault.net/t/topic/106786 | https://stackoverflow.com/questions/70608121 | closed? |
-| `alltodev.com` | https://alltodev.com/filenotfounderror-errno-2-no-such-file-or-directory | https://stackoverflow.com/questions/22282760/filenotfounderror-errno-2-no-such-file-or-directory | closed? |
-| `www.buzzphp.com` | https://www.buzzphp.com/posts/what-is-the-alternative-for-services-addmvc-and-superjsonoutputformatter-used | https://stackoverflow.com/questions/61358234 | closed? |
-| `quares.ru` | https://quares.ru/?id=117892 | https://stackoverflow.com/questions/59914611 | closed? |
-| `ibootweb.com` | https://ibootweb.com/questions/12118832/comment-changer-la-cle-dinterface-valeur-chaine-en-cle-chaine-chaine | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | closed? |
-| `howtofix.io` | https://howtofix.io/override-newtonsoftjson-serialization-in-aspnet-core-to-make-the-typenamehandling-to-be-auto-only-for-objects-and-not-arrays-id1220181 | https://stackoverflow.com/questions/69486089 | closed? |
-| `www.examplefiles.net` | https://www.examplefiles.net/cs/552928 | https://stackoverflow.com/questions/60123613 | closed? |
-| `www.web-dev-qa.com` | https://www.web-dev-qa.com/ja/bash/962672142/ | https://unix.stackexchange.com/questions/395742/ | closed? |
-| `exceptionshub.com` | https://exceptionshub.com/javascript-best-practices-of-timeout-after-ajax-call.html | https://stackoverflow.com/questions/60317039/best-practices-of-timeout-after-ajax-call | closed? |
-| `easysavecode.com` | https://easysavecode.com/Y60j5UmF | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | closed? |
-| `python-stack.de` | https://python-stack.de/questions/63315020/attribut-jsonproperty-f%C3%BCr-umbenennen-eigenschaft-der-dto-klasse-in-c- | https://stackoverflow.com/questions/63315020 | closed? |
-| `xiu2.net` | https://xiu2.net/it/details/60f1fe5d3a6f2400a6385bc7 | https://stackoverflow.com/q/7106679 | closed? |
-| `pythonwd.com` | https://pythonwd.com/290431426.html | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up | closed? |
-| `stackqna.com` | https://stackqna.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc | https://stackoverflow.com/questions/17537167/stddeclval-firing-assertion-error-with-warnings-in-gcc | closed? |
-| `codersatellite.com` | https://codersatellite.com/question-with-identifier-53306819 | https://stackoverflow.com/q/53306819 | closed? |
-| `codewdw.com` | https://codewdw.com/125956318.html | https://stackoverflow.com/questions/70608121 | closed? |
-| `jpcodeqa.com` | https://jpcodeqa.com/q/668e49df85fc62cb33205735b7864305 | https://stackoverflow.com/questions/906455 | closed? |
+| `www.it-roy-ru.com` | https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 |  |
+| `www.web-dev-qa.com` | https://www.web-dev-qa.com/ja/bash/962672142/ | https://unix.stackexchange.com/questions/395742/ |  |
 | `flutterhq.com` | https://flutterhq.com/questions-and-answers/2215/how-to-use-dropdownbutton-with-same-value | https://stackoverflow.com/questions/72213309 |  |
 | `dailydevsblog.com` | https://dailydevsblog.com/troubleshoot/resolved-conditional-aggregation-of-rows-in-polars-81513/ | https://stackoverflow.com/questions/71852514/conditional-aggregation-of-rows-in-polars |  |
 | `711web.com` | https://711web.com/html-css-scroll-view-on-nested-elements/ | https://stackoverflow.com/questions/69451521/css-scroll-perspective-on-nested-elements |  |
