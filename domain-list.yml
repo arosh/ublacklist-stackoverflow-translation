@@ -671,3 +671,6 @@
 - domain: 'dailydevsblog.com'
   evidence: https://dailydevsblog.com/troubleshoot/resolved-conditional-aggregation-of-rows-in-polars-81513/
   original: https://stackoverflow.com/questions/71852514/conditional-aggregation-of-rows-in-polars
+- domain: '711web.com'
+  evidence: https://711web.com/html-css-scroll-view-on-nested-elements/
+  original: https://stackoverflow.com/questions/69451521/css-scroll-perspective-on-nested-elements
