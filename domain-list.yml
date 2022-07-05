@@ -674,3 +674,6 @@
 - domain: '711web.com'
   evidence: https://711web.com/html-css-scroll-view-on-nested-elements/
   original: https://stackoverflow.com/questions/69451521/css-scroll-perspective-on-nested-elements
+- domain: 'www.binarydevelop.com'
+  evidence: https://www.binarydevelop.com/article/id-75271
+  original: https://stackoverflow.com/questions/6118922
