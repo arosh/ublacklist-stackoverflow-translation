@@ -668,3 +668,6 @@
 - domain: 'flutterhq.com'
   evidence: https://flutterhq.com/questions-and-answers/2215/how-to-use-dropdownbutton-with-same-value
   original: https://stackoverflow.com/questions/72213309
+- domain: 'www.binarydevelop.com'
+  evidence: https://www.binarydevelop.com/article/id-75271
+  original: https://stackoverflow.com/questions/6118922
