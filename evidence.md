@@ -188,3 +188,4 @@
 | `flutterhq.com` | https://flutterhq.com/questions-and-answers/2215/how-to-use-dropdownbutton-with-same-value | https://stackoverflow.com/questions/72213309 |  |
 | `dailydevsblog.com` | https://dailydevsblog.com/troubleshoot/resolved-conditional-aggregation-of-rows-in-polars-81513/ | https://stackoverflow.com/questions/71852514/conditional-aggregation-of-rows-in-polars |  |
 | `711web.com` | https://711web.com/html-css-scroll-view-on-nested-elements/ | https://stackoverflow.com/questions/69451521/css-scroll-perspective-on-nested-elements |  |
+| `www.binarydevelop.com` | https://www.binarydevelop.com/article/id-75271 | https://stackoverflow.com/questions/6118922 |  |

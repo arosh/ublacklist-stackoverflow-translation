@@ -184,3 +184,4 @@
 *://flutterhq.com/*
 *://dailydevsblog.com/*
 *://711web.com/*
+*://www.binarydevelop.com/*
