@@ -183,3 +183,4 @@
 *://jpcodeqa.com/*
 *://flutterhq.com/*
 *://dailydevsblog.com/*
+*://711web.com/*
