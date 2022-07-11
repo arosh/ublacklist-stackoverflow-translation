@@ -576,3 +576,6 @@
 - domain: 'doraprojects.net'
   evidence: https://doraprojects.net/questions/11485271/google-oauth-2-authorization-error-redirect-uri-mismatch
   original: https://stackoverflow.com/questions/11485271
+- domain: '*.iteramos.com'
+  evidence: https://www.iteramos.com/pregunta/14081/autorizacion-de-google-oauth-2---error-redirect_uri_mismatch
+  original: https://stackoverflow.com/questions/11485271
