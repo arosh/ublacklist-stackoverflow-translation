@@ -582,3 +582,6 @@
 - domain: 'www.faqcodes.com'
   evidence: https://www.faqcodes.com/faq/89709/getting-error-redirect-uri-mismatch-with-google-oauth2
   original: https://stackoverflow.com/questions/13204474
+- domain: 'www.mejorcodigo.com'
+  evidence: https://www.mejorcodigo.com/p/10912.html
+  original: https://stackoverflow.com/questions/54333951
