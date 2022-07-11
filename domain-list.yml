@@ -642,4 +642,6 @@
 - domain: '*.web-dev-qa-db-fra.com'
   evidence: https://www.web-dev-qa-db-fra.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
   original: https://stackoverflow.com/q/50435455
-  
+- domain: '*.ape-ask.com'
+  evidence: https://www.ape-ask.com/read-59837.html
+  original: https://stackoverflow.com/questions/27573272/
