@@ -615,3 +615,6 @@
 - domain: '*.jonic.cn'
   evidence: https://qa.jonic.cn/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
+- domain: '*.jike.in'
+  evidence: https://qa.jike.in/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
