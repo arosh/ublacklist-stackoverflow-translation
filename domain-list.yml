@@ -594,3 +594,6 @@
 - domain: 'www.javafixing.com'
   evidence: https://www.javafixing.com/2021/12/fixed-commentthreads-insert-gives-403.html
   original: https://stackoverflow.com/questions/50828577
+- domain: 'xstack.us'
+  evidence: http://xstack.us/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
