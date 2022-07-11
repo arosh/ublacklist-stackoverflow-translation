@@ -561,3 +561,6 @@
 - domain: 'ajaxhispano.com'
   evidence: https://ajaxhispano.com/ask/google-oauth-2-authorization-error-redirect-uri-mismatch-10280/
   original: https://stackoverflow.com/questions/11485271
+- domain: 'www.codebaoku.com'
+  evidence: http://www.codebaoku.com/question/question-cd-226679.html
+  original: https://stackoverflow.com/questions/11485271
