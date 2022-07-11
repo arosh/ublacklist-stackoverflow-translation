@@ -528,3 +528,7 @@
 - domain: 'peaku.co'
   evidence: https://peaku.co/questions/8041-how-to-deploy-nextjs-with-nginx
   original: https://stackoverflow.com/questions/64386737
+- domain: 'www.learnfk.com'
+  evidence: https://www.learnfk.com/question/asp.net/71420434.html
+  original: https://stackoverflow.com/questions/71420434
+
