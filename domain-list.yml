@@ -570,4 +570,6 @@
 - domain: 'questu.ru'
   evidence: https://questu.ru/questions/64261995/
   original: https://stackoverflow.com/questions/64261995
-
+- domain: 'www.itranslater.com'
+  evidence: https://www.itranslater.com/qa/details/2122157584474964992
+  original: https://stackoverflow.com/questions/11485271
