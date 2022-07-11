@@ -627,3 +627,6 @@
 - domain: '*.55276.net'
   evidence: https://qa.55276.net/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
+- domain: '*.ogeek.cn'
+  evidence: https://qa.ogeek.cn/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
