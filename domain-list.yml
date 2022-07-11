@@ -555,3 +555,6 @@
 - domain: '*.dovov.com'
   evidence: https://csharp.dovov.com/65407/nhibernate-coalesce%e9%97%ae%e9%a2%98.html
   original: https://stackoverflow.com/questions/26364036
+- domain: 'oomake.com'
+  evidence: https://oomake.com/question/1251424
+  original: https://stackoverflow.com/questions/5102436
