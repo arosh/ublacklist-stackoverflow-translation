@@ -323,10 +323,7 @@
 - domain: 'fullstackuser.com'
   evidence: https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'ostack.cn'
-  evidence: https://ostack.cn/?qa=580340/
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'qa.ostack.cn'
+- domain: '*.ostack.cn'
   evidence: https://qa.ostack.cn/qa/?qa=580340/
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: '*.wujigu.com'
