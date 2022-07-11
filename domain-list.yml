@@ -414,9 +414,6 @@
 - domain: 'progi.pro'
   evidence: https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983
   original: https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock
-- domain: 'jike.in'
-  evidence: https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock
-  original: https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than
 - domain: '*.elfishgene.com'
   evidence: https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW
   original: https://stackoverflow.com/questions/58304957/
@@ -585,9 +582,6 @@
 - domain: 'www.anycodings.com'
   evidence: https://www.anycodings.com/questions/google-oauth-20-api-authentication-error-error-400-redirecturimismatch-does-not-comply-with-policy-django-app
   original: https://stackoverflow.com/questions/68764885
-- domain: 'jonic.cn'
-  evidence: https://jonic.cn/qa/?qa=1159840/c%23-googlewebauthorizationbroker-is-not-working-from-iis-host
-  original: https://stackoverflow.com/questions/42835914
 - domain: 'www.javafixing.com'
   evidence: https://www.javafixing.com/2021/12/fixed-commentthreads-insert-gives-403.html
   original: https://stackoverflow.com/questions/50828577
@@ -603,7 +597,7 @@
 - domain: '*.zaizhele.cn'
   evidence: https://qa.zaizhele.cn/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
-- domain: '*.zainale.net'
+- domain: '*.zaizhele.net'
   evidence: https://qa.zaizhele.net/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
 - domain: '*.xstack.ru'
@@ -644,7 +638,4 @@
   original: https://stackoverflow.com/questions/56516894/
 - domain: '*.vigge.cn'
   evidence: https://qa.vigge.cn/qa/?qa=637288/
-  original: https://stackoverflow.com/questions/56516894/
-- domain: '*.zaizhele.net'
-  evidence: https://qa.zaizhele.net/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
