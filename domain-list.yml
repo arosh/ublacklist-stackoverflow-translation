@@ -567,3 +567,7 @@
 - domain: 'daplus.net'
   evidence: http://daplus.net/authentication-google-oauth-2-%EC%9D%B8%EC%A6%9D-%EC%98%A4%EB%A5%98-redirect_uri_mismatch/
   original: https://stackoverflow.com/questions/11485271
+- domain: 'questu.ru'
+  evidence: https://questu.ru/questions/64261995/
+  original: https://stackoverflow.com/questions/64261995
+
