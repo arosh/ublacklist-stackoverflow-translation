@@ -579,3 +579,6 @@
 - domain: '*.iteramos.com'
   evidence: https://www.iteramos.com/pregunta/14081/autorizacion-de-google-oauth-2---error-redirect_uri_mismatch
   original: https://stackoverflow.com/questions/11485271
+- domain: 'www.faqcodes.com'
+  evidence: https://www.faqcodes.com/faq/89709/getting-error-redirect-uri-mismatch-with-google-oauth2
+  original: https://stackoverflow.com/questions/13204474
