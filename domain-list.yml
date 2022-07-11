@@ -329,7 +329,7 @@
 - domain: 'qa.ostack.cn'
   evidence: https://qa.ostack.cn/qa/?qa=580340/
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'wujigu.com'
+- domain: '*.wujigu.com'
   evidence: https://wujigu.com/qa/?qa=580340/python-argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: 'webdevdesigner.com'
