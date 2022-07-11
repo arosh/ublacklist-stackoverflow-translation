@@ -525,3 +525,6 @@
 - domain: 'coder-solution-es.com'
   evidence: https://coder-solution-es.com/solution-es-blog/1347524
   original: https://stackoverflow.com/questions/13203518
+- domain: 'peaku.co'
+  evidence: https://peaku.co/questions/8041-how-to-deploy-nextjs-with-nginx
+  original: https://stackoverflow.com/questions/64386737
