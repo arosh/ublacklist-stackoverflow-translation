@@ -591,3 +591,6 @@
 - domain: 'jonic.cn'
   evidence: https://jonic.cn/qa/?qa=1159840/c%23-googlewebauthorizationbroker-is-not-working-from-iis-host
   original: https://stackoverflow.com/questions/42835914
+- domain: 'www.javafixing.com'
+  evidence: https://www.javafixing.com/2021/12/fixed-commentthreads-insert-gives-403.html
+  original: https://stackoverflow.com/questions/50828577
