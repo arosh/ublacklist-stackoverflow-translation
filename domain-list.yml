@@ -306,8 +306,8 @@
 - domain: 'routinepanic.com'
   evidence: https://routinepanic.com/questions/how-to-get-the-home-directory-in-python
   original: https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python
-- domain: 'tousu.in'
-  evidence: https://tousu.in/qa/?qa=506161/
+- domain: '*.tousu.in'
+  evidence: https://qa.tousu.in/qa/?qa=506161/
   original: https://stackoverflow.com/questions/31189754/get-field-names-list-from-case-class
 - domain: 'tutorialmore.com'
   evidence: https://tutorialmore.com/questions-838617.htm
