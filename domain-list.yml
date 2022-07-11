@@ -537,4 +537,6 @@
 - domain: 'www.edureka.co'
   evidence: https://www.edureka.co/community/185077/sql-group-by-with-an-order-by
   original: https://stackoverflow.com/questions/27983
-
+- domain: 'itecnote.com'
+  evidence: https://itecnote.com/tecnote/python-split-rows-in-pandas-dataframe/
+  original: https://stackoverflow.com/questions/58523316
