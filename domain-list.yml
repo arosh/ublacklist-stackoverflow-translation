@@ -426,9 +426,9 @@
 - domain: 'sysadminde.com'
   evidence: https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs
   original: https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs
-- domain: 'answacode.com'
-  evidence: https://answacode.com/questions/9620198/kak-poluchit-razmery-tablic-bazy-dannyh-mysql
-  original: https://stackoverflow.com/q/9620198
+- domain: '*.answacode.com'
+  evidence: https://pt.answacode.com/stackoverflow/13221978/obtendo-erro-redirecturimismatch-o-redirecionamento-uri-no-pedido-httplocalhost8
+  original: https://stackoverflow.com/questions/13221978
 - domain: 'ask-dev.ru'
   evidence: https://ask-dev.ru/info/12969289/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
   original: https://stackoverflow.com/questions/41223963/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
