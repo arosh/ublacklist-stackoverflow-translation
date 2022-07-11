@@ -543,4 +543,6 @@
 - domain: 'tagsqa.com'
   evidence: https://tagsqa.com/detail/46740
   original: https://stackoverflow.com/questions/3306627
-
+- domain: 'www.faqcode4u.com'
+  evidence: https://www.faqcode4u.com/faq/206052/use-switch-case-in-mvc-view
+  original: https://stackoverflow.com/questions/21187981
