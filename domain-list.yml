@@ -633,3 +633,7 @@
 - domain: '*.shenzhenjia.net'
   evidence: https://www.shenzhenjia.net/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
+- domain: '*.shenzhenjia.cn'
+  evidence: https://qa.shenzhenjia.cn/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+
