@@ -642,3 +642,6 @@
 - domain: '*.vigge.net'
   evidence: https://qa.vigge.net/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
+- domain: '*.vigge.cn'
+  evidence: https://qa.vigge.cn/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
