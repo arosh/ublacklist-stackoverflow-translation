@@ -329,9 +329,9 @@
 - domain: 'qa.ostack.cn'
   evidence: https://qa.ostack.cn/qa/?qa=580340/
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'wujigu.com'
-  evidence: https://wujigu.com/qa/?qa=580340/python-argparse-subparser-monolithic-help-output
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+- domain: '*.wujigu.com'
+  evidence: https://qa.wujigu.com/qa/?qa=1160352
+  original: https://stackoverflow.com/questions/43179984
 - domain: 'webdevdesigner.com'
   evidence: https://webdevdesigner.com/q/argparse-subparser-monolithic-help-output-137439/
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
@@ -426,9 +426,9 @@
 - domain: 'sysadminde.com'
   evidence: https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs
   original: https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs
-- domain: 'answacode.com'
-  evidence: https://answacode.com/questions/9620198/kak-poluchit-razmery-tablic-bazy-dannyh-mysql
-  original: https://stackoverflow.com/q/9620198
+- domain: '*.answacode.com'
+  evidence: https://pt.answacode.com/stackoverflow/13221978/obtendo-erro-redirecturimismatch-o-redirecionamento-uri-no-pedido-httplocalhost8
+  original: https://stackoverflow.com/questions/13221978
 - domain: 'ask-dev.ru'
   evidence: https://ask-dev.ru/info/12969289/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
   original: https://stackoverflow.com/questions/41223963/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
@@ -519,3 +519,75 @@
 - domain: 'www.binarydevelop.com'
   evidence: https://www.binarydevelop.com/article/id-75271
   original: https://stackoverflow.com/questions/6118922
+- domain: 'so.muouseo.com'
+  evidence: https://so.muouseo.com/qa/qnw6rlv4p6ok.html
+  original: https://stackoverflow.com/questions/68537601
+- domain: 'coder-solution-es.com'
+  evidence: https://coder-solution-es.com/solution-es-blog/1347524
+  original: https://stackoverflow.com/questions/13203518
+- domain: 'peaku.co'
+  evidence: https://peaku.co/questions/8041-how-to-deploy-nextjs-with-nginx
+  original: https://stackoverflow.com/questions/64386737
+- domain: 'www.learnfk.com'
+  evidence: https://www.learnfk.com/question/asp.net/71420434.html
+  original: https://stackoverflow.com/questions/71420434
+- domain: 'solveforum.com'
+  evidence: https://solveforum.com/forums/threads/solved-authorization-error-error-400-redirect_uri_mismatch-on-c.650652/
+  original: https://stackoverflow.com/questions/71420434
+- domain: 'www.edureka.co'
+  evidence: https://www.edureka.co/community/185077/sql-group-by-with-an-order-by
+  original: https://stackoverflow.com/questions/27983
+- domain: 'itecnote.com'
+  evidence: https://itecnote.com/tecnote/python-split-rows-in-pandas-dataframe/
+  original: https://stackoverflow.com/questions/58523316
+- domain: 'tagsqa.com'
+  evidence: https://tagsqa.com/detail/46740
+  original: https://stackoverflow.com/questions/3306627
+- domain: 'www.faqcode4u.com'
+  evidence: https://www.faqcode4u.com/faq/206052/use-switch-case-in-mvc-view
+  original: https://stackoverflow.com/questions/21187981
+- domain: 'digitrain.ru'
+  evidence: https://digitrain.ru/questions/60314547/
+  original: https://stackoverflow.com/questions/60314547
+- domain: 'prograide.com'
+  evidence: https://prograide.com/pregunta/5898/autorisation-google-oauth-2---erreur--redirect_uri_mismatch
+  original: https://stackoverflow.com/questions/11485271
+- domain: '*.dovov.com'
+  evidence: https://csharp.dovov.com/65407/nhibernate-coalesce%e9%97%ae%e9%a2%98.html
+  original: https://stackoverflow.com/questions/26364036
+- domain: 'oomake.com'
+  evidence: https://oomake.com/question/1251424
+  original: https://stackoverflow.com/questions/5102436
+- domain: 'ajaxhispano.com'
+  evidence: https://ajaxhispano.com/ask/google-oauth-2-authorization-error-redirect-uri-mismatch-10280/
+  original: https://stackoverflow.com/questions/11485271
+- domain: 'www.codebaoku.com'
+  evidence: http://www.codebaoku.com/question/question-cd-226679.html
+  original: https://stackoverflow.com/questions/11485271
+- domain: 'daplus.net'
+  evidence: http://daplus.net/authentication-google-oauth-2-%EC%9D%B8%EC%A6%9D-%EC%98%A4%EB%A5%98-redirect_uri_mismatch/
+  original: https://stackoverflow.com/questions/11485271
+- domain: 'questu.ru'
+  evidence: https://questu.ru/questions/64261995/
+  original: https://stackoverflow.com/questions/64261995
+- domain: 'www.itranslater.com'
+  evidence: https://www.itranslater.com/qa/details/2122157584474964992
+  original: https://stackoverflow.com/questions/11485271
+- domain: 'doraprojects.net'
+  evidence: https://doraprojects.net/questions/11485271/google-oauth-2-authorization-error-redirect-uri-mismatch
+  original: https://stackoverflow.com/questions/11485271
+- domain: '*.iteramos.com'
+  evidence: https://www.iteramos.com/pregunta/14081/autorizacion-de-google-oauth-2---error-redirect_uri_mismatch
+  original: https://stackoverflow.com/questions/11485271
+- domain: 'www.faqcodes.com'
+  evidence: https://www.faqcodes.com/faq/89709/getting-error-redirect-uri-mismatch-with-google-oauth2
+  original: https://stackoverflow.com/questions/13204474
+- domain: 'www.mejorcodigo.com'
+  evidence: https://www.mejorcodigo.com/p/10912.html
+  original: https://stackoverflow.com/questions/54333951
+- domain: 'www.anycodings.com'
+  evidence: https://www.anycodings.com/questions/google-oauth-20-api-authentication-error-error-400-redirecturimismatch-does-not-comply-with-policy-django-app
+  original: https://stackoverflow.com/questions/68764885
+- domain: 'jonic.cn'
+  evidence: https://jonic.cn/qa/?qa=1159840/c%23-googlewebauthorizationbroker-is-not-working-from-iis-host
+  original: https://stackoverflow.com/questions/42835914
