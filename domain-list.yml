@@ -600,3 +600,6 @@
 - domain: '*.overstack.in'
   evidence: http://qa.overstack.in/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
+- domain: '*.zaizhele.cn'
+  evidence: https://qa.zaizhele.cn/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
