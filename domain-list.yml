@@ -540,3 +540,7 @@
 - domain: 'itecnote.com'
   evidence: https://itecnote.com/tecnote/python-split-rows-in-pandas-dataframe/
   original: https://stackoverflow.com/questions/58523316
+- domain: 'tagsqa.com'
+  evidence: https://tagsqa.com/detail/46740
+  original: https://stackoverflow.com/questions/3306627
+
