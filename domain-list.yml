@@ -552,3 +552,6 @@
 - domain: 'prograide.com'
   evidence: https://prograide.com/pregunta/5898/autorisation-google-oauth-2---erreur--redirect_uri_mismatch
   original: https://stackoverflow.com/questions/11485271
+- domain: '*.dovov.com'
+  evidence: https://csharp.dovov.com/65407/nhibernate-coalesce%e9%97%ae%e9%a2%98.html
+  original: https://stackoverflow.com/questions/26364036
