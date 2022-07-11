@@ -645,3 +645,6 @@
 - domain: '*.vigge.cn'
   evidence: https://qa.vigge.cn/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
+- domain: '*.zaizhele.net'
+  evidence: https://qa.zaizhele.net/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
