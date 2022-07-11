@@ -531,4 +531,6 @@
 - domain: 'www.learnfk.com'
   evidence: https://www.learnfk.com/question/asp.net/71420434.html
   original: https://stackoverflow.com/questions/71420434
-
+- domain: 'solveforum.com'
+  evidence: https://solveforum.com/forums/threads/solved-authorization-error-error-400-redirect_uri_mismatch-on-c.650652/
+  original: https://stackoverflow.com/questions/71420434
