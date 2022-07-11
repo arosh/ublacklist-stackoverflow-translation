@@ -612,3 +612,6 @@
 - domain: '*.mlink.in'
   evidence: https://qa.mlink.in/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
+- domain: '*.jonic.cn'
+  evidence: https://qa.jonic.cn/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
