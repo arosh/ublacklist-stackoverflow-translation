@@ -534,3 +534,7 @@
 - domain: 'solveforum.com'
   evidence: https://solveforum.com/forums/threads/solved-authorization-error-error-400-redirect_uri_mismatch-on-c.650652/
   original: https://stackoverflow.com/questions/71420434
+- domain: 'www.edureka.co'
+  evidence: https://www.edureka.co/community/185077/sql-group-by-with-an-order-by
+  original: https://stackoverflow.com/questions/27983
+
