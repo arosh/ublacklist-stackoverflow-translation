@@ -558,3 +558,6 @@
 - domain: 'oomake.com'
   evidence: https://oomake.com/question/1251424
   original: https://stackoverflow.com/questions/5102436
+- domain: 'ajaxhispano.com'
+  evidence: https://ajaxhispano.com/ask/google-oauth-2-authorization-error-redirect-uri-mismatch-10280/
+  original: https://stackoverflow.com/questions/11485271
