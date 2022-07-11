@@ -519,3 +519,6 @@
 - domain: 'www.binarydevelop.com'
   evidence: https://www.binarydevelop.com/article/id-75271
   original: https://stackoverflow.com/questions/6118922
+- domain: 'so.muouseo.com'
+  evidence: https://so.muouseo.com/qa/qnw6rlv4p6ok.html
+  original: https://stackoverflow.com/questions/68537601
