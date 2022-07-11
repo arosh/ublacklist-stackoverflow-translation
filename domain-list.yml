@@ -624,3 +624,6 @@
 - domain: '*.vigges.net'
   evidence: https://qa.vigges.net/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
+- domain: '*.55276.net'
+  evidence: https://qa.55276.net/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
