@@ -546,3 +546,6 @@
 - domain: 'www.faqcode4u.com'
   evidence: https://www.faqcode4u.com/faq/206052/use-switch-case-in-mvc-view
   original: https://stackoverflow.com/questions/21187981
+- domain: 'digitrain.ru'
+  evidence: https://digitrain.ru/questions/60314547/
+  original: https://stackoverflow.com/questions/60314547
