@@ -636,4 +636,6 @@
 - domain: '*.shenzhenjia.cn'
   evidence: https://qa.shenzhenjia.cn/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
-
+- domain: '*.9ishenzhen.com'
+  evidence: https://qa.9ishenzhen.com/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
