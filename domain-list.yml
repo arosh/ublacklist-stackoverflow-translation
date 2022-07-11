@@ -522,3 +522,6 @@
 - domain: 'so.muouseo.com'
   evidence: https://so.muouseo.com/qa/qnw6rlv4p6ok.html
   original: https://stackoverflow.com/questions/68537601
+- domain: 'coder-solution-es.com'
+  evidence: https://coder-solution-es.com/solution-es-blog/1347524
+  original: https://stackoverflow.com/questions/13203518
