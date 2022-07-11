@@ -606,7 +606,7 @@
 - domain: '*.zainale.net'
   evidence: https://qa.zaizhele.net/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
-- domain: '*.zainale.ru'
+- domain: '*.xstack.ru'
   evidence: https://qa.xstack.ru/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
 - domain: '*.mlink.in'
