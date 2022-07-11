@@ -330,8 +330,8 @@
   evidence: https://qa.ostack.cn/qa/?qa=580340/
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: '*.wujigu.com'
-  evidence: https://wujigu.com/qa/?qa=580340/python-argparse-subparser-monolithic-help-output
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+  evidence: https://qa.wujigu.com/qa/?qa=1160352
+  original: https://stackoverflow.com/questions/43179984
 - domain: 'webdevdesigner.com'
   evidence: https://webdevdesigner.com/q/argparse-subparser-monolithic-help-output-137439/
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
