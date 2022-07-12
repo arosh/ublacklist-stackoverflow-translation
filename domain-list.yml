@@ -591,3 +591,6 @@
 - domain: 'jonic.cn'
   evidence: https://jonic.cn/qa/?qa=1159840/c%23-googlewebauthorizationbroker-is-not-working-from-iis-host
   original: https://stackoverflow.com/questions/42835914
+- domain: 'techhelpnotes.com'
+  evidence: https://techhelpnotes.com/postgresql-how-to-manage-postgres-enum-type-in-django/
+  original: https://stackoverflow.com/questions/67819553/how-to-manage-postgres-enum-type-in-django
