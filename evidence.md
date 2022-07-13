@@ -81,27 +81,26 @@
 | `newbedev.com` | https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation | https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation |  |
 | `www.codenong.com` | https://www.codenong.com/8188108/ | https://stackoverflow.com/q/8188108 |  |
 | `routinepanic.com` | https://routinepanic.com/questions/how-to-get-the-home-directory-in-python | https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python |  |
-| `tousu.in` | https://tousu.in/qa/?qa=506161/ | https://stackoverflow.com/questions/31189754/get-field-names-list-from-case-class |  |
+| `*.tousu.in` | https://qa.tousu.in/qa/?qa=506161/ | https://stackoverflow.com/questions/31189754/get-field-names-list-from-case-class |  |
 | `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ |  |
 | `www.titanwolf.org` | https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y | https://stackoverflow.com/questions/42244819 |  |
 | `coderedirect.com` | https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | redirects to `fullstackuser.com` |
 | `fullstackuser.com` | https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
-| `ostack.cn` | https://ostack.cn/?qa=580340/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
-| `qa.ostack.cn` | https://qa.ostack.cn/qa/?qa=580340/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
+| `*.ostack.cn` | https://qa.ostack.cn/qa/?qa=580340/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `*.wujigu.com` | https://qa.wujigu.com/qa/?qa=1160352 | https://stackoverflow.com/questions/43179984 |  |
 | `webdevdesigner.com` | https://webdevdesigner.com/q/argparse-subparser-monolithic-help-output-137439/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `www.ghcc.net` | https://www.ghcc.net/en/node/2519947 | https://stackoverflow.com/questions/32581439/subparser-show-help-for-both-parser-and-subparser |  |
 | `*.developreference.com` | https://python.developreference.com/article/13679273/python+argparse+mutually_exclusive_group+and+add_argument_group+in+a+parent+processor%3f | https://stackoverflow.com/questions/46066374/python-argparse-mutually-exclusive-group-and-add-argument-group-in-a-parent-proc |  |
 | `www.semicolonworld.com` | https://www.semicolonworld.com/question/57502/python-decompressing-gzip-chunk-by-chunk | https://stackoverflow.com/questions/2423866/python-decompressing-gzip-chunk-by-chunk |  |
 | `tipsfordev.com` | https://tipsfordev.com/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
-| `www.qi-u.com` | https://www.qi-u.com/?qa=580340/python-argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
+| `*.qi-u.com` | https://www.qi-u.com/?qa=580340/python-argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `www.xsprogram.com` | https://www.xsprogram.com/content/problems-with-scanf.html | https://stackoverflow.com/questions/20139415/problems-with-scanf |  |
 | `stackoom.com` | https://stackoom.com/en/question/2NpRm | https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae |  |
 | `cndgn.com` | https://cndgn.com/question/superuser/599515/what-is-armtech-daemon | https://superuser.com/questions/599515/what-is-armtech-daemon |  |
 | `www.generacodice.com` | https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api | https://stackoverflow.com/questions/1439719 |  |
 | `stackfinder.jp.net` | https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct |  |
 | `www.uebu-kaihatsu.jp.net` | https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/ | https://serverfault.com/q/809632 |  |
-| `sqlite.in` | https://sqlite.in/?qa=159286/ | https://stackoverflow.com/questions/5164930 |  |
+| `*.sqlite.in` | https://qa.sqlite.in/?qa=159286/ | https://stackoverflow.com/questions/5164930 |  |
 | `stackguides.com` | https://stackguides.com/questions/55582335 | https://stackoverflow.com/questions/55582335 |  |
 | `younggeeks.in` | https://younggeeks.in/questions/11586390 | https://stackoverflow.com/questions/70524850 |  |
 | `www.answerlib.com` | https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html | https://stackoverflow.com/q/37928277 |  |
@@ -116,7 +115,6 @@
 | `codefaq.ru` | https://codefaq.ru/kak_ispravit_proverku_tipov_pri_ispolzovanii_etogo_magazin_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | mirrors for other languages are specified in the head tag |
 | `*.mediatagtw.com` | https://programming.mediatagtw.com/article/Textarea+select+all | https://stackoverflow.com/questions/7313786/highlight-all-text-in-textarea | other subdomains seem to be clones or machine-generated. |
 | `progi.pro` | https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983 | https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock |  |
-| `jike.in` | https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock | https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than |  |
 | `*.elfishgene.com` | https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW | https://stackoverflow.com/questions/58304957/ |  |
 | `sysadminde.com` | https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs | https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs |  |
 | `*.answacode.com` | https://pt.answacode.com/stackoverflow/13221978/obtendo-erro-redirecturimismatch-o-redirecionamento-uri-no-pedido-httplocalhost8 | https://stackoverflow.com/questions/13221978 |  |
@@ -173,4 +171,25 @@
 | `www.faqcodes.com` | https://www.faqcodes.com/faq/89709/getting-error-redirect-uri-mismatch-with-google-oauth2 | https://stackoverflow.com/questions/13204474 |  |
 | `www.mejorcodigo.com` | https://www.mejorcodigo.com/p/10912.html | https://stackoverflow.com/questions/54333951 |  |
 | `www.anycodings.com` | https://www.anycodings.com/questions/google-oauth-20-api-authentication-error-error-400-redirecturimismatch-does-not-comply-with-policy-django-app | https://stackoverflow.com/questions/68764885 |  |
-| `jonic.cn` | https://jonic.cn/qa/?qa=1159840/c%23-googlewebauthorizationbroker-is-not-working-from-iis-host | https://stackoverflow.com/questions/42835914 |  |
+| `www.javafixing.com` | https://www.javafixing.com/2021/12/fixed-commentthreads-insert-gives-403.html | https://stackoverflow.com/questions/50828577 |  |
+| `xstack.us` | http://xstack.us/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `shenghuobao.net` | http://shenghuobao.net/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.overstack.in` | http://qa.overstack.in/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.zaizhele.cn` | https://qa.zaizhele.cn/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.zaizhele.net` | https://qa.zaizhele.net/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.xstack.ru` | https://qa.xstack.ru/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.mlink.in` | https://qa.mlink.in/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.jonic.cn` | https://qa.jonic.cn/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.jike.in` | https://qa.jike.in/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.16892.net` | https://qa.16892.net/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.vigges.net` | https://qa.vigges.net/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.55276.net` | https://qa.55276.net/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.ogeek.cn` | https://qa.ogeek.cn/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.shenzhenjia.net` | https://www.shenzhenjia.net/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.shenzhenjia.cn` | https://qa.shenzhenjia.cn/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.9ishenzhen.com` | https://qa.9ishenzhen.com/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.vigge.net` | https://qa.vigge.net/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.vigge.cn` | https://qa.vigge.cn/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
+| `*.web-dev-qa-db-fra.com` | https://www.web-dev-qa-db-fra.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/ | https://stackoverflow.com/q/50435455 |  |
+| `*.ape-ask.com` | https://www.ape-ask.com/read-59837.html | https://stackoverflow.com/questions/27573272/ |  |
+| `yaoply.com` | https://yaoply.com/items/decrypt-rijndael-128-string-with-php-openssl-return-empty | https://stackoverflow.com/questions/66596540/decrypt-rijndael-128-string-with-php-openssl-return-empty |  |
