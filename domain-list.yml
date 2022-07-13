@@ -645,3 +645,6 @@
 - domain: '*.ape-ask.com'
   evidence: https://www.ape-ask.com/read-59837.html
   original: https://stackoverflow.com/questions/27573272/
+- domain: 'yaoply.com'
+  evidence: https://yaoply.com/items/decrypt-rijndael-128-string-with-php-openssl-return-empty
+  original: https://stackoverflow.com/questions/66596540/decrypt-rijndael-128-string-with-php-openssl-return-empty
