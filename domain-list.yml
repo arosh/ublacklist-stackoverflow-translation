@@ -306,8 +306,8 @@
 - domain: 'routinepanic.com'
   evidence: https://routinepanic.com/questions/how-to-get-the-home-directory-in-python
   original: https://stackoverflow.com/questions/4028904/what-is-the-correct-cross-platform-way-to-get-the-home-directory-in-python
-- domain: 'tousu.in'
-  evidence: https://tousu.in/qa/?qa=506161/
+- domain: '*.tousu.in'
+  evidence: https://qa.tousu.in/qa/?qa=506161/
   original: https://stackoverflow.com/questions/31189754/get-field-names-list-from-case-class
 - domain: 'tutorialmore.com'
   evidence: https://tutorialmore.com/questions-838617.htm
@@ -323,10 +323,7 @@
 - domain: 'fullstackuser.com'
   evidence: https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'ostack.cn'
-  evidence: https://ostack.cn/?qa=580340/
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'qa.ostack.cn'
+- domain: '*.ostack.cn'
   evidence: https://qa.ostack.cn/qa/?qa=580340/
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: '*.wujigu.com'
@@ -347,7 +344,7 @@
 - domain: 'tipsfordev.com'
   evidence: https://tipsfordev.com/argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'www.qi-u.com'
+- domain: '*.qi-u.com'
   evidence: https://www.qi-u.com/?qa=580340/python-argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: 'www.xsprogram.com'
@@ -368,8 +365,8 @@
 - domain: 'www.uebu-kaihatsu.jp.net'
   evidence: https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/
   original: https://serverfault.com/q/809632
-- domain: 'sqlite.in'
-  evidence: https://sqlite.in/?qa=159286/
+- domain: '*.sqlite.in'
+  evidence: https://qa.sqlite.in/?qa=159286/
   original: https://stackoverflow.com/questions/5164930
 - domain: 'stackguides.com'
   evidence: https://stackguides.com/questions/55582335
@@ -417,9 +414,6 @@
 - domain: 'progi.pro'
   evidence: https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983
   original: https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock
-- domain: 'jike.in'
-  evidence: https://jike.in/?qa=526496/assembly-does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than-xchg-for-spinlock
-  original: https://stackoverflow.com/questions/63008857/does-cmpxchg-write-destination-cache-line-on-failure-if-not-is-it-better-than
 - domain: '*.elfishgene.com'
   evidence: https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW
   original: https://stackoverflow.com/questions/58304957/
@@ -588,9 +582,69 @@
 - domain: 'www.anycodings.com'
   evidence: https://www.anycodings.com/questions/google-oauth-20-api-authentication-error-error-400-redirecturimismatch-does-not-comply-with-policy-django-app
   original: https://stackoverflow.com/questions/68764885
-- domain: 'jonic.cn'
-  evidence: https://jonic.cn/qa/?qa=1159840/c%23-googlewebauthorizationbroker-is-not-working-from-iis-host
-  original: https://stackoverflow.com/questions/42835914
+- domain: 'www.javafixing.com'
+  evidence: https://www.javafixing.com/2021/12/fixed-commentthreads-insert-gives-403.html
+  original: https://stackoverflow.com/questions/50828577
+- domain: 'xstack.us'
+  evidence: http://xstack.us/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: 'shenghuobao.net'
+  evidence: http://shenghuobao.net/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.overstack.in'
+  evidence: http://qa.overstack.in/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.zaizhele.cn'
+  evidence: https://qa.zaizhele.cn/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.zaizhele.net'
+  evidence: https://qa.zaizhele.net/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.xstack.ru'
+  evidence: https://qa.xstack.ru/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.mlink.in'
+  evidence: https://qa.mlink.in/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.jonic.cn'
+  evidence: https://qa.jonic.cn/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.jike.in'
+  evidence: https://qa.jike.in/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.16892.net'
+  evidence: https://qa.16892.net/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.vigges.net'
+  evidence: https://qa.vigges.net/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.55276.net'
+  evidence: https://qa.55276.net/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.ogeek.cn'
+  evidence: https://qa.ogeek.cn/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.shenzhenjia.net'
+  evidence: https://www.shenzhenjia.net/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.shenzhenjia.cn'
+  evidence: https://qa.shenzhenjia.cn/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.9ishenzhen.com'
+  evidence: https://qa.9ishenzhen.com/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.vigge.net'
+  evidence: https://qa.vigge.net/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.vigge.cn'
+  evidence: https://qa.vigge.cn/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+- domain: '*.web-dev-qa-db-fra.com'
+  evidence: https://www.web-dev-qa-db-fra.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
+  original: https://stackoverflow.com/q/50435455
+- domain: '*.ape-ask.com'
+  evidence: https://www.ape-ask.com/read-59837.html
+  original: https://stackoverflow.com/questions/27573272/
 - domain: 'yaoply.com'
   evidence: https://yaoply.com/items/decrypt-rijndael-128-string-with-php-openssl-return-empty
   original: https://stackoverflow.com/questions/66596540/decrypt-rijndael-128-string-with-php-openssl-return-empty
