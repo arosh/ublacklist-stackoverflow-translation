@@ -2297,3 +2297,15 @@ www.google.*##.isv-r[data-ru^="https://yaoply.com/"]
 www.google.*##.VFACy[href^="https://yaoply.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://yaoply.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://yaoply.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://techhelpnotes.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://techhelpnotes.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://techhelpnotes.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://techhelpnotes.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://techhelpnotes.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="techhelpnotes.com"]
+www.ecosia.org##.result[data-url^="https://techhelpnotes.com/"]
+startpage.com##.w-gl__result-title[href^="https://techhelpnotes.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://techhelpnotes.com/"]
+www.google.*##.VFACy[href^="https://techhelpnotes.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://techhelpnotes.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://techhelpnotes.com/"]:upward(.tile--img)

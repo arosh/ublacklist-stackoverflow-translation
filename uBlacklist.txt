@@ -189,3 +189,4 @@
 *://*.web-dev-qa-db-fra.com/*
 *://*.ape-ask.com/*
 *://yaoply.com/*
+*://techhelpnotes.com/*
