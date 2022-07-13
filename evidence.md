@@ -192,3 +192,4 @@
 | `*.vigge.cn` | https://qa.vigge.cn/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
 | `*.web-dev-qa-db-fra.com` | https://www.web-dev-qa-db-fra.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/ | https://stackoverflow.com/q/50435455 |  |
 | `*.ape-ask.com` | https://www.ape-ask.com/read-59837.html | https://stackoverflow.com/questions/27573272/ |  |
+| `yaoply.com` | https://yaoply.com/items/decrypt-rijndael-128-string-with-php-openssl-return-empty | https://stackoverflow.com/questions/66596540/decrypt-rijndael-128-string-with-php-openssl-return-empty |  |
