@@ -648,3 +648,6 @@
 - domain: 'yaoply.com'
   evidence: https://yaoply.com/items/decrypt-rijndael-128-string-with-php-openssl-return-empty
   original: https://stackoverflow.com/questions/66596540/decrypt-rijndael-128-string-with-php-openssl-return-empty
+- domain: 'techhelpnotes.com'
+  evidence: https://techhelpnotes.com/postgresql-how-to-manage-postgres-enum-type-in-django/
+  original: https://stackoverflow.com/questions/67819553/how-to-manage-postgres-enum-type-in-django
