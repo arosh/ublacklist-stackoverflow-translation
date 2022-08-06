@@ -651,3 +651,6 @@
 - domain: 'techhelpnotes.com'
   evidence: https://techhelpnotes.com/postgresql-how-to-manage-postgres-enum-type-in-django/
   original: https://stackoverflow.com/questions/67819553/how-to-manage-postgres-enum-type-in-django
+- domain: 'wp-qa.com'
+  evidence: https://wp-qa.com/get-cart-item-name-quantity-all-details-woocommerce
+  original: https://stackoverflow.com/q/28576667/13765033
