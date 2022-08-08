@@ -2309,3 +2309,15 @@ www.google.*##.isv-r[data-ru^="https://techhelpnotes.com/"]
 www.google.*##.VFACy[href^="https://techhelpnotes.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://techhelpnotes.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://techhelpnotes.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://wp-qa.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://wp-qa.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://wp-qa.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://wp-qa.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://wp-qa.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="wp-qa.com"]
+www.ecosia.org##.result[data-url^="https://wp-qa.com/"]
+startpage.com##.w-gl__result-title[href^="https://wp-qa.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://wp-qa.com/"]
+www.google.*##.VFACy[href^="https://wp-qa.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://wp-qa.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://wp-qa.com/"]:upward(.tile--img)

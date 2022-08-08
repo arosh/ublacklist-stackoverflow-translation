@@ -194,3 +194,4 @@
 | `*.ape-ask.com` | https://www.ape-ask.com/read-59837.html | https://stackoverflow.com/questions/27573272/ |  |
 | `yaoply.com` | https://yaoply.com/items/decrypt-rijndael-128-string-with-php-openssl-return-empty | https://stackoverflow.com/questions/66596540/decrypt-rijndael-128-string-with-php-openssl-return-empty |  |
 | `techhelpnotes.com` | https://techhelpnotes.com/postgresql-how-to-manage-postgres-enum-type-in-django/ | https://stackoverflow.com/questions/67819553/how-to-manage-postgres-enum-type-in-django |  |
+| `wp-qa.com` | https://wp-qa.com/get-cart-item-name-quantity-all-details-woocommerce | https://stackoverflow.com/q/28576667/13765033 |  |
