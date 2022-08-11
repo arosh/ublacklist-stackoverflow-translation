@@ -654,3 +654,7 @@
 - domain: 'wp-qa.com'
   evidence: https://wp-qa.com/get-cart-item-name-quantity-all-details-woocommerce
   original: https://stackoverflow.com/q/28576667/13765033
+- domain: '*.web-dev-qa-db-ja.com'
+  evidence: https://www.web-dev-qa-db-ja.com/ja/java/hashmap%E3%82%92%E9%80%9A%E3%81%97%E3%81%A6%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%99/967225041/
+  original: https://stackoverflow.com/questions/1066589/iterate-through-a-hashmap
+  
