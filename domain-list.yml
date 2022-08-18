@@ -660,3 +660,6 @@
 - domain: 'appsloveworld.com'
   evidence: https://www.appsloveworld.com/reactjs/100/11/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsica
   original: https://stackoverflow.com/q/57750777/13765033
+- domain: 'dtuto.com'
+  evidence: https://dtuto.com/questions/4523/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsicattributes
+  original: https://stackoverflow.com/q/57750777/13765033
