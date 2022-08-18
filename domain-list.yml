@@ -654,3 +654,6 @@
 - domain: 'wp-qa.com'
   evidence: https://wp-qa.com/get-cart-item-name-quantity-all-details-woocommerce
   original: https://stackoverflow.com/q/28576667/13765033
+- domain: 'querythreads.com'
+  evidence: https://www.querythreads.com/generics-error-with-forward-ref-property-ref-does-not-exist-on-type-intrinsic-attributes/
+  original: https://stackoverflow.com/q/57750777/13765033
