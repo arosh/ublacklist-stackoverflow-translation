@@ -195,3 +195,6 @@
 | `yaoply.com` | https://yaoply.com/items/decrypt-rijndael-128-string-with-php-openssl-return-empty | https://stackoverflow.com/questions/66596540/decrypt-rijndael-128-string-with-php-openssl-return-empty |  |
 | `techhelpnotes.com` | https://techhelpnotes.com/postgresql-how-to-manage-postgres-enum-type-in-django/ | https://stackoverflow.com/questions/67819553/how-to-manage-postgres-enum-type-in-django |  |
 | `wp-qa.com` | https://wp-qa.com/get-cart-item-name-quantity-all-details-woocommerce | https://stackoverflow.com/q/28576667/13765033 |  |
+| `www.querythreads.com` | https://www.querythreads.com/generics-error-with-forward-ref-property-ref-does-not-exist-on-type-intrinsic-attributes/ | https://stackoverflow.com/q/57750777/13765033 |  |
+| `www.appsloveworld.com` | https://www.appsloveworld.com/reactjs/100/11/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsica | https://stackoverflow.com/q/57750777/13765033 |  |
+| `dtuto.com` | https://dtuto.com/questions/4523/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsicattributes | https://stackoverflow.com/q/57750777/13765033 |  |

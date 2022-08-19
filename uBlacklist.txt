@@ -191,3 +191,6 @@
 *://yaoply.com/*
 *://techhelpnotes.com/*
 *://wp-qa.com/*
+*://www.querythreads.com/*
+*://www.appsloveworld.com/*
+*://dtuto.com/*
