@@ -133,6 +133,7 @@
 *://errorsfixing.com/*
 *://syntaxfix.com/*
 *://codegrepr.com/*
+*://codegrepper.com/*
 *://quabr.com/*
 *://serveanswer.com/*
 *://*.safehavenpetrescue.org/*
