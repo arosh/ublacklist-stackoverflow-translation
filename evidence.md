@@ -198,3 +198,4 @@
 | `www.querythreads.com` | https://www.querythreads.com/generics-error-with-forward-ref-property-ref-does-not-exist-on-type-intrinsic-attributes/ | https://stackoverflow.com/q/57750777/13765033 |  |
 | `www.appsloveworld.com` | https://www.appsloveworld.com/reactjs/100/11/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsica | https://stackoverflow.com/q/57750777/13765033 |  |
 | `dtuto.com` | https://dtuto.com/questions/4523/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsicattributes | https://stackoverflow.com/q/57750777/13765033 |  |
+| `qatop.pythonwood.com` | https://qatop.pythonwood.com/sf/ask/332133091/ | https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel |  |

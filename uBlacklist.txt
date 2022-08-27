@@ -194,3 +194,4 @@
 *://www.querythreads.com/*
 *://www.appsloveworld.com/*
 *://dtuto.com/*
+*://qatop.pythonwood.com/*
