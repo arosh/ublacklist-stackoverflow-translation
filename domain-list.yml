@@ -663,3 +663,6 @@
 - domain: 'dtuto.com'
   evidence: https://dtuto.com/questions/4523/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsicattributes
   original: https://stackoverflow.com/q/57750777/13765033
+- domain: 'qatop.pythonwood.com'
+  evidence: https://qatop.pythonwood.com/sf/ask/332133091/
+  original: https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel
