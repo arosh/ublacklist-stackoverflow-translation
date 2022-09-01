@@ -666,3 +666,6 @@
 - domain: 'qatop.pythonwood.com'
   evidence: https://qatop.pythonwood.com/sf/ask/332133091/
   original: https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel
+- domain: 'webdevask.com'
+  evidence: https://webdevask.com/items/laravel-model-is-not-getting-data
+  original: https://stackoverflow.com/questions/73267978
