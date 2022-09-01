@@ -2369,3 +2369,15 @@ www.google.*##.isv-r[data-ru^="https://qatop.pythonwood.com/"]
 www.google.*##.VFACy[href^="https://qatop.pythonwood.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://qatop.pythonwood.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://qatop.pythonwood.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://webdevask.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://webdevask.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://webdevask.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://webdevask.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://webdevask.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="webdevask.com"]
+www.ecosia.org##.result[data-url^="https://webdevask.com/"]
+startpage.com##.w-gl__result-title[href^="https://webdevask.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://webdevask.com/"]
+www.google.*##.VFACy[href^="https://webdevask.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://webdevask.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://webdevask.com/"]:upward(.tile--img)

@@ -199,3 +199,4 @@
 | `www.appsloveworld.com` | https://www.appsloveworld.com/reactjs/100/11/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsica | https://stackoverflow.com/q/57750777/13765033 |  |
 | `dtuto.com` | https://dtuto.com/questions/4523/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsicattributes | https://stackoverflow.com/q/57750777/13765033 |  |
 | `qatop.pythonwood.com` | https://qatop.pythonwood.com/sf/ask/332133091/ | https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel |  |
+| `webdevask.com` | https://webdevask.com/items/laravel-model-is-not-getting-data | https://stackoverflow.com/questions/73267978 |  |

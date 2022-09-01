@@ -195,3 +195,4 @@
 *://www.appsloveworld.com/*
 *://dtuto.com/*
 *://qatop.pythonwood.com/*
+*://webdevask.com/*
