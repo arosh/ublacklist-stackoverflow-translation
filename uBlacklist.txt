@@ -196,3 +196,4 @@
 *://dtuto.com/*
 *://qatop.pythonwood.com/*
 *://webdevask.com/*
+*://www.thecodeteacher.com/*

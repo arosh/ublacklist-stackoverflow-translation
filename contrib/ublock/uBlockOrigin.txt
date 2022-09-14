@@ -2381,3 +2381,15 @@ www.google.*##.isv-r[data-ru^="https://webdevask.com/"]
 www.google.*##.VFACy[href^="https://webdevask.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://webdevask.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://webdevask.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.thecodeteacher.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.thecodeteacher.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.thecodeteacher.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.thecodeteacher.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.thecodeteacher.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="www.thecodeteacher.com"]
+www.ecosia.org##.result[data-url^="https://www.thecodeteacher.com/"]
+startpage.com##.w-gl__result-title[href^="https://www.thecodeteacher.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://www.thecodeteacher.com/"]
+www.google.*##.VFACy[href^="https://www.thecodeteacher.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.thecodeteacher.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://www.thecodeteacher.com/"]:upward(.tile--img)
