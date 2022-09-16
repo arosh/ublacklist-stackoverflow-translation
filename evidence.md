@@ -6,7 +6,6 @@
 | `kotaeta.com` | https://kotaeta.com/53238761 | https://arduino.stackexchange.com/questions/21605/ | redirects to `de-vraag.com` |
 | `answer-id.com` | https://answer-id.com/ja/53238761 | https://arduino.stackexchange.com/questions/21605/ | redirects to `de-vraag.com` |
 | `de-vraag.com` | https://de-vraag.com/ja/53238761 | https://arduino.stackexchange.com/q/21605 |  |
-| `code.i-harness.com` | https://code.i-harness.com/ja-jp/q/1cc697 | https://stackoverflow.com/questions/1885847/ |  |
 | `living-sun.com` | https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html | https://stackoverflow.com/questions/1599464/ |  |
 | `qastack.jp` | https://qastack.jp/programming/11227809/ | https://stackoverflow.com/questions/11227809/ |  |
 | `qastack.ru` | https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static | https://stackoverflow.com/q/13150343 |  |
@@ -29,7 +28,6 @@
 | `www.it-swarm-ja.tech` | https://www.it-swarm-ja.tech/ja/linux/944475555/ | https://superuser.com/questions/1347723/ | redirects to `www.it-mure.jp.net` |
 | `www.it-swarm.jp.net` | https://www.it-swarm.jp.net/ja/google-chrome/chrome%e3%81%af%e6%8b%a1%e5%bc%b5%e6%a9%9f%e8%83%bd%e3%82%92%e3%81%a9%e3%81%93%e3%81%ab%e4%bf%9d%e5%ad%98%e3%81%97%e3%81%be%e3%81%99%e3%81%8b%ef%bc%9f/1071750676/ | https://stackoverflow.com/q/14543896 | redirects to `www.it-mure.jp.net` |
 | `www.it-swarm-ja.com` | https://www.it-swarm-ja.com/ja/javascript/vue%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%AA%E3%81%84keyup%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/835790755/ | https://stackoverflow.com/q/46955147 |  |
-| `www.webdevqa.jp.net` | https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/ | https://unix.stackexchange.com/q/419198 |  |
 | `www.web-dev-qa-db-ja.com` | https://www.web-dev-qa-db-ja.com/ja/go/816661554/ | https://stackoverflow.com/q/61900346 |  |
 | `www.it-swarm-fr.com` | https://www.it-swarm-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/ | https://stackoverflow.com/q/50435455 |  |
 | `www.web-dev-qa-db-fr.com` | https://www.web-dev-qa-db-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/ | https://stackoverflow.com/q/50435455 |  |
@@ -39,22 +37,10 @@
 | `coderoad.ru` | https://coderoad.ru/927358/%D0%9A%D0%B0%D0%BA-%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C-%D1%81%D0%B0%D0%BC%D1%8B%D0%B5-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B-%D0%B2-Git | https://stackoverflow.com/questions/927358/ |  |
 | `www.javaer101.com` | https://www.javaer101.com/ja/article/2084594.html | https://stackoverflow.com/questions/35394937/ |  |
 | `*.voidcc.com` | http://ja.voidcc.com/question/p-glmhmyzr-pk.html | https://stackoverflow.com/questions/48042872/ |  |
-| `*.siwib.org` | https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA | https://stackoverflow.com/q/50951955 |  |
-| `*.fluffyfables.com` | https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is | https://stackoverflow.com/q/50951955 |  |
 | `www.fixes.pub` | https://www.fixes.pub/program/38000.html | https://stackoverflow.com/q/49289575 |  |
 | `knews.vip` | https://knews.vip/postcrawl/stack/view?site=so&key=76312086 | https://stackoverflow.com/q/63314288 |  |
 | `isolution.pro` | https://isolution.pro/q/an13230537/play-sutoa-kara-apuri-no-gokansei-matorikkusu-o-nyushusuru | https://android.stackexchange.com/q/232739 |  |
 | `*.uwenku.com` | http://ja.uwenku.com/question/p-oafoukjq-gq.html | https://stackoverflow.com/questions/48045748 |  |
-| `*.athabasca-foto.com` | https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS | https://stackoverflow.com/questions/604424 |  |
-| `*.zsharp.org` | https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT | https://stackoverflow.com/questions/3143698 |  |
-| `*.projectbackpack.org` | https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ | https://stackoverflow.com/questions/1414365 |  |
-| `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 |  |
-| `*.sunflowercreations.org` | https://ja.sunflowercreations.org/697902-how-do-i-open-a-VUPZKF | https://stackoverflow.com/questions/3204380 |  |
-| `*.cfadnc.org` | https://ja.cfadnc.org/985524-what-is-the-purpose-of-DXQQMX | https://stackoverflow.com/questions/36688321 |  |
-| `*.fitforlearning.org` | https://ja.fitforlearning.org/635934-includes-not-working-in-internet-ZFTDNI | https://stackoverflow.com/questions/36574351 |  |
-| `*.panaindustrial.com` | https://ja.panaindustrial.com/401278-how-to-change-the-default-RQJPUK | https://stackoverflow.com/questions/11756442 |  |
-| `*.sierrasummit2005.org` | https://ja.sierrasummit2005.org/919860-how-to-change-the-default-ICOCTB | https://stackoverflow.com/questions/11756442 |  |
-| `*.theshuggahpies.com` | https://ja.theshuggahpies.com/451434-what-is-the-not-not-EISSHJ | https://stackoverflow.com/questions/784929 |  |
 | `*.pcbconline.org` | https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT | https://stackoverflow.com/questions/17341670 |  |
 | `www.nuomiphp.com` | https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html | https://stackoverflow.com/questions/60451458 |  |
 | `ubuntu.buildwebhost.com` | https://ubuntu.buildwebhost.com/ja/q/214411 | https://askubuntu.com/questions/940701 | redirects to `ubuntuaa.com` |
@@ -84,9 +70,7 @@
 | `*.tousu.in` | https://qa.tousu.in/qa/?qa=506161/ | https://stackoverflow.com/questions/31189754/get-field-names-list-from-case-class |  |
 | `tutorialmore.com` | https://tutorialmore.com/questions-838617.htm | https://superuser.com/questions/1183564/ |  |
 | `www.titanwolf.org` | https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y | https://stackoverflow.com/questions/42244819 |  |
-| `coderedirect.com` | https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | redirects to `fullstackuser.com` |
 | `fullstackuser.com` | https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
-| `*.ostack.cn` | https://qa.ostack.cn/qa/?qa=580340/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `*.wujigu.com` | https://qa.wujigu.com/qa/?qa=1160352 | https://stackoverflow.com/questions/43179984 |  |
 | `webdevdesigner.com` | https://webdevdesigner.com/q/argparse-subparser-monolithic-help-output-137439/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `www.ghcc.net` | https://www.ghcc.net/en/node/2519947 | https://stackoverflow.com/questions/32581439/subparser-show-help-for-both-parser-and-subparser |  |
@@ -104,15 +88,12 @@
 | `stackguides.com` | https://stackguides.com/questions/55582335 | https://stackoverflow.com/questions/55582335 |  |
 | `younggeeks.in` | https://younggeeks.in/questions/11586390 | https://stackoverflow.com/questions/70524850 |  |
 | `www.answerlib.com` | https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html | https://stackoverflow.com/q/37928277 |  |
-| `edupro.id` | https://edupro.id/questions/5055780 | https://stackoverflow.com/questions/67219289 |  |
 | `www.stackfinder.ru` | https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name | https://stackoverflow.com/questions/60256300 |  |
 | `www.desenv-web-rp.com` | https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
 | `www.web-dev-qa-db-pt.com` | https://www.web-dev-qa-db-pt.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/ | https://stackoverflow.com/questions/38728200 |  |
-| `www.jscodetips.com` | https://www.jscodetips.com/examples/how-to-change-the-interface-key-value-string-to-key-string-string | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string |  |
 | `www.5axxw.com` | https://www.5axxw.com/questions/content/8pxpsb | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string |  |
 | `question-it.com` | https://question-it.com/questions/12118832/kak-izmenit-kljuch-interfejsa-znachenie-stroka-na-kljuch-stroka-stroka | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | mirrors for other languages are specified in the head tag |
 | `*.codefaq.info` | https://es.codefaq.info/como_arreglar_el_tipo_de_comprobacion_cuando_el_uso_de_este_de_la_tienda_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | mirrors for other languages are specified in the head tag |
-| `codefaq.ru` | https://codefaq.ru/kak_ispravit_proverku_tipov_pri_ispolzovanii_etogo_magazin_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | mirrors for other languages are specified in the head tag |
 | `*.mediatagtw.com` | https://programming.mediatagtw.com/article/Textarea+select+all | https://stackoverflow.com/questions/7313786/highlight-all-text-in-textarea | other subdomains seem to be clones or machine-generated. |
 | `progi.pro` | https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983 | https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock |  |
 | `*.elfishgene.com` | https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW | https://stackoverflow.com/questions/58304957/ |  |
@@ -120,7 +101,6 @@
 | `*.answacode.com` | https://pt.answacode.com/stackoverflow/13221978/obtendo-erro-redirecturimismatch-o-redirecionamento-uri-no-pedido-httplocalhost8 | https://stackoverflow.com/questions/13221978 |  |
 | `ask-dev.ru` | https://ask-dev.ru/info/12969289/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library | https://stackoverflow.com/questions/41223963/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library |  |
 | `*.arip-photo.org` | https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD | https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574 |  |
-| `jablogs.com` | https://jablogs.com/detail/60085 | https://stackoverflow.com/questions/912596/how-to-turn-a-string-into-a-javascript-function-call/912642#912642 |  |
 | `jpdebug.com` | https://jpdebug.com/p/2194247 | https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python |  |
 | `askcodez.com` | https://askcodez.com/junit-test-des-setters-et-des-getters-de-variables-dinstance.html | https://stackoverflow.com/questions/21354311/junit-test-of-setters-and-getters-of-instance-variables |  |
 | `iquestion.pro` | https://iquestion.pro/q/as13032164/watashitachi-ni-mukerareteinai-parusa-o-kenshutsu-dekimasu-ka | https://astronomy.stackexchange.com/questions/34366/can-we-detect-pulsars-that-arent-pointed-towards-us |  |
@@ -128,7 +108,6 @@
 | `programmierfrage.com` | https://programmierfrage.com/items/phpmailer-custom-header-set-but-not-shown-on-delivery | https://stackoverflow.com/questions/65253795/phpmailer-custom-header-set-but-not-shown-on-delivery |  |
 | `microeducate.tech` | https://microeducate.tech/direct2d-off-screen-rendering-and-hardware-acceleration/ | https://gamedev.stackexchange.com/questions/16446/direct2d-off-screen-rendering-and-hardware-acceleration |  |
 | `www.debugko.com` | https://www.debugko.com/article/25OdKAAOyMaK7Be9.html | https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892 |  |
-| `devdreamz.com` | https://devdreamz.com/question/361174-maximum-query-length-to-avoid-epipe-error-in-node-js | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
 | `catwolf.org` | https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
 | `*.1r1g.com` | https://qa.1r1g.com/sf/ask/1154372761/ | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
 | `string.quest` | https://string.quest/read/3613655 | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js |  |
@@ -137,7 +116,6 @@
 | `errorsfixing.com` | https://errorsfixing.com/python-get-directory-two-levels-up/ | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
 | `syntaxfix.com` | https://syntaxfix.com/question/6689/python-get-directory-two-levels-up | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
 | `codegrepr.com` | https://codegrepr.com/question/python-get-directory-two-levels-up/ | https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up |  |
-| `quabr.com` | https://quabr.com/72111899/how-to-convert-timestamp-to-data-lake-s3-timestamp | https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp |  |
 | `serveanswer.com` | https://serveanswer.com/questions/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp | https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp |  |
 | `*.safehavenpetrescue.org` | https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP | https://stackoverflow.com/q/63978924 |  |
 | `cainiaojiaocheng.com` | https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python | https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python |  |
@@ -184,7 +162,6 @@
 | `*.16892.net` | https://qa.16892.net/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
 | `*.vigges.net` | https://qa.vigges.net/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
 | `*.55276.net` | https://qa.55276.net/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
-| `*.ogeek.cn` | https://qa.ogeek.cn/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
 | `*.shenzhenjia.net` | https://www.shenzhenjia.net/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
 | `*.shenzhenjia.cn` | https://qa.shenzhenjia.cn/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
 | `*.9ishenzhen.com` | https://qa.9ishenzhen.com/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ |  |
@@ -198,7 +175,30 @@
 | `www.querythreads.com` | https://www.querythreads.com/generics-error-with-forward-ref-property-ref-does-not-exist-on-type-intrinsic-attributes/ | https://stackoverflow.com/q/57750777/13765033 |  |
 | `www.appsloveworld.com` | https://www.appsloveworld.com/reactjs/100/11/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsica | https://stackoverflow.com/q/57750777/13765033 |  |
 | `dtuto.com` | https://dtuto.com/questions/4523/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsicattributes | https://stackoverflow.com/q/57750777/13765033 |  |
-| `qatop.pythonwood.com` | https://qatop.pythonwood.com/sf/ask/332133091/ | https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel |  |
 | `webdevask.com` | https://webdevask.com/items/laravel-model-is-not-getting-data | https://stackoverflow.com/questions/73267978 |  |
 | `www.thecodeteacher.com` | https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once | https://stackoverflow.com/questions/52288120 |  |
 | `issuecloser.com` | https://issuecloser.com/blog/why-component-scanning-does-not-work-for-spring-boot-unit-tests | https://stackoverflow.com/questions/48679637 |  |
+| `code.i-harness.com` | https://code.i-harness.com/ja-jp/q/1cc697 | https://stackoverflow.com/questions/1885847/ | closed? |
+| `www.webdevqa.jp.net` | https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/ | https://unix.stackexchange.com/q/419198 | closed? |
+| `*.siwib.org` | https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA | https://stackoverflow.com/q/50951955 | closed? |
+| `*.fluffyfables.com` | https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is | https://stackoverflow.com/q/50951955 | closed? |
+| `*.athabasca-foto.com` | https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS | https://stackoverflow.com/questions/604424 | closed? |
+| `*.zsharp.org` | https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT | https://stackoverflow.com/questions/3143698 | closed? |
+| `*.projectbackpack.org` | https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ | https://stackoverflow.com/questions/1414365 | closed? |
+| `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 | closed? |
+| `*.sunflowercreations.org` | https://ja.sunflowercreations.org/697902-how-do-i-open-a-VUPZKF | https://stackoverflow.com/questions/3204380 | closed? |
+| `*.cfadnc.org` | https://ja.cfadnc.org/985524-what-is-the-purpose-of-DXQQMX | https://stackoverflow.com/questions/36688321 | closed? |
+| `*.fitforlearning.org` | https://ja.fitforlearning.org/635934-includes-not-working-in-internet-ZFTDNI | https://stackoverflow.com/questions/36574351 | closed? |
+| `*.panaindustrial.com` | https://ja.panaindustrial.com/401278-how-to-change-the-default-RQJPUK | https://stackoverflow.com/questions/11756442 | closed? |
+| `*.sierrasummit2005.org` | https://ja.sierrasummit2005.org/919860-how-to-change-the-default-ICOCTB | https://stackoverflow.com/questions/11756442 | closed? |
+| `*.theshuggahpies.com` | https://ja.theshuggahpies.com/451434-what-is-the-not-not-EISSHJ | https://stackoverflow.com/questions/784929 | closed? |
+| `coderedirect.com` | https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | closed? |
+| `*.ostack.cn` | https://qa.ostack.cn/qa/?qa=580340/ | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | closed? |
+| `edupro.id` | https://edupro.id/questions/5055780 | https://stackoverflow.com/questions/67219289 | closed? |
+| `www.jscodetips.com` | https://www.jscodetips.com/examples/how-to-change-the-interface-key-value-string-to-key-string-string | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | closed? |
+| `codefaq.ru` | https://codefaq.ru/kak_ispravit_proverku_tipov_pri_ispolzovanii_etogo_magazin_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | closed? |
+| `jablogs.com` | https://jablogs.com/detail/60085 | https://stackoverflow.com/questions/912596/how-to-turn-a-string-into-a-javascript-function-call/912642#912642 | closed? |
+| `devdreamz.com` | https://devdreamz.com/question/361174-maximum-query-length-to-avoid-epipe-error-in-node-js | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js | closed? |
+| `quabr.com` | https://quabr.com/72111899/how-to-convert-timestamp-to-data-lake-s3-timestamp | https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp | closed? |
+| `*.ogeek.cn` | https://qa.ogeek.cn/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ | closed? |
+| `qatop.pythonwood.com` | https://qatop.pythonwood.com/sf/ask/332133091/ | https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel | closed? |
