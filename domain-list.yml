@@ -13,10 +13,6 @@
 - domain: 'de-vraag.com'
   evidence: https://de-vraag.com/ja/53238761
   original: https://arduino.stackexchange.com/q/21605
-- domain: 'code.i-harness.com'
-  evidence: https://code.i-harness.com/ja-jp/q/1cc697
-  original: https://stackoverflow.com/questions/1885847/
-  note:
 - domain: 'living-sun.com'
   evidence: https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html
   original: https://stackoverflow.com/questions/1599464/
@@ -105,9 +101,6 @@
   evidence: https://www.it-swarm-ja.com/ja/javascript/vue%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%AA%E3%81%84keyup%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/835790755/
   original: https://stackoverflow.com/q/46955147
   note:
-- domain: 'www.webdevqa.jp.net'
-  evidence: https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/
-  original: https://unix.stackexchange.com/q/419198
 - domain: 'www.web-dev-qa-db-ja.com'
   evidence: https://www.web-dev-qa-db-ja.com/ja/go/816661554/
   original: https://stackoverflow.com/q/61900346
@@ -141,14 +134,6 @@
   evidence: http://ja.voidcc.com/question/p-glmhmyzr-pk.html
   original: https://stackoverflow.com/questions/48042872/
   note:
-- domain: '*.siwib.org'
-  evidence: https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA
-  original: https://stackoverflow.com/q/50951955
-  note:
-- domain: '*.fluffyfables.com'
-  evidence: https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is
-  original: https://stackoverflow.com/q/50951955
-  note:
 - domain: 'www.fixes.pub'
   evidence: https://www.fixes.pub/program/38000.html
   original: https://stackoverflow.com/q/49289575
@@ -164,46 +149,6 @@
 - domain: '*.uwenku.com'
   evidence: http://ja.uwenku.com/question/p-oafoukjq-gq.html
   original: https://stackoverflow.com/questions/48045748
-  note:
-- domain: '*.athabasca-foto.com'
-  evidence: https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS
-  original: https://stackoverflow.com/questions/604424
-  note:
-- domain: '*.zsharp.org'
-  evidence: https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT
-  original: https://stackoverflow.com/questions/3143698
-  note:
-- domain: '*.projectbackpack.org'
-  evidence: https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ
-  original: https://stackoverflow.com/questions/1414365
-  note:
-- domain: '*.waymanamechurch.org'
-  evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
-  original: https://stackoverflow.com/questions/784929
-  note:
-- domain: '*.sunflowercreations.org'
-  evidence: https://ja.sunflowercreations.org/697902-how-do-i-open-a-VUPZKF
-  original: https://stackoverflow.com/questions/3204380
-  note:
-- domain: '*.cfadnc.org'
-  evidence: https://ja.cfadnc.org/985524-what-is-the-purpose-of-DXQQMX
-  original: https://stackoverflow.com/questions/36688321
-  note:
-- domain: '*.fitforlearning.org'
-  evidence: https://ja.fitforlearning.org/635934-includes-not-working-in-internet-ZFTDNI
-  original: https://stackoverflow.com/questions/36574351
-  note:
-- domain: '*.panaindustrial.com'
-  evidence: https://ja.panaindustrial.com/401278-how-to-change-the-default-RQJPUK
-  original: https://stackoverflow.com/questions/11756442
-  note:
-- domain: '*.sierrasummit2005.org'
-  evidence: https://ja.sierrasummit2005.org/919860-how-to-change-the-default-ICOCTB
-  original: https://stackoverflow.com/questions/11756442
-  note:
-- domain: '*.theshuggahpies.com'
-  evidence: https://ja.theshuggahpies.com/451434-what-is-the-not-not-EISSHJ
-  original: https://stackoverflow.com/questions/784929
   note:
 - domain: '*.pcbconline.org'
   evidence: https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT
@@ -316,15 +261,8 @@
 - domain: 'www.titanwolf.org'
   evidence: https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y
   original: https://stackoverflow.com/questions/42244819
-- domain: 'coderedirect.com'
-  evidence: https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-  note: redirects to `fullstackuser.com`
 - domain: 'fullstackuser.com'
   evidence: https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: '*.ostack.cn'
-  evidence: https://qa.ostack.cn/qa/?qa=580340/
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: '*.wujigu.com'
   evidence: https://qa.wujigu.com/qa/?qa=1160352
@@ -377,9 +315,6 @@
 - domain: 'www.answerlib.com'
   evidence: https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html
   original: https://stackoverflow.com/q/37928277
-- domain: 'edupro.id'
-  evidence: https://edupro.id/questions/5055780
-  original: https://stackoverflow.com/questions/67219289
 - domain: 'www.stackfinder.ru'
   evidence: https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name
   original: https://stackoverflow.com/questions/60256300
@@ -389,9 +324,6 @@
 - domain: www.web-dev-qa-db-pt.com
   evidence: https://www.web-dev-qa-db-pt.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
   original: https://stackoverflow.com/questions/38728200
-- domain: 'www.jscodetips.com'
-  evidence: https://www.jscodetips.com/examples/how-to-change-the-interface-key-value-string-to-key-string-string
-  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
 - domain: 'www.5axxw.com'
   evidence: https://www.5axxw.com/questions/content/8pxpsb
   original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
@@ -401,10 +333,6 @@
   note: mirrors for other languages are specified in the head tag
 - domain: '*.codefaq.info'
   evidence: https://es.codefaq.info/como_arreglar_el_tipo_de_comprobacion_cuando_el_uso_de_este_de_la_tienda_findrecod
-  original: https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod
-  note: mirrors for other languages are specified in the head tag
-- domain: 'codefaq.ru'
-  evidence: https://codefaq.ru/kak_ispravit_proverku_tipov_pri_ispolzovanii_etogo_magazin_findrecod
   original: https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod
   note: mirrors for other languages are specified in the head tag
 - domain: '*.mediatagtw.com'
@@ -429,9 +357,6 @@
 - domain: '*.arip-photo.org'
   evidence: https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD
   original: https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574
-- domain: 'jablogs.com'
-  evidence: https://jablogs.com/detail/60085
-  original: https://stackoverflow.com/questions/912596/how-to-turn-a-string-into-a-javascript-function-call/912642#912642
 - domain: 'jpdebug.com'
   evidence: https://jpdebug.com/p/2194247
   original: https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python
@@ -453,9 +378,6 @@
 - domain: 'www.debugko.com'
   evidence: https://www.debugko.com/article/25OdKAAOyMaK7Be9.html
   original: https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892
-- domain: 'devdreamz.com'
-  evidence: https://devdreamz.com/question/361174-maximum-query-length-to-avoid-epipe-error-in-node-js
-  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
 - domain: 'catwolf.org'
   evidence: https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y
   original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
@@ -480,9 +402,6 @@
 - domain: codegrepr.com
   evidence: https://codegrepr.com/question/python-get-directory-two-levels-up/
   original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
-- domain: 'quabr.com'
-  evidence: https://quabr.com/72111899/how-to-convert-timestamp-to-data-lake-s3-timestamp
-  original: https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
 - domain: serveanswer.com
   evidence: https://serveanswer.com/questions/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
   original: https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
@@ -621,9 +540,6 @@
 - domain: '*.55276.net'
   evidence: https://qa.55276.net/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
-- domain: '*.ogeek.cn'
-  evidence: https://qa.ogeek.cn/qa/?qa=637288/
-  original: https://stackoverflow.com/questions/56516894/
 - domain: '*.shenzhenjia.net'
   evidence: https://www.shenzhenjia.net/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
@@ -663,9 +579,6 @@
 - domain: 'dtuto.com'
   evidence: https://dtuto.com/questions/4523/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsicattributes
   original: https://stackoverflow.com/q/57750777/13765033
-- domain: 'qatop.pythonwood.com'
-  evidence: https://qatop.pythonwood.com/sf/ask/332133091/
-  original: https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel
 - domain: 'webdevask.com'
   evidence: https://webdevask.com/items/laravel-model-is-not-getting-data
   original: https://stackoverflow.com/questions/73267978
@@ -675,3 +588,99 @@
 - domain: 'issuecloser.com'
   evidence: https://issuecloser.com/blog/why-component-scanning-does-not-work-for-spring-boot-unit-tests
   original: https://stackoverflow.com/questions/48679637
+- domain: 'code.i-harness.com'
+  evidence: https://code.i-harness.com/ja-jp/q/1cc697
+  original: https://stackoverflow.com/questions/1885847/
+  note: closed?
+- domain: 'www.webdevqa.jp.net'
+  evidence: https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/
+  original: https://unix.stackexchange.com/q/419198
+  note: closed?
+- domain: '*.siwib.org'
+  evidence: https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA
+  original: https://stackoverflow.com/q/50951955
+  note: closed?
+- domain: '*.fluffyfables.com'
+  evidence: https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is
+  original: https://stackoverflow.com/q/50951955
+  note: closed?
+- domain: '*.athabasca-foto.com'
+  evidence: https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS
+  original: https://stackoverflow.com/questions/604424
+  note: closed?
+- domain: '*.zsharp.org'
+  evidence: https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT
+  original: https://stackoverflow.com/questions/3143698
+  note: closed?
+- domain: '*.projectbackpack.org'
+  evidence: https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ
+  original: https://stackoverflow.com/questions/1414365
+  note: closed?
+- domain: '*.waymanamechurch.org'
+  evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
+  original: https://stackoverflow.com/questions/784929
+  note: closed?
+- domain: '*.sunflowercreations.org'
+  evidence: https://ja.sunflowercreations.org/697902-how-do-i-open-a-VUPZKF
+  original: https://stackoverflow.com/questions/3204380
+  note: closed?
+- domain: '*.cfadnc.org'
+  evidence: https://ja.cfadnc.org/985524-what-is-the-purpose-of-DXQQMX
+  original: https://stackoverflow.com/questions/36688321
+  note: closed?
+- domain: '*.fitforlearning.org'
+  evidence: https://ja.fitforlearning.org/635934-includes-not-working-in-internet-ZFTDNI
+  original: https://stackoverflow.com/questions/36574351
+  note: closed?
+- domain: '*.panaindustrial.com'
+  evidence: https://ja.panaindustrial.com/401278-how-to-change-the-default-RQJPUK
+  original: https://stackoverflow.com/questions/11756442
+  note: closed?
+- domain: '*.sierrasummit2005.org'
+  evidence: https://ja.sierrasummit2005.org/919860-how-to-change-the-default-ICOCTB
+  original: https://stackoverflow.com/questions/11756442
+  note: closed?
+- domain: '*.theshuggahpies.com'
+  evidence: https://ja.theshuggahpies.com/451434-what-is-the-not-not-EISSHJ
+  original: https://stackoverflow.com/questions/784929
+  note: closed?
+- domain: 'coderedirect.com'
+  evidence: https://coderedirect.com/questions/142923/argparse-subparser-monolithic-help-output
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+  note: closed?
+- domain: '*.ostack.cn'
+  evidence: https://qa.ostack.cn/qa/?qa=580340/
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+  note: closed?
+- domain: 'edupro.id'
+  evidence: https://edupro.id/questions/5055780
+  original: https://stackoverflow.com/questions/67219289
+  note: closed?
+- domain: 'www.jscodetips.com'
+  evidence: https://www.jscodetips.com/examples/how-to-change-the-interface-key-value-string-to-key-string-string
+  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
+  note: closed?
+- domain: 'codefaq.ru'
+  evidence: https://codefaq.ru/kak_ispravit_proverku_tipov_pri_ispolzovanii_etogo_magazin_findrecod
+  original: https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod
+  note: closed?
+- domain: 'jablogs.com'
+  evidence: https://jablogs.com/detail/60085
+  original: https://stackoverflow.com/questions/912596/how-to-turn-a-string-into-a-javascript-function-call/912642#912642
+  note: closed?
+- domain: 'devdreamz.com'
+  evidence: https://devdreamz.com/question/361174-maximum-query-length-to-avoid-epipe-error-in-node-js
+  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
+  note: closed?
+- domain: 'quabr.com'
+  evidence: https://quabr.com/72111899/how-to-convert-timestamp-to-data-lake-s3-timestamp
+  original: https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
+  note: closed?
+- domain: '*.ogeek.cn'
+  evidence: https://qa.ogeek.cn/qa/?qa=637288/
+  original: https://stackoverflow.com/questions/56516894/
+  note: closed?
+- domain: 'qatop.pythonwood.com'
+  evidence: https://qatop.pythonwood.com/sf/ask/332133091/
+  original: https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel
+  note: closed?
