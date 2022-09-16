@@ -672,3 +672,6 @@
 - domain: 'www.thecodeteacher.com'
   evidence: https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once
   original: https://stackoverflow.com/questions/52288120
+- domain: 'issuecloser.com'
+  evidence: https://issuecloser.com/blog/why-component-scanning-does-not-work-for-spring-boot-unit-tests
+  original: https://stackoverflow.com/questions/48679637
