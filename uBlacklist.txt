@@ -197,3 +197,4 @@
 *://qatop.pythonwood.com/*
 *://webdevask.com/*
 *://www.thecodeteacher.com/*
+*://issuecloser.com/*

@@ -201,3 +201,4 @@
 | `qatop.pythonwood.com` | https://qatop.pythonwood.com/sf/ask/332133091/ | https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel |  |
 | `webdevask.com` | https://webdevask.com/items/laravel-model-is-not-getting-data | https://stackoverflow.com/questions/73267978 |  |
 | `www.thecodeteacher.com` | https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once | https://stackoverflow.com/questions/52288120 |  |
+| `issuecloser.com` | https://issuecloser.com/blog/why-component-scanning-does-not-work-for-spring-boot-unit-tests | https://stackoverflow.com/questions/48679637 |  |
