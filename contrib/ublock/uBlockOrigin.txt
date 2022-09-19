@@ -2417,3 +2417,15 @@ www.google.*##.isv-r[data-ru^="https://techinplanet.com/"]
 www.google.*##.VFACy[href^="https://techinplanet.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://techinplanet.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://techinplanet.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://codeutility.org/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://codeutility.org/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://codeutility.org/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://codeutility.org/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://codeutility.org/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="codeutility.org"]
+www.ecosia.org##.result[data-url^="https://codeutility.org/"]
+startpage.com##.w-gl__result-title[href^="https://codeutility.org/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://codeutility.org/"]
+www.google.*##.VFACy[href^="https://codeutility.org/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://codeutility.org/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://codeutility.org/"]:upward(.tile--img)
