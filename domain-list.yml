@@ -684,3 +684,6 @@
   evidence: https://qatop.pythonwood.com/sf/ask/332133091/
   original: https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel
   note: closed?
+- domain: 'codeutility.org'
+  evidence: https://codeutility.org/java-how-to-capture-a-list-of-specific-type-with-mockito-stack-overflow/
+  original: https://stackoverflow.com/questions/5606541
