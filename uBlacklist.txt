@@ -198,3 +198,4 @@
 *://quabr.com/*
 *://*.ogeek.cn/*
 *://qatop.pythonwood.com/*
+*://techinplanet.com/*

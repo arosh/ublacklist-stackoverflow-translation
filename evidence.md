@@ -202,3 +202,4 @@
 | `quabr.com` | https://quabr.com/72111899/how-to-convert-timestamp-to-data-lake-s3-timestamp | https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp | closed? |
 | `*.ogeek.cn` | https://qa.ogeek.cn/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ | closed? |
 | `qatop.pythonwood.com` | https://qatop.pythonwood.com/sf/ask/332133091/ | https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel | closed? |
+| `techinplanet.com` | https://techinplanet.com/automatically-passing-html-attributes-to-svelte-components/ | https://stackoverflow.com/questions/48960847/automatically-passing-html-attributes-to-svelte-components |  |
