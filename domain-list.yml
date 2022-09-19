@@ -687,3 +687,6 @@
 - domain: 'techinplanet.com'
   evidence: https://techinplanet.com/automatically-passing-html-attributes-to-svelte-components/
   original: https://stackoverflow.com/questions/48960847/automatically-passing-html-attributes-to-svelte-components
+- domain: 'codeutility.org'
+  evidence: https://codeutility.org/java-how-to-capture-a-list-of-specific-type-with-mockito-stack-overflow/
+  original: https://stackoverflow.com/questions/5606541
