@@ -690,3 +690,6 @@
 - domain: 'codeutility.org'
   evidence: https://codeutility.org/java-how-to-capture-a-list-of-specific-type-with-mockito-stack-overflow/
   original: https://stackoverflow.com/questions/5606541
+- domain: 'exchangetuts.com'
+  evidence: https://exchangetuts.com/is-there-is-a-way-to-do-something-like-rails-server-sandbox-1639967255556852
+  original: https://stackoverflow.com/questions/18006591/is-there-is-a-way-to-do-something-like-rails-server-sandbox
