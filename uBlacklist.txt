@@ -200,3 +200,4 @@
 *://qatop.pythonwood.com/*
 *://techinplanet.com/*
 *://codeutility.org/*
+*://exchangetuts.com/*
