@@ -2441,3 +2441,15 @@ www.google.*##.isv-r[data-ru^="https://exchangetuts.com/"]
 www.google.*##.VFACy[href^="https://exchangetuts.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://exchangetuts.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://exchangetuts.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://splunktool.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://splunktool.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://splunktool.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://splunktool.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://splunktool.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="splunktool.com"]
+www.ecosia.org##.result[data-url^="https://splunktool.com/"]
+startpage.com##.w-gl__result-title[href^="https://splunktool.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://splunktool.com/"]
+www.google.*##.VFACy[href^="https://splunktool.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://splunktool.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://splunktool.com/"]:upward(.tile--img)

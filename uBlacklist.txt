@@ -201,3 +201,4 @@
 *://techinplanet.com/*
 *://codeutility.org/*
 *://exchangetuts.com/*
+*://splunktool.com/*
