@@ -693,3 +693,6 @@
 - domain: 'exchangetuts.com'
   evidence: https://exchangetuts.com/is-there-is-a-way-to-do-something-like-rails-server-sandbox-1639967255556852
   original: https://stackoverflow.com/questions/18006591/is-there-is-a-way-to-do-something-like-rails-server-sandbox
+- domain: 'splunktool.com'
+  evidence: https://splunktool.com/how-to-use-mysqlconnection-db-pool-with-python-flask
+  original: https://stackoverflow.com/questions/24101056/
