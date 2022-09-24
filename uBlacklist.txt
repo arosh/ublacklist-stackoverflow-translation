@@ -202,3 +202,4 @@
 *://codeutility.org/*
 *://exchangetuts.com/*
 *://splunktool.com/*
+*://coder.gay/*

@@ -2453,3 +2453,15 @@ www.google.*##.isv-r[data-ru^="https://splunktool.com/"]
 www.google.*##.VFACy[href^="https://splunktool.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://splunktool.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://splunktool.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://coder.gay/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://coder.gay/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://coder.gay/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://coder.gay/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://coder.gay/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="coder.gay"]
+www.ecosia.org##.result[data-url^="https://coder.gay/"]
+startpage.com##.w-gl__result-title[href^="https://coder.gay/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://coder.gay/"]
+www.google.*##.VFACy[href^="https://coder.gay/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://coder.gay/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://coder.gay/"]:upward(.tile--img)

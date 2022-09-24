@@ -206,3 +206,4 @@
 | `codeutility.org` | https://codeutility.org/java-how-to-capture-a-list-of-specific-type-with-mockito-stack-overflow/ | https://stackoverflow.com/questions/5606541 |  |
 | `exchangetuts.com` | https://exchangetuts.com/is-there-is-a-way-to-do-something-like-rails-server-sandbox-1639967255556852 | https://stackoverflow.com/questions/18006591/is-there-is-a-way-to-do-something-like-rails-server-sandbox |  |
 | `splunktool.com` | https://splunktool.com/how-to-use-mysqlconnection-db-pool-with-python-flask | https://stackoverflow.com/questions/24101056/ |  |
+| `coder.gay` | https://coder.gay/59348 | https://stackoverflow.com/questions/21763822/ |  |
