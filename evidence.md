@@ -48,6 +48,7 @@
 | `www.debugcn.com` | https://www.debugcn.com/ja/article/106110221.html | https://stackoverflow.com/questions/14452824 |  |
 | `*.softwareuser.asklobster.com` | https://ja.softwareuser.asklobster.com/posts/97342/7zip-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%BC%E3%83%89%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%82%92%E9%99%A4%E5%A4%96%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/ | https://superuser.com/questions/97342/ |  |
 | `*.pakostnici.com` | https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS | https://stackoverflow.com/questions/48291366 | redirects to fmihm.org |
+| `*.athabasca-foto.com` | https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS | https://stackoverflow.com/questions/604424 | redirects to fmihm.org |
 | `fmihm.org` | https://fmihm.org/805196-how-to-read-the-source-RPLVHV | https://stackoverflow.com/questions/22589269/how-to-read-the-source-code-of-jquery |  |
 | `*.try2explore.com` | https://qa.try2explore.com/questions/jp/10003161 | https://stackoverflow.com/questions/806000/ |  |
 | `itectec.com` | https://itectec.com/superuser/user-id-mapping-with-nfs-on-synology-nas/ | https://superuser.com/questions/860553/user-id-mapping-with-nfs-on-synology-nas | redirects to super-unix.com |
@@ -152,14 +153,18 @@
 | `webdevask.com` | https://webdevask.com/items/laravel-model-is-not-getting-data | https://stackoverflow.com/questions/73267978 |  |
 | `www.thecodeteacher.com` | https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once | https://stackoverflow.com/questions/52288120 |  |
 | `issuecloser.com` | https://issuecloser.com/blog/why-component-scanning-does-not-work-for-spring-boot-unit-tests | https://stackoverflow.com/questions/48679637 |  |
+| `etsoutdoors.com` | https://etsoutdoors.com/648949-transition-translate-width-and-height-LQRQDC | https://stackoverflow.com/questions/45586256/transition-translate-width-and-height-at-same-time-in-safari |  |
+| `waldorf-am-see.org` | https://waldorf-am-see.org/660771-detect-if-visual-c-redistributable-MPPLFY | https://stackoverflow.com/questions/12206314/detect-if-visual-c-redistributable-for-visual-studio-2012-is-installed |  |
+| `www.mejorcodigo.com` | https://www.mejorcodigo.com/p/10912.html | https://stackoverflow.com/questions/54333951 |  |
+| `*.arip-photo.org` | https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD | https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574 |  |
+| `www.answerlib.com` | https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html | https://stackoverflow.com/q/37928277 |  |
+| `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 |  |
+| `*.fluffyfables.com` | https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is | https://stackoverflow.com/q/50951955 |  |
 | `code.i-harness.com` | https://code.i-harness.com/ja-jp/q/1cc697 | https://stackoverflow.com/questions/1885847/ | closed? |
 | `www.webdevqa.jp.net` | https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/ | https://unix.stackexchange.com/q/419198 | closed? |
 | `*.siwib.org` | https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA | https://stackoverflow.com/q/50951955 | closed? |
-| `*.fluffyfables.com` | https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is | https://stackoverflow.com/q/50951955 | closed? |
-| `*.athabasca-foto.com` | https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS | https://stackoverflow.com/questions/604424 | closed? |
 | `*.zsharp.org` | https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT | https://stackoverflow.com/questions/3143698 | closed? |
 | `*.projectbackpack.org` | https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ | https://stackoverflow.com/questions/1414365 | closed? |
-| `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 | closed? |
 | `*.sunflowercreations.org` | https://ja.sunflowercreations.org/697902-how-do-i-open-a-VUPZKF | https://stackoverflow.com/questions/3204380 | closed? |
 | `*.cfadnc.org` | https://ja.cfadnc.org/985524-what-is-the-purpose-of-DXQQMX | https://stackoverflow.com/questions/36688321 | closed? |
 | `*.fitforlearning.org` | https://ja.fitforlearning.org/635934-includes-not-working-in-internet-ZFTDNI | https://stackoverflow.com/questions/36574351 | closed? |
@@ -194,16 +199,11 @@
 | `stackfinder.jp.net` | https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | closed? |
 | `www.uebu-kaihatsu.jp.net` | https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/ | https://serverfault.com/q/809632 | closed? |
 | `younggeeks.in` | https://younggeeks.in/questions/11586390 | https://stackoverflow.com/questions/70524850 | closed? |
-| `www.answerlib.com` | https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html | https://stackoverflow.com/q/37928277 | closed? |
 | `*.codefaq.info` | https://es.codefaq.info/como_arreglar_el_tipo_de_comprobacion_cuando_el_uso_de_este_de_la_tienda_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | closed? |
 | `*.elfishgene.com` | https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW | https://stackoverflow.com/questions/58304957/ | closed? |
 | `*.answacode.com` | https://pt.answacode.com/stackoverflow/13221978/obtendo-erro-redirecturimismatch-o-redirecionamento-uri-no-pedido-httplocalhost8 | https://stackoverflow.com/questions/13221978 | closed? |
-| `*.arip-photo.org` | https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD | https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574 | closed? |
-| `jpdebug.com` | https://jpdebug.com/p/2194247 | https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python | closed? |
 | `*.ntcdoon.org` | https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI | https://stackoverflow.com/q/13195129 | closed? |
 | `catwolf.org` | https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js | closed? |
-| `www.learnfk.com` | https://www.learnfk.com/question/asp.net/71420434.html | https://stackoverflow.com/questions/71420434 | closed? |
-| `www.mejorcodigo.com` | https://www.mejorcodigo.com/p/10912.html | https://stackoverflow.com/questions/54333951 | closed? |
 | `dailydevsblog.com` | https://dailydevsblog.com/troubleshoot/resolved-conditional-aggregation-of-rows-in-polars-81513/ | https://stackoverflow.com/questions/71852514/conditional-aggregation-of-rows-in-polars | closed? |
 | `techinplanet.com` | https://techinplanet.com/automatically-passing-html-attributes-to-svelte-components/ | https://stackoverflow.com/questions/48960847/automatically-passing-html-attributes-to-svelte-components |  |
 | `codeutility.org` | https://codeutility.org/java-how-to-capture-a-list-of-specific-type-with-mockito-stack-overflow/ | https://stackoverflow.com/questions/5606541 |  |
