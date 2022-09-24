@@ -178,6 +178,10 @@
   evidence: https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS
   original: https://stackoverflow.com/questions/48291366
   note: redirects to fmihm.org
+- domain: '*.athabasca-foto.com'
+  evidence: https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS
+  original: https://stackoverflow.com/questions/604424
+  note: redirects to fmihm.org
 - domain: 'fmihm.org'
   evidence: https://fmihm.org/805196-how-to-read-the-source-RPLVHV
   original: https://stackoverflow.com/questions/22589269/how-to-read-the-source-code-of-jquery
@@ -500,6 +504,27 @@
 - domain: 'issuecloser.com'
   evidence: https://issuecloser.com/blog/why-component-scanning-does-not-work-for-spring-boot-unit-tests
   original: https://stackoverflow.com/questions/48679637
+- domain: 'etsoutdoors.com'
+  evidence: https://etsoutdoors.com/648949-transition-translate-width-and-height-LQRQDC
+  original: https://stackoverflow.com/questions/45586256/transition-translate-width-and-height-at-same-time-in-safari
+- domain: 'waldorf-am-see.org'
+  evidence: https://waldorf-am-see.org/660771-detect-if-visual-c-redistributable-MPPLFY
+  original: https://stackoverflow.com/questions/12206314/detect-if-visual-c-redistributable-for-visual-studio-2012-is-installed
+- domain: 'www.mejorcodigo.com'
+  evidence: https://www.mejorcodigo.com/p/10912.html
+  original: https://stackoverflow.com/questions/54333951
+- domain: '*.arip-photo.org'
+  evidence: https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD
+  original: https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574
+- domain: 'www.answerlib.com'
+  evidence: https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html
+  original: https://stackoverflow.com/q/37928277
+- domain: '*.waymanamechurch.org'
+  evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
+  original: https://stackoverflow.com/questions/784929
+- domain: '*.fluffyfables.com'
+  evidence: https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is
+  original: https://stackoverflow.com/q/50951955
 - domain: 'code.i-harness.com'
   evidence: https://code.i-harness.com/ja-jp/q/1cc697
   original: https://stackoverflow.com/questions/1885847/
@@ -512,14 +537,6 @@
   evidence: https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA
   original: https://stackoverflow.com/q/50951955
   note: closed?
-- domain: '*.fluffyfables.com'
-  evidence: https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is
-  original: https://stackoverflow.com/q/50951955
-  note: closed?
-- domain: '*.athabasca-foto.com'
-  evidence: https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS
-  original: https://stackoverflow.com/questions/604424
-  note: closed?
 - domain: '*.zsharp.org'
   evidence: https://ja.zsharp.org/481737-uncaught-syntaxerror-unexpected-token-ULISDT
   original: https://stackoverflow.com/questions/3143698
@@ -527,10 +544,6 @@
 - domain: '*.projectbackpack.org'
   evidence: https://ja.projectbackpack.org/318738-disable-enable-an-input-with-MWIBMZ
   original: https://stackoverflow.com/questions/1414365
-  note: closed?
-- domain: '*.waymanamechurch.org'
-  evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
-  original: https://stackoverflow.com/questions/784929
   note: closed?
 - domain: '*.sunflowercreations.org'
   evidence: https://ja.sunflowercreations.org/697902-how-do-i-open-a-VUPZKF
@@ -668,10 +681,6 @@
   evidence: https://younggeeks.in/questions/11586390
   original: https://stackoverflow.com/questions/70524850
   note: closed?
-- domain: 'www.answerlib.com'
-  evidence: https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html
-  original: https://stackoverflow.com/q/37928277
-  note: closed?
 - domain: '*.codefaq.info'
   evidence: https://es.codefaq.info/como_arreglar_el_tipo_de_comprobacion_cuando_el_uso_de_este_de_la_tienda_findrecod
   original: https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod
@@ -684,14 +693,6 @@
   evidence: https://pt.answacode.com/stackoverflow/13221978/obtendo-erro-redirecturimismatch-o-redirecionamento-uri-no-pedido-httplocalhost8
   original: https://stackoverflow.com/questions/13221978
   note: closed?
-- domain: '*.arip-photo.org'
-  evidence: https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD
-  original: https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574
-  note: closed?
-- domain: 'jpdebug.com'
-  evidence: https://jpdebug.com/p/2194247
-  original: https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python
-  note: closed?
 - domain: '*.ntcdoon.org'
   evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
   original: https://stackoverflow.com/q/13195129
@@ -699,14 +700,6 @@
 - domain: 'catwolf.org'
   evidence: https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y
   original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
-  note: closed?
-- domain: 'www.learnfk.com'
-  evidence: https://www.learnfk.com/question/asp.net/71420434.html
-  original: https://stackoverflow.com/questions/71420434
-  note: closed?
-- domain: 'www.mejorcodigo.com'
-  evidence: https://www.mejorcodigo.com/p/10912.html
-  original: https://stackoverflow.com/questions/54333951
   note: closed?
 - domain: 'dailydevsblog.com'
   evidence: https://dailydevsblog.com/troubleshoot/resolved-conditional-aggregation-of-rows-in-polars-81513/
