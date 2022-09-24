@@ -71,6 +71,7 @@ func TestDomainList(t *testing.T) {
 				"askubuntu.com",
 				"stackoverflow.com",
 				"superuser.com",
+				"serverfault.com",
 			}
 			for _, stackExchange := range stackExchanges {
 				if matched, err := path.Match(tt.Domain, stackExchange); err != nil {

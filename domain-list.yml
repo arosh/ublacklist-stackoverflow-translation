@@ -150,10 +150,6 @@
   evidence: http://ja.uwenku.com/question/p-oafoukjq-gq.html
   original: https://stackoverflow.com/questions/48045748
   note:
-- domain: '*.pcbconline.org'
-  evidence: https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT
-  original: https://stackoverflow.com/questions/17341670
-  note:
 - domain: 'www.nuomiphp.com'
   evidence: https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html
   original: https://stackoverflow.com/questions/60451458
@@ -161,47 +157,30 @@
 - domain: 'ubuntu.buildwebhost.com'
   evidence: https://ubuntu.buildwebhost.com/ja/q/214411
   original: https://askubuntu.com/questions/940701
-  note: redirects to `ubuntuaa.com`
+  note: redirects to `ubuntubin.com`
 - domain: 'ubuntuaa.com'
   evidence: https://ubuntuaa.com/ja/q/214411
+  original: https://askubuntu.com/questions/940701
+  note: redirects to `ubuntubin.com`
+- domain: 'ubuntubin.com'
+  evidence: https://ubuntubin.com/ja/q/214411
   original: https://askubuntu.com/questions/940701
   note:
 - domain: 'www.debugcn.com'
   evidence: https://www.debugcn.com/ja/article/106110221.html
   original: https://stackoverflow.com/questions/14452824
   note:
-- domain: '*.sch22.org'
-  evidence: https://ja.sch22.org/248250-how-can-i-save-an-QIVEKL
-  original: https://stackoverflow.com/questions/14452824/
-  note:
-- domain: '*.gupgallery.com'
-  evidence: https://ja.gupgallery.com/146367-how-can-i-save-an-OSXEJL
-  original: https://stackoverflow.com/questions/14452824/
-  note:
-- domain: '*.amuddycup.com'
-  evidence: https://ja.amuddycup.com/162943-command-executed-via-ssh-does-JKQSGP-article
-  original: https://superuser.com/q/652729
-  note:
-- domain: '*.ecnf2016.org'
-  evidence: https://ja.ecnf2016.org/541514-install-scratchbox2-package-in-ubuntu-BODUKA-article
-  original: https://askubuntu.com/questions/940701
-  note:
 - domain: '*.softwareuser.asklobster.com'
   evidence: https://ja.softwareuser.asklobster.com/posts/97342/7zip-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%BC%E3%83%89%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%82%92%E9%99%A4%E5%A4%96%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/
   original: https://superuser.com/questions/97342/
   note:
-- domain: '*.domainelespailles.net'
-  evidence: https://ja.domainelespailles.net/654932-7zip-command-line-exclude-folders-JCTSXV-article
-  original: https://superuser.com/questions/97342/
-  note:
-- domain: '*.ec-europe.org'
-  evidence: https://ja.ec-europe.org/423404-how-to-find-dev-name-MQPQQD
-  original: https://stackoverflow.com/questions/48291366
-  note:
 - domain: '*.pakostnici.com'
   evidence: https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS
   original: https://stackoverflow.com/questions/48291366
-  note:
+  note: redirects to fmihm.org
+- domain: 'fmihm.org'
+  evidence: https://fmihm.org/805196-how-to-read-the-source-RPLVHV
+  original: https://stackoverflow.com/questions/22589269/how-to-read-the-source-code-of-jquery
 - domain: '*.try2explore.com'
   evidence: https://qa.try2explore.com/questions/jp/10003161
   original: https://stackoverflow.com/questions/806000/
@@ -209,34 +188,17 @@
 - domain: 'itectec.com'
   evidence: https://itectec.com/superuser/user-id-mapping-with-nfs-on-synology-nas/
   original: https://superuser.com/questions/860553/user-id-mapping-with-nfs-on-synology-nas
-  note:
+  note: redirects to super-unix.com
+- domain: 'super-unix.com'
+  evidence: https://super-unix.com/superuser/user-id-mapping-with-nfs-on-synology-nas/
+  original: https://superuser.com/questions/860553/user-id-mapping-with-nfs-on-synology-nas
 - domain: 'stackovergo.com'
   evidence: https://stackovergo.com/ja/q/1063649/does-netbeans-recognize-javascript-prototypal-inheritance
   original: https://stackoverflow.com/questions/4531523/does-netbeans-recognize-javascript-prototypal-inheritance
   note:
-- domain: '*.faithcov.org'
-  evidence: https://ja.faithcov.org/809259-difference-stringstream-and-ostringstream-GVMZFY
-  original: https://stackoverflow.com/questions/18251346/difference-stringstream-and-ostringstream
-  note:
-- domain: '*.noblenaz.org'
-  evidence: https://ja.noblenaz.org/236385-notify-osd-replaced-with-dunst-TEWTPA-article
-  original: https://askubuntu.com/questions/634797/notify-osd-replaced-with-dunst-after-switching-back-to-unity-from-i3wm
-  note:
-- domain: '*.culinarydegree.info'
-  evidence: https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR
-  original: https://stackoverflow.com/q/13054371
-  note:
-- domain: 'qapicks.com'
-  evidence: https://qapicks.com/question/1668131-87a39319fa31
-  original: https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu
-  note:
 - domain: '*.narkive.jp'
   evidence: https://security.narkive.jp/oBrsVjXh
   original: https://security.stackexchange.com/questions/373/open-source-penetration-test-automation
-  note:
-- domain: '*.ourladylakes.org'
-  evidence: https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP
-  original: https://stackoverflow.com/questions/2193412/xslt-not-contains-check
   note:
 - domain: intellipaat.com
   evidence: https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random
@@ -257,13 +219,6 @@
 - domain: 'tutorialmore.com'
   evidence: https://tutorialmore.com/questions-838617.htm
   original: https://superuser.com/questions/1183564/
-  note:
-- domain: 'www.titanwolf.org'
-  evidence: https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y
-  original: https://stackoverflow.com/questions/42244819
-- domain: 'fullstackuser.com'
-  evidence: https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: '*.wujigu.com'
   evidence: https://qa.wujigu.com/qa/?qa=1160352
   original: https://stackoverflow.com/questions/43179984
@@ -279,9 +234,6 @@
 - domain: 'www.semicolonworld.com'
   evidence: https://www.semicolonworld.com/question/57502/python-decompressing-gzip-chunk-by-chunk
   original: https://stackoverflow.com/questions/2423866/python-decompressing-gzip-chunk-by-chunk
-- domain: 'tipsfordev.com'
-  evidence: https://tipsfordev.com/argparse-subparser-monolithic-help-output
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
 - domain: '*.qi-u.com'
   evidence: https://www.qi-u.com/?qa=580340/python-argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
@@ -297,24 +249,12 @@
 - domain: 'www.generacodice.com'
   evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
   original: https://stackoverflow.com/questions/1439719
-- domain: 'stackfinder.jp.net'
-  evidence: https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct
-  original: https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct
-- domain: 'www.uebu-kaihatsu.jp.net'
-  evidence: https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/
-  original: https://serverfault.com/q/809632
 - domain: '*.sqlite.in'
   evidence: https://qa.sqlite.in/?qa=159286/
   original: https://stackoverflow.com/questions/5164930
 - domain: 'stackguides.com'
   evidence: https://stackguides.com/questions/55582335
   original: https://stackoverflow.com/questions/55582335
-- domain: 'younggeeks.in'
-  evidence: https://younggeeks.in/questions/11586390
-  original: https://stackoverflow.com/questions/70524850
-- domain: 'www.answerlib.com'
-  evidence: https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html
-  original: https://stackoverflow.com/q/37928277
 - domain: 'www.stackfinder.ru'
   evidence: https://www.stackfinder.ru/questions/60256300/swaggerui-5-0-0-ignoring-jsonproperty-name
   original: https://stackoverflow.com/questions/60256300
@@ -331,10 +271,6 @@
   evidence: https://question-it.com/questions/12118832/kak-izmenit-kljuch-interfejsa-znachenie-stroka-na-kljuch-stroka-stroka
   original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
   note: mirrors for other languages are specified in the head tag
-- domain: '*.codefaq.info'
-  evidence: https://es.codefaq.info/como_arreglar_el_tipo_de_comprobacion_cuando_el_uso_de_este_de_la_tienda_findrecod
-  original: https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod
-  note: mirrors for other languages are specified in the head tag
 - domain: '*.mediatagtw.com'
   evidence: https://programming.mediatagtw.com/article/Textarea+select+all
   original: https://stackoverflow.com/questions/7313786/highlight-all-text-in-textarea
@@ -342,33 +278,18 @@
 - domain: 'progi.pro'
   evidence: https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983
   original: https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock
-- domain: '*.elfishgene.com'
-  evidence: https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW
-  original: https://stackoverflow.com/questions/58304957/
 - domain: 'sysadminde.com'
   evidence: https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs
   original: https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs
-- domain: '*.answacode.com'
-  evidence: https://pt.answacode.com/stackoverflow/13221978/obtendo-erro-redirecturimismatch-o-redirecionamento-uri-no-pedido-httplocalhost8
-  original: https://stackoverflow.com/questions/13221978
 - domain: 'ask-dev.ru'
   evidence: https://ask-dev.ru/info/12969289/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
   original: https://stackoverflow.com/questions/41223963/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
-- domain: '*.arip-photo.org'
-  evidence: https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD
-  original: https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574
-- domain: 'jpdebug.com'
-  evidence: https://jpdebug.com/p/2194247
-  original: https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python
 - domain: 'askcodez.com'
   evidence: https://askcodez.com/junit-test-des-setters-et-des-getters-de-variables-dinstance.html
   original: https://stackoverflow.com/questions/21354311/junit-test-of-setters-and-getters-of-instance-variables
 - domain: 'iquestion.pro'
   evidence: https://iquestion.pro/q/as13032164/watashitachi-ni-mukerareteinai-parusa-o-kenshutsu-dekimasu-ka
   original: https://astronomy.stackexchange.com/questions/34366/can-we-detect-pulsars-that-arent-pointed-towards-us
-- domain: '*.ntcdoon.org'
-  evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
-  original: https://stackoverflow.com/q/13195129
 - domain: 'programmierfrage.com'
   evidence: https://programmierfrage.com/items/phpmailer-custom-header-set-but-not-shown-on-delivery
   original: https://stackoverflow.com/questions/65253795/phpmailer-custom-header-set-but-not-shown-on-delivery
@@ -378,18 +299,12 @@
 - domain: 'www.debugko.com'
   evidence: https://www.debugko.com/article/25OdKAAOyMaK7Be9.html
   original: https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892
-- domain: 'catwolf.org'
-  evidence: https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y
-  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
 - domain: '*.1r1g.com'
   evidence: https://qa.1r1g.com/sf/ask/1154372761/
   original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
 - domain: 'string.quest'
   evidence: https://string.quest/read/3613655
   original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
-- domain: 'reddit.fun'
-  evidence: https://reddit.fun/511896/how-do-i-ignore-a-route-in-rails
-  original: https://stackoverflow.com/questions/21221928/how-do-i-ignore-a-route-in-rails
 - domain: 'qa.icopy.site'
   evidence: https://qa.icopy.site/questions/44931728/openfiledialog-spy
   original: https://stackoverflow.com/questions/44931728/openfiledialog-spy
@@ -405,9 +320,10 @@
 - domain: serveanswer.com
   evidence: https://serveanswer.com/questions/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
   original: https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
-- domain: '*.safehavenpetrescue.org'
-  evidence: https://ja.safehavenpetrescue.org/328316-how-to-keep-network-services-IVTLBP
-  original: https://stackoverflow.com/q/63978924
+  note: redirects to 'devfixes.com'
+- domain: devfixes.com
+  evidence: https://devfixes.com/question/cron-job-that-does-git-fetch-is-it-thread-safe
+  original: https://stackoverflow.com/questions/73834509/cron-job-that-does-git-fetch-is-it-thread-safe
 - domain: 'cainiaojiaocheng.com'
   evidence: https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
   original: https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
@@ -417,15 +333,17 @@
 - domain: 'www.it-roy-ru.com'
   evidence: https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
   original: https://stackoverflow.com/q/3367415
+  note: redirects to 'www.wake-up-neo.net'
 - domain: 'www.web-dev-qa.com'
   evidence: https://www.web-dev-qa.com/ja/bash/962672142/
   original: https://unix.stackexchange.com/questions/395742/
+  note: redirects to 'www.wake-up-neo.net'
+- domain: 'www.wake-up-neo.net'
+  evidence: https://www.wake-up-neo.net/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
+  original: https://stackoverflow.com/questions/3367415/get-epoch-for-a-specific-date-using-javascript
 - domain: 'flutterhq.com'
   evidence: https://flutterhq.com/questions-and-answers/2215/how-to-use-dropdownbutton-with-same-value
   original: https://stackoverflow.com/questions/72213309
-- domain: 'dailydevsblog.com'
-  evidence: https://dailydevsblog.com/troubleshoot/resolved-conditional-aggregation-of-rows-in-polars-81513/
-  original: https://stackoverflow.com/questions/71852514/conditional-aggregation-of-rows-in-polars
 - domain: '711web.com'
   evidence: https://711web.com/html-css-scroll-view-on-nested-elements/
   original: https://stackoverflow.com/questions/69451521/css-scroll-perspective-on-nested-elements
@@ -441,9 +359,6 @@
 - domain: 'peaku.co'
   evidence: https://peaku.co/questions/8041-how-to-deploy-nextjs-with-nginx
   original: https://stackoverflow.com/questions/64386737
-- domain: 'www.learnfk.com'
-  evidence: https://www.learnfk.com/question/asp.net/71420434.html
-  original: https://stackoverflow.com/questions/71420434
 - domain: 'solveforum.com'
   evidence: https://solveforum.com/forums/threads/solved-authorization-error-error-400-redirect_uri_mismatch-on-c.650652/
   original: https://stackoverflow.com/questions/71420434
@@ -495,9 +410,6 @@
 - domain: 'www.faqcodes.com'
   evidence: https://www.faqcodes.com/faq/89709/getting-error-redirect-uri-mismatch-with-google-oauth2
   original: https://stackoverflow.com/questions/13204474
-- domain: 'www.mejorcodigo.com'
-  evidence: https://www.mejorcodigo.com/p/10912.html
-  original: https://stackoverflow.com/questions/54333951
 - domain: 'www.anycodings.com'
   evidence: https://www.anycodings.com/questions/google-oauth-20-api-authentication-error-error-400-redirecturimismatch-does-not-comply-with-policy-django-app
   original: https://stackoverflow.com/questions/68764885
@@ -683,6 +595,122 @@
 - domain: 'qatop.pythonwood.com'
   evidence: https://qatop.pythonwood.com/sf/ask/332133091/
   original: https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel
+  note: closed?
+- domain: '*.pcbconline.org'
+  evidence: https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT
+  original: https://stackoverflow.com/questions/17341670
+  note: closed?
+- domain: '*.sch22.org'
+  evidence: https://ja.sch22.org/248250-how-can-i-save-an-QIVEKL
+  original: https://stackoverflow.com/questions/14452824/
+  note: closed?
+- domain: '*.gupgallery.com'
+  evidence: https://ja.gupgallery.com/146367-how-can-i-save-an-OSXEJL
+  original: https://stackoverflow.com/questions/14452824/
+  note: closed?
+- domain: '*.amuddycup.com'
+  evidence: https://ja.amuddycup.com/162943-command-executed-via-ssh-does-JKQSGP-article
+  original: https://superuser.com/q/652729
+  note: closed?
+- domain: '*.ecnf2016.org'
+  evidence: https://ja.ecnf2016.org/541514-install-scratchbox2-package-in-ubuntu-BODUKA-article
+  original: https://askubuntu.com/questions/940701
+  note: closed?
+- domain: '*.domainelespailles.net'
+  evidence: https://ja.domainelespailles.net/654932-7zip-command-line-exclude-folders-JCTSXV-article
+  original: https://superuser.com/questions/97342/
+  note: closed?
+- domain: '*.ec-europe.org'
+  evidence: https://ja.ec-europe.org/423404-how-to-find-dev-name-MQPQQD
+  original: https://stackoverflow.com/questions/48291366
+  note: closed?
+- domain: '*.faithcov.org'
+  evidence: https://ja.faithcov.org/809259-difference-stringstream-and-ostringstream-GVMZFY
+  original: https://stackoverflow.com/questions/18251346/difference-stringstream-and-ostringstream
+  note: closed?
+- domain: '*.noblenaz.org'
+  evidence: https://ja.noblenaz.org/236385-notify-osd-replaced-with-dunst-TEWTPA-article
+  original: https://askubuntu.com/questions/634797/notify-osd-replaced-with-dunst-after-switching-back-to-unity-from-i3wm
+  note: closed?
+- domain: '*.culinarydegree.info'
+  evidence: https://ja.culinarydegree.info/835697-programmatically-switch-audio-devices-on-SGPPFR
+  original: https://stackoverflow.com/q/13054371
+  note: closed?
+- domain: 'qapicks.com'
+  evidence: https://qapicks.com/question/1668131-87a39319fa31
+  original: https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu
+  note: closed?
+- domain: '*.ourladylakes.org'
+  evidence: https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP
+  original: https://stackoverflow.com/questions/2193412/xslt-not-contains-check
+  note: closed?
+- domain: 'www.titanwolf.org'
+  evidence: https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y
+  original: https://stackoverflow.com/questions/42244819
+  note: closed?
+- domain: 'fullstackuser.com'
+  evidence: https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+  note: closed?
+- domain: 'tipsfordev.com'
+  evidence: https://tipsfordev.com/argparse-subparser-monolithic-help-output
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+  note: closed?
+- domain: 'stackfinder.jp.net'
+  evidence: https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct
+  original: https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct
+  note: closed?
+- domain: 'www.uebu-kaihatsu.jp.net'
+  evidence: https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/
+  original: https://serverfault.com/q/809632
+  note: closed?
+- domain: 'younggeeks.in'
+  evidence: https://younggeeks.in/questions/11586390
+  original: https://stackoverflow.com/questions/70524850
+  note: closed?
+- domain: 'www.answerlib.com'
+  evidence: https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html
+  original: https://stackoverflow.com/q/37928277
+  note: closed?
+- domain: '*.codefaq.info'
+  evidence: https://es.codefaq.info/como_arreglar_el_tipo_de_comprobacion_cuando_el_uso_de_este_de_la_tienda_findrecod
+  original: https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod
+  note: closed?
+- domain: '*.elfishgene.com'
+  evidence: https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW
+  original: https://stackoverflow.com/questions/58304957/
+  note: closed?
+- domain: '*.answacode.com'
+  evidence: https://pt.answacode.com/stackoverflow/13221978/obtendo-erro-redirecturimismatch-o-redirecionamento-uri-no-pedido-httplocalhost8
+  original: https://stackoverflow.com/questions/13221978
+  note: closed?
+- domain: '*.arip-photo.org'
+  evidence: https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD
+  original: https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574
+  note: closed?
+- domain: 'jpdebug.com'
+  evidence: https://jpdebug.com/p/2194247
+  original: https://stackoverflow.com/questions/11827682/how-to-log-into-stackoverflow-com-through-python
+  note: closed?
+- domain: '*.ntcdoon.org'
+  evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
+  original: https://stackoverflow.com/q/13195129
+  note: closed?
+- domain: 'catwolf.org'
+  evidence: https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y
+  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
+  note: closed?
+- domain: 'www.learnfk.com'
+  evidence: https://www.learnfk.com/question/asp.net/71420434.html
+  original: https://stackoverflow.com/questions/71420434
+  note: closed?
+- domain: 'www.mejorcodigo.com'
+  evidence: https://www.mejorcodigo.com/p/10912.html
+  original: https://stackoverflow.com/questions/54333951
+  note: closed?
+- domain: 'dailydevsblog.com'
+  evidence: https://dailydevsblog.com/troubleshoot/resolved-conditional-aggregation-of-rows-in-polars-81513/
+  original: https://stackoverflow.com/questions/71852514/conditional-aggregation-of-rows-in-polars
   note: closed?
 - domain: 'techinplanet.com'
   evidence: https://techinplanet.com/automatically-passing-html-attributes-to-svelte-components/
