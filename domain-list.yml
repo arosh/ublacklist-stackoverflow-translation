@@ -696,3 +696,6 @@
 - domain: 'splunktool.com'
   evidence: https://splunktool.com/how-to-use-mysqlconnection-db-pool-with-python-flask
   original: https://stackoverflow.com/questions/24101056/
+- domain: 'coder.gay'
+  evidence: https://coder.gay/59348
+  original: https://stackoverflow.com/questions/21763822/
