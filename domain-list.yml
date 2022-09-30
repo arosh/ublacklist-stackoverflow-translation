@@ -720,3 +720,6 @@
 - domain: 'coder.gay'
   evidence: https://coder.gay/59348
   original: https://stackoverflow.com/questions/21763822/
+- domain: 'www.stackubuntu.com'
+  evidence: https://www.stackubuntu.com/flutter-stadium-border-with-radius-not-overlapping-text
+  original: https://stackoverflow.com/questions/72997609/
