@@ -206,3 +206,4 @@
 *://exchangetuts.com/*
 *://splunktool.com/*
 *://coder.gay/*
+*://www.stackubuntu.com/*

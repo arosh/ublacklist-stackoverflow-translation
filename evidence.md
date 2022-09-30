@@ -210,3 +210,4 @@
 | `exchangetuts.com` | https://exchangetuts.com/is-there-is-a-way-to-do-something-like-rails-server-sandbox-1639967255556852 | https://stackoverflow.com/questions/18006591/is-there-is-a-way-to-do-something-like-rails-server-sandbox |  |
 | `splunktool.com` | https://splunktool.com/how-to-use-mysqlconnection-db-pool-with-python-flask | https://stackoverflow.com/questions/24101056/ |  |
 | `coder.gay` | https://coder.gay/59348 | https://stackoverflow.com/questions/21763822/ |  |
+| `www.stackubuntu.com` | https://www.stackubuntu.com/flutter-stadium-border-with-radius-not-overlapping-text | https://stackoverflow.com/questions/72997609/ |  |
