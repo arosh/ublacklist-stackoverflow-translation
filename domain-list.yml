@@ -525,6 +525,15 @@
 - domain: '*.fluffyfables.com'
   evidence: https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is
   original: https://stackoverflow.com/q/50951955
+- domain: 'qatop.pythonwood.com'
+  evidence: https://qatop.pythonwood.com/sf/ask/332133091/
+  original: https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel
+- domain: 'fullstackuser.com'
+  evidence: https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output
+  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
+- domain: '*.ntcdoon.org'
+  evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
+  original: https://stackoverflow.com/q/13195129
 - domain: 'code.i-harness.com'
   evidence: https://code.i-harness.com/ja-jp/q/1cc697
   original: https://stackoverflow.com/questions/1885847/
@@ -605,10 +614,6 @@
   evidence: https://qa.ogeek.cn/qa/?qa=637288/
   original: https://stackoverflow.com/questions/56516894/
   note: closed?
-- domain: 'qatop.pythonwood.com'
-  evidence: https://qatop.pythonwood.com/sf/ask/332133091/
-  original: https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel
-  note: closed?
 - domain: '*.pcbconline.org'
   evidence: https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT
   original: https://stackoverflow.com/questions/17341670
@@ -661,10 +666,6 @@
   evidence: https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y
   original: https://stackoverflow.com/questions/42244819
   note: closed?
-- domain: 'fullstackuser.com'
-  evidence: https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output
-  original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-  note: closed?
 - domain: 'tipsfordev.com'
   evidence: https://tipsfordev.com/argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
@@ -692,10 +693,6 @@
 - domain: '*.answacode.com'
   evidence: https://pt.answacode.com/stackoverflow/13221978/obtendo-erro-redirecturimismatch-o-redirecionamento-uri-no-pedido-httplocalhost8
   original: https://stackoverflow.com/questions/13221978
-  note: closed?
-- domain: '*.ntcdoon.org'
-  evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
-  original: https://stackoverflow.com/q/13195129
   note: closed?
 - domain: 'catwolf.org'
   evidence: https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y
