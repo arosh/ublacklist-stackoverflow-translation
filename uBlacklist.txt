@@ -156,6 +156,9 @@
 *://www.answerlib.com/*
 *://*.waymanamechurch.org/*
 *://*.fluffyfables.com/*
+*://qatop.pythonwood.com/*
+*://fullstackuser.com/*
+*://*.ntcdoon.org/*
 *://code.i-harness.com/*
 *://www.webdevqa.jp.net/*
 *://*.siwib.org/*
@@ -176,7 +179,6 @@
 *://devdreamz.com/*
 *://quabr.com/*
 *://*.ogeek.cn/*
-*://qatop.pythonwood.com/*
 *://*.pcbconline.org/*
 *://*.sch22.org/*
 *://*.gupgallery.com/*
@@ -190,7 +192,6 @@
 *://qapicks.com/*
 *://*.ourladylakes.org/*
 *://www.titanwolf.org/*
-*://fullstackuser.com/*
 *://tipsfordev.com/*
 *://stackfinder.jp.net/*
 *://www.uebu-kaihatsu.jp.net/*
@@ -198,7 +199,6 @@
 *://*.codefaq.info/*
 *://*.elfishgene.com/*
 *://*.answacode.com/*
-*://*.ntcdoon.org/*
 *://catwolf.org/*
 *://dailydevsblog.com/*
 *://techinplanet.com/*

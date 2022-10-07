@@ -160,6 +160,9 @@
 | `www.answerlib.com` | https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html | https://stackoverflow.com/q/37928277 |  |
 | `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 |  |
 | `*.fluffyfables.com` | https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is | https://stackoverflow.com/q/50951955 |  |
+| `qatop.pythonwood.com` | https://qatop.pythonwood.com/sf/ask/332133091/ | https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel |  |
+| `fullstackuser.com` | https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
+| `*.ntcdoon.org` | https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI | https://stackoverflow.com/q/13195129 |  |
 | `code.i-harness.com` | https://code.i-harness.com/ja-jp/q/1cc697 | https://stackoverflow.com/questions/1885847/ | closed? |
 | `www.webdevqa.jp.net` | https://www.webdevqa.jp.net/ja/linux/%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E5%AE%9F%E8%A1%8C/962630318/ | https://unix.stackexchange.com/q/419198 | closed? |
 | `*.siwib.org` | https://ja.siwib.org/741126-pytesseract-tesseractnotfound-error-tesseract-is-PZDKWA | https://stackoverflow.com/q/50951955 | closed? |
@@ -180,7 +183,6 @@
 | `devdreamz.com` | https://devdreamz.com/question/361174-maximum-query-length-to-avoid-epipe-error-in-node-js | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js | closed? |
 | `quabr.com` | https://quabr.com/72111899/how-to-convert-timestamp-to-data-lake-s3-timestamp | https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp | closed? |
 | `*.ogeek.cn` | https://qa.ogeek.cn/qa/?qa=637288/ | https://stackoverflow.com/questions/56516894/ | closed? |
-| `qatop.pythonwood.com` | https://qatop.pythonwood.com/sf/ask/332133091/ | https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel | closed? |
 | `*.pcbconline.org` | https://ja.pcbconline.org/981093-change-color-of-one-character-AAYKXT | https://stackoverflow.com/questions/17341670 | closed? |
 | `*.sch22.org` | https://ja.sch22.org/248250-how-can-i-save-an-QIVEKL | https://stackoverflow.com/questions/14452824/ | closed? |
 | `*.gupgallery.com` | https://ja.gupgallery.com/146367-how-can-i-save-an-OSXEJL | https://stackoverflow.com/questions/14452824/ | closed? |
@@ -194,7 +196,6 @@
 | `qapicks.com` | https://qapicks.com/question/1668131-87a39319fa31 | https://superuser.com/questions/1668131/how-do-i-add-my-own-entries-to-the-new-windows-11-right-click-context-menu | closed? |
 | `*.ourladylakes.org` | https://ja.ourladylakes.org/194402-xslt-not-contains-check-BQDKGP | https://stackoverflow.com/questions/2193412/xslt-not-contains-check | closed? |
 | `www.titanwolf.org` | https://www.titanwolf.org/Network/q/ebc21076-5998-4d65-94c2-7e36b45e88d4/y | https://stackoverflow.com/questions/42244819 | closed? |
-| `fullstackuser.com` | https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | closed? |
 | `tipsfordev.com` | https://tipsfordev.com/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output | closed? |
 | `stackfinder.jp.net` | https://stackfinder.jp.net/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | https://stackoverflow.com/questions/56419723/which-of-these-implementations-of-seqlock-are-correct | closed? |
 | `www.uebu-kaihatsu.jp.net` | https://www.uebu-kaihatsu.jp.net/ja/docker/kubernetes%E3%82%B8%E3%83%A7%E3%83%96%E3%82%92%E5%86%8D%E5%AE%9F%E8%A1%8C%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%81%8B%EF%BC%9F/960037516/ | https://serverfault.com/q/809632 | closed? |
@@ -202,7 +203,6 @@
 | `*.codefaq.info` | https://es.codefaq.info/como_arreglar_el_tipo_de_comprobacion_cuando_el_uso_de_este_de_la_tienda_findrecod | https://stackoverflow.com/questions/57978235/how-to-fix-type-checking-when-using-this-store-findrecod | closed? |
 | `*.elfishgene.com` | https://ja.elfishgene.com/472858-pymatgen-how-to-convert-query-HNDCUW | https://stackoverflow.com/questions/58304957/ | closed? |
 | `*.answacode.com` | https://pt.answacode.com/stackoverflow/13221978/obtendo-erro-redirecturimismatch-o-redirecionamento-uri-no-pedido-httplocalhost8 | https://stackoverflow.com/questions/13221978 | closed? |
-| `*.ntcdoon.org` | https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI | https://stackoverflow.com/q/13195129 | closed? |
 | `catwolf.org` | https://catwolf.org/qs?id=1d13bb7c-ef6b-4c35-b4f8-c254f49bbab4&x=y | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js | closed? |
 | `dailydevsblog.com` | https://dailydevsblog.com/troubleshoot/resolved-conditional-aggregation-of-rows-in-polars-81513/ | https://stackoverflow.com/questions/71852514/conditional-aggregation-of-rows-in-polars | closed? |
 | `techinplanet.com` | https://techinplanet.com/automatically-passing-html-attributes-to-svelte-components/ | https://stackoverflow.com/questions/48960847/automatically-passing-html-attributes-to-svelte-components |  |
