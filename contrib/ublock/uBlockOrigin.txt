@@ -2009,3 +2009,15 @@ www.google.*##.isv-r[data-ru^="https://www.stackubuntu.com/"]
 www.google.*##.VFACy[href^="https://www.stackubuntu.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://www.stackubuntu.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://www.stackubuntu.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://jtuto.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://jtuto.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://jtuto.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://jtuto.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://jtuto.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="jtuto.com"]
+www.ecosia.org##.result[data-url^="https://jtuto.com/"]
+startpage.com##.w-gl__result-title[href^="https://jtuto.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://jtuto.com/"]
+www.google.*##.VFACy[href^="https://jtuto.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://jtuto.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://jtuto.com/"]:upward(.tile--img)

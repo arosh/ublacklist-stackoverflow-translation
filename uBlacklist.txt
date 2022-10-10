@@ -165,3 +165,4 @@
 *://splunktool.com/*
 *://coder.gay/*
 *://www.stackubuntu.com/*
+*://jtuto.com/*

@@ -169,3 +169,4 @@
 | `splunktool.com` | https://splunktool.com/how-to-use-mysqlconnection-db-pool-with-python-flask | https://stackoverflow.com/questions/24101056/ |  |
 | `coder.gay` | https://coder.gay/59348 | https://stackoverflow.com/questions/21763822/ |  |
 | `www.stackubuntu.com` | https://www.stackubuntu.com/flutter-stadium-border-with-radius-not-overlapping-text | https://stackoverflow.com/questions/72997609/ |  |
+| `jtuto.com` | https://jtuto.com/poetry-add-removes-all-metadata-files-entries/ | https://stackoverflow.com/questions/73213527/poetry-add-package-removes-all-metadata-files-entries |  |
