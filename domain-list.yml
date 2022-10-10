@@ -552,3 +552,6 @@
 - domain: 'www.stackubuntu.com'
   evidence: https://www.stackubuntu.com/flutter-stadium-border-with-radius-not-overlapping-text
   original: https://stackoverflow.com/questions/72997609/
+- domain: 'jtuto.com'
+  evidence: https://jtuto.com/poetry-add-removes-all-metadata-files-entries/
+  original: https://stackoverflow.com/questions/73213527/poetry-add-package-removes-all-metadata-files-entries
