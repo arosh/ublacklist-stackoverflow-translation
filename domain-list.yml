@@ -555,3 +555,6 @@
 - domain: 'jtuto.com'
   evidence: https://jtuto.com/poetry-add-removes-all-metadata-files-entries/
   original: https://stackoverflow.com/questions/73213527/poetry-add-package-removes-all-metadata-files-entries
+- domain: 'bitcoden.com'
+  evidence: https://bitcoden.com/answers/exclude-file-from-git-diff
+  original: https://stackoverflow.com/questions/10415100/exclude-file-from-git-diff
