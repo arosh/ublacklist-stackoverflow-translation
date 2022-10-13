@@ -3,8 +3,8 @@
 If you want to add a domain, add 3 lines to `domain-list.yml` in the following format:
 
 ```yaml
-- domain: 'bad-domain.com'
-  evidence: https://www.bad-domain.com/12345/url-to-cheap-copy-of-stackoverflow-question
+- domain: 'example.com'
+  evidence: https://example.com/12345/url-to-cheap-copy-of-stackoverflow-question
   original: https://stackoverflow.com/questions/12345
 ```
 
