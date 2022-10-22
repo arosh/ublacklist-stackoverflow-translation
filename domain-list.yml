@@ -558,3 +558,6 @@
 - domain: 'bitcoden.com'
   evidence: https://bitcoden.com/answers/exclude-file-from-git-diff
   original: https://stackoverflow.com/questions/10415100/exclude-file-from-git-diff
+- domain: '9to5answer.com'
+  evidence: https://9to5answer.com/jinja2-if-statement-in-vs-equals-on-dict
+  original: https://stackoverflow.com/questions/22238265/jinja2-if-statement-in-vs-equals-on-dict
