@@ -265,8 +265,13 @@
 - domain: 'www.desenv-web-rp.com'
   evidence: https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
   original: https://stackoverflow.com/questions/38728200
+  note: redirects to 'www.kutombawewe.net'
 - domain: www.web-dev-qa-db-pt.com
   evidence: https://www.web-dev-qa-db-pt.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
+  original: https://stackoverflow.com/questions/38728200
+  note: redirects to 'www.kutombawewe.net'
+- domain: www.kutombawewe.net
+  evidence: https://www.kutombawewe.net/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
   original: https://stackoverflow.com/questions/38728200
 - domain: 'www.5axxw.com'
   evidence: https://www.5axxw.com/questions/content/8pxpsb
