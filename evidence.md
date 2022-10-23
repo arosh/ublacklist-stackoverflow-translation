@@ -163,7 +163,7 @@
 | `qatop.pythonwood.com` | https://qatop.pythonwood.com/sf/ask/332133091/ | https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel |  |
 | `fullstackuser.com` | https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output | https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output |  |
 | `*.ntcdoon.org` | https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI | https://stackoverflow.com/q/13195129 |  |
-| `techinplanet.com` | https://techinplanet.com/automatically-passing-html-attributes-to-svelte-components/ | https://stackoverflow.com/questions/48960847/automatically-passing-html-attributes-to-svelte-components |  |
+| `techinplanet.com` | https://techinplanet.com/error-err_require_esm-require-of-es-module-not-supported/ | https://stackoverflow.com/q/69081410 |  |
 | `codeutility.org` | https://codeutility.org/java-how-to-capture-a-list-of-specific-type-with-mockito-stack-overflow/ | https://stackoverflow.com/questions/5606541 |  |
 | `exchangetuts.com` | https://exchangetuts.com/is-there-is-a-way-to-do-something-like-rails-server-sandbox-1639967255556852 | https://stackoverflow.com/questions/18006591/is-there-is-a-way-to-do-something-like-rails-server-sandbox |  |
 | `splunktool.com` | https://splunktool.com/how-to-use-mysqlconnection-db-pool-with-python-flask | https://stackoverflow.com/questions/24101056/ |  |
