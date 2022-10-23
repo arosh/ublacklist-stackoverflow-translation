@@ -1,7 +1,6 @@
 - domain: 'code-examples.net'
   evidence: https://code-examples.net/ja/q/246c591
   original: https://stackoverflow.com/questions/38192529/
-  note:
 - domain: 'kotaeta.com'
   evidence: https://kotaeta.com/53238761
   original: https://arduino.stackexchange.com/questions/21605/
@@ -16,79 +15,60 @@
 - domain: 'living-sun.com'
   evidence: https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html
   original: https://stackoverflow.com/questions/1599464/
-  note:
 - domain: 'qastack.jp'
   evidence: https://qastack.jp/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.ru'
   evidence: https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static
   original: https://stackoverflow.com/q/13150343
-  note:
 - domain: 'qastack.it'
   evidence: https://qastack.it/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.mx'
   evidence: https://qastack.mx/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.com.br'
   evidence: https://qastack.com.br/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.info.tr'
   evidence: https://qastack.info.tr/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.in.th'
   evidence: https://qastack.in.th/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.com.de'
   evidence: https://qastack.com.de/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.fr'
   evidence: https://qastack.fr/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.cn'
   evidence: https://qastack.cn/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.com.ua'
   evidence: https://qastack.com.ua/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.co.in'
   evidence: https://qastack.co.in/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.kr'
   evidence: https://qastack.kr/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.vn'
   evidence: https://qastack.vn/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.net.bd'
   evidence: https://qastack.net.bd/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qa-stack.pl'
   evidence: https://qa-stack.pl/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'qastack.id'
   evidence: https://qastack.id/programming/11227809/
   original: https://stackoverflow.com/questions/11227809/
-  note:
 - domain: 'www.coder.work'
   evidence: https://www.coder.work/article/3794436
   original: https://stackoverflow.com/questions/13375357/
-  note:
 - domain: 'www.it-swarm-ja.tech'
   evidence: https://www.it-swarm-ja.tech/ja/linux/944475555/
   original: https://superuser.com/questions/1347723/
@@ -100,14 +80,13 @@
 - domain: 'www.it-swarm-ja.com'
   evidence: https://www.it-swarm-ja.com/ja/javascript/vue%E3%81%A7%E5%8B%95%E4%BD%9C%E3%81%97%E3%81%AA%E3%81%84keyup%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E5%85%A5%E5%8A%9B%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84/835790755/
   original: https://stackoverflow.com/q/46955147
-  note:
 - domain: 'www.web-dev-qa-db-ja.com'
   evidence: https://www.web-dev-qa-db-ja.com/ja/go/816661554/
   original: https://stackoverflow.com/q/61900346
 - domain: 'www.it-swarm-fr.com'
   evidence: https://www.it-swarm-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
   original: https://stackoverflow.com/q/50435455
-- domain: www.web-dev-qa-db-fr.com
+- domain: 'www.web-dev-qa-db-fr.com'
   evidence: https://www.web-dev-qa-db-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
   original: https://stackoverflow.com/q/50435455
 - domain: '*.codeflow.site'
@@ -117,43 +96,30 @@
 - domain: 'codeguides.site'
   evidence: https://codeguides.site/questions/ja/950037/same-ajax-called-twice-jquery
   original: https://stackoverflow.com/q/950037
-  note:
 - domain: 'overcoder.net'
   evidence: https://overcoder.net/q/4014591/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C-%D0%B4%D0%B8%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0-%D0%B2-%D0%B4%D0%B2%D1%83%D1%85-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%D1%85-%D0%BF%D1%80%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B8-%D1%81-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE
   original: https://stackoverflow.com/questions/11500794/
-  note:
 - domain: 'coderoad.ru'
   evidence: https://coderoad.ru/927358/%D0%9A%D0%B0%D0%BA-%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C-%D1%81%D0%B0%D0%BC%D1%8B%D0%B5-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B-%D0%B2-Git
   original: https://stackoverflow.com/questions/927358/
-  note:
 - domain: 'www.javaer101.com'
   evidence: https://www.javaer101.com/ja/article/2084594.html
   original: https://stackoverflow.com/questions/35394937/
-  note:
 - domain: '*.voidcc.com'
   evidence: http://ja.voidcc.com/question/p-glmhmyzr-pk.html
   original: https://stackoverflow.com/questions/48042872/
-  note:
 - domain: 'www.fixes.pub'
   evidence: https://www.fixes.pub/program/38000.html
   original: https://stackoverflow.com/q/49289575
-  note:
-- domain: 'knews.vip'
-  evidence: https://knews.vip/postcrawl/stack/view?site=so&key=76312086
-  original: https://stackoverflow.com/q/63314288
-  note:
 - domain: 'isolution.pro'
   evidence: https://isolution.pro/q/an13230537/play-sutoa-kara-apuri-no-gokansei-matorikkusu-o-nyushusuru
   original: https://android.stackexchange.com/q/232739
-  note:
 - domain: '*.uwenku.com'
   evidence: http://ja.uwenku.com/question/p-oafoukjq-gq.html
   original: https://stackoverflow.com/questions/48045748
-  note:
 - domain: 'www.nuomiphp.com'
   evidence: https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html
   original: https://stackoverflow.com/questions/60451458
-  note:
 - domain: 'ubuntu.buildwebhost.com'
   evidence: https://ubuntu.buildwebhost.com/ja/q/214411
   original: https://askubuntu.com/questions/940701
@@ -165,15 +131,12 @@
 - domain: 'ubuntubin.com'
   evidence: https://ubuntubin.com/ja/q/214411
   original: https://askubuntu.com/questions/940701
-  note:
 - domain: 'www.debugcn.com'
   evidence: https://www.debugcn.com/ja/article/106110221.html
   original: https://stackoverflow.com/questions/14452824
-  note:
 - domain: '*.softwareuser.asklobster.com'
   evidence: https://ja.softwareuser.asklobster.com/posts/97342/7zip-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%BC%E3%83%89%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%82%92%E9%99%A4%E5%A4%96%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/
   original: https://superuser.com/questions/97342/
-  note:
 - domain: '*.pakostnici.com'
   evidence: https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS
   original: https://stackoverflow.com/questions/48291366
@@ -185,10 +148,6 @@
 - domain: 'fmihm.org'
   evidence: https://fmihm.org/805196-how-to-read-the-source-RPLVHV
   original: https://stackoverflow.com/questions/22589269/how-to-read-the-source-code-of-jquery
-- domain: '*.try2explore.com'
-  evidence: https://qa.try2explore.com/questions/jp/10003161
-  original: https://stackoverflow.com/questions/806000/
-  note:
 - domain: 'itectec.com'
   evidence: https://itectec.com/superuser/user-id-mapping-with-nfs-on-synology-nas/
   original: https://superuser.com/questions/860553/user-id-mapping-with-nfs-on-synology-nas
@@ -199,15 +158,12 @@
 - domain: 'stackovergo.com'
   evidence: https://stackovergo.com/ja/q/1063649/does-netbeans-recognize-javascript-prototypal-inheritance
   original: https://stackoverflow.com/questions/4531523/does-netbeans-recognize-javascript-prototypal-inheritance
-  note:
 - domain: '*.narkive.jp'
   evidence: https://security.narkive.jp/oBrsVjXh
   original: https://security.stackexchange.com/questions/373/open-source-penetration-test-automation
-  note:
-- domain: intellipaat.com
+- domain: 'intellipaat.com'
   evidence: https://intellipaat.com/community/32139/in-python-what-is-the-difference-between-random-uniform-and-random-random
   original: https://stackoverflow.com/questions/30030659/
-  note:
 - domain: 'newbedev.com'
   evidence: https://newbedev.com/how-to-combine-many-spring-test-annotations-in-a-single-annotation
   original: https://stackoverflow.com/questions/31098138/how-to-combine-many-spring-test-annotations-in-a-single-annotation
@@ -241,9 +197,6 @@
 - domain: '*.qi-u.com'
   evidence: https://www.qi-u.com/?qa=580340/python-argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'www.xsprogram.com'
-  evidence: https://www.xsprogram.com/content/problems-with-scanf.html
-  original: https://stackoverflow.com/questions/20139415/problems-with-scanf
 - domain: 'stackoom.com'
   evidence: https://stackoom.com/en/question/2NpRm
   original: https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae
@@ -266,16 +219,13 @@
   evidence: https://www.desenv-web-rp.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
   original: https://stackoverflow.com/questions/38728200
   note: redirects to 'www.kutombawewe.net'
-- domain: www.web-dev-qa-db-pt.com
+- domain: 'www.web-dev-qa-db-pt.com'
   evidence: https://www.web-dev-qa-db-pt.com/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
   original: https://stackoverflow.com/questions/38728200
   note: redirects to 'www.kutombawewe.net'
-- domain: www.kutombawewe.net
+- domain: 'www.kutombawewe.net'
   evidence: https://www.kutombawewe.net/pt/c%23/como-desativar-ou-manipular-camelcasing-na-resposta-json-do-asp.net-core/826978340/
   original: https://stackoverflow.com/questions/38728200
-- domain: 'www.5axxw.com'
-  evidence: https://www.5axxw.com/questions/content/8pxpsb
-  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
 - domain: 'question-it.com'
   evidence: https://question-it.com/questions/12118832/kak-izmenit-kljuch-interfejsa-znachenie-stroka-na-kljuch-stroka-stroka
   original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
@@ -287,9 +237,6 @@
 - domain: 'progi.pro'
   evidence: https://progi.pro/yavlyaetsya-x86-cmpxchg-atomom-11771983
   original: https://stackoverflow.com/questions/27837731/is-x86-cmpxchg-atomic-if-so-why-does-it-need-lock
-- domain: 'sysadminde.com'
-  evidence: https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs
-  original: https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs
 - domain: 'ask-dev.ru'
   evidence: https://ask-dev.ru/info/12969289/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
   original: https://stackoverflow.com/questions/41223963/jest-how-to-mock-console-when-it-is-used-by-a-third-party-library
@@ -317,20 +264,16 @@
 - domain: 'qa.icopy.site'
   evidence: https://qa.icopy.site/questions/44931728/openfiledialog-spy
   original: https://stackoverflow.com/questions/44931728/openfiledialog-spy
-- domain: errorsfixing.com
+- domain: 'errorsfixing.com'
   evidence: https://errorsfixing.com/python-get-directory-two-levels-up/
   original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
-- domain: syntaxfix.com
+- domain: 'syntaxfix.com'
   evidence: https://syntaxfix.com/question/6689/python-get-directory-two-levels-up
   original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
-- domain: codegrepr.com
+- domain: 'codegrepr.com'
   evidence: https://codegrepr.com/question/python-get-directory-two-levels-up/
   original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
-- domain: serveanswer.com
-  evidence: https://serveanswer.com/questions/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
-  original: https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
-  note: redirects to 'devfixes.com'
-- domain: devfixes.com
+- domain: 'devfixes.com'
   evidence: https://devfixes.com/question/cron-job-that-does-git-fetch-is-it-thread-safe
   original: https://stackoverflow.com/questions/73834509/cron-job-that-does-git-fetch-is-it-thread-safe
 - domain: 'cainiaojiaocheng.com'
@@ -339,10 +282,6 @@
 - domain: 'www.linuxfixes.com'
   evidence: https://www.linuxfixes.com/2022/02/solved-vs-code-remote-development.html
   original: https://stackoverflow.com/questions/64369073/vs-code-remote-development-problem-with-ssh-connection-windows-to-linux
-- domain: 'www.it-roy-ru.com'
-  evidence: https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
-  original: https://stackoverflow.com/q/3367415
-  note: redirects to 'www.wake-up-neo.net'
 - domain: 'www.web-dev-qa.com'
   evidence: https://www.web-dev-qa.com/ja/bash/962672142/
   original: https://unix.stackexchange.com/questions/395742/
@@ -362,9 +301,6 @@
 - domain: 'so.muouseo.com'
   evidence: https://so.muouseo.com/qa/qnw6rlv4p6ok.html
   original: https://stackoverflow.com/questions/68537601
-- domain: 'coder-solution-es.com'
-  evidence: https://coder-solution-es.com/solution-es-blog/1347524
-  original: https://stackoverflow.com/questions/13203518
 - domain: 'peaku.co'
   evidence: https://peaku.co/questions/8041-how-to-deploy-nextjs-with-nginx
   original: https://stackoverflow.com/questions/64386737
@@ -403,12 +339,6 @@
   original: https://stackoverflow.com/questions/11485271
 - domain: 'daplus.net'
   evidence: http://daplus.net/authentication-google-oauth-2-%EC%9D%B8%EC%A6%9D-%EC%98%A4%EB%A5%98-redirect_uri_mismatch/
-  original: https://stackoverflow.com/questions/11485271
-- domain: 'questu.ru'
-  evidence: https://questu.ru/questions/64261995/
-  original: https://stackoverflow.com/questions/64261995
-- domain: 'www.itranslater.com'
-  evidence: https://www.itranslater.com/qa/details/2122157584474964992
   original: https://stackoverflow.com/questions/11485271
 - domain: 'doraprojects.net'
   evidence: https://doraprojects.net/questions/11485271/google-oauth-2-authorization-error-redirect-uri-mismatch
@@ -479,9 +409,6 @@
 - domain: '*.web-dev-qa-db-fra.com'
   evidence: https://www.web-dev-qa-db-fra.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
   original: https://stackoverflow.com/q/50435455
-- domain: '*.ape-ask.com'
-  evidence: https://www.ape-ask.com/read-59837.html
-  original: https://stackoverflow.com/questions/27573272/
 - domain: 'yaoply.com'
   evidence: https://yaoply.com/items/decrypt-rijndael-128-string-with-php-openssl-return-empty
   original: https://stackoverflow.com/questions/66596540/decrypt-rijndael-128-string-with-php-openssl-return-empty
@@ -503,9 +430,6 @@
 - domain: 'webdevask.com'
   evidence: https://webdevask.com/items/laravel-model-is-not-getting-data
   original: https://stackoverflow.com/questions/73267978
-- domain: 'www.thecodeteacher.com'
-  evidence: https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once
-  original: https://stackoverflow.com/questions/52288120
 - domain: 'issuecloser.com'
   evidence: https://issuecloser.com/blog/why-component-scanning-does-not-work-for-spring-boot-unit-tests
   original: https://stackoverflow.com/questions/48679637
@@ -515,18 +439,12 @@
 - domain: 'waldorf-am-see.org'
   evidence: https://waldorf-am-see.org/660771-detect-if-visual-c-redistributable-MPPLFY
   original: https://stackoverflow.com/questions/12206314/detect-if-visual-c-redistributable-for-visual-studio-2012-is-installed
-- domain: 'www.mejorcodigo.com'
-  evidence: https://www.mejorcodigo.com/p/10912.html
-  original: https://stackoverflow.com/questions/54333951
 - domain: '*.arip-photo.org'
   evidence: https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD
   original: https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574
 - domain: 'www.answerlib.com'
   evidence: https://www.answerlib.com/question/128159/command-makeseeder-is-not-defined-in-lumen-52.html
   original: https://stackoverflow.com/q/37928277
-- domain: '*.waymanamechurch.org'
-  evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
-  original: https://stackoverflow.com/questions/784929
 - domain: '*.fluffyfables.com'
   evidence: https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is
   original: https://stackoverflow.com/q/50951955
@@ -536,12 +454,6 @@
 - domain: 'fullstackuser.com'
   evidence: https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: '*.ntcdoon.org'
-  evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
-  original: https://stackoverflow.com/q/13195129
-- domain: 'techinplanet.com'
-  evidence: https://techinplanet.com/error-err_require_esm-require-of-es-module-not-supported/
-  original: https://stackoverflow.com/q/69081410
 - domain: 'codeutility.org'
   evidence: https://codeutility.org/java-how-to-capture-a-list-of-specific-type-with-mockito-stack-overflow/
   original: https://stackoverflow.com/questions/5606541
@@ -554,9 +466,6 @@
 - domain: 'coder.gay'
   evidence: https://coder.gay/59348
   original: https://stackoverflow.com/questions/21763822/
-- domain: 'www.stackubuntu.com'
-  evidence: https://www.stackubuntu.com/flutter-stadium-border-with-radius-not-overlapping-text
-  original: https://stackoverflow.com/questions/72997609/
 - domain: 'jtuto.com'
   evidence: https://jtuto.com/poetry-add-removes-all-metadata-files-entries/
   original: https://stackoverflow.com/questions/73213527/poetry-add-package-removes-all-metadata-files-entries
@@ -566,3 +475,71 @@
 - domain: '9to5answer.com'
   evidence: https://9to5answer.com/jinja2-if-statement-in-vs-equals-on-dict
   original: https://stackoverflow.com/questions/22238265/jinja2-if-statement-in-vs-equals-on-dict
+- domain: 'knews.vip'
+  evidence: https://knews.vip/postcrawl/stack/view?site=so&key=76312086
+  original: https://stackoverflow.com/q/63314288
+  note: closed?
+- domain: '*.try2explore.com'
+  evidence: https://qa.try2explore.com/questions/jp/10003161
+  original: https://stackoverflow.com/questions/806000/
+  note: closed?
+- domain: 'www.xsprogram.com'
+  evidence: https://www.xsprogram.com/content/problems-with-scanf.html
+  original: https://stackoverflow.com/questions/20139415/problems-with-scanf
+  note: closed?
+- domain: 'www.5axxw.com'
+  evidence: https://www.5axxw.com/questions/content/8pxpsb
+  original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
+  note: closed?
+- domain: 'sysadminde.com'
+  evidence: https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs
+  original: https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs
+  note: closed?
+- domain: 'serveanswer.com'
+  evidence: https://serveanswer.com/questions/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
+  original: https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
+  note: closed?
+- domain: 'www.it-roy-ru.com'
+  evidence: https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
+  original: https://stackoverflow.com/q/3367415
+  note: closed?
+- domain: 'coder-solution-es.com'
+  evidence: https://coder-solution-es.com/solution-es-blog/1347524
+  original: https://stackoverflow.com/questions/13203518
+  note: closed?
+- domain: 'questu.ru'
+  evidence: https://questu.ru/questions/64261995/
+  original: https://stackoverflow.com/questions/64261995
+  note: closed?
+- domain: 'www.itranslater.com'
+  evidence: https://www.itranslater.com/qa/details/2122157584474964992
+  original: https://stackoverflow.com/questions/11485271
+  note: closed?
+- domain: '*.ape-ask.com'
+  evidence: https://www.ape-ask.com/read-59837.html
+  original: https://stackoverflow.com/questions/27573272/
+  note: closed?
+- domain: 'www.thecodeteacher.com'
+  evidence: https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once
+  original: https://stackoverflow.com/questions/52288120
+  note: closed?
+- domain: 'www.mejorcodigo.com'
+  evidence: https://www.mejorcodigo.com/p/10912.html
+  original: https://stackoverflow.com/questions/54333951
+  note: closed?
+- domain: '*.waymanamechurch.org'
+  evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
+  original: https://stackoverflow.com/questions/784929
+  note: closed?
+- domain: '*.ntcdoon.org'
+  evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
+  original: https://stackoverflow.com/q/13195129
+  note: closed?
+- domain: 'techinplanet.com'
+  evidence: https://techinplanet.com/automatically-passing-html-attributes-to-svelte-components/
+  original: https://stackoverflow.com/questions/48960847/automatically-passing-html-attributes-to-svelte-components
+  note: closed?
+- domain: 'www.stackubuntu.com'
+  evidence: https://www.stackubuntu.com/flutter-stadium-border-with-radius-not-overlapping-text
+  original: https://stackoverflow.com/questions/72997609/
+  note: closed?
