@@ -101,6 +101,7 @@ func loadItems(filename string) ([]Item, error) {
 	if err != nil {
 		return nil, xerrors.Errorf("failed to open: %w", err)
 	}
+	defer f.Close()
 
 	b, err := io.ReadAll(f)
 	if err != nil {
