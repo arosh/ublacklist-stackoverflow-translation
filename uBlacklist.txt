@@ -167,3 +167,4 @@
 *://www.stackubuntu.com/*
 *://jtuto.com/*
 *://bitcoden.com/*
+*://9to5answer.com/*

@@ -171,3 +171,4 @@
 | `www.stackubuntu.com` | https://www.stackubuntu.com/flutter-stadium-border-with-radius-not-overlapping-text | https://stackoverflow.com/questions/72997609/ |  |
 | `jtuto.com` | https://jtuto.com/poetry-add-removes-all-metadata-files-entries/ | https://stackoverflow.com/questions/73213527/poetry-add-package-removes-all-metadata-files-entries |  |
 | `bitcoden.com` | https://bitcoden.com/answers/exclude-file-from-git-diff | https://stackoverflow.com/questions/10415100/exclude-file-from-git-diff |  |
+| `9to5answer.com` | https://9to5answer.com/jinja2-if-statement-in-vs-equals-on-dict | https://stackoverflow.com/questions/22238265/jinja2-if-statement-in-vs-equals-on-dict |  |

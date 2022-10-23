@@ -2033,3 +2033,15 @@ www.google.*##.isv-r[data-ru^="https://bitcoden.com/"]
 www.google.*##.VFACy[href^="https://bitcoden.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://bitcoden.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://bitcoden.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://9to5answer.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://9to5answer.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://9to5answer.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://9to5answer.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://9to5answer.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="9to5answer.com"]
+www.ecosia.org##.result[data-url^="https://9to5answer.com/"]
+startpage.com##.w-gl__result-title[href^="https://9to5answer.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://9to5answer.com/"]
+www.google.*##.VFACy[href^="https://9to5answer.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://9to5answer.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://9to5answer.com/"]:upward(.tile--img)
