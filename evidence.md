@@ -156,20 +156,9 @@
 | `jtuto.com` | https://jtuto.com/poetry-add-removes-all-metadata-files-entries/ | https://stackoverflow.com/questions/73213527/poetry-add-package-removes-all-metadata-files-entries |  |
 | `bitcoden.com` | https://bitcoden.com/answers/exclude-file-from-git-diff | https://stackoverflow.com/questions/10415100/exclude-file-from-git-diff |  |
 | `9to5answer.com` | https://9to5answer.com/jinja2-if-statement-in-vs-equals-on-dict | https://stackoverflow.com/questions/22238265/jinja2-if-statement-in-vs-equals-on-dict |  |
-| `knews.vip` | https://knews.vip/postcrawl/stack/view?site=so&key=76312086 | https://stackoverflow.com/q/63314288 | closed? |
-| `*.try2explore.com` | https://qa.try2explore.com/questions/jp/10003161 | https://stackoverflow.com/questions/806000/ | closed? |
-| `www.xsprogram.com` | https://www.xsprogram.com/content/problems-with-scanf.html | https://stackoverflow.com/questions/20139415/problems-with-scanf | closed? |
-| `www.5axxw.com` | https://www.5axxw.com/questions/content/8pxpsb | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string | closed? |
-| `sysadminde.com` | https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs | https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs | closed? |
-| `serveanswer.com` | https://serveanswer.com/questions/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp | https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp | closed? |
-| `www.it-roy-ru.com` | https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/ | https://stackoverflow.com/q/3367415 | closed? |
-| `coder-solution-es.com` | https://coder-solution-es.com/solution-es-blog/1347524 | https://stackoverflow.com/questions/13203518 | closed? |
-| `questu.ru` | https://questu.ru/questions/64261995/ | https://stackoverflow.com/questions/64261995 | closed? |
-| `www.itranslater.com` | https://www.itranslater.com/qa/details/2122157584474964992 | https://stackoverflow.com/questions/11485271 | closed? |
-| `*.ape-ask.com` | https://www.ape-ask.com/read-59837.html | https://stackoverflow.com/questions/27573272/ | closed? |
-| `www.thecodeteacher.com` | https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once | https://stackoverflow.com/questions/52288120 | closed? |
-| `www.mejorcodigo.com` | https://www.mejorcodigo.com/p/10912.html | https://stackoverflow.com/questions/54333951 | closed? |
-| `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 | closed? |
-| `*.ntcdoon.org` | https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI | https://stackoverflow.com/q/13195129 | closed? |
-| `techinplanet.com` | https://techinplanet.com/automatically-passing-html-attributes-to-svelte-components/ | https://stackoverflow.com/questions/48960847/automatically-passing-html-attributes-to-svelte-components | closed? |
-| `www.stackubuntu.com` | https://www.stackubuntu.com/flutter-stadium-border-with-radius-not-overlapping-text | https://stackoverflow.com/questions/72997609/ | closed? |
+| `www.5axxw.com` | https://www.5axxw.com/questions/content/8pxpsb | https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string |  |
+| `questu.ru` | https://questu.ru/questions/64261995/ | https://stackoverflow.com/questions/64261995 |  |
+| `www.thecodeteacher.com` | https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once | https://stackoverflow.com/questions/52288120 |  |
+| `www.mejorcodigo.com` | https://www.mejorcodigo.com/p/10912.html | https://stackoverflow.com/questions/54333951 |  |
+| `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 |  |
+| `*.ntcdoon.org` | https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI | https://stackoverflow.com/q/13195129 |  |
