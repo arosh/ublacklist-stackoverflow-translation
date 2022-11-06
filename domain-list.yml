@@ -475,71 +475,21 @@
 - domain: '9to5answer.com'
   evidence: https://9to5answer.com/jinja2-if-statement-in-vs-equals-on-dict
   original: https://stackoverflow.com/questions/22238265/jinja2-if-statement-in-vs-equals-on-dict
-- domain: 'knews.vip'
-  evidence: https://knews.vip/postcrawl/stack/view?site=so&key=76312086
-  original: https://stackoverflow.com/q/63314288
-  note: closed?
-- domain: '*.try2explore.com'
-  evidence: https://qa.try2explore.com/questions/jp/10003161
-  original: https://stackoverflow.com/questions/806000/
-  note: closed?
-- domain: 'www.xsprogram.com'
-  evidence: https://www.xsprogram.com/content/problems-with-scanf.html
-  original: https://stackoverflow.com/questions/20139415/problems-with-scanf
-  note: closed?
 - domain: 'www.5axxw.com'
   evidence: https://www.5axxw.com/questions/content/8pxpsb
   original: https://stackoverflow.com/questions/70786700/how-to-change-the-interface-key-value-string-to-key-string-string
-  note: closed?
-- domain: 'sysadminde.com'
-  evidence: https://sysadminde.com/questions/639061/network-unreachable-error-in-my-server-logs
-  original: https://serverfault.com/questions/639061/network-unreachable-error-in-my-server-logs
-  note: closed?
-- domain: 'serveanswer.com'
-  evidence: https://serveanswer.com/questions/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
-  original: https://stackoverflow.com/questions/72111899/how-to-convert-timestamp-to-aws-data-lake-s3-timestamp
-  note: closed?
-- domain: 'www.it-roy-ru.com'
-  evidence: https://www.it-roy-ru.com/ru/javascript/poluchit-epohu-na-opredelennuyu-datu-ispolzuya-javascript/969526135/
-  original: https://stackoverflow.com/q/3367415
-  note: closed?
-- domain: 'coder-solution-es.com'
-  evidence: https://coder-solution-es.com/solution-es-blog/1347524
-  original: https://stackoverflow.com/questions/13203518
-  note: closed?
 - domain: 'questu.ru'
   evidence: https://questu.ru/questions/64261995/
   original: https://stackoverflow.com/questions/64261995
-  note: closed?
-- domain: 'www.itranslater.com'
-  evidence: https://www.itranslater.com/qa/details/2122157584474964992
-  original: https://stackoverflow.com/questions/11485271
-  note: closed?
-- domain: '*.ape-ask.com'
-  evidence: https://www.ape-ask.com/read-59837.html
-  original: https://stackoverflow.com/questions/27573272/
-  note: closed?
 - domain: 'www.thecodeteacher.com'
   evidence: https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once
   original: https://stackoverflow.com/questions/52288120
-  note: closed?
 - domain: 'www.mejorcodigo.com'
   evidence: https://www.mejorcodigo.com/p/10912.html
   original: https://stackoverflow.com/questions/54333951
-  note: closed?
 - domain: '*.waymanamechurch.org'
   evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
   original: https://stackoverflow.com/questions/784929
-  note: closed?
 - domain: '*.ntcdoon.org'
   evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
   original: https://stackoverflow.com/q/13195129
-  note: closed?
-- domain: 'techinplanet.com'
-  evidence: https://techinplanet.com/automatically-passing-html-attributes-to-svelte-components/
-  original: https://stackoverflow.com/questions/48960847/automatically-passing-html-attributes-to-svelte-components
-  note: closed?
-- domain: 'www.stackubuntu.com'
-  evidence: https://www.stackubuntu.com/flutter-stadium-border-with-radius-not-overlapping-text
-  original: https://stackoverflow.com/questions/72997609/
-  note: closed?
