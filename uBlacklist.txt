@@ -158,3 +158,4 @@
 *://www.mejorcodigo.com/*
 *://*.waymanamechurch.org/*
 *://*.ntcdoon.org/*
+*://itecnotes.com/*
