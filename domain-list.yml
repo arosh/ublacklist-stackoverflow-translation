@@ -496,3 +496,7 @@
 - domain: 'itecnotes.com'
   evidence: https://itecnotes.com/server/openvpn-needs-a-gateway-parameter-fo-a-route-option/
   original: https://serverfault.com/questions/806414/
+- domain: '*.code2s.com'
+  evidence: https://www.code2s.com/question/7525/mirror-image-on-x-axis-or-axis-origin-to-lower-left
+  original: https://stackoverflow.com/questions/40014724/mirror-image-on-x-axis-or-axis-origin-to-lower-left
+  
