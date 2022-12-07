@@ -159,3 +159,4 @@
 *://*.waymanamechurch.org/*
 *://*.ntcdoon.org/*
 *://itecnotes.com/*
+*://*.code2s.com/*
