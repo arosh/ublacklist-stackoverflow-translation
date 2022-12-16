@@ -1,5 +1,7 @@
 # uBlacklist Stack Overflow Translation
 
+（日本語版の説明が下半分にあります）
+
 ## Synopsis
 
 Exclude domains from Google search that serve machine-translated sites of Stack Exchange.
