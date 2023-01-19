@@ -89,10 +89,6 @@
 - domain: 'www.web-dev-qa-db-fr.com'
   evidence: https://www.web-dev-qa-db-fr.com/fr/php/comment-installer-lextension-gmp-pour-php-7.2-en-utilisant-mamp-sur-osx/838751599/
   original: https://stackoverflow.com/q/50435455
-- domain: '*.codeflow.site'
-  evidence: https://qa.codeflow.site/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
-  original: https://stackoverflow.com/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
-  note: This domain is used for redirection to `codeguides.site`
 - domain: 'codeguides.site'
   evidence: https://codeguides.site/questions/ja/950037/same-ajax-called-twice-jquery
   original: https://stackoverflow.com/q/950037
@@ -102,9 +98,6 @@
 - domain: 'coderoad.ru'
   evidence: https://coderoad.ru/927358/%D0%9A%D0%B0%D0%BA-%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C-%D1%81%D0%B0%D0%BC%D1%8B%D0%B5-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B5-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D1%8B-%D0%B2-Git
   original: https://stackoverflow.com/questions/927358/
-- domain: 'www.javaer101.com'
-  evidence: https://www.javaer101.com/ja/article/2084594.html
-  original: https://stackoverflow.com/questions/35394937/
 - domain: '*.voidcc.com'
   evidence: http://ja.voidcc.com/question/p-glmhmyzr-pk.html
   original: https://stackoverflow.com/questions/48042872/
@@ -117,34 +110,12 @@
 - domain: '*.uwenku.com'
   evidence: http://ja.uwenku.com/question/p-oafoukjq-gq.html
   original: https://stackoverflow.com/questions/48045748
-- domain: 'www.nuomiphp.com'
-  evidence: https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html
-  original: https://stackoverflow.com/questions/60451458
-- domain: 'ubuntu.buildwebhost.com'
-  evidence: https://ubuntu.buildwebhost.com/ja/q/214411
-  original: https://askubuntu.com/questions/940701
-  note: redirects to `ubuntubin.com`
-- domain: 'ubuntuaa.com'
-  evidence: https://ubuntuaa.com/ja/q/214411
-  original: https://askubuntu.com/questions/940701
-  note: redirects to `ubuntubin.com`
 - domain: 'ubuntubin.com'
   evidence: https://ubuntubin.com/ja/q/214411
   original: https://askubuntu.com/questions/940701
-- domain: 'www.debugcn.com'
-  evidence: https://www.debugcn.com/ja/article/106110221.html
-  original: https://stackoverflow.com/questions/14452824
 - domain: '*.softwareuser.asklobster.com'
   evidence: https://ja.softwareuser.asklobster.com/posts/97342/7zip-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%BC%E3%83%89%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E3%81%A7%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%82%92%E9%99%A4%E5%A4%96%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B/
   original: https://superuser.com/questions/97342/
-- domain: '*.pakostnici.com'
-  evidence: https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS
-  original: https://stackoverflow.com/questions/48291366
-  note: redirects to fmihm.org
-- domain: '*.athabasca-foto.com'
-  evidence: https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS
-  original: https://stackoverflow.com/questions/604424
-  note: redirects to fmihm.org
 - domain: 'fmihm.org'
   evidence: https://fmihm.org/805196-how-to-read-the-source-RPLVHV
   original: https://stackoverflow.com/questions/22589269/how-to-read-the-source-code-of-jquery
@@ -185,9 +156,6 @@
 - domain: 'webdevdesigner.com'
   evidence: https://webdevdesigner.com/q/argparse-subparser-monolithic-help-output-137439/
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'www.ghcc.net'
-  evidence: https://www.ghcc.net/en/node/2519947
-  original: https://stackoverflow.com/questions/32581439/subparser-show-help-for-both-parser-and-subparser
 - domain: '*.developreference.com'
   evidence: https://python.developreference.com/article/13679273/python+argparse+mutually_exclusive_group+and+add_argument_group+in+a+parent+processor%3f
   original: https://stackoverflow.com/questions/46066374/python-argparse-mutually-exclusive-group-and-add-argument-group-in-a-parent-proc
@@ -200,9 +168,6 @@
 - domain: 'stackoom.com'
   evidence: https://stackoom.com/en/question/2NpRm
   original: https://stackoverflow.com/questions/35231982/detecting-instance-method-constexpr-with-sfinae
-- domain: 'cndgn.com'
-  evidence: https://cndgn.com/question/superuser/599515/what-is-armtech-daemon
-  original: https://superuser.com/questions/599515/what-is-armtech-daemon
 - domain: 'www.generacodice.com'
   evidence: https://www.generacodice.com/jp/articolo/119396/C%23+get+thumbnail+from+file+via+windows+api
   original: https://stackoverflow.com/questions/1439719
@@ -252,18 +217,9 @@
 - domain: 'microeducate.tech'
   evidence: https://microeducate.tech/direct2d-off-screen-rendering-and-hardware-acceleration/
   original: https://gamedev.stackexchange.com/questions/16446/direct2d-off-screen-rendering-and-hardware-acceleration
-- domain: 'www.debugko.com'
-  evidence: https://www.debugko.com/article/25OdKAAOyMaK7Be9.html
-  original: https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892
 - domain: '*.1r1g.com'
   evidence: https://qa.1r1g.com/sf/ask/1154372761/
   original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
-- domain: 'string.quest'
-  evidence: https://string.quest/read/3613655
-  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
-- domain: 'qa.icopy.site'
-  evidence: https://qa.icopy.site/questions/44931728/openfiledialog-spy
-  original: https://stackoverflow.com/questions/44931728/openfiledialog-spy
 - domain: 'errorsfixing.com'
   evidence: https://errorsfixing.com/python-get-directory-two-levels-up/
   original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
@@ -273,9 +229,6 @@
 - domain: 'codegrepr.com'
   evidence: https://codegrepr.com/question/python-get-directory-two-levels-up/
   original: https://stackoverflow.com/questions/27844088/python-get-directory-two-levels-up
-- domain: 'devfixes.com'
-  evidence: https://devfixes.com/question/cron-job-that-does-git-fetch-is-it-thread-safe
-  original: https://stackoverflow.com/questions/73834509/cron-job-that-does-git-fetch-is-it-thread-safe
 - domain: 'cainiaojiaocheng.com'
   evidence: https://cainiaojiaocheng.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
   original: https://stackoverflow.com/questions/4942471/how-to-rename-files-in-directory-with-its-sha1-hash-with-python
@@ -316,12 +269,6 @@
 - domain: 'itecnote.com'
   evidence: https://itecnote.com/tecnote/python-split-rows-in-pandas-dataframe/
   original: https://stackoverflow.com/questions/58523316
-- domain: 'tagsqa.com'
-  evidence: https://tagsqa.com/detail/46740
-  original: https://stackoverflow.com/questions/3306627
-- domain: 'www.faqcode4u.com'
-  evidence: https://www.faqcode4u.com/faq/206052/use-switch-case-in-mvc-view
-  original: https://stackoverflow.com/questions/21187981
 - domain: 'digitrain.ru'
   evidence: https://digitrain.ru/questions/60314547/
   original: https://stackoverflow.com/questions/60314547
@@ -349,9 +296,6 @@
 - domain: '*.iteramos.com'
   evidence: https://www.iteramos.com/pregunta/14081/autorizacion-de-google-oauth-2---error-redirect_uri_mismatch
   original: https://stackoverflow.com/questions/11485271
-- domain: 'www.faqcodes.com'
-  evidence: https://www.faqcodes.com/faq/89709/getting-error-redirect-uri-mismatch-with-google-oauth2
-  original: https://stackoverflow.com/questions/13204474
 - domain: 'www.anycodings.com'
   evidence: https://www.anycodings.com/questions/google-oauth-20-api-authentication-error-error-400-redirecturimismatch-does-not-comply-with-policy-django-app
   original: https://stackoverflow.com/questions/68764885
@@ -418,30 +362,15 @@
 - domain: 'techhelpnotes.com'
   evidence: https://techhelpnotes.com/postgresql-how-to-manage-postgres-enum-type-in-django/
   original: https://stackoverflow.com/questions/67819553/how-to-manage-postgres-enum-type-in-django
-- domain: 'wp-qa.com'
-  evidence: https://wp-qa.com/get-cart-item-name-quantity-all-details-woocommerce
-  original: https://stackoverflow.com/q/28576667/13765033
 - domain: 'www.querythreads.com'
   evidence: https://www.querythreads.com/generics-error-with-forward-ref-property-ref-does-not-exist-on-type-intrinsic-attributes/
   original: https://stackoverflow.com/q/57750777/13765033
 - domain: 'www.appsloveworld.com'
   evidence: https://www.appsloveworld.com/reactjs/100/11/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsica
   original: https://stackoverflow.com/q/57750777/13765033
-- domain: 'dtuto.com'
-  evidence: https://dtuto.com/questions/4523/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsicattributes
-  original: https://stackoverflow.com/q/57750777/13765033
 - domain: 'webdevask.com'
   evidence: https://webdevask.com/items/laravel-model-is-not-getting-data
   original: https://stackoverflow.com/questions/73267978
-- domain: 'issuecloser.com'
-  evidence: https://issuecloser.com/blog/why-component-scanning-does-not-work-for-spring-boot-unit-tests
-  original: https://stackoverflow.com/questions/48679637
-- domain: 'etsoutdoors.com'
-  evidence: https://etsoutdoors.com/648949-transition-translate-width-and-height-LQRQDC
-  original: https://stackoverflow.com/questions/45586256/transition-translate-width-and-height-at-same-time-in-safari
-- domain: 'waldorf-am-see.org'
-  evidence: https://waldorf-am-see.org/660771-detect-if-visual-c-redistributable-MPPLFY
-  original: https://stackoverflow.com/questions/12206314/detect-if-visual-c-redistributable-for-visual-studio-2012-is-installed
 - domain: '*.arip-photo.org'
   evidence: https://ja.arip-photo.org/477708-why-is-zfs-so-much-CJTRXD
   original: https://serverfault.com/questions/858610/why-is-zfs-so-much-slower-than-ext4-and-btrfs/864574
@@ -451,24 +380,15 @@
 - domain: '*.fluffyfables.com'
   evidence: https://ja.fluffyfables.com/622335-article-pytesseract-tesseractnotfound-error-tesseract-is
   original: https://stackoverflow.com/q/50951955
-- domain: 'qatop.pythonwood.com'
-  evidence: https://qatop.pythonwood.com/sf/ask/332133091/
-  original: https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel
 - domain: 'fullstackuser.com'
   evidence: https://fullstackuser.com/questions/142923/argparse-subparser-monolithic-help-output
   original: https://stackoverflow.com/questions/20094215/argparse-subparser-monolithic-help-output
-- domain: 'codeutility.org'
-  evidence: https://codeutility.org/java-how-to-capture-a-list-of-specific-type-with-mockito-stack-overflow/
-  original: https://stackoverflow.com/questions/5606541
 - domain: 'exchangetuts.com'
   evidence: https://exchangetuts.com/is-there-is-a-way-to-do-something-like-rails-server-sandbox-1639967255556852
   original: https://stackoverflow.com/questions/18006591/is-there-is-a-way-to-do-something-like-rails-server-sandbox
 - domain: 'splunktool.com'
   evidence: https://splunktool.com/how-to-use-mysqlconnection-db-pool-with-python-flask
   original: https://stackoverflow.com/questions/24101056/
-- domain: 'coder.gay'
-  evidence: https://coder.gay/59348
-  original: https://stackoverflow.com/questions/21763822/
 - domain: 'jtuto.com'
   evidence: https://jtuto.com/poetry-add-removes-all-metadata-files-entries/
   original: https://stackoverflow.com/questions/73213527/poetry-add-package-removes-all-metadata-files-entries
@@ -484,22 +404,124 @@
 - domain: 'questu.ru'
   evidence: https://questu.ru/questions/64261995/
   original: https://stackoverflow.com/questions/64261995
-- domain: 'www.thecodeteacher.com'
-  evidence: https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once
-  original: https://stackoverflow.com/questions/52288120
 - domain: 'www.mejorcodigo.com'
   evidence: https://www.mejorcodigo.com/p/10912.html
   original: https://stackoverflow.com/questions/54333951
-- domain: '*.waymanamechurch.org'
-  evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
-  original: https://stackoverflow.com/questions/784929
-- domain: '*.ntcdoon.org'
-  evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
-  original: https://stackoverflow.com/q/13195129
 - domain: 'itecnotes.com'
   evidence: https://itecnotes.com/server/openvpn-needs-a-gateway-parameter-fo-a-route-option/
   original: https://serverfault.com/questions/806414/
+- domain: '*.codeflow.site'
+  evidence: https://qa.codeflow.site/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
+  original: https://stackoverflow.com/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
+  note: closed?
+- domain: 'www.javaer101.com'
+  evidence: https://www.javaer101.com/ja/article/2084594.html
+  original: https://stackoverflow.com/questions/35394937/
+  note: closed?
+- domain: 'www.nuomiphp.com'
+  evidence: https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html
+  original: https://stackoverflow.com/questions/60451458
+  note: closed?
+- domain: 'ubuntu.buildwebhost.com'
+  evidence: https://ubuntu.buildwebhost.com/ja/q/214411
+  original: https://askubuntu.com/questions/940701
+  note: closed?
+- domain: 'ubuntuaa.com'
+  evidence: https://ubuntuaa.com/ja/q/214411
+  original: https://askubuntu.com/questions/940701
+  note: closed?
+- domain: 'www.debugcn.com'
+  evidence: https://www.debugcn.com/ja/article/106110221.html
+  original: https://stackoverflow.com/questions/14452824
+  note: closed?
+- domain: '*.pakostnici.com'
+  evidence: https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS
+  original: https://stackoverflow.com/questions/48291366
+  note: closed?
+- domain: '*.athabasca-foto.com'
+  evidence: https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS
+  original: https://stackoverflow.com/questions/604424
+  note: closed?
+- domain: 'www.ghcc.net'
+  evidence: https://www.ghcc.net/en/node/2519947
+  original: https://stackoverflow.com/questions/32581439/subparser-show-help-for-both-parser-and-subparser
+- domain: 'cndgn.com'
+  evidence: https://cndgn.com/question/superuser/599515/what-is-armtech-daemon
+  original: https://superuser.com/questions/599515/what-is-armtech-daemon
+  note: closed?
+- domain: 'www.debugko.com'
+  evidence: https://www.debugko.com/article/25OdKAAOyMaK7Be9.html
+  original: https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892
+  note: closed?
+- domain: 'string.quest'
+  evidence: https://string.quest/read/3613655
+  original: https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js
+  note: closed?
+- domain: 'qa.icopy.site'
+  evidence: https://qa.icopy.site/questions/44931728/openfiledialog-spy
+  original: https://stackoverflow.com/questions/44931728/openfiledialog-spy
+  note: closed?
+- domain: 'devfixes.com'
+  evidence: https://devfixes.com/question/cron-job-that-does-git-fetch-is-it-thread-safe
+  original: https://stackoverflow.com/questions/73834509/cron-job-that-does-git-fetch-is-it-thread-safe
+  note: closed?
+- domain: 'tagsqa.com'
+  evidence: https://tagsqa.com/detail/46740
+  original: https://stackoverflow.com/questions/3306627
+  note: closed?
+- domain: 'www.faqcode4u.com'
+  evidence: https://www.faqcode4u.com/faq/206052/use-switch-case-in-mvc-view
+  original: https://stackoverflow.com/questions/21187981
+  note: closed?
+- domain: 'www.faqcodes.com'
+  evidence: https://www.faqcodes.com/faq/89709/getting-error-redirect-uri-mismatch-with-google-oauth2
+  original: https://stackoverflow.com/questions/13204474
+  note: closed?
+- domain: 'wp-qa.com'
+  evidence: https://wp-qa.com/get-cart-item-name-quantity-all-details-woocommerce
+  original: https://stackoverflow.com/q/28576667/13765033
+  note: closed?
+- domain: 'dtuto.com'
+  evidence: https://dtuto.com/questions/4523/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsicattributes
+  original: https://stackoverflow.com/q/57750777/13765033
+  note: closed?
+- domain: 'issuecloser.com'
+  evidence: https://issuecloser.com/blog/why-component-scanning-does-not-work-for-spring-boot-unit-tests
+  original: https://stackoverflow.com/questions/48679637
+  note: closed?
+- domain: 'etsoutdoors.com'
+  evidence: https://etsoutdoors.com/648949-transition-translate-width-and-height-LQRQDC
+  original: https://stackoverflow.com/questions/45586256/transition-translate-width-and-height-at-same-time-in-safari
+  note: closed?
+- domain: 'waldorf-am-see.org'
+  evidence: https://waldorf-am-see.org/660771-detect-if-visual-c-redistributable-MPPLFY
+  original: https://stackoverflow.com/questions/12206314/detect-if-visual-c-redistributable-for-visual-studio-2012-is-installed
+  note: closed?
+- domain: 'qatop.pythonwood.com'
+  evidence: https://qatop.pythonwood.com/sf/ask/332133091/
+  original: https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel
+  note: closed?
+- domain: 'codeutility.org'
+  evidence: https://codeutility.org/java-how-to-capture-a-list-of-specific-type-with-mockito-stack-overflow/
+  original: https://stackoverflow.com/questions/5606541
+  note: closed?
+- domain: 'coder.gay'
+  evidence: https://coder.gay/59348
+  original: https://stackoverflow.com/questions/21763822/
+  note: closed?
+- domain: 'www.thecodeteacher.com'
+  evidence: https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once
+  original: https://stackoverflow.com/questions/52288120
+  note: closed?
+- domain: '*.waymanamechurch.org'
+  evidence: https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG
+  original: https://stackoverflow.com/questions/784929
+  note: closed?
+- domain: '*.ntcdoon.org'
+  evidence: https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI
+  original: https://stackoverflow.com/q/13195129
+  note: closed?
 - domain: '*.code2s.com'
   evidence: https://www.code2s.com/question/7525/mirror-image-on-x-axis-or-axis-origin-to-lower-left
   original: https://stackoverflow.com/questions/40014724/mirror-image-on-x-axis-or-axis-origin-to-lower-left
-  
+  note: closed?
