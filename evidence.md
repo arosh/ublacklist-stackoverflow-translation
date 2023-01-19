@@ -144,7 +144,7 @@
 | `www.debugcn.com` | https://www.debugcn.com/ja/article/106110221.html | https://stackoverflow.com/questions/14452824 | closed? |
 | `*.pakostnici.com` | https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS | https://stackoverflow.com/questions/48291366 | closed? |
 | `*.athabasca-foto.com` | https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS | https://stackoverflow.com/questions/604424 | closed? |
-| `www.ghcc.net` | https://www.ghcc.net/en/node/2519947 | https://stackoverflow.com/questions/32581439/subparser-show-help-for-both-parser-and-subparser |  |
+| `www.ghcc.net` | https://www.ghcc.net/en/node/2519947 | https://stackoverflow.com/questions/32581439/subparser-show-help-for-both-parser-and-subparser | closed? |
 | `cndgn.com` | https://cndgn.com/question/superuser/599515/what-is-armtech-daemon | https://superuser.com/questions/599515/what-is-armtech-daemon | closed? |
 | `www.debugko.com` | https://www.debugko.com/article/25OdKAAOyMaK7Be9.html | https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892 | closed? |
 | `string.quest` | https://string.quest/read/3613655 | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js | closed? |
