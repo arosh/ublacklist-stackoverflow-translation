@@ -17,18 +17,6 @@ www.google.*##.isv-r[data-ru^="https://code-examples.net/"]
 www.google.*##.VFACy[href^="https://code-examples.net/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://code-examples.net/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://code-examples.net/"]:upward(.tile--img)
-www.google.*##.kCrYT > a[href^="/url?q=https://kotaeta.com/"]:upward(.xpd)
-www.google.*##.C8nzq[href^="https://kotaeta.com/"]:upward(.xpd)
-www.google.*##.xpdopen .sXtWJb[href^="https://kotaeta.com/"]:upward(.xpdopen)
-www.google.*##.aI1xUe .sXtWJb[href^="https://kotaeta.com/"]:upward(.aI1xUe)
-cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://kotaeta.com/"]:upward(.b_algo)
-duckduckgo.com##div[data-domain$="kotaeta.com"]
-www.ecosia.org##.result[data-url^="https://kotaeta.com/"]
-startpage.com##.w-gl__result-title[href^="https://kotaeta.com/"]:upward(.w-gl__result)
-www.google.*##.isv-r[data-ru^="https://kotaeta.com/"]
-www.google.*##.VFACy[href^="https://kotaeta.com/"]:upward(.isv-r)
-cn.bing.com,www.bing.com##.inflnk[href^="https://kotaeta.com/"]:upward(.dgControl_list > li)
-duckduckgo.com##.tile--img__sub[href^="https://kotaeta.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://answer-id.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://answer-id.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://answer-id.com/"]:upward(.xpdopen)
@@ -53,6 +41,18 @@ www.google.*##.isv-r[data-ru^="https://de-vraag.com/"]
 www.google.*##.VFACy[href^="https://de-vraag.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://de-vraag.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://de-vraag.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://kzen.dev/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://kzen.dev/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://kzen.dev/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://kzen.dev/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://kzen.dev/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="kzen.dev"]
+www.ecosia.org##.result[data-url^="https://kzen.dev/"]
+startpage.com##.w-gl__result-title[href^="https://kzen.dev/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://kzen.dev/"]
+www.google.*##.VFACy[href^="https://kzen.dev/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://kzen.dev/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://kzen.dev/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://living-sun.com/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://living-sun.com/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://living-sun.com/"]:upward(.xpdopen)
@@ -1181,6 +1181,18 @@ www.google.*##.isv-r[data-ru^="https://solveforum.com/"]
 www.google.*##.VFACy[href^="https://solveforum.com/"]:upward(.isv-r)
 cn.bing.com,www.bing.com##.inflnk[href^="https://solveforum.com/"]:upward(.dgControl_list > li)
 duckduckgo.com##.tile--img__sub[href^="https://solveforum.com/"]:upward(.tile--img)
+www.google.*##.kCrYT > a[href^="/url?q=https://www.solveforum.com/"]:upward(.xpd)
+www.google.*##.C8nzq[href^="https://www.solveforum.com/"]:upward(.xpd)
+www.google.*##.xpdopen .sXtWJb[href^="https://www.solveforum.com/"]:upward(.xpdopen)
+www.google.*##.aI1xUe .sXtWJb[href^="https://www.solveforum.com/"]:upward(.aI1xUe)
+cn.bing.com,www.bing.com##.b_algoheader > a[href^="https://www.solveforum.com/"]:upward(.b_algo)
+duckduckgo.com##div[data-domain$="www.solveforum.com"]
+www.ecosia.org##.result[data-url^="https://www.solveforum.com/"]
+startpage.com##.w-gl__result-title[href^="https://www.solveforum.com/"]:upward(.w-gl__result)
+www.google.*##.isv-r[data-ru^="https://www.solveforum.com/"]
+www.google.*##.VFACy[href^="https://www.solveforum.com/"]:upward(.isv-r)
+cn.bing.com,www.bing.com##.inflnk[href^="https://www.solveforum.com/"]:upward(.dgControl_list > li)
+duckduckgo.com##.tile--img__sub[href^="https://www.solveforum.com/"]:upward(.tile--img)
 www.google.*##.kCrYT > a[href^="/url?q=https://www.edureka.co/"]:upward(.xpd)
 www.google.*##.C8nzq[href^="https://www.edureka.co/"]:upward(.xpd)
 www.google.*##.xpdopen .sXtWJb[href^="https://www.edureka.co/"]:upward(.xpdopen)

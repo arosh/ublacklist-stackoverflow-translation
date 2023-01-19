@@ -1,7 +1,7 @@
 *://code-examples.net/*
-*://kotaeta.com/*
 *://answer-id.com/*
 *://de-vraag.com/*
+*://kzen.dev/*
 *://living-sun.com/*
 *://qastack.jp/*
 *://qastack.ru/*
@@ -96,6 +96,7 @@
 *://so.muouseo.com/*
 *://peaku.co/*
 *://solveforum.com/*
+*://www.solveforum.com/*
 *://www.edureka.co/*
 *://itecnote.com/*
 *://tagsqa.com/*

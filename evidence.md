@@ -3,9 +3,9 @@
 | Domain | Page | Original | Note |
 | ------ | ---- | -------- | ---- |
 | `code-examples.net` | https://code-examples.net/ja/q/246c591 | https://stackoverflow.com/questions/38192529/ |  |
-| `kotaeta.com` | https://kotaeta.com/53238761 | https://arduino.stackexchange.com/questions/21605/ | redirects to `de-vraag.com` |
-| `answer-id.com` | https://answer-id.com/ja/53238761 | https://arduino.stackexchange.com/questions/21605/ | redirects to `de-vraag.com` |
-| `de-vraag.com` | https://de-vraag.com/ja/53238761 | https://arduino.stackexchange.com/q/21605 |  |
+| `answer-id.com` | https://answer-id.com/ja/53238761 | https://arduino.stackexchange.com/questions/21605/ | redirects to `kzen.dev` |
+| `de-vraag.com` | https://de-vraag.com/ja/53238761 | https://arduino.stackexchange.com/q/21605 | redirects to `kzen.dev` |
+| `kzen.dev` | https://kzen.dev/ja/53238761 | https://arduino.stackexchange.com/questions/21605/ |  |
 | `living-sun.com` | https://living-sun.com/ja/mysql/566242-mysql-select-nested-query-very-complicated-mysql-select-nested.html | https://stackoverflow.com/questions/1599464/ |  |
 | `qastack.jp` | https://qastack.jp/programming/11227809/ | https://stackoverflow.com/questions/11227809/ |  |
 | `qastack.ru` | https://qastack.ru/programming/13150343/the-constant-cannot-be-marked-static | https://stackoverflow.com/q/13150343 |  |
@@ -100,6 +100,7 @@
 | `so.muouseo.com` | https://so.muouseo.com/qa/qnw6rlv4p6ok.html | https://stackoverflow.com/questions/68537601 |  |
 | `peaku.co` | https://peaku.co/questions/8041-how-to-deploy-nextjs-with-nginx | https://stackoverflow.com/questions/64386737 |  |
 | `solveforum.com` | https://solveforum.com/forums/threads/solved-authorization-error-error-400-redirect_uri_mismatch-on-c.650652/ | https://stackoverflow.com/questions/71420434 |  |
+| `www.solveforum.com` | https://www.solveforum.com/forums/threads/solved-authorization-error-error-400-redirect_uri_mismatch-on-c.650652/ | https://stackoverflow.com/questions/71420434 |  |
 | `www.edureka.co` | https://www.edureka.co/community/185077/sql-group-by-with-an-order-by | https://stackoverflow.com/questions/27983 |  |
 | `itecnote.com` | https://itecnote.com/tecnote/python-split-rows-in-pandas-dataframe/ | https://stackoverflow.com/questions/58523316 |  |
 | `tagsqa.com` | https://tagsqa.com/detail/46740 | https://stackoverflow.com/questions/3306627 |  |
