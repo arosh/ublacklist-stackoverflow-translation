@@ -410,13 +410,18 @@
 - domain: 'itecnotes.com'
   evidence: https://itecnotes.com/server/openvpn-needs-a-gateway-parameter-fo-a-route-option/
   original: https://serverfault.com/questions/806414/
-- domain: '*.codeflow.site'
-  evidence: https://qa.codeflow.site/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
-  original: https://stackoverflow.com/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
-  note: closed?
 - domain: 'www.javaer101.com'
   evidence: https://www.javaer101.com/ja/article/2084594.html
   original: https://stackoverflow.com/questions/35394937/
+- domain: 'www.debugcn.com'
+  evidence: https://www.debugcn.com/ja/article/106110221.html
+  original: https://stackoverflow.com/questions/14452824
+- domain: 'www.debugko.com'
+  evidence: https://www.debugko.com/article/25OdKAAOyMaK7Be9.html
+  original: https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892
+- domain: '*.codeflow.site'
+  evidence: https://qa.codeflow.site/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
+  original: https://stackoverflow.com/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics
   note: closed?
 - domain: 'www.nuomiphp.com'
   evidence: https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html
@@ -429,10 +434,6 @@
 - domain: 'ubuntuaa.com'
   evidence: https://ubuntuaa.com/ja/q/214411
   original: https://askubuntu.com/questions/940701
-  note: closed?
-- domain: 'www.debugcn.com'
-  evidence: https://www.debugcn.com/ja/article/106110221.html
-  original: https://stackoverflow.com/questions/14452824
   note: closed?
 - domain: '*.pakostnici.com'
   evidence: https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS
@@ -449,10 +450,6 @@
 - domain: 'cndgn.com'
   evidence: https://cndgn.com/question/superuser/599515/what-is-armtech-daemon
   original: https://superuser.com/questions/599515/what-is-armtech-daemon
-  note: closed?
-- domain: 'www.debugko.com'
-  evidence: https://www.debugko.com/article/25OdKAAOyMaK7Be9.html
-  original: https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892
   note: closed?
 - domain: 'string.quest'
   evidence: https://string.quest/read/3613655
