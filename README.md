@@ -1,6 +1,6 @@
 # uBlacklist Stack Overflow Translation
 
-（日本語版の説明が下半分にあります）
+（日本語版の説明が後半にあります）
 
 ## Synopsis
 
