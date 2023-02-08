@@ -523,3 +523,6 @@
   evidence: https://www.code2s.com/question/7525/mirror-image-on-x-axis-or-axis-origin-to-lower-left
   original: https://stackoverflow.com/questions/40014724/mirror-image-on-x-axis-or-axis-origin-to-lower-left
   note: closed?
+- domain: 'copyprogramming.com'
+  evidence: https://copyprogramming.com/howto/how-to-save-data-from-json-in-sqlite-in-android
+  original: https://stackoverflow.com/q/6563118
