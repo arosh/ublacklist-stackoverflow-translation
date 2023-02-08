@@ -165,3 +165,4 @@
 | `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 | closed? |
 | `*.ntcdoon.org` | https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI | https://stackoverflow.com/q/13195129 | closed? |
 | `*.code2s.com` | https://www.code2s.com/question/7525/mirror-image-on-x-axis-or-axis-origin-to-lower-left | https://stackoverflow.com/questions/40014724/mirror-image-on-x-axis-or-axis-origin-to-lower-left | closed? |
+| `copyprogramming.com` | https://copyprogramming.com/howto/how-to-save-data-from-json-in-sqlite-in-android | https://stackoverflow.com/q/6563118 |  |

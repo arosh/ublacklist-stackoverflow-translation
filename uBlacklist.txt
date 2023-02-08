@@ -161,3 +161,4 @@
 *://*.waymanamechurch.org/*
 *://*.ntcdoon.org/*
 *://*.code2s.com/*
+*://copyprogramming.com/*
