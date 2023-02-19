@@ -139,30 +139,5 @@
 | `www.javaer101.com` | https://www.javaer101.com/ja/article/2084594.html | https://stackoverflow.com/questions/35394937/ |  |
 | `www.debugcn.com` | https://www.debugcn.com/ja/article/106110221.html | https://stackoverflow.com/questions/14452824 |  |
 | `www.debugko.com` | https://www.debugko.com/article/25OdKAAOyMaK7Be9.html | https://stackoverflow.com/questions/49185275/aws-s3-sdk-how-do-i-set-thread-pool-size/49185892#49185892 |  |
-| `*.codeflow.site` | https://qa.codeflow.site/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics | https://stackoverflow.com/questions/270745/how-do-i-determine-all-of-my-ip-addresses-when-i-have-multiple-nics | closed? |
-| `www.nuomiphp.com` | https://www.nuomiphp.com/eplan/ja/5f44dfbbf150e113e731eac3.html | https://stackoverflow.com/questions/60451458 | closed? |
-| `ubuntu.buildwebhost.com` | https://ubuntu.buildwebhost.com/ja/q/214411 | https://askubuntu.com/questions/940701 | closed? |
-| `ubuntuaa.com` | https://ubuntuaa.com/ja/q/214411 | https://askubuntu.com/questions/940701 | closed? |
-| `*.pakostnici.com` | https://ja.pakostnici.com/227080-how-to-find-dev-name-KKGGDS | https://stackoverflow.com/questions/48291366 | closed? |
-| `*.athabasca-foto.com` | https://ja.athabasca-foto.com/139585-how-to-get-an-enum-GVEZVS | https://stackoverflow.com/questions/604424 | closed? |
-| `www.ghcc.net` | https://www.ghcc.net/en/node/2519947 | https://stackoverflow.com/questions/32581439/subparser-show-help-for-both-parser-and-subparser | closed? |
-| `cndgn.com` | https://cndgn.com/question/superuser/599515/what-is-armtech-daemon | https://superuser.com/questions/599515/what-is-armtech-daemon | closed? |
-| `string.quest` | https://string.quest/read/3613655 | https://stackoverflow.com/questions/16491039/maximum-query-length-to-avoid-epipe-error-in-node-js | closed? |
-| `qa.icopy.site` | https://qa.icopy.site/questions/44931728/openfiledialog-spy | https://stackoverflow.com/questions/44931728/openfiledialog-spy | closed? |
-| `devfixes.com` | https://devfixes.com/question/cron-job-that-does-git-fetch-is-it-thread-safe | https://stackoverflow.com/questions/73834509/cron-job-that-does-git-fetch-is-it-thread-safe | closed? |
-| `tagsqa.com` | https://tagsqa.com/detail/46740 | https://stackoverflow.com/questions/3306627 | closed? |
-| `www.faqcode4u.com` | https://www.faqcode4u.com/faq/206052/use-switch-case-in-mvc-view | https://stackoverflow.com/questions/21187981 | closed? |
-| `www.faqcodes.com` | https://www.faqcodes.com/faq/89709/getting-error-redirect-uri-mismatch-with-google-oauth2 | https://stackoverflow.com/questions/13204474 | closed? |
-| `wp-qa.com` | https://wp-qa.com/get-cart-item-name-quantity-all-details-woocommerce | https://stackoverflow.com/q/28576667/13765033 | closed? |
-| `dtuto.com` | https://dtuto.com/questions/4523/generics-error-with-forwardref-property-ref-does-not-exist-on-type-intrinsicattributes | https://stackoverflow.com/q/57750777/13765033 | closed? |
-| `issuecloser.com` | https://issuecloser.com/blog/why-component-scanning-does-not-work-for-spring-boot-unit-tests | https://stackoverflow.com/questions/48679637 | closed? |
-| `etsoutdoors.com` | https://etsoutdoors.com/648949-transition-translate-width-and-height-LQRQDC | https://stackoverflow.com/questions/45586256/transition-translate-width-and-height-at-same-time-in-safari | closed? |
-| `waldorf-am-see.org` | https://waldorf-am-see.org/660771-detect-if-visual-c-redistributable-MPPLFY | https://stackoverflow.com/questions/12206314/detect-if-visual-c-redistributable-for-visual-studio-2012-is-installed | closed? |
-| `qatop.pythonwood.com` | https://qatop.pythonwood.com/sf/ask/332133091/ | https://stackoverflow.com/questions/4744758/what-is-kernel-used-for-in-linux-kernel | closed? |
-| `codeutility.org` | https://codeutility.org/java-how-to-capture-a-list-of-specific-type-with-mockito-stack-overflow/ | https://stackoverflow.com/questions/5606541 | closed? |
-| `coder.gay` | https://coder.gay/59348 | https://stackoverflow.com/questions/21763822/ | closed? |
-| `www.thecodeteacher.com` | https://www.thecodeteacher.com/question/43577/git---How-can-I-accept-all-current-changes-in-VSCode-at-once | https://stackoverflow.com/questions/52288120 | closed? |
-| `*.waymanamechurch.org` | https://ja.waymanamechurch.org/591659-what-is-the-not-not-NXUFJG | https://stackoverflow.com/questions/784929 | closed? |
-| `*.ntcdoon.org` | https://ja.ntcdoon.org/569061-mysql-thread-concurrency-innodb-thread-GJWIPI | https://stackoverflow.com/q/13195129 | closed? |
-| `*.code2s.com` | https://www.code2s.com/question/7525/mirror-image-on-x-axis-or-axis-origin-to-lower-left | https://stackoverflow.com/questions/40014724/mirror-image-on-x-axis-or-axis-origin-to-lower-left | closed? |
+| `codeutility.org` | https://codeutility.org/2023/02/10/hadoop-error-1070-could-not-resolve-todate-using-imports-java-lang-org-apache-pig-builtin-org-apache-pig-impl-builtin-code-utility/ | https://stackoverflow.com/q/43490287 |  |
 | `copyprogramming.com` | https://copyprogramming.com/howto/how-to-save-data-from-json-in-sqlite-in-android | https://stackoverflow.com/q/6563118 |  |
