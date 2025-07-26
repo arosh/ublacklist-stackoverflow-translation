@@ -10,12 +10,24 @@ Provided filter can be subscribed by [uBlacklist](https://github.com/iorate/uBla
 
 ## Usage
 
-1. Install uBlacklist
+### Prerequisites
+
+Install uBlacklist
 
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
 - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
 
-2. Open the uBlacklist configuration page, and then click "Add a subscription"
+### Subscription instructions
+
+#### Easy
+
+If you have followed the instructions [here](https://github.com/iorate/ublacklist?tab=readme-ov-file#subscription-links) to enable ruleset subscription links, the below links should allow you to subscribe in uBlacklist:
+
+* [uBlacklist Stack Overflow Translation](https://ublacklist.github.io/rulesets/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2Farosh%2Fublacklist-stackoverflow-translation%2Fmaster%2FuBlacklist.txt&name=Filter%20that%20enables%20excluding%20the%20machine-translated%20sites%20of%20Stack%20Overflow)
+
+#### Advanced
+
+Open the uBlacklist configuration page, and then click "Add a subscription"
 
 <img src="img/options-en.png" width="50%">
 
